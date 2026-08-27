@@ -1,12 +1,2 @@
-$ErrorActionPreference = "Stop"
-$root = Split-Path $PSScriptRoot -Parent
-Set-Location $root
-python Tools/fetch_quests.py --locale frFR --workers 6 --interval 0.25
-if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
-python Tools/build_wordlist.py --locale frFR
-if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
-python Tools/translate_google.py --locale frFR --workers 4 --interval 0.25
-if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
-python Tools/build_dictionary_lua.py --locale frFR
-if ($LASTEXITCODE -ne 0) { exit $LASTEXITCODE }
-Write-Host "Dictionary-FR data complete"
+& "$PSScriptRoot/build_locale.ps1" -Locale frFR
+exit $LASTEXITCODE
