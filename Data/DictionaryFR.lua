@@ -1,4 +1,5 @@
 WordHunterWoW_Dictionary_FR = WordHunterWoW_Dictionary_FR or {}
+WordHunterWoW_Dictionary_FR["a"] = { word = "a", translation = "has", note = "avoir, 3rd person singular — il a = he has; not the preposition à" }
 WordHunterWoW_Dictionary_FR["a'dal"] = { word = "A'dal", translation = "A'dal", note = "" }
 WordHunterWoW_Dictionary_FR["a-allô"] = { word = "A-Allô", translation = "A-Hello", note = "" }
 WordHunterWoW_Dictionary_FR["a-mi"] = { word = "A-Mi", translation = "Friend", note = "" }
@@ -56915,6 +56916,7 @@ WordHunterWoW_Dictionary_FR["xy’vez"] = { word = "Xy’vez", translation = "Xy
 WordHunterWoW_Dictionary_FR["xy’vox"] = { word = "Xy’vox", translation = "Xy’vox", note = "" }
 WordHunterWoW_Dictionary_FR["xz"] = { word = "XZ", translation = "XZ", note = "" }
 WordHunterWoW_Dictionary_FR["xénédar"] = { word = "Xénédar", translation = "Xenedar", note = "" }
+WordHunterWoW_Dictionary_FR["y"] = { word = "y", translation = "there; to it", note = "pronoun standing in for à + noun; il y a = there is / there are" }
 WordHunterWoW_Dictionary_FR["y'a"] = { word = "Y'a", translation = "There is", note = "" }
 WordHunterWoW_Dictionary_FR["y'en"] = { word = "y'en", translation = "yen", note = "" }
 WordHunterWoW_Dictionary_FR["y-z-ont"] = { word = "y-z-ont", translation = "y-z-have", note = "" }
@@ -57386,6 +57388,7 @@ WordHunterWoW_Dictionary_FR["z’ont"] = { word = "z’ont", translation = "we h
 WordHunterWoW_Dictionary_FR["z’y"] = { word = "z’y", translation = "z’y", note = "" }
 WordHunterWoW_Dictionary_FR["z’étaient"] = { word = "z’étaient", translation = "they were", note = "" }
 WordHunterWoW_Dictionary_FR["z’êtes"] = { word = "Z’êtes", translation = "You are", note = "" }
+WordHunterWoW_Dictionary_FR["à"] = { word = "à", translation = "to; at; in", note = "preposition; contracts with le/les to au/aux" }
 WordHunterWoW_Dictionary_FR["ánima"] = { word = "ánima", translation = "anima", note = "" }
 WordHunterWoW_Dictionary_FR["árbol"] = { word = "árbol", translation = "tree", note = "" }
 WordHunterWoW_Dictionary_FR["âcre"] = { word = "âcre", translation = "acre", note = "" }
@@ -58612,6 +58615,7 @@ WordHunterWoW_Dictionary_FR["êtres"] = { word = "êtres", translation = "beings
 WordHunterWoW_Dictionary_FR["île"] = { word = "île", translation = "island", note = "" }
 WordHunterWoW_Dictionary_FR["îles"] = { word = "îles", translation = "islands", note = "" }
 WordHunterWoW_Dictionary_FR["îlot"] = { word = "îlot", translation = "island", note = "" }
+WordHunterWoW_Dictionary_FR["ô"] = { word = "Ô", translation = "O", note = "vocative particle used when addressing someone in elevated speech" }
 WordHunterWoW_Dictionary_FR["ôte"] = { word = "ôte", translation = "take off", note = "" }
 WordHunterWoW_Dictionary_FR["ôtent"] = { word = "ôtent", translation = "take away", note = "" }
 WordHunterWoW_Dictionary_FR["ôter"] = { word = "ôter", translation = "remove", note = "" }

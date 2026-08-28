@@ -1,8 +1,9 @@
 ## Interface: 120100
 ## Title: QuestWordHunter - French Dictionary
-## Notes: Optional French-English quest dictionary. Requires WordHunterWoW.
+## Notes: Optional French-English quest dictionary. Requires WordHunterWoW 1.6.0 or newer.
+## IconTexture: Interface\AddOns\WordHunterWoW-Dictionary-FR\icon
 ## Author: Ironship
-## Version: 0.1.0
+## Version: 1.0.0
 ## Dependencies: WordHunterWoW
 
 Data/DictionaryFR.lua

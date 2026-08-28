@@ -6,5 +6,7 @@ LOCALES = {
         "source": "fr",
         "variable": "WordHunterWoW_Dictionary_FR",
         "output": "DictionaryFR.lua",
+        "curated": "CuratedFR.jsonl",
+        "single_char_words": "àayô",
     },
 }
