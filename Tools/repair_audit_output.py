@@ -87,7 +87,12 @@ def main():
             if key not in src:
                 # The apostrophe, in either direction. Only accepted when the
                 # swap lands on a key this batch actually contains.
-                for cand in (key.replace(PLAIN, CURLY), key.replace(CURLY, PLAIN)):
+                # Case as well as the apostrophe: agents capitalise a key that
+                # begins a sentence in the context they just read. The keys are
+                # casefolded, so this is a mechanical restoration, not a guess.
+                folded = key.casefold()
+                for cand in (key.replace(PLAIN, CURLY), key.replace(CURLY, PLAIN),
+                             folded, folded.replace(PLAIN, CURLY), folded.replace(CURLY, PLAIN)):
                     if cand in src:
                         keys.append((key, cand))
                         row["key"] = cand
