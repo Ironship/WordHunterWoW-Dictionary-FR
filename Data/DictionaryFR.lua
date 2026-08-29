@@ -5115,8 +5115,8 @@ WordHunterWoW_Dictionary_FR["bottes-fusées"] = { word = "bottes-fusées", trans
 WordHunterWoW_Dictionary_FR["bottines"] = { word = "bottines", translation = "ankle boots", note = "" }
 WordHunterWoW_Dictionary_FR["bottzooka"] = { word = "Bottzooka", translation = "Bottzooka", note = "" }
 WordHunterWoW_Dictionary_FR["bouc"] = { word = "bouc", translation = "goat", note = "" }
-WordHunterWoW_Dictionary_FR["boucan"] = { word = "boucan", translation = "racket", note = "" }
-WordHunterWoW_Dictionary_FR["boucanier"] = { word = "boucanier", translation = "buccaneer", note = "" }
+WordHunterWoW_Dictionary_FR["boucan"] = { word = "boucan", translation = "racket", note = "loud noise; din or commotion" }
+WordHunterWoW_Dictionary_FR["boucanier"] = { word = "boucanier", translation = "buccaneer", note = "from boucan (smoked meat); a pirate" }
 WordHunterWoW_Dictionary_FR["boucaniers"] = { word = "boucaniers", translation = "buccaneers", note = "pirates; freebooters" }
 WordHunterWoW_Dictionary_FR["boucchantes"] = { word = "Boucchantes", translation = "Boucchantes", note = "" }
 WordHunterWoW_Dictionary_FR["bouche"] = { word = "bouche", translation = "mouth", note = "opening for eating and speaking" }
@@ -5155,18 +5155,18 @@ WordHunterWoW_Dictionary_FR["boudin"] = { word = "boudin", translation = "blood 
 WordHunterWoW_Dictionary_FR["boudins"] = { word = "boudins", translation = "blood sausages", note = "" }
 WordHunterWoW_Dictionary_FR["boudinés"] = { word = "boudinés", translation = "boudinés", note = "" }
 WordHunterWoW_Dictionary_FR["boue"] = { word = "boue", translation = "mud", note = "wet earth; swampy ground" }
-WordHunterWoW_Dictionary_FR["boues"] = { word = "boues", translation = "sludge", note = "" }
+WordHunterWoW_Dictionary_FR["boues"] = { word = "boues", translation = "sludge", note = "mud or wet earth" }
 WordHunterWoW_Dictionary_FR["boueuse"] = { word = "boueuse", translation = "muddy", note = "" }
 WordHunterWoW_Dictionary_FR["boueuses"] = { word = "boueuses", translation = "muddy", note = "muddy; muddy footprints leading back toward a location" }
 WordHunterWoW_Dictionary_FR["boueux"] = { word = "boueux", translation = "muddy; swampy", note = "covered with mud or marshy terrain" }
 WordHunterWoW_Dictionary_FR["bouffant"] = { word = "bouffant", translation = "bouffant", note = "" }
 WordHunterWoW_Dictionary_FR["bouffe"] = { word = "bouffe", translation = "chow; grub", note = "slang for food; from bouffer (to stuff oneself)" }
-WordHunterWoW_Dictionary_FR["bouffent"] = { word = "bouffent", translation = "puff", note = "" }
-WordHunterWoW_Dictionary_FR["bouffer"] = { word = "bouffer", translation = "eat", note = "" }
+WordHunterWoW_Dictionary_FR["bouffent"] = { word = "bouffent", translation = "eat", note = "colloquial for eat" }
+WordHunterWoW_Dictionary_FR["bouffer"] = { word = "bouffer", translation = "eat", note = "colloquial for eat; to devour" }
 WordHunterWoW_Dictionary_FR["boufferie"] = { word = "boufferie", translation = "puffery", note = "" }
 WordHunterWoW_Dictionary_FR["bouffi"] = { word = "bouffi", translation = "puffy", note = "" }
 WordHunterWoW_Dictionary_FR["boufflante"] = { word = "boufflante", translation = "puffy", note = "" }
-WordHunterWoW_Dictionary_FR["bouffon"] = { word = "bouffon", translation = "jester", note = "" }
+WordHunterWoW_Dictionary_FR["bouffon"] = { word = "bouffon", translation = "clown; jester", note = "buffoon or jester" }
 WordHunterWoW_Dictionary_FR["bouffonneries"] = { word = "bouffonneries", translation = "antics", note = "" }
 WordHunterWoW_Dictionary_FR["bouffons"] = { word = "bouffons", translation = "jesters", note = "" }
 WordHunterWoW_Dictionary_FR["bouffée"] = { word = "bouffée", translation = "puff", note = "puff or gust; a puff of fresh air" }
@@ -5180,7 +5180,7 @@ WordHunterWoW_Dictionary_FR["bougeoirs"] = { word = "bougeoirs", translation = "
 WordHunterWoW_Dictionary_FR["bougeons"] = { word = "bougeons", translation = "let's move", note = "" }
 WordHunterWoW_Dictionary_FR["bougeotte"] = { word = "bougeotte", translation = "fidget", note = "" }
 WordHunterWoW_Dictionary_FR["bouger"] = { word = "bouger", translation = "move", note = "to change position" }
-WordHunterWoW_Dictionary_FR["bougerai"] = { word = "bougerai", translation = "will move", note = "" }
+WordHunterWoW_Dictionary_FR["bougerai"] = { word = "bougerai", translation = "will move", note = "future of bouger" }
 WordHunterWoW_Dictionary_FR["bougez"] = { word = "bougez", translation = "move", note = "imperative plural of bouger; change position" }
 WordHunterWoW_Dictionary_FR["bougez-vous"] = { word = "bougez-vous", translation = "get moving", note = "reflexive imperative; hurry up" }
 WordHunterWoW_Dictionary_FR["bougie"] = { word = "bougie", translation = "candle", note = "light source; sparkplug in French" }
@@ -5190,7 +5190,7 @@ WordHunterWoW_Dictionary_FR["bougres"] = { word = "bougres", translation = "bugg
 WordHunterWoW_Dictionary_FR["bougresse"] = { word = "bougresse", translation = "bugger", note = "" }
 WordHunterWoW_Dictionary_FR["bougé"] = { word = "bougé", translation = "moved", note = "past participle of bouger; changed position" }
 WordHunterWoW_Dictionary_FR["bouillant"] = { word = "bouillant", translation = "boiling", note = "" }
-WordHunterWoW_Dictionary_FR["bouillante"] = { word = "bouillante", translation = "boiling", note = "" }
+WordHunterWoW_Dictionary_FR["bouillante"] = { word = "bouillante", translation = "boiling", note = "hot; from bouillir" }
 WordHunterWoW_Dictionary_FR["bouillegrume"] = { word = "Bouillegrume", translation = "Bouillegrume", note = "" }
 WordHunterWoW_Dictionary_FR["bouilli"] = { word = "bouilli", translation = "boiled", note = "past participle of bouillir (to boil); the blood has been boiled clean" }
 WordHunterWoW_Dictionary_FR["bouillie"] = { word = "bouillie", translation = "porridge", note = "mush; soft cooked grain" }
@@ -5205,7 +5205,7 @@ WordHunterWoW_Dictionary_FR["bouillonnants"] = { word = "bouillonnants", transla
 WordHunterWoW_Dictionary_FR["bouillonne"] = { word = "bouillonne", translation = "seethes; surges", note = "life seethes or bubbles up; not merely bubbles" }
 WordHunterWoW_Dictionary_FR["bouillonnement"] = { word = "bouillonnement", translation = "bubbling", note = "" }
 WordHunterWoW_Dictionary_FR["bouillonnements"] = { word = "bouillonnements", translation = "bubbling", note = "" }
-WordHunterWoW_Dictionary_FR["bouillonnent"] = { word = "bouillonnent", translation = "bubble", note = "" }
+WordHunterWoW_Dictionary_FR["bouillonnent"] = { word = "bouillonnent", translation = "bubble; boil", note = "to foam or bubble" }
 WordHunterWoW_Dictionary_FR["bouillonner"] = { word = "bouillonner", translation = "boil", note = "to boil or bubble; the lake boils as the idol awakens" }
 WordHunterWoW_Dictionary_FR["bouillottes"] = { word = "bouillottes", translation = "hot water bottles", note = "" }
 WordHunterWoW_Dictionary_FR["boulaie"] = { word = "Boulaie", translation = "Birch", note = "" }
@@ -5216,9 +5216,9 @@ WordHunterWoW_Dictionary_FR["boules"] = { word = "boules", translation = "balls;
 WordHunterWoW_Dictionary_FR["boulet"] = { word = "boulet", translation = "cannonball", note = "projectile fired from cannon" }
 WordHunterWoW_Dictionary_FR["boulets"] = { word = "boulets", translation = "cannonballs", note = "projectiles for cannons; solid iron spheres for artillery" }
 WordHunterWoW_Dictionary_FR["boulette"] = { word = "Boulette", translation = "pellet", note = "small ball; also meatball or blunder in slang" }
-WordHunterWoW_Dictionary_FR["boulettes"] = { word = "boulettes", translation = "dumplings", note = "" }
+WordHunterWoW_Dictionary_FR["boulettes"] = { word = "boulettes", translation = "dumplings", note = "little balls; meatballs" }
 WordHunterWoW_Dictionary_FR["boulevard"] = { word = "boulevard", translation = "boulevard", note = "" }
-WordHunterWoW_Dictionary_FR["bouleversant"] = { word = "bouleversant", translation = "upsetting", note = "" }
+WordHunterWoW_Dictionary_FR["bouleversant"] = { word = "bouleversant", translation = "upsetting", note = "from bouleverser" }
 WordHunterWoW_Dictionary_FR["bouleverse"] = { word = "bouleverse", translation = "upset", note = "" }
 WordHunterWoW_Dictionary_FR["bouleversement"] = { word = "bouleversement", translation = "upheaval; turmoil", note = "great disruption" }
 WordHunterWoW_Dictionary_FR["bouleversements"] = { word = "bouleversements", translation = "upheavals", note = "upheavals or disruptions; upheavals in the ancient city" }
@@ -5275,7 +5275,7 @@ WordHunterWoW_Dictionary_FR["bourdonnant"] = { word = "bourdonnant", translation
 WordHunterWoW_Dictionary_FR["bourdonne"] = { word = "bourdonne", translation = "hums; buzzes; drones", note = "machine makes a low sound" }
 WordHunterWoW_Dictionary_FR["bourdonnement"] = { word = "bourdonnement", translation = "buzzing", note = "humming; from bourdonner" }
 WordHunterWoW_Dictionary_FR["bourdonnent"] = { word = "bourdonnent", translation = "buzz", note = "" }
-WordHunterWoW_Dictionary_FR["bourdonner"] = { word = "bourdonner", translation = "buzz", note = "" }
+WordHunterWoW_Dictionary_FR["bourdonner"] = { word = "bourdonner", translation = "buzz", note = "to hum or buzz; rumble" }
 WordHunterWoW_Dictionary_FR["bourdons"] = { word = "bourdons", translation = "supply drones", note = "bourdons (drones/bumblebees); supply drones lost in battle" }
 WordHunterWoW_Dictionary_FR["bourg"] = { word = "bourg", translation = "town", note = "" }
 WordHunterWoW_Dictionary_FR["bourgelins"] = { word = "bourgelins", translation = "bourgelins", note = "" }
@@ -5293,7 +5293,7 @@ WordHunterWoW_Dictionary_FR["bourrasques"] = { word = "Bourrasques", translation
 WordHunterWoW_Dictionary_FR["bourre"] = { word = "bourre", translation = "wad", note = "" }
 WordHunterWoW_Dictionary_FR["bourreau"] = { word = "bourreau", translation = "executioner", note = "carries out executions" }
 WordHunterWoW_Dictionary_FR["bourreau-de-boum"] = { word = "bourreau-de-Boum", translation = "executioner-of-Boom", note = "" }
-WordHunterWoW_Dictionary_FR["bourreaux"] = { word = "bourreaux", translation = "executioners", note = "" }
+WordHunterWoW_Dictionary_FR["bourreaux"] = { word = "bourreaux", translation = "executioners", note = "those who carry out sentences" }
 WordHunterWoW_Dictionary_FR["bourrique"] = { word = "bourrique", translation = "donkey", note = "" }
 WordHunterWoW_Dictionary_FR["bourru"] = { word = "bourru", translation = "gruff", note = "" }
 WordHunterWoW_Dictionary_FR["bourré"] = { word = "bourré", translation = "stuffed", note = "stuffed or packed; zeppelin stuffed with hail elementals" }
@@ -5301,15 +5301,15 @@ WordHunterWoW_Dictionary_FR["bourrées"] = { word = "bourrées", translation = "
 WordHunterWoW_Dictionary_FR["bourrés"] = { word = "bourrés", translation = "drunk", note = "" }
 WordHunterWoW_Dictionary_FR["bourse"] = { word = "bourse", translation = "stock exchange", note = "" }
 WordHunterWoW_Dictionary_FR["bourses"] = { word = "bourses", translation = "purses; pouches", note = "money bags; can also mean scholarships" }
-WordHunterWoW_Dictionary_FR["boursouflée"] = { word = "boursouflée", translation = "blistered", note = "" }
+WordHunterWoW_Dictionary_FR["boursouflée"] = { word = "boursouflée", translation = "bloated; swollen", note = "grotesquely swollen" }
 WordHunterWoW_Dictionary_FR["boursouflées"] = { word = "boursouflées", translation = "blistered; swollen", note = "past participle feminine of boursouler; puffed up" }
 WordHunterWoW_Dictionary_FR["bourée"] = { word = "bourée", translation = "bourea", note = "" }
 WordHunterWoW_Dictionary_FR["bousculade"] = { word = "bousculade", translation = "hustle", note = "" }
 WordHunterWoW_Dictionary_FR["bouscule"] = { word = "bouscule", translation = "pushes", note = "" }
-WordHunterWoW_Dictionary_FR["bousculent"] = { word = "bousculent", translation = "jostle", note = "" }
+WordHunterWoW_Dictionary_FR["bousculent"] = { word = "bousculent", translation = "jostle", note = "to shove or push; crowd" }
 WordHunterWoW_Dictionary_FR["bousculer"] = { word = "bousculer", translation = "jostle; push", note = "to shove aside" }
 WordHunterWoW_Dictionary_FR["bousculez"] = { word = "bousculez", translation = "hustle", note = "" }
-WordHunterWoW_Dictionary_FR["bouse-de-dragon"] = { word = "Bouse-de-Dragon", translation = "Dragon Dung", note = "" }
+WordHunterWoW_Dictionary_FR["bouse-de-dragon"] = { word = "Bouse-de-Dragon", translation = "Dragon Dung", note = "literally dragon dung" }
 WordHunterWoW_Dictionary_FR["bousiers"] = { word = "bousiers", translation = "dung beetles", note = "" }
 WordHunterWoW_Dictionary_FR["bousillant"] = { word = "bousillant", translation = "screwing up", note = "" }
 WordHunterWoW_Dictionary_FR["bousille"] = { word = "bousille", translation = "bousille", note = "" }
@@ -5411,7 +5411,7 @@ WordHunterWoW_Dictionary_FR["branchet"] = { word = "Branchet", translation = "Br
 WordHunterWoW_Dictionary_FR["branchez"] = { word = "branchez", translation = "plug in", note = "" }
 WordHunterWoW_Dictionary_FR["branchie"] = { word = "branchie", translation = "gill", note = "" }
 WordHunterWoW_Dictionary_FR["branchie-bistre"] = { word = "branchie-bistre", translation = "gill-bistre", note = "murloc type name; branchie (gill) + bistre (brownish color)" }
-WordHunterWoW_Dictionary_FR["branchies"] = { word = "branchies", translation = "gills", note = "" }
+WordHunterWoW_Dictionary_FR["branchies"] = { word = "branchies", translation = "gills", note = "respiratory organs of fish" }
 WordHunterWoW_Dictionary_FR["branchies-bleues"] = { word = "Branchies-bleues", translation = "Bluegills", note = "" }
 WordHunterWoW_Dictionary_FR["branchies-d'encre"] = { word = "Branchies-d'encre", translation = "Inkgills", note = "branchies (gills) + encre (ink); faction or race" }
 WordHunterWoW_Dictionary_FR["branchouille"] = { word = "Branchouille", translation = "Branchouille", note = "" }
@@ -5426,14 +5426,14 @@ WordHunterWoW_Dictionary_FR["brandir"] = { word = "brandir", translation = "bran
 WordHunterWoW_Dictionary_FR["brandira"] = { word = "brandira", translation = "brandira", note = "" }
 WordHunterWoW_Dictionary_FR["brandissait"] = { word = "brandissait", translation = "brandished", note = "" }
 WordHunterWoW_Dictionary_FR["brandissant"] = { word = "brandissant", translation = "brandishing", note = "" }
-WordHunterWoW_Dictionary_FR["brandissez"] = { word = "Brandissez", translation = "Brandish", note = "" }
+WordHunterWoW_Dictionary_FR["brandissez"] = { word = "Brandissez", translation = "brandish", note = "to wield or raise" }
 WordHunterWoW_Dictionary_FR["brandissez-le"] = { word = "Brandissez-le", translation = "Brandish it", note = "" }
 WordHunterWoW_Dictionary_FR["brandissiez"] = { word = "brandissiez", translation = "brandish", note = "" }
 WordHunterWoW_Dictionary_FR["brandit"] = { word = "brandit", translation = "brandish", note = "he brandishes or wields a hammer" }
 WordHunterWoW_Dictionary_FR["brandolf"] = { word = "Brandolf", translation = "Brandolf", note = "" }
 WordHunterWoW_Dictionary_FR["brandon"] = { word = "Brandon", translation = "Brandon", note = "NPC name; personal name" }
 WordHunterWoW_Dictionary_FR["branlant"] = { word = "branlant", translation = "wanking", note = "" }
-WordHunterWoW_Dictionary_FR["branlante"] = { word = "branlante", translation = "rickety", note = "" }
+WordHunterWoW_Dictionary_FR["branlante"] = { word = "branlante", translation = "rickety; wobbly", note = "shaky or unsteady" }
 WordHunterWoW_Dictionary_FR["branlants"] = { word = "branlants", translation = "rickety", note = "" }
 WordHunterWoW_Dictionary_FR["branle"] = { word = "branle", translation = "jerk off", note = "" }
 WordHunterWoW_Dictionary_FR["branle-bas"] = { word = "Branle-bas", translation = "Wank", note = "" }
@@ -5446,7 +5446,7 @@ WordHunterWoW_Dictionary_FR["braque"] = { word = "braque", translation = "pointe
 WordHunterWoW_Dictionary_FR["braquer"] = { word = "braquer", translation = "rob", note = "" }
 WordHunterWoW_Dictionary_FR["braqueur"] = { word = "braqueur", translation = "robber", note = "" }
 WordHunterWoW_Dictionary_FR["braqué"] = { word = "braqué", translation = "fixed", note = "fixed or aimed; Antorus's gaze fixed on us (not robbed)" }
-WordHunterWoW_Dictionary_FR["braquée"] = { word = "braquée", translation = "pointed", note = "" }
+WordHunterWoW_Dictionary_FR["braquée"] = { word = "braquée", translation = "aimed; directed", note = "from braquer (aim)" }
 WordHunterWoW_Dictionary_FR["braquées"] = { word = "braquées", translation = "held up", note = "" }
 WordHunterWoW_Dictionary_FR["braqués"] = { word = "braqués", translation = "fixed", note = "fixed or aimed; old lances fixed on us (not robbed)" }
 WordHunterWoW_Dictionary_FR["bras"] = { word = "bras", translation = "arm", note = "limb; à bras le corps = with all one's might" }
@@ -5460,7 +5460,7 @@ WordHunterWoW_Dictionary_FR["braselaube"] = { word = "Braselaube", translation =
 WordHunterWoW_Dictionary_FR["brasero"] = { word = "brasero", translation = "brazier", note = "brazier; a container for burning coals" }
 WordHunterWoW_Dictionary_FR["braseros"] = { word = "braseros", translation = "braziers", note = "" }
 WordHunterWoW_Dictionary_FR["brasier"] = { word = "Brasier", translation = "Brazier", note = "brazier; burning fire" }
-WordHunterWoW_Dictionary_FR["brasiers"] = { word = "brasiers", translation = "braziers", note = "" }
+WordHunterWoW_Dictionary_FR["brasiers"] = { word = "brasiers", translation = "braziers", note = "containers for hot coals" }
 WordHunterWoW_Dictionary_FR["brassage"] = { word = "brassage", translation = "brewing", note = "making beer; brasserie = brewery" }
 WordHunterWoW_Dictionary_FR["brassards"] = { word = "brassards", translation = "armbands", note = "protective sleeves or badges" }
 WordHunterWoW_Dictionary_FR["brasse"] = { word = "brasse", translation = "breaststroke", note = "" }
@@ -5473,7 +5473,7 @@ WordHunterWoW_Dictionary_FR["brasselorge"] = { word = "Brasselorge", translation
 WordHunterWoW_Dictionary_FR["brasselune"] = { word = "Brasselune", translation = "Brasselune", note = "" }
 WordHunterWoW_Dictionary_FR["brassemiel"] = { word = "Brassemiel", translation = "Brassemiel", note = "" }
 WordHunterWoW_Dictionary_FR["brassenoire"] = { word = "Brassenoire", translation = "Brassenoire", note = "proper noun location; brass (dark) + noir (black)" }
-WordHunterWoW_Dictionary_FR["brassent"] = { word = "brassent", translation = "brew", note = "" }
+WordHunterWoW_Dictionary_FR["brassent"] = { word = "brassent", translation = "brew", note = "to make beer or beverages" }
 WordHunterWoW_Dictionary_FR["brasser"] = { word = "brasser", translation = "brew", note = "make beer; stir" }
 WordHunterWoW_Dictionary_FR["brasserie"] = { word = "brasserie", translation = "brewery", note = "brewery or beer hall" }
 WordHunterWoW_Dictionary_FR["brasses"] = { word = "brasses", translation = "fathoms", note = "" }
@@ -5481,11 +5481,11 @@ WordHunterWoW_Dictionary_FR["brassetempête"] = { word = "Brassetempête", trans
 WordHunterWoW_Dictionary_FR["brassetout"] = { word = "Brassetout", translation = "Brassetout", note = "" }
 WordHunterWoW_Dictionary_FR["brasseur"] = { word = "brasseur", translation = "brewer", note = "brasseur: beer maker" }
 WordHunterWoW_Dictionary_FR["brasseurs"] = { word = "Brasseurs", translation = "brewers", note = "those who brew beer; plural masculine" }
-WordHunterWoW_Dictionary_FR["brasseuse"] = { word = "brasseuse", translation = "brewer", note = "" }
+WordHunterWoW_Dictionary_FR["brasseuse"] = { word = "brasseuse", translation = "brewer", note = "female brewer" }
 WordHunterWoW_Dictionary_FR["brassin"] = { word = "brassin", translation = "brew", note = "a batch of beer; the perfect brown ale brew" }
 WordHunterWoW_Dictionary_FR["brassé"] = { word = "brassé", translation = "brewed", note = "" }
 WordHunterWoW_Dictionary_FR["brassée"] = { word = "brassée", translation = "brewed", note = "past participle of brasser" }
-WordHunterWoW_Dictionary_FR["brassées"] = { word = "brassées", translation = "brewed", note = "" }
+WordHunterWoW_Dictionary_FR["brassées"] = { word = "brassées", translation = "armfuls", note = "plural of brassée" }
 WordHunterWoW_Dictionary_FR["braunpique"] = { word = "Braunpique", translation = "Braunpique", note = "" }
 WordHunterWoW_Dictionary_FR["bravache"] = { word = "bravache", translation = "bravache", note = "" }
 WordHunterWoW_Dictionary_FR["bravaches"] = { word = "bravaches", translation = "bravaches", note = "" }
@@ -5496,7 +5496,7 @@ WordHunterWoW_Dictionary_FR["braver"] = { word = "braver", translation = "brave"
 WordHunterWoW_Dictionary_FR["braverez"] = { word = "braverez", translation = "brave", note = "" }
 WordHunterWoW_Dictionary_FR["braves"] = { word = "braves", translation = "brave; courageous", note = "adjective describing courage; can also mean worthy or fine" }
 WordHunterWoW_Dictionary_FR["braves-guerriers"] = { word = "braves-guerriers", translation = "brave warriors", note = "descriptor; honorable fighters" }
-WordHunterWoW_Dictionary_FR["bravez"] = { word = "Bravez", translation = "Brave", note = "" }
+WordHunterWoW_Dictionary_FR["bravez"] = { word = "Bravez", translation = "defy", note = "to challenge boldly" }
 WordHunterWoW_Dictionary_FR["bravo"] = { word = "Bravo", translation = "bravo; well done", note = "exclamation of approval; can stay as bravo or translate to well done" }
 WordHunterWoW_Dictionary_FR["bravons"] = { word = "bravons", translation = "let's brave", note = "" }
 WordHunterWoW_Dictionary_FR["bravorton"] = { word = "Bravorton", translation = "Bravorton", note = "NPC name" }
@@ -5510,7 +5510,7 @@ WordHunterWoW_Dictionary_FR["brazo"] = { word = "brazo", translation = "brazo", 
 WordHunterWoW_Dictionary_FR["breadcrumb"] = { word = "breadcrumb", translation = "breadcrumb", note = "" }
 WordHunterWoW_Dictionary_FR["breanni"] = { word = "Breanni", translation = "Breanni", note = "" }
 WordHunterWoW_Dictionary_FR["brebis"] = { word = "Brebis", translation = "Sheep", note = "" }
-WordHunterWoW_Dictionary_FR["bredouille"] = { word = "bredouille", translation = "empty-handed", note = "" }
+WordHunterWoW_Dictionary_FR["bredouille"] = { word = "bredouille", translation = "empty-handed", note = "returning without success" }
 WordHunterWoW_Dictionary_FR["bredouilles"] = { word = "bredouilles", translation = "empty-handed", note = "" }
 WordHunterWoW_Dictionary_FR["bree"] = { word = "Bree", translation = "Bree", note = "" }
 WordHunterWoW_Dictionary_FR["bref"] = { word = "bref", translation = "brief; in short", note = "short in duration; also starts a sentence meaning in summary" }
@@ -5535,7 +5535,7 @@ WordHunterWoW_Dictionary_FR["breveté"] = { word = "breveté", translation = "pa
 WordHunterWoW_Dictionary_FR["brevetée"] = { word = "brevetée", translation = "patented", note = "" }
 WordHunterWoW_Dictionary_FR["brewfest"] = { word = "Brewfest", translation = "Brewfest", note = "WoW event; beer festival" }
 WordHunterWoW_Dictionary_FR["briand"] = { word = "Briand", translation = "Briand", note = "" }
-WordHunterWoW_Dictionary_FR["bribe"] = { word = "bribe", translation = "snatch", note = "" }
+WordHunterWoW_Dictionary_FR["bribe"] = { word = "bribe", translation = "fragment; scrap", note = "a small piece" }
 WordHunterWoW_Dictionary_FR["bribes"] = { word = "bribes", translation = "scraps", note = "scraps or fragments; small pieces" }
 WordHunterWoW_Dictionary_FR["bric"] = { word = "bric", translation = "bric", note = "" }
 WordHunterWoW_Dictionary_FR["bric-à-brac"] = { word = "bric-à-brac", translation = "bric-a-brac", note = "miscellaneous items or junk" }
@@ -5560,7 +5560,7 @@ WordHunterWoW_Dictionary_FR["briefings"] = { word = "briefings", translation = "
 WordHunterWoW_Dictionary_FR["brielle"] = { word = "Brielle", translation = "Brielle", note = "" }
 WordHunterWoW_Dictionary_FR["brienna"] = { word = "Brienna", translation = "Brianna", note = "" }
 WordHunterWoW_Dictionary_FR["brigade"] = { word = "brigade", translation = "brigade", note = "" }
-WordHunterWoW_Dictionary_FR["brigades"] = { word = "brigades", translation = "brigades", note = "" }
+WordHunterWoW_Dictionary_FR["brigades"] = { word = "brigades", translation = "brigades", note = "military units; organized groups" }
 WordHunterWoW_Dictionary_FR["brigand"] = { word = "brigand", translation = "brigand", note = "" }
 WordHunterWoW_Dictionary_FR["brigandage"] = { word = "brigandage", translation = "banditry", note = "" }
 WordHunterWoW_Dictionary_FR["brigands"] = { word = "brigands", translation = "bandits", note = "robbers; outlaws" }
@@ -5570,10 +5570,10 @@ WordHunterWoW_Dictionary_FR["brikabrok"] = { word = "Brikabrok", translation = "
 WordHunterWoW_Dictionary_FR["brill"] = { word = "Brill", translation = "Brill", note = "proper noun; location or NPC name" }
 WordHunterWoW_Dictionary_FR["brillait"] = { word = "brillait", translation = "shone", note = "" }
 WordHunterWoW_Dictionary_FR["brillamment"] = { word = "brillamment", translation = "brilliantly", note = "" }
-WordHunterWoW_Dictionary_FR["brillance"] = { word = "brillance", translation = "shine", note = "" }
+WordHunterWoW_Dictionary_FR["brillance"] = { word = "brillance", translation = "brilliance; shine", note = "brightness or luster" }
 WordHunterWoW_Dictionary_FR["brillant"] = { word = "brillant", translation = "brilliant", note = "shining or clever; not simply bright" }
 WordHunterWoW_Dictionary_FR["brillante"] = { word = "brillante", translation = "brilliant", note = "brilliant or shining; bright (feminine)" }
-WordHunterWoW_Dictionary_FR["brillantes"] = { word = "brillantes", translation = "shiny", note = "" }
+WordHunterWoW_Dictionary_FR["brillantes"] = { word = "brillantes", translation = "brilliant; bright", note = "shining or promising" }
 WordHunterWoW_Dictionary_FR["brillants"] = { word = "brillants", translation = "brilliant", note = "gleaming; shining brightly; sparkling; bright colors" }
 WordHunterWoW_Dictionary_FR["brillaube"] = { word = "Brillaube", translation = "Brillaube", note = "NPC name or title" }
 WordHunterWoW_Dictionary_FR["brille"] = { word = "brille", translation = "shines; gleams", note = "3rd person singular; glows or sparkles" }
@@ -5608,7 +5608,7 @@ WordHunterWoW_Dictionary_FR["briquez-le-moi"] = { word = "briquez-le-moi", trans
 WordHunterWoW_Dictionary_FR["brisait"] = { word = "brisait", translation = "broke", note = "" }
 WordHunterWoW_Dictionary_FR["brisant"] = { word = "brisant", translation = "breaking; crashing", note = "waves breaking or crashing on shore" }
 WordHunterWoW_Dictionary_FR["brisants"] = { word = "brisants", translation = "breakers", note = "" }
-WordHunterWoW_Dictionary_FR["briscard"] = { word = "briscard", translation = "briscard", note = "" }
+WordHunterWoW_Dictionary_FR["briscard"] = { word = "briscard", translation = "briscard", note = "a veteran soldier" }
 WordHunterWoW_Dictionary_FR["brise"] = { word = "brise", translation = "breeze", note = "light wind" }
 WordHunterWoW_Dictionary_FR["brise-aiguillon"] = { word = "Brise-aiguillon", translation = "Sting breaker", note = "" }
 WordHunterWoW_Dictionary_FR["brise-aube"] = { word = "Brise-Aube", translation = "Dawnbreaker", note = "brise (breaks) + aube (dawn); official WoW location name" }
@@ -5630,10 +5630,10 @@ WordHunterWoW_Dictionary_FR["brise-pierres"] = { word = "Brise-Pierres", transla
 WordHunterWoW_Dictionary_FR["brise-protection"] = { word = "brise-protection", translation = "protection breaker", note = "brise (breaks) + protection; magical disabler" }
 WordHunterWoW_Dictionary_FR["brise-quartier"] = { word = "brise-quartier", translation = "neighborhood breaker", note = "" }
 WordHunterWoW_Dictionary_FR["brise-récifs"] = { word = "Brise-récifs", translation = "Reef breakers", note = "" }
-WordHunterWoW_Dictionary_FR["brise-soleil"] = { word = "Brise-Soleil", translation = "Sunshade", note = "" }
+WordHunterWoW_Dictionary_FR["brise-soleil"] = { word = "Brise-Soleil", translation = "Sunshade", note = "literally sun-breaker" }
 WordHunterWoW_Dictionary_FR["brise-sort"] = { word = "brise-sort", translation = "spell breaker", note = "brise (breaks) + sort (spell); magic nullifier" }
 WordHunterWoW_Dictionary_FR["brise-stellaire"] = { word = "Brise-Stellaire", translation = "Starbreaker", note = "official WoW name" }
-WordHunterWoW_Dictionary_FR["brise-tempête"] = { word = "Brise-tempête", translation = "Stormbreaker", note = "" }
+WordHunterWoW_Dictionary_FR["brise-tempête"] = { word = "Brise-tempête", translation = "Stormbreaker", note = "literally storm-breaker" }
 WordHunterWoW_Dictionary_FR["brise-terre"] = { word = "Brise-Terre", translation = "Earthbreaker", note = "" }
 WordHunterWoW_Dictionary_FR["brise-tombe"] = { word = "Brise-Tombe", translation = "Gravebreaker", note = "" }
 WordHunterWoW_Dictionary_FR["brise-trolls"] = { word = "brise-trolls", translation = "troll breaker", note = "" }
@@ -5647,14 +5647,14 @@ WordHunterWoW_Dictionary_FR["briselance"] = { word = "Briselance", translation =
 WordHunterWoW_Dictionary_FR["briselances"] = { word = "Briselances", translation = "Breakspears", note = "proper name; spear-breakers" }
 WordHunterWoW_Dictionary_FR["brisemasse"] = { word = "Brisemasse", translation = "Brisemasse", note = "WoW arena or location name" }
 WordHunterWoW_Dictionary_FR["brisent"] = { word = "brisent", translation = "break", note = "third person plural; their tools break on roots" }
-WordHunterWoW_Dictionary_FR["brisenuée"] = { word = "Brisenuée", translation = "Brokenue", note = "" }
+WordHunterWoW_Dictionary_FR["brisenuée"] = { word = "Brisenuée", translation = "Cloudbreaker", note = "literally cloud-breaker" }
 WordHunterWoW_Dictionary_FR["brisepierre"] = { word = "brisepierre", translation = "stonebreaker", note = "" }
 WordHunterWoW_Dictionary_FR["brisepoing"] = { word = "brisepoing", translation = "fist breaker", note = "" }
 WordHunterWoW_Dictionary_FR["briser"] = { word = "briser", translation = "break", note = "to break, shatter, or fracture" }
 WordHunterWoW_Dictionary_FR["brisera"] = { word = "brisera", translation = "will break", note = "future tense of briser" }
 WordHunterWoW_Dictionary_FR["briserai"] = { word = "briserai", translation = "will break", note = "" }
-WordHunterWoW_Dictionary_FR["briserait"] = { word = "briserait", translation = "would break", note = "" }
-WordHunterWoW_Dictionary_FR["briserons"] = { word = "briserons", translation = "will break", note = "" }
+WordHunterWoW_Dictionary_FR["briserait"] = { word = "briserait", translation = "would break", note = "conditional of briser" }
+WordHunterWoW_Dictionary_FR["briserons"] = { word = "briserons", translation = "will break", note = "future of briser" }
 WordHunterWoW_Dictionary_FR["briseront"] = { word = "briseront", translation = "will break", note = "future tense of briser; future destruction" }
 WordHunterWoW_Dictionary_FR["brises"] = { word = "brises", translation = "breezes", note = "" }
 WordHunterWoW_Dictionary_FR["brisespoir"] = { word = "brisespoir", translation = "break hope", note = "" }
@@ -5679,20 +5679,20 @@ WordHunterWoW_Dictionary_FR["brizpignon"] = { word = "Brizpignon", translation =
 WordHunterWoW_Dictionary_FR["brièvement"] = { word = "brièvement", translation = "briefly", note = "in a short time; concisely or shortly" }
 WordHunterWoW_Dictionary_FR["broc"] = { word = "broc", translation = "pitcher", note = "" }
 WordHunterWoW_Dictionary_FR["broche"] = { word = "broche", translation = "pin", note = "a brooch or pin; jewelry or fastener" }
-WordHunterWoW_Dictionary_FR["broche-tripes"] = { word = "broche-tripes", translation = "gut pin", note = "" }
+WordHunterWoW_Dictionary_FR["broche-tripes"] = { word = "broche-tripes", translation = "tripe spit", note = "cooking spit for offal" }
 WordHunterWoW_Dictionary_FR["brocheflamme"] = { word = "Brocheflamme", translation = "Brocheflame", note = "" }
 WordHunterWoW_Dictionary_FR["brochepelle"] = { word = "brochepelle", translation = "pike-fish", note = "variant of pike" }
 WordHunterWoW_Dictionary_FR["brochepelles"] = { word = "brochepelles", translation = "brooches", note = "" }
 WordHunterWoW_Dictionary_FR["brocherompue"] = { word = "Brocherompue", translation = "Brocherompue", note = "NPC name; Elder title" }
 WordHunterWoW_Dictionary_FR["broches"] = { word = "broches", translation = "pins", note = "" }
-WordHunterWoW_Dictionary_FR["brochet"] = { word = "brochet", translation = "pike", note = "" }
-WordHunterWoW_Dictionary_FR["brochette"] = { word = "brochette", translation = "skewer", note = "" }
+WordHunterWoW_Dictionary_FR["brochet"] = { word = "brochet", translation = "pike", note = "a freshwater predatory fish" }
+WordHunterWoW_Dictionary_FR["brochette"] = { word = "brochette", translation = "skewer", note = "small spit; also a group" }
 WordHunterWoW_Dictionary_FR["brochure"] = { word = "brochure", translation = "brochure", note = "brochure; untranslated document type" }
 WordHunterWoW_Dictionary_FR["brochures"] = { word = "brochures", translation = "brochures", note = "" }
 WordHunterWoW_Dictionary_FR["brochée"] = { word = "brochée", translation = "paperback", note = "" }
 WordHunterWoW_Dictionary_FR["brock"] = { word = "Brock", translation = "Brock", note = "" }
 WordHunterWoW_Dictionary_FR["broderick"] = { word = "Broderick", translation = "Broderick", note = "" }
-WordHunterWoW_Dictionary_FR["brodé"] = { word = "brodé", translation = "embroidered", note = "" }
+WordHunterWoW_Dictionary_FR["brodé"] = { word = "brodé", translation = "embroidered", note = "decorated with needlework" }
 WordHunterWoW_Dictionary_FR["brodés"] = { word = "brodés", translation = "embroidered", note = "" }
 WordHunterWoW_Dictionary_FR["brogg"] = { word = "Brogg", translation = "Brogg", note = "" }
 WordHunterWoW_Dictionary_FR["brognat"] = { word = "Brognat", translation = "Brognat", note = "" }
@@ -5723,9 +5723,9 @@ WordHunterWoW_Dictionary_FR["brossé"] = { word = "brossé", translation = "brus
 WordHunterWoW_Dictionary_FR["brothogg"] = { word = "Brothogg", translation = "Brothogg", note = "" }
 WordHunterWoW_Dictionary_FR["broubrou"] = { word = "Broubrou", translation = "Broubrou", note = "" }
 WordHunterWoW_Dictionary_FR["brouet"] = { word = "brouet", translation = "broth", note = "" }
-WordHunterWoW_Dictionary_FR["brouette"] = { word = "Brouette", translation = "Wheelbarrow", note = "" }
+WordHunterWoW_Dictionary_FR["brouette"] = { word = "Brouette", translation = "Wheelbarrow", note = "literally wheelbarrow" }
 WordHunterWoW_Dictionary_FR["brouettes"] = { word = "brouettes", translation = "wheelbarrows", note = "" }
-WordHunterWoW_Dictionary_FR["brouf"] = { word = "brouf", translation = "brouf", note = "" }
+WordHunterWoW_Dictionary_FR["brouf"] = { word = "brouf", translation = "Brouf", note = "" }
 WordHunterWoW_Dictionary_FR["brouhaha"] = { word = "brouhaha", translation = "hubbub", note = "" }
 WordHunterWoW_Dictionary_FR["brouillard"] = { word = "brouillard", translation = "fog", note = "fog or mist" }
 WordHunterWoW_Dictionary_FR["brouillards"] = { word = "brouillards", translation = "fogs", note = "" }
@@ -5745,7 +5745,7 @@ WordHunterWoW_Dictionary_FR["broussailles"] = { word = "broussailles", translati
 WordHunterWoW_Dictionary_FR["broussailleuse"] = { word = "broussailleuse", translation = "bush cutter", note = "" }
 WordHunterWoW_Dictionary_FR["broussard"] = { word = "Broussard", translation = "Broussard", note = "" }
 WordHunterWoW_Dictionary_FR["brousse"] = { word = "brousse", translation = "bush", note = "" }
-WordHunterWoW_Dictionary_FR["brouter"] = { word = "brouter", translation = "graze", note = "" }
+WordHunterWoW_Dictionary_FR["brouter"] = { word = "brouter", translation = "graze", note = "to feed on grass" }
 WordHunterWoW_Dictionary_FR["broutille"] = { word = "broutille", translation = "trifle", note = "" }
 WordHunterWoW_Dictionary_FR["broutus"] = { word = "Broutus", translation = "Broutus", note = "" }
 WordHunterWoW_Dictionary_FR["brouté"] = { word = "brouté", translation = "grazed", note = "" }
@@ -5754,7 +5754,7 @@ WordHunterWoW_Dictionary_FR["browman"] = { word = "Browman", translation = "Brow
 WordHunterWoW_Dictionary_FR["browne"] = { word = "Browne", translation = "Browne", note = "NPC name or surname" }
 WordHunterWoW_Dictionary_FR["brox"] = { word = "Brox", translation = "Brox", note = "" }
 WordHunterWoW_Dictionary_FR["broxigar"] = { word = "Broxigar", translation = "Broxigar", note = "" }
-WordHunterWoW_Dictionary_FR["broyage"] = { word = "broyage", translation = "grinding", note = "" }
+WordHunterWoW_Dictionary_FR["broyage"] = { word = "broyage", translation = "grinding", note = "the act of grinding" }
 WordHunterWoW_Dictionary_FR["broyant"] = { word = "broyant", translation = "grinding", note = "grinding their bones; present participle of broyer (to grind)" }
 WordHunterWoW_Dictionary_FR["broyer"] = { word = "broyer", translation = "crush; grind", note = "to reduce to powder or pulp through force" }
 WordHunterWoW_Dictionary_FR["broyeur"] = { word = "Broyeur", translation = "Crusher", note = "" }
@@ -5772,7 +5772,7 @@ WordHunterWoW_Dictionary_FR["bruce"] = { word = "Bruce", translation = "Bruce", 
 WordHunterWoW_Dictionary_FR["bruchquez"] = { word = "bruchquez", translation = "bruchquez", note = "" }
 WordHunterWoW_Dictionary_FR["bruelda"] = { word = "Bruelda", translation = "Bruelda", note = "" }
 WordHunterWoW_Dictionary_FR["bruffalon"] = { word = "bruffalon", translation = "bruffalon", note = "" }
-WordHunterWoW_Dictionary_FR["bruffalons"] = { word = "bruffalons", translation = "bruffalons", note = "" }
+WordHunterWoW_Dictionary_FR["bruffalons"] = { word = "bruffalons", translation = "bruffalons", note = "a creature type" }
 WordHunterWoW_Dictionary_FR["brugar"] = { word = "Brugar", translation = "Brugar", note = "" }
 WordHunterWoW_Dictionary_FR["bruggor"] = { word = "Bruggor", translation = "Bruggor", note = "" }
 WordHunterWoW_Dictionary_FR["bruineuse"] = { word = "Bruineuse", translation = "Drizzly", note = "" }
@@ -5803,7 +5803,7 @@ WordHunterWoW_Dictionary_FR["brumeux"] = { word = "brumeux", translation = "fogg
 WordHunterWoW_Dictionary_FR["brumius"] = { word = "Brumius", translation = "Brumius", note = "" }
 WordHunterWoW_Dictionary_FR["brumoptères"] = { word = "brumoptères", translation = "brumoptera", note = "" }
 WordHunterWoW_Dictionary_FR["brun"] = { word = "brun", translation = "brown", note = "" }
-WordHunterWoW_Dictionary_FR["brun-roux"] = { word = "brun-roux", translation = "red-brown", note = "" }
+WordHunterWoW_Dictionary_FR["brun-roux"] = { word = "brun-roux", translation = "reddish-brown", note = "russet color" }
 WordHunterWoW_Dictionary_FR["brunan"] = { word = "Brunan", translation = "Brunan", note = "" }
 WordHunterWoW_Dictionary_FR["brunant"] = { word = "Brunant", translation = "Brunant", note = "proper name (location)" }
 WordHunterWoW_Dictionary_FR["brune"] = { word = "Brune", translation = "brown", note = "beer color (NOT 'Brunette')" }
@@ -5834,15 +5834,15 @@ WordHunterWoW_Dictionary_FR["brute"] = { word = "brute", translation = "raw; cru
 WordHunterWoW_Dictionary_FR["brutes"] = { word = "brutes", translation = "brutes; beasts; oafs", note = "rough or uncouth people; animals" }
 WordHunterWoW_Dictionary_FR["bruto"] = { word = "Bruto", translation = "Bruto", note = "" }
 WordHunterWoW_Dictionary_FR["brutor"] = { word = "Brutor", translation = "Brutor", note = "" }
-WordHunterWoW_Dictionary_FR["brutosaure"] = { word = "brutosaure", translation = "brutosaurus", note = "" }
+WordHunterWoW_Dictionary_FR["brutosaure"] = { word = "brutosaure", translation = "brutosaurus", note = "creature name" }
 WordHunterWoW_Dictionary_FR["brutosaures"] = { word = "brutosaures", translation = "brutosaurs", note = "" }
 WordHunterWoW_Dictionary_FR["bruts"] = { word = "bruts", translation = "raw; crude", note = "unprocessed materials" }
 WordHunterWoW_Dictionary_FR["brutusk"] = { word = "Brutusk", translation = "Brutusk", note = "" }
 WordHunterWoW_Dictionary_FR["bruvk"] = { word = "Bruvk", translation = "Bruvk", note = "" }
 WordHunterWoW_Dictionary_FR["bruyamment"] = { word = "bruyamment", translation = "loudly; noisily", note = "in a loud manner" }
-WordHunterWoW_Dictionary_FR["bruyant"] = { word = "bruyant", translation = "noisy", note = "" }
+WordHunterWoW_Dictionary_FR["bruyant"] = { word = "bruyant", translation = "noisy", note = "making noise; loud" }
 WordHunterWoW_Dictionary_FR["bruyante"] = { word = "bruyante", translation = "noisy", note = "" }
-WordHunterWoW_Dictionary_FR["bruyantes"] = { word = "bruyantes", translation = "noisy", note = "" }
+WordHunterWoW_Dictionary_FR["bruyantes"] = { word = "bruyantes", translation = "noisy", note = "loud or making noise" }
 WordHunterWoW_Dictionary_FR["bruyère"] = { word = "bruyère", translation = "heather", note = "" }
 WordHunterWoW_Dictionary_FR["bryan"] = { word = "Bryan", translation = "Bryan", note = "" }
 WordHunterWoW_Dictionary_FR["brynja"] = { word = "Brynja", translation = "Brynja", note = "" }
@@ -5855,7 +5855,7 @@ WordHunterWoW_Dictionary_FR["brèche-de-mort"] = { word = "Brèche-de-Mort", tra
 WordHunterWoW_Dictionary_FR["brèches"] = { word = "brèches", translation = "breaches", note = "brèche: gap, opening" }
 WordHunterWoW_Dictionary_FR["brève"] = { word = "brève", translation = "brief", note = "short in duration" }
 WordHunterWoW_Dictionary_FR["brûlaient"] = { word = "brûlaient", translation = "were burning", note = "imperfect tense; fires continuously burned" }
-WordHunterWoW_Dictionary_FR["brûlait"] = { word = "brûlait", translation = "was burning", note = "" }
+WordHunterWoW_Dictionary_FR["brûlait"] = { word = "brûlait", translation = "was burning", note = "imperfect of brûler" }
 WordHunterWoW_Dictionary_FR["brûlant"] = { word = "brûlant", translation = "burning", note = "burning; blazing; on fire" }
 WordHunterWoW_Dictionary_FR["brûlante"] = { word = "brûlante", translation = "burning", note = "burning or scorching; very hot" }
 WordHunterWoW_Dictionary_FR["brûlantes"] = { word = "brûlantes", translation = "burning; fiery", note = "burning hot or fiery skills" }
@@ -5864,7 +5864,7 @@ WordHunterWoW_Dictionary_FR["brûle"] = { word = "brûle", translation = "burn; 
 WordHunterWoW_Dictionary_FR["brûle-bougie"] = { word = "brûle-bougie", translation = "candle burner", note = "" }
 WordHunterWoW_Dictionary_FR["brûle-encens"] = { word = "brûle-encens", translation = "incense burner", note = "brûle (burns) + encens (incense); ceremonial vessel" }
 WordHunterWoW_Dictionary_FR["brûle-flamme"] = { word = "brûle-flamme", translation = "flamethrower", note = "brûle (burns) + flamme (flame); weapon or device" }
-WordHunterWoW_Dictionary_FR["brûle-flanc"] = { word = "Brûle-Flanc", translation = "Flank Burn", note = "" }
+WordHunterWoW_Dictionary_FR["brûle-flanc"] = { word = "Brûle-Flanc", translation = "Flank Burn", note = "literally flank-burn" }
 WordHunterWoW_Dictionary_FR["brûle-front"] = { word = "Brûle-Front", translation = "Burning Front", note = "" }
 WordHunterWoW_Dictionary_FR["brûle-gueule"] = { word = "Brûle-gueule", translation = "Mouth burner", note = "" }
 WordHunterWoW_Dictionary_FR["brûle-ombre"] = { word = "Brûle-Ombre", translation = "Shadowburn", note = "" }
@@ -5877,7 +5877,7 @@ WordHunterWoW_Dictionary_FR["brûlepattes"] = { word = "brûlepattes", translati
 WordHunterWoW_Dictionary_FR["brûlepied"] = { word = "Brûlepied", translation = "Brûlepied", note = "" }
 WordHunterWoW_Dictionary_FR["brûlepierre"] = { word = "Brûlepierre", translation = "Burnstone", note = "" }
 WordHunterWoW_Dictionary_FR["brûler"] = { word = "brûler", translation = "burn", note = "be on fire" }
-WordHunterWoW_Dictionary_FR["brûlera"] = { word = "brûlera", translation = "will burn", note = "" }
+WordHunterWoW_Dictionary_FR["brûlera"] = { word = "brûlera", translation = "will burn", note = "future of brûler" }
 WordHunterWoW_Dictionary_FR["brûleronces"] = { word = "brûleronces", translation = "Firethorn", note = "Troll tribe name; brûle (burns) + ronces (thorns)" }
 WordHunterWoW_Dictionary_FR["brûleront"] = { word = "brûleront", translation = "will burn", note = "" }
 WordHunterWoW_Dictionary_FR["brûletin"] = { word = "brûletin", translation = "brazier", note = "variant: heating device" }
@@ -5904,7 +5904,7 @@ WordHunterWoW_Dictionary_FR["brûlés"] = { word = "brûlés", translation = "bu
 WordHunterWoW_Dictionary_FR["bu"] = { word = "bu", translation = "drank", note = "past participle of boire; consumed liquid" }
 WordHunterWoW_Dictionary_FR["buckland"] = { word = "Buckland", translation = "Buckland", note = "" }
 WordHunterWoW_Dictionary_FR["budd"] = { word = "Budd", translation = "Budd", note = "" }
-WordHunterWoW_Dictionary_FR["budget"] = { word = "budget", translation = "budget", note = "" }
+WordHunterWoW_Dictionary_FR["budget"] = { word = "budget", translation = "budget", note = "financial allocation" }
 WordHunterWoW_Dictionary_FR["budgétaires"] = { word = "budgétaires", translation = "budgetary", note = "" }
 WordHunterWoW_Dictionary_FR["bue"] = { word = "bue", translation = "drunk", note = "" }
 WordHunterWoW_Dictionary_FR["buen"] = { word = "buen", translation = "buen", note = "" }
@@ -5965,7 +5965,7 @@ WordHunterWoW_Dictionary_FR["butiner"] = { word = "butiner", translation = "to f
 WordHunterWoW_Dictionary_FR["butineuse"] = { word = "butineuse", translation = "forager", note = "" }
 WordHunterWoW_Dictionary_FR["butineuses"] = { word = "butineuses", translation = "foragers", note = "" }
 WordHunterWoW_Dictionary_FR["butinez"] = { word = "butinez", translation = "forage", note = "" }
-WordHunterWoW_Dictionary_FR["butins"] = { word = "butins", translation = "loots", note = "" }
+WordHunterWoW_Dictionary_FR["butins"] = { word = "butins", translation = "loots", note = "plunder or spoils" }
 WordHunterWoW_Dictionary_FR["butinées"] = { word = "butinées", translation = "foraged", note = "" }
 WordHunterWoW_Dictionary_FR["butor"] = { word = "butor", translation = "bittern", note = "" }
 WordHunterWoW_Dictionary_FR["butors"] = { word = "butors", translation = "bitterns", note = "a large wading bird; plural form correct" }
@@ -5978,11 +5978,11 @@ WordHunterWoW_Dictionary_FR["buuuuuuuuuuut"] = { word = "buuuuuuuuuuut", transla
 WordHunterWoW_Dictionary_FR["buvaient"] = { word = "buvaient", translation = "were drinking", note = "" }
 WordHunterWoW_Dictionary_FR["buvait"] = { word = "buvait", translation = "drank", note = "" }
 WordHunterWoW_Dictionary_FR["buvant"] = { word = "buvant", translation = "drinking", note = "" }
-WordHunterWoW_Dictionary_FR["buveur"] = { word = "buveur", translation = "drinker", note = "" }
+WordHunterWoW_Dictionary_FR["buveur"] = { word = "buveur", translation = "drinker", note = "one who drinks" }
 WordHunterWoW_Dictionary_FR["buvez"] = { word = "Buvez", translation = "drink", note = "imperative" }
 WordHunterWoW_Dictionary_FR["buvez-la"] = { word = "buvez-la", translation = "drink it", note = "" }
 WordHunterWoW_Dictionary_FR["buvez-le"] = { word = "Buvez-le", translation = "Drink it", note = "" }
-WordHunterWoW_Dictionary_FR["buvons"] = { word = "Buvons", translation = "Let's drink", note = "" }
+WordHunterWoW_Dictionary_FR["buvons"] = { word = "Buvons", translation = "Let's drink", note = "imperative; cheers" }
 WordHunterWoW_Dictionary_FR["buzz"] = { word = "Buzz", translation = "Buzz", note = "" }
 WordHunterWoW_Dictionary_FR["buzzz"] = { word = "buzzz", translation = "buzzz", note = "" }
 WordHunterWoW_Dictionary_FR["bwemba"] = { word = "Bwemba", translation = "Bwemba", note = "" }
@@ -6004,14 +6004,14 @@ WordHunterWoW_Dictionary_FR["bâfrer"] = { word = "bâfrer", translation = "burp
 WordHunterWoW_Dictionary_FR["bâille"] = { word = "bâille", translation = "yawns", note = "" }
 WordHunterWoW_Dictionary_FR["bâillonnée"] = { word = "bâillonnée", translation = "gagged", note = "" }
 WordHunterWoW_Dictionary_FR["bât"] = { word = "bât", translation = "pack", note = "a saddle for beasts of burden; animaux de bât = pack animals" }
-WordHunterWoW_Dictionary_FR["bâtard"] = { word = "bâtard", translation = "bastard", note = "" }
+WordHunterWoW_Dictionary_FR["bâtard"] = { word = "bâtard", translation = "scoundrel", note = "despicable person" }
 WordHunterWoW_Dictionary_FR["bâtards"] = { word = "bâtards", translation = "bastards", note = "can mean illegitimate children or as an insult" }
 WordHunterWoW_Dictionary_FR["bâti"] = { word = "bâti", translation = "built", note = "built; constructed, erected" }
 WordHunterWoW_Dictionary_FR["bâtie"] = { word = "bâtie", translation = "built", note = "past participle of bâtir (to build); feminine form in French" }
 WordHunterWoW_Dictionary_FR["bâtiment"] = { word = "bâtiment", translation = "building", note = "ship, building, structure; context determines" }
 WordHunterWoW_Dictionary_FR["bâtiments"] = { word = "bâtiments", translation = "buildings; structures", note = "plural of bâtiment; architecture or constructed" }
 WordHunterWoW_Dictionary_FR["bâtir"] = { word = "bâtir", translation = "build", note = "build; construct; establish" }
-WordHunterWoW_Dictionary_FR["bâtirons"] = { word = "bâtirons", translation = "we will build", note = "" }
+WordHunterWoW_Dictionary_FR["bâtirons"] = { word = "bâtirons", translation = "we will build", note = "future of bâtir" }
 WordHunterWoW_Dictionary_FR["bâtissant"] = { word = "bâtissant", translation = "building", note = "" }
 WordHunterWoW_Dictionary_FR["bâtisse"] = { word = "bâtisse", translation = "building", note = "a structure; structure built around something" }
 WordHunterWoW_Dictionary_FR["bâtisses"] = { word = "bâtisses", translation = "buildings", note = "" }
@@ -6036,7 +6036,7 @@ WordHunterWoW_Dictionary_FR["bébête"] = { word = "bébête", translation = "co
 WordHunterWoW_Dictionary_FR["bécane"] = { word = "bécane", translation = "bike", note = "" }
 WordHunterWoW_Dictionary_FR["bécanes"] = { word = "bécanes", translation = "bikes", note = "" }
 WordHunterWoW_Dictionary_FR["bécasses"] = { word = "bécasses", translation = "woodcocks", note = "" }
-WordHunterWoW_Dictionary_FR["bécher"] = { word = "bécher", translation = "beaker", note = "" }
+WordHunterWoW_Dictionary_FR["bécher"] = { word = "bécher", translation = "beaker", note = "laboratory vessel" }
 WordHunterWoW_Dictionary_FR["bée"] = { word = "bée", translation = "gape", note = "from bayer (to gape); 'bée d'étonnement' = gaping in astonishment" }
 WordHunterWoW_Dictionary_FR["bégonias"] = { word = "bégonias", translation = "begonias", note = "" }
 WordHunterWoW_Dictionary_FR["béguin"] = { word = "béguin", translation = "crush", note = "" }
@@ -6087,9 +6087,9 @@ WordHunterWoW_Dictionary_FR["bêcheuse"] = { word = "bêcheuse", translation = "
 WordHunterWoW_Dictionary_FR["bête"] = { word = "bête", translation = "beast", note = "beast; animal" }
 WordHunterWoW_Dictionary_FR["bêtement"] = { word = "bêtement", translation = "stupidly", note = "in a foolish manner" }
 WordHunterWoW_Dictionary_FR["bêtes"] = { word = "bêtes", translation = "beasts", note = "animals or creatures; plural of bête" }
-WordHunterWoW_Dictionary_FR["bêtes-cadavres"] = { word = "bêtes-cadavres", translation = "corpse beasts", note = "" }
-WordHunterWoW_Dictionary_FR["bêtes-chancreuses"] = { word = "bêtes-chancreuses", translation = "blightbeasts", note = "" }
-WordHunterWoW_Dictionary_FR["bêtes-là"] = { word = "bêtes-là", translation = "beasts", note = "" }
+WordHunterWoW_Dictionary_FR["bêtes-cadavres"] = { word = "bêtes-cadavres", translation = "corpse beasts", note = "creatures from bodies" }
+WordHunterWoW_Dictionary_FR["bêtes-chancreuses"] = { word = "bêtes-chancreuses", translation = "blightbeasts", note = "blight-infected creatures" }
+WordHunterWoW_Dictionary_FR["bêtes-là"] = { word = "bêtes-là", translation = "beasts", note = "animals or creatures" }
 WordHunterWoW_Dictionary_FR["bêtise"] = { word = "bêtise", translation = "folly; foolishness", note = "foolish action or folly" }
 WordHunterWoW_Dictionary_FR["bêtises"] = { word = "bêtises", translation = "nonsense; foolishness", note = "stupid or senseless talk" }
 WordHunterWoW_Dictionary_FR["bûche"] = { word = "bûche", translation = "log", note = "" }
@@ -6126,16 +6126,16 @@ WordHunterWoW_Dictionary_FR["ca-tas-tro-phique"] = { word = "ca-tas-tro-phique",
 WordHunterWoW_Dictionary_FR["cabale"] = { word = "cabale", translation = "cabal", note = "conspiracy; from Hebrew qabbalah" }
 WordHunterWoW_Dictionary_FR["cabales"] = { word = "Cabales", translation = "Cabals", note = "" }
 WordHunterWoW_Dictionary_FR["cabane"] = { word = "cabane", translation = "hut; shack", note = "noun; small dwelling" }
-WordHunterWoW_Dictionary_FR["cabanes"] = { word = "cabanes", translation = "cabins", note = "" }
+WordHunterWoW_Dictionary_FR["cabanes"] = { word = "cabanes", translation = "cabins", note = "small dwellings" }
 WordHunterWoW_Dictionary_FR["cabestan"] = { word = "Cabestan", translation = "capstan", note = "cabestan: ship hoisting post" }
 WordHunterWoW_Dictionary_FR["cabine"] = { word = "cabine", translation = "cabin; compartment", note = "ship cabin or enclosed space" }
-WordHunterWoW_Dictionary_FR["cabinet"] = { word = "cabinet", translation = "office", note = "" }
+WordHunterWoW_Dictionary_FR["cabinet"] = { word = "cabinet", translation = "workshop", note = "workspace" }
 WordHunterWoW_Dictionary_FR["caboche"] = { word = "caboche", translation = "head; noggin", note = "slang: thick-headed person" }
 WordHunterWoW_Dictionary_FR["cabossé"] = { word = "cabossé", translation = "dented", note = "" }
 WordHunterWoW_Dictionary_FR["cabot"] = { word = "cabot", translation = "mutt; dog", note = "slang for mongrel dog" }
-WordHunterWoW_Dictionary_FR["cabots"] = { word = "cabots", translation = "mutts", note = "" }
+WordHunterWoW_Dictionary_FR["cabots"] = { word = "cabots", translation = "mutts", note = "mongrel dogs" }
 WordHunterWoW_Dictionary_FR["caboulot"] = { word = "caboulot", translation = "caboulot", note = "" }
-WordHunterWoW_Dictionary_FR["caca"] = { word = "caca", translation = "pooh", note = "" }
+WordHunterWoW_Dictionary_FR["caca"] = { word = "caca", translation = "feces", note = "childish term" }
 WordHunterWoW_Dictionary_FR["cachaient"] = { word = "cachaient", translation = "hid", note = "past tense; they hid or were hiding" }
 WordHunterWoW_Dictionary_FR["cachait"] = { word = "cachait", translation = "hid; concealed", note = "past tense third person singular" }
 WordHunterWoW_Dictionary_FR["cachait-il"] = { word = "Cachait-il", translation = "Was he hiding", note = "" }
@@ -6162,7 +6162,7 @@ WordHunterWoW_Dictionary_FR["cachetée"] = { word = "cachetée", translation = "
 WordHunterWoW_Dictionary_FR["cachez"] = { word = "cachez", translation = "hide", note = "hide, conceal; imperative form of cacher" }
 WordHunterWoW_Dictionary_FR["cachez-vous"] = { word = "cachez-vous", translation = "hide", note = "imperative; hide yourselves" }
 WordHunterWoW_Dictionary_FR["cachiel"] = { word = "Cachiel", translation = "Cachiel", note = "" }
-WordHunterWoW_Dictionary_FR["cachiez"] = { word = "cachiez", translation = "hide", note = "" }
+WordHunterWoW_Dictionary_FR["cachiez"] = { word = "cachiez", translation = "hide", note = "to conceal" }
 WordHunterWoW_Dictionary_FR["cachions"] = { word = "cachions", translation = "let's hide", note = "" }
 WordHunterWoW_Dictionary_FR["cachons"] = { word = "cachons", translation = "let's hide", note = "" }
 WordHunterWoW_Dictionary_FR["cachot"] = { word = "cachot", translation = "dungeon", note = "" }
@@ -6172,7 +6172,7 @@ WordHunterWoW_Dictionary_FR["caché"] = { word = "caché", translation = "hidden
 WordHunterWoW_Dictionary_FR["cachée"] = { word = "cachée", translation = "hidden; concealed", note = "past participle feminine of cacher" }
 WordHunterWoW_Dictionary_FR["cachées"] = { word = "cachées", translation = "hidden", note = "concealed or secret; feminine plural of caché" }
 WordHunterWoW_Dictionary_FR["cachés"] = { word = "cachés", translation = "hidden", note = "" }
-WordHunterWoW_Dictionary_FR["cacophonie"] = { word = "cacophonie", translation = "cacophony", note = "" }
+WordHunterWoW_Dictionary_FR["cacophonie"] = { word = "cacophonie", translation = "cacophony", note = "harsh sounds" }
 WordHunterWoW_Dictionary_FR["cactus"] = { word = "cactus", translation = "cactus", note = "desert plant with spines" }
 WordHunterWoW_Dictionary_FR["cadavre"] = { word = "cadavre", translation = "corpse", note = "" }
 WordHunterWoW_Dictionary_FR["cadavres"] = { word = "cadavres", translation = "corpses; bodies", note = "noun plural; dead bodies; often quest objective to dispose of them" }
@@ -6185,7 +6185,7 @@ WordHunterWoW_Dictionary_FR["cadenas"] = { word = "cadenas", translation = "padl
 WordHunterWoW_Dictionary_FR["cadenasser"] = { word = "cadenasser", translation = "padlock", note = "" }
 WordHunterWoW_Dictionary_FR["cadence"] = { word = "cadence", translation = "cadence", note = "Latin cognate; same word in both languages, refers to rhythm or sequence" }
 WordHunterWoW_Dictionary_FR["cadencés"] = { word = "cadencés", translation = "clocked", note = "" }
-WordHunterWoW_Dictionary_FR["cadet"] = { word = "cadet", translation = "cadet", note = "" }
+WordHunterWoW_Dictionary_FR["cadet"] = { word = "cadet", translation = "cadet", note = "junior member" }
 WordHunterWoW_Dictionary_FR["cadets"] = { word = "cadets", translation = "cadets", note = "" }
 WordHunterWoW_Dictionary_FR["cadette"] = { word = "cadette", translation = "cadet", note = "feminine form of cadet (junior military officer); English doesn't distinguish gender for this rank" }
 WordHunterWoW_Dictionary_FR["cadran"] = { word = "Cadran", translation = "Dial", note = "" }
@@ -6199,21 +6199,21 @@ WordHunterWoW_Dictionary_FR["cadáveres"] = { word = "cadáveres", translation =
 WordHunterWoW_Dictionary_FR["caer"] = { word = "Caer", translation = "Caer", note = "" }
 WordHunterWoW_Dictionary_FR["caeris"] = { word = "Caeris", translation = "Caeris", note = "" }
 WordHunterWoW_Dictionary_FR["caes"] = { word = "caes", translation = "caes", note = "" }
-WordHunterWoW_Dictionary_FR["cafard"] = { word = "cafard", translation = "cockroach", note = "" }
+WordHunterWoW_Dictionary_FR["cafard"] = { word = "cafard", translation = "melancholy", note = "depression or sadness" }
 WordHunterWoW_Dictionary_FR["cafards"] = { word = "cafards", translation = "cockroaches; blues", note = "insects or sadness" }
 WordHunterWoW_Dictionary_FR["caffé"] = { word = "caffé", translation = "coffee", note = "" }
-WordHunterWoW_Dictionary_FR["café"] = { word = "café", translation = "coffee", note = "" }
+WordHunterWoW_Dictionary_FR["café"] = { word = "café", translation = "coffee", note = "hot beverage from beans" }
 WordHunterWoW_Dictionary_FR["cage"] = { word = "cage", translation = "cage", note = "enclosed structure holding animals" }
 WordHunterWoW_Dictionary_FR["cage-misère"] = { word = "Cage-misère", translation = "Cage-misery", note = "" }
 WordHunterWoW_Dictionary_FR["cages"] = { word = "cages", translation = "cages", note = "plural; enclosures" }
 WordHunterWoW_Dictionary_FR["cagney"] = { word = "Cagney", translation = "Cagney", note = "" }
 WordHunterWoW_Dictionary_FR["cagnotte"] = { word = "cagnotte", translation = "jackpot", note = "" }
-WordHunterWoW_Dictionary_FR["cahiers"] = { word = "cahiers", translation = "notebooks", note = "" }
+WordHunterWoW_Dictionary_FR["cahiers"] = { word = "cahiers", translation = "specifications", note = "technical requirements" }
 WordHunterWoW_Dictionary_FR["cahin-caha"] = { word = "cahin-caha", translation = "cahin-caha", note = "" }
 WordHunterWoW_Dictionary_FR["caice"] = { word = "Caice", translation = "Caice", note = "" }
 WordHunterWoW_Dictionary_FR["caidanis"] = { word = "Caidanis", translation = "Caidanis", note = "" }
 WordHunterWoW_Dictionary_FR["cailin"] = { word = "Cailin", translation = "Cailin", note = "" }
-WordHunterWoW_Dictionary_FR["caillasse"] = { word = "caillasse", translation = "stone", note = "" }
+WordHunterWoW_Dictionary_FR["caillasse"] = { word = "caillasse", translation = "gravel", note = "stones or rubble" }
 WordHunterWoW_Dictionary_FR["caillou"] = { word = "caillou", translation = "pebble", note = "noun: pebble or small rock" }
 WordHunterWoW_Dictionary_FR["caillou-parlant"] = { word = "Caillou-Parlant", translation = "Talking Caillou", note = "" }
 WordHunterWoW_Dictionary_FR["cailloux"] = { word = "cailloux", translation = "pebbles", note = "small stones or rocks" }
@@ -6251,7 +6251,7 @@ WordHunterWoW_Dictionary_FR["calculateur"] = { word = "Calculateur", translation
 WordHunterWoW_Dictionary_FR["calcule"] = { word = "calcule", translation = "calculated", note = "" }
 WordHunterWoW_Dictionary_FR["calculer"] = { word = "calculer", translation = "calculate", note = "" }
 WordHunterWoW_Dictionary_FR["calculs"] = { word = "calculs", translation = "calculations", note = "calculations; mathematical reckoning" }
-WordHunterWoW_Dictionary_FR["calculé"] = { word = "calculé", translation = "calculated", note = "" }
+WordHunterWoW_Dictionary_FR["calculé"] = { word = "calculé", translation = "calculated", note = "computed or deliberate" }
 WordHunterWoW_Dictionary_FR["calculée"] = { word = "calculée", translation = "calculated", note = "" }
 WordHunterWoW_Dictionary_FR["calcédoine"] = { word = "calcédoine", translation = "chalcedony", note = "" }
 WordHunterWoW_Dictionary_FR["caldeira"] = { word = "caldeira", translation = "caldera; volcanic crater", note = "geological feature: volcanic crater or basin" }
@@ -6272,16 +6272,16 @@ WordHunterWoW_Dictionary_FR["cales"] = { word = "cales", translation = "holds", 
 WordHunterWoW_Dictionary_FR["caleth"] = { word = "Caleth", translation = "Caleth", note = "" }
 WordHunterWoW_Dictionary_FR["caleçon"] = { word = "caleçon", translation = "underwear", note = "" }
 WordHunterWoW_Dictionary_FR["calia"] = { word = "Calia", translation = "Calia", note = "" }
-WordHunterWoW_Dictionary_FR["calibrage"] = { word = "calibrage", translation = "calibration", note = "" }
+WordHunterWoW_Dictionary_FR["calibrage"] = { word = "calibrage", translation = "calibration", note = "adjustment to scale" }
 WordHunterWoW_Dictionary_FR["calibre"] = { word = "calibre", translation = "caliber; quality; ability", note = "noun; the diameter of a gun barrel or figuratively quality or importance" }
 WordHunterWoW_Dictionary_FR["calibrer"] = { word = "calibrer", translation = "calibrate", note = "adjust; set the right measure" }
 WordHunterWoW_Dictionary_FR["calibrerai"] = { word = "calibrerai", translation = "calibrate", note = "" }
 WordHunterWoW_Dictionary_FR["calibres"] = { word = "calibres", translation = "calibers", note = "the diameter of a gun bore; French -re vs English -er spelling" }
-WordHunterWoW_Dictionary_FR["calibré"] = { word = "calibré", translation = "calibrated", note = "" }
+WordHunterWoW_Dictionary_FR["calibré"] = { word = "calibré", translation = "calibrated", note = "tuned" }
 WordHunterWoW_Dictionary_FR["calibrées"] = { word = "calibrées", translation = "calibrated", note = "" }
 WordHunterWoW_Dictionary_FR["calice"] = { word = "calice", translation = "chalice", note = "chalice; ceremonial cup or goblet" }
 WordHunterWoW_Dictionary_FR["calices"] = { word = "calices", translation = "chalices; goblets", note = "cups or drinking vessels, often sacred or magical" }
-WordHunterWoW_Dictionary_FR["calicot"] = { word = "Calicot", translation = "Calico", note = "" }
+WordHunterWoW_Dictionary_FR["calicot"] = { word = "Calicot", translation = "Calicot", note = "" }
 WordHunterWoW_Dictionary_FR["calife"] = { word = "calife", translation = "caliph", note = "" }
 WordHunterWoW_Dictionary_FR["caliéa"] = { word = "Caliéa", translation = "Caliea", note = "" }
 WordHunterWoW_Dictionary_FR["calli"] = { word = "Calli", translation = "Calli", note = "" }
@@ -6307,7 +6307,7 @@ WordHunterWoW_Dictionary_FR["calmeront"] = { word = "calmeront", translation = "
 WordHunterWoW_Dictionary_FR["calmes"] = { word = "calmes", translation = "calm", note = "adjective or past participle; tranquil or peaceful" }
 WordHunterWoW_Dictionary_FR["calmez"] = { word = "Calmez", translation = "Calm down", note = "" }
 WordHunterWoW_Dictionary_FR["calmé"] = { word = "calmé", translation = "calm", note = "" }
-WordHunterWoW_Dictionary_FR["calmée"] = { word = "calmée", translation = "calmed down", note = "" }
+WordHunterWoW_Dictionary_FR["calmée"] = { word = "calmée", translation = "calmed", note = "made peaceful" }
 WordHunterWoW_Dictionary_FR["calmées"] = { word = "calmées", translation = "calmed down", note = "" }
 WordHunterWoW_Dictionary_FR["calmés"] = { word = "calmés", translation = "calmed", note = "calmed down; our forces not yet ready to attack" }
 WordHunterWoW_Dictionary_FR["calomnie"] = { word = "calomnie", translation = "calumny", note = "" }
@@ -6318,7 +6318,7 @@ WordHunterWoW_Dictionary_FR["calvaire"] = { word = "calvaire", translation = "or
 WordHunterWoW_Dictionary_FR["calvarie"] = { word = "calvarie", translation = "calvaria", note = "" }
 WordHunterWoW_Dictionary_FR["calvin"] = { word = "Calvin", translation = "Calvin", note = "" }
 WordHunterWoW_Dictionary_FR["calydus"] = { word = "Calydus", translation = "Calydus", note = "" }
-WordHunterWoW_Dictionary_FR["calèche"] = { word = "calèche", translation = "carriage", note = "" }
+WordHunterWoW_Dictionary_FR["calèche"] = { word = "calèche", translation = "carriage", note = "horse-drawn coach" }
 WordHunterWoW_Dictionary_FR["calèches"] = { word = "calèches", translation = "carriages", note = "" }
 WordHunterWoW_Dictionary_FR["camarade"] = { word = "camarade", translation = "comrade", note = "companion or friend, especially in military/group context" }
 WordHunterWoW_Dictionary_FR["camaraderie"] = { word = "camaraderie", translation = "camaraderie", note = "" }
@@ -6335,7 +6335,7 @@ WordHunterWoW_Dictionary_FR["camembert"] = { word = "camembert", translation = "
 WordHunterWoW_Dictionary_FR["camilla"] = { word = "Camilla", translation = "Camilla", note = "" }
 WordHunterWoW_Dictionary_FR["camille"] = { word = "Camille", translation = "Camille", note = "" }
 WordHunterWoW_Dictionary_FR["caminante"] = { word = "Caminante", translation = "Caminante", note = "" }
-WordHunterWoW_Dictionary_FR["camino"] = { word = "camino", translation = "camino", note = "" }
+WordHunterWoW_Dictionary_FR["camino"] = { word = "camino", translation = "camino", note = "a path or way" }
 WordHunterWoW_Dictionary_FR["camouflage"] = { word = "camouflage", translation = "camouflage", note = "camouflage; concealment or disguise" }
 WordHunterWoW_Dictionary_FR["camouflages"] = { word = "camouflages", translation = "camouflage", note = "" }
 WordHunterWoW_Dictionary_FR["camouflait"] = { word = "camouflait", translation = "camouflaged", note = "" }
@@ -6351,16 +6351,16 @@ WordHunterWoW_Dictionary_FR["campalot"] = { word = "Campalot", translation = "Ca
 WordHunterWoW_Dictionary_FR["campe"] = { word = "campe", translation = "camps", note = "3rd person singular of camper" }
 WordHunterWoW_Dictionary_FR["campement"] = { word = "campement", translation = "camp", note = "temporary settlement" }
 WordHunterWoW_Dictionary_FR["campements"] = { word = "campements", translation = "camps", note = "temporary settlements or military encampments" }
-WordHunterWoW_Dictionary_FR["campent"] = { word = "campent", translation = "camp", note = "" }
+WordHunterWoW_Dictionary_FR["campent"] = { word = "campent", translation = "camp", note = "to establish settlement" }
 WordHunterWoW_Dictionary_FR["camper"] = { word = "camper", translation = "camp", note = "" }
 WordHunterWoW_Dictionary_FR["campo"] = { word = "campo", translation = "campo", note = "" }
 WordHunterWoW_Dictionary_FR["camps"] = { word = "camps", translation = "camps", note = "bases" }
-WordHunterWoW_Dictionary_FR["campé"] = { word = "campé", translation = "camped", note = "" }
+WordHunterWoW_Dictionary_FR["campé"] = { word = "campé", translation = "positioned", note = "firmly placed" }
 WordHunterWoW_Dictionary_FR["caméléon"] = { word = "caméléon", translation = "chameleon", note = "" }
 WordHunterWoW_Dictionary_FR["caméras"] = { word = "caméras", translation = "cameras", note = "" }
-WordHunterWoW_Dictionary_FR["camériste"] = { word = "camériste", translation = "maid", note = "" }
+WordHunterWoW_Dictionary_FR["camériste"] = { word = "camériste", translation = "maid", note = "lady's attendant" }
 WordHunterWoW_Dictionary_FR["can"] = { word = "can", translation = "can", note = "modal verb (English context)" }
-WordHunterWoW_Dictionary_FR["canaille"] = { word = "canaille", translation = "scoundrel", note = "" }
+WordHunterWoW_Dictionary_FR["canaille"] = { word = "canaille", translation = "scoundrel", note = "despicable person" }
 WordHunterWoW_Dictionary_FR["canailles"] = { word = "canailles", translation = "scoundrels", note = "scoundrels or rogues; disreputable" }
 WordHunterWoW_Dictionary_FR["canal"] = { word = "canal", translation = "channel", note = "channel; artificial waterway or communication medium" }
 WordHunterWoW_Dictionary_FR["canalisant"] = { word = "canalisant", translation = "channeling", note = "" }
@@ -6398,14 +6398,14 @@ WordHunterWoW_Dictionary_FR["candidats"] = { word = "candidats", translation = "
 WordHunterWoW_Dictionary_FR["candidature"] = { word = "candidature", translation = "candidacy", note = "candidacy or application; joining the Skycaller ranks" }
 WordHunterWoW_Dictionary_FR["cane"] = { word = "cane", translation = "cane", note = "" }
 WordHunterWoW_Dictionary_FR["caneton"] = { word = "caneton", translation = "duckling", note = "young duck" }
-WordHunterWoW_Dictionary_FR["canetons"] = { word = "canetons", translation = "ducklings", note = "" }
+WordHunterWoW_Dictionary_FR["canetons"] = { word = "canetons", translation = "ducklings", note = "young ducks" }
 WordHunterWoW_Dictionary_FR["canettes"] = { word = "canettes", translation = "cans", note = "small containers; in munitions context, ammunition shells or cartridges" }
 WordHunterWoW_Dictionary_FR["canidé"] = { word = "Canidé", translation = "Canine", note = "" }
 WordHunterWoW_Dictionary_FR["canif"] = { word = "canif", translation = "penknife", note = "" }
 WordHunterWoW_Dictionary_FR["canin"] = { word = "canin", translation = "canine", note = "" }
 WordHunterWoW_Dictionary_FR["canine"] = { word = "Canine", translation = "Canine", note = "" }
 WordHunterWoW_Dictionary_FR["canines"] = { word = "canines", translation = "canines", note = "" }
-WordHunterWoW_Dictionary_FR["caniveau"] = { word = "caniveau", translation = "gutter", note = "" }
+WordHunterWoW_Dictionary_FR["caniveau"] = { word = "caniveau", translation = "gutter", note = "drainage channel" }
 WordHunterWoW_Dictionary_FR["caniville"] = { word = "Caniville", translation = "Caniville", note = "" }
 WordHunterWoW_Dictionary_FR["canne"] = { word = "canne", translation = "cane", note = "cane, walking stick, or stem; can also mean reed" }
 WordHunterWoW_Dictionary_FR["canneberge"] = { word = "canneberge", translation = "cranberry", note = "" }
@@ -6413,11 +6413,11 @@ WordHunterWoW_Dictionary_FR["canneberges"] = { word = "canneberges", translation
 WordHunterWoW_Dictionary_FR["cannes"] = { word = "cannes", translation = "reeds; walking sticks; canes", note = "plural noun; stalks of cane plant or sticks used for support" }
 WordHunterWoW_Dictionary_FR["cannibales"] = { word = "cannibales", translation = "cannibals", note = "people who eat human flesh" }
 WordHunterWoW_Dictionary_FR["cannibalicide"] = { word = "Cannibalicide", translation = "Cannibalicide", note = "" }
-WordHunterWoW_Dictionary_FR["cannibalisme"] = { word = "cannibalisme", translation = "cannibalism", note = "" }
+WordHunterWoW_Dictionary_FR["cannibalisme"] = { word = "cannibalisme", translation = "cannibalism", note = "eating own species" }
 WordHunterWoW_Dictionary_FR["cannings"] = { word = "Cannings", translation = "Cannings", note = "" }
 WordHunterWoW_Dictionary_FR["cannot"] = { word = "cannot", translation = "cannot", note = "" }
 WordHunterWoW_Dictionary_FR["canon"] = { word = "canon", translation = "gun", note = "false friend: not the religious rule sense, but the weapon" }
-WordHunterWoW_Dictionary_FR["canonnier"] = { word = "canonnier", translation = "gunner", note = "" }
+WordHunterWoW_Dictionary_FR["canonnier"] = { word = "canonnier", translation = "gunner", note = "artillery soldier" }
 WordHunterWoW_Dictionary_FR["canonniers"] = { word = "canonniers", translation = "gunners", note = "gunners or artillery crew; mutinied crew members" }
 WordHunterWoW_Dictionary_FR["canonnière"] = { word = "canonnière", translation = "gunboat", note = "armed vessel; feminine" }
 WordHunterWoW_Dictionary_FR["canonnières"] = { word = "canonnières", translation = "gunboats", note = "warships equipped with guns; feminine form in French" }
@@ -6427,16 +6427,16 @@ WordHunterWoW_Dictionary_FR["canopes"] = { word = "canopes", translation = "cano
 WordHunterWoW_Dictionary_FR["canopée"] = { word = "canopée", translation = "canopy", note = "tree cover" }
 WordHunterWoW_Dictionary_FR["canot"] = { word = "canot", translation = "canoe", note = "small open boat" }
 WordHunterWoW_Dictionary_FR["canotage"] = { word = "canotage", translation = "boating", note = "" }
-WordHunterWoW_Dictionary_FR["canots"] = { word = "canots", translation = "canoes", note = "" }
+WordHunterWoW_Dictionary_FR["canots"] = { word = "canots", translation = "canoes", note = "small boats" }
 WordHunterWoW_Dictionary_FR["canoë"] = { word = "canoë", translation = "canoe", note = "" }
 WordHunterWoW_Dictionary_FR["canoës"] = { word = "canoës", translation = "canoes", note = "" }
 WordHunterWoW_Dictionary_FR["cantabilien"] = { word = "cantabilien", translation = "Cantabilian", note = "" }
 WordHunterWoW_Dictionary_FR["cantine"] = { word = "cantine", translation = "canteen", note = "canteen or mess hall; dining quarters" }
 WordHunterWoW_Dictionary_FR["cantines"] = { word = "cantines", translation = "canteens", note = "" }
 WordHunterWoW_Dictionary_FR["cantonnaient"] = { word = "cantonnaient", translation = "confined", note = "" }
-WordHunterWoW_Dictionary_FR["cantonner"] = { word = "cantonner", translation = "confine", note = "" }
+WordHunterWoW_Dictionary_FR["cantonner"] = { word = "cantonner", translation = "confine", note = "to restrict to area" }
 WordHunterWoW_Dictionary_FR["cantonné"] = { word = "cantonné", translation = "quartered", note = "quartered or stationed; confined to a tower" }
-WordHunterWoW_Dictionary_FR["cantonnée"] = { word = "cantonnée", translation = "confined", note = "" }
+WordHunterWoW_Dictionary_FR["cantonnée"] = { word = "cantonnée", translation = "confined", note = "restricted to area" }
 WordHunterWoW_Dictionary_FR["cantonnées"] = { word = "cantonnées", translation = "confined", note = "" }
 WordHunterWoW_Dictionary_FR["cantonnés"] = { word = "cantonnés", translation = "confined", note = "confined or stationed; the Burning Legion forces confined to specific areas" }
 WordHunterWoW_Dictionary_FR["canyon"] = { word = "canyon", translation = "canyon", note = "same in both languages; geological formation" }
@@ -6453,7 +6453,7 @@ WordHunterWoW_Dictionary_FR["capacitorium"] = { word = "Capacitorium", translati
 WordHunterWoW_Dictionary_FR["capacitus"] = { word = "Capacitus", translation = "Capacity", note = "" }
 WordHunterWoW_Dictionary_FR["capacité"] = { word = "capacité", translation = "ability; capacity", note = "skill or capability" }
 WordHunterWoW_Dictionary_FR["capacités"] = { word = "capacités", translation = "abilities", note = "plural of capacité; powers or competencies" }
-WordHunterWoW_Dictionary_FR["caparaçon"] = { word = "caparaçon", translation = "caparison", note = "" }
+WordHunterWoW_Dictionary_FR["caparaçon"] = { word = "caparaçon", translation = "caparison", note = "decorative horse armor" }
 WordHunterWoW_Dictionary_FR["caparaçons"] = { word = "caparaçons", translation = "caparisons", note = "" }
 WordHunterWoW_Dictionary_FR["capaz"] = { word = "capaz", translation = "capaz", note = "" }
 WordHunterWoW_Dictionary_FR["cape"] = { word = "cape", translation = "cloak; cape", note = "garment; robe; long outer garment" }
@@ -6480,7 +6480,7 @@ WordHunterWoW_Dictionary_FR["capitulé"] = { word = "capitulé", translation = "
 WordHunterWoW_Dictionary_FR["capon"] = { word = "capon", translation = "capon", note = "" }
 WordHunterWoW_Dictionary_FR["caporal"] = { word = "caporal", translation = "corporal", note = "military rank; subordinate officer" }
 WordHunterWoW_Dictionary_FR["capot"] = { word = "capot", translation = "hood", note = "" }
-WordHunterWoW_Dictionary_FR["capoter"] = { word = "capoter", translation = "overturn", note = "" }
+WordHunterWoW_Dictionary_FR["capoter"] = { word = "capoter", translation = "overturn", note = "to capsize" }
 WordHunterWoW_Dictionary_FR["caprice"] = { word = "caprice", translation = "caprice", note = "Latin cognate; a sudden whim or change of mind" }
 WordHunterWoW_Dictionary_FR["caprices"] = { word = "caprices", translation = "whims; caprices; fancies", note = "plural noun; sudden desires or moods" }
 WordHunterWoW_Dictionary_FR["capricieuse"] = { word = "capricieuse", translation = "capricious", note = "" }
@@ -6494,7 +6494,7 @@ WordHunterWoW_Dictionary_FR["capteur"] = { word = "capteur", translation = "sens
 WordHunterWoW_Dictionary_FR["capteurs"] = { word = "capteurs", translation = "sensors", note = "devices that detect something" }
 WordHunterWoW_Dictionary_FR["captif"] = { word = "captif", translation = "captive", note = "captif: prisoner, confined" }
 WordHunterWoW_Dictionary_FR["captifs"] = { word = "captifs", translation = "captives", note = "prisoners or enslaved people; plural masculine" }
-WordHunterWoW_Dictionary_FR["captivant"] = { word = "captivant", translation = "captivating", note = "" }
+WordHunterWoW_Dictionary_FR["captivant"] = { word = "captivant", translation = "captivating", note = "fascinating" }
 WordHunterWoW_Dictionary_FR["captivante"] = { word = "captivante", translation = "captivating", note = "" }
 WordHunterWoW_Dictionary_FR["captivantes"] = { word = "captivantes", translation = "captivating", note = "" }
 WordHunterWoW_Dictionary_FR["captive"] = { word = "captive", translation = "captive", note = "held prisoner or in bondage" }
@@ -6511,11 +6511,11 @@ WordHunterWoW_Dictionary_FR["captures"] = { word = "captures", translation = "ca
 WordHunterWoW_Dictionary_FR["capturez"] = { word = "Capturez", translation = "Capture; seize", note = "imperative/command form" }
 WordHunterWoW_Dictionary_FR["capturez-en"] = { word = "Capturez-en", translation = "Capture some", note = "imperative with en particle; capture some of them" }
 WordHunterWoW_Dictionary_FR["capturez-la"] = { word = "capturez-la", translation = "capture her", note = "" }
-WordHunterWoW_Dictionary_FR["capturez-le"] = { word = "capturez-le", translation = "capture it", note = "" }
+WordHunterWoW_Dictionary_FR["capturez-le"] = { word = "capturez-le", translation = "capture it", note = "imperative; seize it" }
 WordHunterWoW_Dictionary_FR["capturez-les"] = { word = "Capturez-les", translation = "Capture them", note = "" }
 WordHunterWoW_Dictionary_FR["capturiez"] = { word = "capturiez", translation = "captured", note = "conditional: were capturing" }
 WordHunterWoW_Dictionary_FR["capturions"] = { word = "capturions", translation = "let's capture", note = "" }
-WordHunterWoW_Dictionary_FR["capturons"] = { word = "capturons", translation = "let's capture", note = "" }
+WordHunterWoW_Dictionary_FR["capturons"] = { word = "capturons", translation = "let's capture", note = "first person imperative" }
 WordHunterWoW_Dictionary_FR["capturâme"] = { word = "capturâme", translation = "captured soul", note = "" }
 WordHunterWoW_Dictionary_FR["capturé"] = { word = "capturé", translation = "captured", note = "taken prisoner" }
 WordHunterWoW_Dictionary_FR["capturée"] = { word = "capturée", translation = "captured", note = "taken prisoner; feminine past participle" }
@@ -6544,7 +6544,7 @@ WordHunterWoW_Dictionary_FR["caractéristiques"] = { word = "caractéristiques",
 WordHunterWoW_Dictionary_FR["carafe"] = { word = "carafe", translation = "carafe", note = "" }
 WordHunterWoW_Dictionary_FR["carapace"] = { word = "carapace", translation = "shell", note = "hard shell; protective covering of creatures" }
 WordHunterWoW_Dictionary_FR["carapaces"] = { word = "carapaces", translation = "shells", note = "carapace: hard outer covering" }
-WordHunterWoW_Dictionary_FR["carapalunes"] = { word = "carapalunes", translation = "carapalunes", note = "" }
+WordHunterWoW_Dictionary_FR["carapalunes"] = { word = "carapalunes", translation = "carapalunes", note = "a creature type" }
 WordHunterWoW_Dictionary_FR["carapate"] = { word = "carapate", translation = "carapate", note = "" }
 WordHunterWoW_Dictionary_FR["carapatent"] = { word = "carapatent", translation = "carapatent", note = "" }
 WordHunterWoW_Dictionary_FR["carapater"] = { word = "carapater", translation = "carapater", note = "" }
@@ -6560,11 +6560,11 @@ WordHunterWoW_Dictionary_FR["carbonisé"] = { word = "carbonisé", translation =
 WordHunterWoW_Dictionary_FR["carbonisée"] = { word = "carbonisée", translation = "charred", note = "" }
 WordHunterWoW_Dictionary_FR["carbonisés"] = { word = "carbonisés", translation = "charred", note = "" }
 WordHunterWoW_Dictionary_FR["carburant"] = { word = "carburant", translation = "fuel; propellant", note = "combustible for engines" }
-WordHunterWoW_Dictionary_FR["carburants"] = { word = "carburants", translation = "fuels", note = "" }
+WordHunterWoW_Dictionary_FR["carburants"] = { word = "carburants", translation = "fuels", note = "energy substances" }
 WordHunterWoW_Dictionary_FR["carburer"] = { word = "carburer", translation = "fuel", note = "" }
 WordHunterWoW_Dictionary_FR["carburologie"] = { word = "Carburologie", translation = "Carburology", note = "" }
 WordHunterWoW_Dictionary_FR["carcan"] = { word = "carcan", translation = "straightjacket", note = "" }
-WordHunterWoW_Dictionary_FR["carcans"] = { word = "carcans", translation = "straitjackets", note = "" }
+WordHunterWoW_Dictionary_FR["carcans"] = { word = "carcans", translation = "shackles", note = "restraining devices" }
 WordHunterWoW_Dictionary_FR["carcasse"] = { word = "carcasse", translation = "carcass", note = "carcass or skeleton; remains" }
 WordHunterWoW_Dictionary_FR["carcasses"] = { word = "carcasses", translation = "carcasses; remains", note = "dead bodies of beasts; plural of carcasse" }
 WordHunterWoW_Dictionary_FR["carcaxas"] = { word = "Carcaxas", translation = "Carcaxas", note = "" }
@@ -6584,20 +6584,20 @@ WordHunterWoW_Dictionary_FR["cargaison"] = { word = "cargaison", translation = "
 WordHunterWoW_Dictionary_FR["cargaisons"] = { word = "cargaisons", translation = "cargo", note = "goods transported; can be singular in sense despite plural form" }
 WordHunterWoW_Dictionary_FR["cargo"] = { word = "cargo", translation = "cargo", note = "" }
 WordHunterWoW_Dictionary_FR["caria"] = { word = "Caria", translation = "Caria", note = "" }
-WordHunterWoW_Dictionary_FR["caribou"] = { word = "caribou", translation = "caribou", note = "" }
+WordHunterWoW_Dictionary_FR["caribou"] = { word = "caribou", translation = "caribou", note = "large arctic deer" }
 WordHunterWoW_Dictionary_FR["caribous"] = { word = "caribous", translation = "caribou", note = "reindeer; English uses same form for singular and plural" }
 WordHunterWoW_Dictionary_FR["caricature"] = { word = "caricature", translation = "caricature", note = "" }
 WordHunterWoW_Dictionary_FR["carillon"] = { word = "carillon", translation = "carillon", note = "" }
 WordHunterWoW_Dictionary_FR["carillons"] = { word = "carillons", translation = "chimes", note = "" }
 WordHunterWoW_Dictionary_FR["caris"] = { word = "Caris", translation = "Caris", note = "" }
-WordHunterWoW_Dictionary_FR["carlin"] = { word = "Carlin", translation = "Pug", note = "" }
+WordHunterWoW_Dictionary_FR["carlin"] = { word = "Carlin", translation = "pug", note = "pug dog breed" }
 WordHunterWoW_Dictionary_FR["carlingue"] = { word = "carlingue", translation = "cabin", note = "" }
 WordHunterWoW_Dictionary_FR["carlisle"] = { word = "Carlisle", translation = "Carlisle", note = "" }
 WordHunterWoW_Dictionary_FR["carlo"] = { word = "Carlo", translation = "Squidward", note = "" }
 WordHunterWoW_Dictionary_FR["carmines"] = { word = "Carmines", translation = "Carmines", note = "WoW proper name" }
 WordHunterWoW_Dictionary_FR["carnage"] = { word = "carnage", translation = "carnage", note = "noun" }
 WordHunterWoW_Dictionary_FR["carnages"] = { word = "carnages", translation = "carnage", note = "" }
-WordHunterWoW_Dictionary_FR["carnassier"] = { word = "carnassier", translation = "carnivorous", note = "" }
+WordHunterWoW_Dictionary_FR["carnassier"] = { word = "carnassier", translation = "carnivorous", note = "meat-eating" }
 WordHunterWoW_Dictionary_FR["carnassières"] = { word = "carnassières", translation = "predatory", note = "" }
 WordHunterWoW_Dictionary_FR["carnet"] = { word = "carnet", translation = "notebook", note = "small bound book" }
 WordHunterWoW_Dictionary_FR["carnivore"] = { word = "carnivore", translation = "carnivore", note = "carnivorous animal; the fierce carnivorous fish Stonegut" }
@@ -6625,7 +6625,7 @@ WordHunterWoW_Dictionary_FR["cartel"] = { word = "cartel", translation = "cartel
 WordHunterWoW_Dictionary_FR["cartels"] = { word = "cartels", translation = "cartels", note = "cartels, syndicates; criminal organizations" }
 WordHunterWoW_Dictionary_FR["carter"] = { word = "carter", translation = "carter", note = "" }
 WordHunterWoW_Dictionary_FR["cartes"] = { word = "cartes", translation = "maps", note = "context: maritime maps (NOT 'cards')" }
-WordHunterWoW_Dictionary_FR["cartographe"] = { word = "cartographe", translation = "cartographer", note = "" }
+WordHunterWoW_Dictionary_FR["cartographe"] = { word = "cartographe", translation = "cartographer", note = "map-maker" }
 WordHunterWoW_Dictionary_FR["cartographes"] = { word = "cartographes", translation = "cartographers", note = "" }
 WordHunterWoW_Dictionary_FR["cartographiaient"] = { word = "cartographiaient", translation = "mapped", note = "" }
 WordHunterWoW_Dictionary_FR["cartographie"] = { word = "cartographie", translation = "cartography", note = "" }
@@ -6633,17 +6633,17 @@ WordHunterWoW_Dictionary_FR["cartographier"] = { word = "cartographier", transla
 WordHunterWoW_Dictionary_FR["cartographiées"] = { word = "cartographiées", translation = "mapped", note = "" }
 WordHunterWoW_Dictionary_FR["carton"] = { word = "carton", translation = "cardboard", note = "the material or a box made from cardboard" }
 WordHunterWoW_Dictionary_FR["cartonner"] = { word = "cartonner", translation = "cardboard", note = "" }
-WordHunterWoW_Dictionary_FR["cartons"] = { word = "cartons", translation = "cardboard boxes", note = "" }
+WordHunterWoW_Dictionary_FR["cartons"] = { word = "cartons", translation = "cardboard boxes", note = "boxes or containers" }
 WordHunterWoW_Dictionary_FR["cartouche"] = { word = "cartouche", translation = "cartridge", note = "" }
 WordHunterWoW_Dictionary_FR["cartouches"] = { word = "cartouches", translation = "cartridges", note = "ammunition containers; also an ornamental frame in art" }
 WordHunterWoW_Dictionary_FR["carvo"] = { word = "Carvo", translation = "Carvo", note = "" }
-WordHunterWoW_Dictionary_FR["caryssia"] = { word = "Caryssia", translation = "Carysia", note = "" }
+WordHunterWoW_Dictionary_FR["caryssia"] = { word = "Caryssia", translation = "Caryssia", note = "proper name" }
 WordHunterWoW_Dictionary_FR["cas"] = { word = "cas", translation = "case", note = "instance or circumstance; en cas de = in case of" }
-WordHunterWoW_Dictionary_FR["cas-là"] = { word = "cas-là", translation = "case", note = "" }
+WordHunterWoW_Dictionary_FR["cas-là"] = { word = "cas-là", translation = "case", note = "this case or situation" }
 WordHunterWoW_Dictionary_FR["cas-par-cas"] = { word = "cas-par-cas", translation = "case-by-case", note = "" }
 WordHunterWoW_Dictionary_FR["cascade"] = { word = "cascade", translation = "cascade; chain", note = "waterfall or chain of events; from Italian" }
 WordHunterWoW_Dictionary_FR["cascades"] = { word = "cascades", translation = "waterfalls", note = "series of falls or torrents" }
-WordHunterWoW_Dictionary_FR["case"] = { word = "case", translation = "box", note = "" }
+WordHunterWoW_Dictionary_FR["case"] = { word = "case", translation = "box", note = "square or compartment" }
 WordHunterWoW_Dictionary_FR["caserne"] = { word = "caserne", translation = "barracks", note = "military quarters; fort" }
 WordHunterWoW_Dictionary_FR["casernes"] = { word = "casernes", translation = "barracks", note = "" }
 WordHunterWoW_Dictionary_FR["cases"] = { word = "cases", translation = "boxes", note = "" }
@@ -6676,12 +6676,12 @@ WordHunterWoW_Dictionary_FR["casse-terre"] = { word = "casse-terre", translation
 WordHunterWoW_Dictionary_FR["casse-tête"] = { word = "casse-tête", translation = "puzzle; headache", note = "difficult problem or exercise" }
 WordHunterWoW_Dictionary_FR["cassebouche"] = { word = "Cassebouche", translation = "Cassebouche", note = "" }
 WordHunterWoW_Dictionary_FR["cassecrânes"] = { word = "cassecrânes", translation = "skullcrackers", note = "" }
-WordHunterWoW_Dictionary_FR["cassent"] = { word = "cassent", translation = "break", note = "" }
+WordHunterWoW_Dictionary_FR["cassent"] = { word = "cassent", translation = "break", note = "to snap or fracture" }
 WordHunterWoW_Dictionary_FR["casser"] = { word = "casser", translation = "break; smash; crack", note = "to break into pieces; to shatter" }
 WordHunterWoW_Dictionary_FR["cassera"] = { word = "cassera", translation = "will break", note = "" }
 WordHunterWoW_Dictionary_FR["casserole"] = { word = "casserole", translation = "pan", note = "" }
 WordHunterWoW_Dictionary_FR["casseroles"] = { word = "casseroles", translation = "saucepans", note = "" }
-WordHunterWoW_Dictionary_FR["casses-crânes"] = { word = "Casses-crânes", translation = "Skull Crackers", note = "" }
+WordHunterWoW_Dictionary_FR["casses-crânes"] = { word = "Casses-crânes", translation = "Skull Crackers", note = "literally skull-crackers" }
 WordHunterWoW_Dictionary_FR["cassette"] = { word = "cassette", translation = "cassette", note = "" }
 WordHunterWoW_Dictionary_FR["casseurs"] = { word = "casseurs", translation = "breakers", note = "" }
 WordHunterWoW_Dictionary_FR["cassez"] = { word = "cassez", translation = "break", note = "imperative form" }
@@ -6734,29 +6734,29 @@ WordHunterWoW_Dictionary_FR["cauchemarais"] = { word = "Cauchemarais", translati
 WordHunterWoW_Dictionary_FR["cauchemardesque"] = { word = "cauchemardesque", translation = "nightmarish", note = "like a bad dream" }
 WordHunterWoW_Dictionary_FR["cauchemardesques"] = { word = "cauchemardesques", translation = "nightmarish", note = "resembling a nightmare" }
 WordHunterWoW_Dictionary_FR["cauchemars"] = { word = "cauchemars", translation = "nightmares", note = "nightmares; bad dreams" }
-WordHunterWoW_Dictionary_FR["cauchemâchoire"] = { word = "Cauchemâchoire", translation = "Nightjaw", note = "" }
-WordHunterWoW_Dictionary_FR["caudépine"] = { word = "caudépine", translation = "caudepine", note = "" }
+WordHunterWoW_Dictionary_FR["cauchemâchoire"] = { word = "Cauchemâchoire", translation = "Nightjaw", note = "literally nightmare-jaw" }
+WordHunterWoW_Dictionary_FR["caudépine"] = { word = "caudépine", translation = "caudepine", note = "a creature type" }
 WordHunterWoW_Dictionary_FR["caudépines"] = { word = "caudépines", translation = "tailspikes; caudal spikes", note = "caud (tail) + épines (spikes); creatures distinct from ardospines" }
 WordHunterWoW_Dictionary_FR["causa"] = { word = "causa", translation = "caused", note = "" }
 WordHunterWoW_Dictionary_FR["causaient"] = { word = "causaient", translation = "were causing", note = "" }
 WordHunterWoW_Dictionary_FR["causalité"] = { word = "causalité", translation = "causality", note = "" }
 WordHunterWoW_Dictionary_FR["causalités"] = { word = "causalités", translation = "causalities", note = "" }
-WordHunterWoW_Dictionary_FR["causant"] = { word = "causant", translation = "causing", note = "" }
+WordHunterWoW_Dictionary_FR["causant"] = { word = "causant", translation = "causing", note = "from causer" }
 WordHunterWoW_Dictionary_FR["cause"] = { word = "cause", translation = "cause", note = "reason or origin; à cause de = because of" }
 WordHunterWoW_Dictionary_FR["causent"] = { word = "causent", translation = "cause", note = "causer: to bring about" }
 WordHunterWoW_Dictionary_FR["causer"] = { word = "causer", translation = "cause; bring about", note = "infinitive; to cause/create/produce something" }
 WordHunterWoW_Dictionary_FR["causera"] = { word = "causera", translation = "will cause", note = "future tense" }
 WordHunterWoW_Dictionary_FR["causeraient"] = { word = "causeraient", translation = "would cause", note = "" }
-WordHunterWoW_Dictionary_FR["causerait"] = { word = "causerait", translation = "would cause", note = "" }
+WordHunterWoW_Dictionary_FR["causerait"] = { word = "causerait", translation = "would cause", note = "conditional" }
 WordHunterWoW_Dictionary_FR["causeront"] = { word = "causeront", translation = "will cause", note = "" }
 WordHunterWoW_Dictionary_FR["causes"] = { word = "causes", translation = "causes", note = "reasons or factors that produce effects" }
 WordHunterWoW_Dictionary_FR["causette"] = { word = "causette", translation = "chat", note = "" }
-WordHunterWoW_Dictionary_FR["causez"] = { word = "causez", translation = "cause", note = "" }
+WordHunterWoW_Dictionary_FR["causez"] = { word = "causez", translation = "cause", note = "imperative" }
 WordHunterWoW_Dictionary_FR["causticaire"] = { word = "Causticaire", translation = "Causticary", note = "" }
 WordHunterWoW_Dictionary_FR["caustique"] = { word = "caustique", translation = "caustic", note = "" }
 WordHunterWoW_Dictionary_FR["caustiques"] = { word = "caustiques", translation = "caustic", note = "" }
 WordHunterWoW_Dictionary_FR["causé"] = { word = "causé", translation = "caused", note = "past participle" }
-WordHunterWoW_Dictionary_FR["causée"] = { word = "causée", translation = "caused", note = "" }
+WordHunterWoW_Dictionary_FR["causée"] = { word = "causée", translation = "caused", note = "past participle" }
 WordHunterWoW_Dictionary_FR["causées"] = { word = "causées", translation = "caused", note = "" }
 WordHunterWoW_Dictionary_FR["causés"] = { word = "causés", translation = "caused", note = "causé: produced, created" }
 WordHunterWoW_Dictionary_FR["caution"] = { word = "caution", translation = "deposit", note = "" }
@@ -6783,10 +6783,10 @@ WordHunterWoW_Dictionary_FR["cavepierre"] = { word = "Cavepierre", translation =
 WordHunterWoW_Dictionary_FR["caverne"] = { word = "caverne", translation = "cave; cavern", note = "underground chamber" }
 WordHunterWoW_Dictionary_FR["cavernes"] = { word = "cavernes", translation = "caverns", note = "caves" }
 WordHunterWoW_Dictionary_FR["caverneuse"] = { word = "caverneuse", translation = "cavernous", note = "" }
-WordHunterWoW_Dictionary_FR["caverneux"] = { word = "caverneux", translation = "cavernous", note = "" }
+WordHunterWoW_Dictionary_FR["caverneux"] = { word = "caverneux", translation = "cavernous", note = "huge and hollow" }
 WordHunterWoW_Dictionary_FR["cavernickel"] = { word = "Cavernickel", translation = "Cavernickel", note = "" }
-WordHunterWoW_Dictionary_FR["cavernicole"] = { word = "cavernicole", translation = "cavernous", note = "" }
-WordHunterWoW_Dictionary_FR["cavernicoles"] = { word = "cavernicoles", translation = "cave-dwellers", note = "" }
+WordHunterWoW_Dictionary_FR["cavernicole"] = { word = "cavernicole", translation = "cave-dwelling", note = "living in caves" }
+WordHunterWoW_Dictionary_FR["cavernicoles"] = { word = "cavernicoles", translation = "cave-dwellers", note = "creatures in caves" }
 WordHunterWoW_Dictionary_FR["caves"] = { word = "caves", translation = "cellars", note = "underground chambers or dungeons; can mean caves or vaults" }
 WordHunterWoW_Dictionary_FR["caviar"] = { word = "caviar", translation = "caviar", note = "" }
 WordHunterWoW_Dictionary_FR["cavin"] = { word = "Cavin", translation = "Cavin", note = "" }
@@ -6798,7 +6798,7 @@ WordHunterWoW_Dictionary_FR["cayden"] = { word = "Cayden", translation = "Cayden
 WordHunterWoW_Dictionary_FR["caylais"] = { word = "Caylais", translation = "Caylais", note = "" }
 WordHunterWoW_Dictionary_FR["caylee"] = { word = "Caylee", translation = "Caylee", note = "" }
 WordHunterWoW_Dictionary_FR["caz"] = { word = "Caz", translation = "Cáz", note = "" }
-WordHunterWoW_Dictionary_FR["caza"] = { word = "caza", translation = "caza", note = "" }
+WordHunterWoW_Dictionary_FR["caza"] = { word = "caza", translation = "caza", note = "hunting (Spanish)" }
 WordHunterWoW_Dictionary_FR["caza’rez"] = { word = "Caza’rez", translation = "Caza’rez", note = "" }
 WordHunterWoW_Dictionary_FR["caïd"] = { word = "caïd", translation = "boss", note = "from Arabic; a leader or chief; informal in modern usage" }
 WordHunterWoW_Dictionary_FR["caïds"] = { word = "caïds", translation = "bosses", note = "" }
@@ -6851,7 +6851,7 @@ WordHunterWoW_Dictionary_FR["cendreuse"] = { word = "cendreuse", translation = "
 WordHunterWoW_Dictionary_FR["cendreux"] = { word = "cendreux", translation = "ash", note = "" }
 WordHunterWoW_Dictionary_FR["cendrir"] = { word = "Cendrir", translation = "Ash", note = "" }
 WordHunterWoW_Dictionary_FR["cendréaume"] = { word = "Cendréaume", translation = "Cindereaum", note = "" }
-WordHunterWoW_Dictionary_FR["cendréclat"] = { word = "Cendréclat", translation = "Ashburst", note = "" }
+WordHunterWoW_Dictionary_FR["cendréclat"] = { word = "Cendréclat", translation = "Ashburst", note = "literally ash-burst" }
 WordHunterWoW_Dictionary_FR["cendrécraz"] = { word = "Cendrécraz", translation = "Cendrecraz", note = "proper name (spelling correction)" }
 WordHunterWoW_Dictionary_FR["cendrés"] = { word = "Cendrés", translation = "ash-colored", note = "plural: ash-gray colored chickens" }
 WordHunterWoW_Dictionary_FR["censure"] = { word = "censure", translation = "censorship", note = "" }
@@ -6869,7 +6869,7 @@ WordHunterWoW_Dictionary_FR["centauresse"] = { word = "Centauresse", translation
 WordHunterWoW_Dictionary_FR["centauresses"] = { word = "Centauresses", translation = "Centauresses", note = "" }
 WordHunterWoW_Dictionary_FR["centenaire"] = { word = "centenaire", translation = "centenary", note = "" }
 WordHunterWoW_Dictionary_FR["centimètre"] = { word = "centimètre", translation = "centimeter", note = "" }
-WordHunterWoW_Dictionary_FR["centimètres"] = { word = "centimètres", translation = "centimeters", note = "" }
+WordHunterWoW_Dictionary_FR["centimètres"] = { word = "centimètres", translation = "centimeters", note = "metric units" }
 WordHunterWoW_Dictionary_FR["centipaar"] = { word = "centipaar", translation = "centipaar", note = "" }
 WordHunterWoW_Dictionary_FR["centipoche"] = { word = "Centipoche", translation = "Centipoche", note = "" }
 WordHunterWoW_Dictionary_FR["central"] = { word = "central", translation = "central", note = "at or forming the center; middle location" }
@@ -6888,7 +6888,7 @@ WordHunterWoW_Dictionary_FR["centurions"] = { word = "centurions", translation =
 WordHunterWoW_Dictionary_FR["cen’gar"] = { word = "Cen’gar", translation = "Cen’gar", note = "" }
 WordHunterWoW_Dictionary_FR["cependant"] = { word = "Cependant", translation = "However", note = "however; yet" }
 WordHunterWoW_Dictionary_FR["cerbères"] = { word = "cerbères", translation = "cerberus", note = "" }
-WordHunterWoW_Dictionary_FR["cerca"] = { word = "cerca", translation = "cerca", note = "" }
+WordHunterWoW_Dictionary_FR["cerca"] = { word = "cerca", translation = "cerca", note = "near or close (Spanish)" }
 WordHunterWoW_Dictionary_FR["cerceau"] = { word = "CERCEAU", translation = "HOOP", note = "" }
 WordHunterWoW_Dictionary_FR["cerceaux"] = { word = "cerceaux", translation = "hoops", note = "" }
 WordHunterWoW_Dictionary_FR["cercle"] = { word = "Cercle", translation = "circle", note = "group; proper name in context" }
@@ -6917,7 +6917,7 @@ WordHunterWoW_Dictionary_FR["certaines"] = { word = "certaines", translation = "
 WordHunterWoW_Dictionary_FR["certains"] = { word = "certains", translation = "some; certain", note = "certain people" }
 WordHunterWoW_Dictionary_FR["certes"] = { word = "certes", translation = "certainly; indeed", note = "formal affirmation; certainly true" }
 WordHunterWoW_Dictionary_FR["certif"] = { word = "Certif", translation = "Certificate", note = "" }
-WordHunterWoW_Dictionary_FR["certifiant"] = { word = "certifiant", translation = "certifier", note = "" }
+WordHunterWoW_Dictionary_FR["certifiant"] = { word = "certifiant", translation = "certifying", note = "confirming or attesting" }
 WordHunterWoW_Dictionary_FR["certifié"] = { word = "certifié", translation = "certified", note = "officially confirmed" }
 WordHunterWoW_Dictionary_FR["certifiées"] = { word = "certifiées", translation = "certified", note = "" }
 WordHunterWoW_Dictionary_FR["certitude"] = { word = "certitude", translation = "certainty", note = "certainty or surety" }
@@ -6926,7 +6926,7 @@ WordHunterWoW_Dictionary_FR["cerveau"] = { word = "cerveau", translation = "brai
 WordHunterWoW_Dictionary_FR["cerveaux"] = { word = "cerveaux", translation = "brains", note = "brains or minds; plural noun" }
 WordHunterWoW_Dictionary_FR["cervelle"] = { word = "cervelle", translation = "brains; sense", note = "literal brain or figurative sense/intelligence; colloquial usage" }
 WordHunterWoW_Dictionary_FR["cervelles"] = { word = "cervelles", translation = "brains", note = "the organ; also used as insult like 'bird-brains' in context" }
-WordHunterWoW_Dictionary_FR["cervidé"] = { word = "cervidé", translation = "deer", note = "" }
+WordHunterWoW_Dictionary_FR["cervidé"] = { word = "cervidé", translation = "deer", note = "of deer family" }
 WordHunterWoW_Dictionary_FR["cervidés"] = { word = "cervidés", translation = "deer", note = "" }
 WordHunterWoW_Dictionary_FR["ces"] = { word = "ces", translation = "these; those", note = "demonstrative adjective plural" }
 WordHunterWoW_Dictionary_FR["cessaient"] = { word = "cessaient", translation = "stopped", note = "" }
