@@ -27641,7 +27641,7 @@ WordHunterWoW_Dictionary_FR["j’élevais"] = { word = "j’élevais", translati
 WordHunterWoW_Dictionary_FR["j’élimine"] = { word = "j’élimine", translation = "I eliminate", note = "" }
 WordHunterWoW_Dictionary_FR["j’élève"] = { word = "J’élève", translation = "I raise", note = "elision je; present tense; nurture or lift up" }
 WordHunterWoW_Dictionary_FR["j’émettrais"] = { word = "j’émettrais", translation = "I would emit", note = "" }
-WordHunterWoW_Dictionary_FR["j’éprouve"] = { word = "J’éprouve", translation = "I experience", note = "" }
+WordHunterWoW_Dictionary_FR["j’éprouve"] = { word = "J’éprouve", translation = "I experience", note = "elision of je; present tense" }
 WordHunterWoW_Dictionary_FR["j’éradiquerais"] = { word = "j’éradiquerais", translation = "I would eradicate", note = "" }
 WordHunterWoW_Dictionary_FR["j’établirai"] = { word = "j’établirai", translation = "I will establish", note = "" }
 WordHunterWoW_Dictionary_FR["j’étais"] = { word = "j’étais", translation = "I was", note = "imperfect tense; elision: je + étais" }
@@ -28007,7 +28007,7 @@ WordHunterWoW_Dictionary_FR["kilt"] = { word = "kilt", translation = "kilt", not
 WordHunterWoW_Dictionary_FR["kil’jaeden"] = { word = "Kil’jaeden", translation = "Kil’jaeden", note = "demon lord name" }
 WordHunterWoW_Dictionary_FR["kil’karrok"] = { word = "Kil’karrok", translation = "Kil’karrok", note = "" }
 WordHunterWoW_Dictionary_FR["kil’ruk"] = { word = "Kil’ruk", translation = "Kil’ruk", note = "" }
-WordHunterWoW_Dictionary_FR["kil’uun"] = { word = "Kil’uun", translation = "Kil’uun", note = "" }
+WordHunterWoW_Dictionary_FR["kil’uun"] = { word = "Kil’uun", translation = "Kil'uun", note = "" }
 WordHunterWoW_Dictionary_FR["kimbul"] = { word = "Kimbul", translation = "Kimbul", note = "Loa (spirit) name; tiger Loa" }
 WordHunterWoW_Dictionary_FR["kimchi"] = { word = "kimchi", translation = "kimchi", note = "Korean fermented vegetable dish; loanword" }
 WordHunterWoW_Dictionary_FR["kimchtrip"] = { word = "Kimchtrip", translation = "Kimchtrip", note = "" }
@@ -28168,11 +28168,11 @@ WordHunterWoW_Dictionary_FR["korvexxis"] = { word = "Korvexxis", translation = "
 WordHunterWoW_Dictionary_FR["kory"] = { word = "Kory", translation = "Kory", note = "" }
 WordHunterWoW_Dictionary_FR["kor’gall"] = { word = "Kor’gall", translation = "Kor'gall", note = "" }
 WordHunterWoW_Dictionary_FR["kor’ik"] = { word = "Kor’ik", translation = "Kor’ik", note = "" }
-WordHunterWoW_Dictionary_FR["kor’kron"] = { word = "kor’kron", translation = "kor'kron", note = "" }
+WordHunterWoW_Dictionary_FR["kor’kron"] = { word = "kor’kron", translation = "Kor'kron", note = "faction name" }
 WordHunterWoW_Dictionary_FR["kor’kronne"] = { word = "kor’kronne", translation = "kor'kronne", note = "" }
 WordHunterWoW_Dictionary_FR["kor’kronnes"] = { word = "kor’kronnes", translation = "kor’kronnes", note = "" }
-WordHunterWoW_Dictionary_FR["kor’krons"] = { word = "kor’krons", translation = "kor'krons", note = "" }
-WordHunterWoW_Dictionary_FR["kor’thik"] = { word = "kor’thik", translation = "kor’thik", note = "" }
+WordHunterWoW_Dictionary_FR["kor’krons"] = { word = "kor’krons", translation = "Kor'krons", note = "plural of Kor'kron" }
+WordHunterWoW_Dictionary_FR["kor’thik"] = { word = "kor’thik", translation = "Kor'thik", note = "race descriptor" }
 WordHunterWoW_Dictionary_FR["kor’vas"] = { word = "Kor’vas", translation = "Kor’vas", note = "" }
 WordHunterWoW_Dictionary_FR["kor’vasss"] = { word = "Kor’vasss", translation = "Kor’vasss", note = "NPC name" }
 WordHunterWoW_Dictionary_FR["kor’vess"] = { word = "Kor’vess", translation = "Kor'vess", note = "NPC or creature name, kept as-is" }
@@ -28326,7 +28326,7 @@ WordHunterWoW_Dictionary_FR["kultirassienne"] = { word = "kultirassienne", trans
 WordHunterWoW_Dictionary_FR["kultirassiennes"] = { word = "kultirassiennes", translation = "kultirassiennes", note = "" }
 WordHunterWoW_Dictionary_FR["kultirassiens"] = { word = "Kultirassiens", translation = "Kultirassians", note = "people from Kul Tiras; proper demonym" }
 WordHunterWoW_Dictionary_FR["kulzi"] = { word = "Kulzi", translation = "Kulzi", note = "NPC healer or assistant" }
-WordHunterWoW_Dictionary_FR["kul’amara"] = { word = "Kul’amara", translation = "Kul’amara", note = "" }
+WordHunterWoW_Dictionary_FR["kul’amara"] = { word = "Kul’amara", translation = "Kul'amara", note = "" }
 WordHunterWoW_Dictionary_FR["kum'uya"] = { word = "Kum'uya", translation = "Kum'uya", note = "location name; lake" }
 WordHunterWoW_Dictionary_FR["kumali"] = { word = "Kumali", translation = "Kumali", note = "" }
 WordHunterWoW_Dictionary_FR["kun"] = { word = "Kun", translation = "Kun", note = "NPC name, kept as-is" }
