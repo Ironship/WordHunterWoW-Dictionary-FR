@@ -138,9 +138,16 @@ def main():
             # laziest in its wave when it was simply a batch full of names.
             if word[:1].isupper() and current.casefold() == word.casefold():
                 continue
-            if (current.casefold() == word.casefold()
+            if not ((current.casefold() == word.casefold())
                     or any(ch in FRENCH_ONLY for ch in current.casefold())):
-                capped += 1
+                continue
+            # Left as it was, but explained. Once an agent correctly decides that
+            # mucus or cosmos is the same word in English, that row stays
+            # suspicious forever and the batch could never pass. A row it left
+            # alone AND said nothing about is the one that was not looked at.
+            if (r.get("note") or "").strip():
+                continue
+            capped += 1
         stats.append((out_path.name, len(rows), changed, noted, bool(broken), capped))
 
     if not stats:
@@ -161,21 +168,33 @@ def main():
         share_ch = rate_ch / med_ch if med_ch else 1
         share_nt = rate_nt / med_nt if med_nt else 1
         rate_cap = capped / max(n, 1)
-        clean = med_cap > 0 and rate_cap < med_cap * 0.5
         why = []
         if broken:
             why.append("blad struktury")
-        if share_ch < args.min_share and share_nt < args.min_share and not clean:
+        # The flat floor assumes every batch is equally broken. Deep in the tail
+        # the words are ordered by rarity and some stretches are almost all
+        # Latin cognates -- mucus, navigation, cosmos, distribution -- where the
+        # existing gloss is correct and changing it would be vandalism. When a
+        # batch has fewer suspicious rows than the floor itself demands, fixing
+        # every one of them still could not reach it, so the floor cannot apply.
+        floor_reachable = rate_cap >= args.min_change_rate
+        if share_ch < args.min_share and share_nt < args.min_share and floor_reachable:
             why.append("ponizej mediany fali")
-        if rate_ch < args.min_change_rate and not clean:
+        if rate_ch < args.min_change_rate and floor_reachable:
             why.append(f"zmian {rate_ch:.0%}")
+        # What always applies: the rows that do look untranslated should mostly
+        # have been touched. A batch with ten such rows that changed none of them
+        # did not look at them, however clean the rest of it was.
+        if capped >= 4 and ch < capped * 0.5:
+            why.append(f"tknieto {ch} z {capped} podejrzanych")
         if rate_nt < args.min_note_rate:
             why.append(f"notatek {rate_nt:.0%}")
         if why:
             suspect.append(name)
-        print(f"  {name}: {n:>3} wierszy, {ch:>3} zmian, {nt:>3} notatek, {capped:>3} nieprzetlumaczonych do sprawdzenia"
+        print(f"  {name}: {n:>3} wierszy, {ch:>3} zmian, {nt:>3} notatek, {capped:>3} bez zmiany i bez notatki   "
               + (f"   <-- PODEJRZANY ({', '.join(why)})" if why
-                 else ("   (wejscie wyglada czysto)" if clean and rate_ch < args.min_change_rate else "")))
+                 else ("   (kognaty, prog niestosowalny)"
+                       if not floor_reachable and rate_ch < args.min_change_rate else "")))
     print(f"\nmediana fali: zmian {med_ch:.0%}, notatek {med_nt:.0%}"
           f" | progi bezwzgledne: zmian {args.min_change_rate:.0%}, notatek {args.min_note_rate:.0%}")
     if suspect:
