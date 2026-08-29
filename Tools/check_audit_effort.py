@@ -132,6 +132,12 @@ def main():
             if (r.get("translation") or "").strip() != current:
                 continue
             word = src[key]["word"]
+            # A capitalised word left as itself is a name -- Farondis, Gormok --
+            # and repeating it is the right answer, not a missed translation.
+            # Counting those made a batch full of NPC names look like the
+            # laziest in its wave when it was simply a batch full of names.
+            if word[:1].isupper() and current.casefold() == word.casefold():
+                continue
             if (current.casefold() == word.casefold()
                     or any(ch in FRENCH_ONLY for ch in current.casefold())):
                 capped += 1
@@ -142,25 +148,34 @@ def main():
         return 0
     med_ch = statistics.median(s[2] / max(s[1], 1) for s in stats)
     med_nt = statistics.median(s[3] / max(s[1], 1) for s in stats)
+    # A low change count means one of two very different things: the agent did
+    # not do the work, or the batch arrived already correct. The suspicious-row
+    # count separates them. A batch with few changes AND few rows that look
+    # untranslated is a clean batch, not a lazy one -- rerunning it only invites
+    # changes made to look busy, which the specification forbids.
+    med_cap = statistics.median(s[5] / max(s[1], 1) for s in stats)
     suspect = []
     for name, n, ch, nt, broken, capped in stats:
         rate_ch = ch / max(n, 1)
         rate_nt = nt / max(n, 1)
         share_ch = rate_ch / med_ch if med_ch else 1
         share_nt = rate_nt / med_nt if med_nt else 1
+        rate_cap = capped / max(n, 1)
+        clean = med_cap > 0 and rate_cap < med_cap * 0.5
         why = []
         if broken:
             why.append("blad struktury")
-        if share_ch < args.min_share and share_nt < args.min_share:
+        if share_ch < args.min_share and share_nt < args.min_share and not clean:
             why.append("ponizej mediany fali")
-        if rate_ch < args.min_change_rate:
+        if rate_ch < args.min_change_rate and not clean:
             why.append(f"zmian {rate_ch:.0%}")
         if rate_nt < args.min_note_rate:
             why.append(f"notatek {rate_nt:.0%}")
         if why:
             suspect.append(name)
         print(f"  {name}: {n:>3} wierszy, {ch:>3} zmian, {nt:>3} notatek, {capped:>3} nieprzetlumaczonych do sprawdzenia"
-              + (f"   <-- PODEJRZANY ({', '.join(why)})" if why else ""))
+              + (f"   <-- PODEJRZANY ({', '.join(why)})" if why
+                 else ("   (wejscie wyglada czysto)" if clean and rate_ch < args.min_change_rate else "")))
     print(f"\nmediana fali: zmian {med_ch:.0%}, notatek {med_nt:.0%}"
           f" | progi bezwzgledne: zmian {args.min_change_rate:.0%}, notatek {args.min_note_rate:.0%}")
     if suspect:
