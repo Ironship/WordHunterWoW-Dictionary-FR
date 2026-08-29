@@ -13,3 +13,10 @@ desktop.ini
 # stray files subagents sometimes leave behind
 scratchpad*
 _check.lua
+# Audit subagents write helper scripts next to the files they are auditing and
+# leave them behind. Tools/ is the only place a real script belongs.
+/*.py
+/*.ps1
+/*.lua
+/*.txt
+!/README.md
