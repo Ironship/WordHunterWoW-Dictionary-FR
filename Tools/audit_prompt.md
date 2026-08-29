@@ -30,8 +30,31 @@ teach the reader something worth knowing.
 {"key":"hurlevent","word":"Hurlevent","translation":"Stormwind","note":"hurle (howls) + vent (wind); the human capital"}
 ```
 
-Write the file with the Write tool. UTF-8, no BOM, no trailing commas, no
-markdown fences, one compact JSON object per line.
+Write the file with the Write tool.
+
+### The file format is where these passes actually fail
+
+Every one of these has happened on this dictionary and each one silently loses
+rows. Check your file against this list before you finish:
+
+- **No byte order mark.** Plain UTF-8.
+- **One object per line.** Nothing after the closing brace: no trailing comma,
+  no `]`, no second object sharing the line, no markdown fence.
+- **Four fields, nothing else.** A bare value with no field name in front of it
+  is a broken line.
+- **The apostrophe is `’` (U+2019), not `'`.** This is the big one: 129 keys in
+  the first wave were written with the plain apostrophe, which would have
+  dropped every elided word in the pack -- `c’est`, `l’eau`, `d’un`, `qu’il`.
+- **Accents and the ligature `œ` stay exactly as given.** `arrachée`, never
+  `arrachee`. `cœur`, never `coeur`.
+
+### Count your own work before you finish
+
+Open your output and count: how many translations differ from `current`, and
+how many rows have a non-empty note. A pass that reports numbers it did not
+achieve is worse than one that reports a low number honestly -- the check that
+follows measures the file, not the claim, and a batch that fails it is rerun
+from scratch.
 
 ## Do both jobs in one pass
 
