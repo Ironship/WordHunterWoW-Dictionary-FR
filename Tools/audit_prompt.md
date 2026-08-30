@@ -97,6 +97,21 @@ word. These are the mistakes it actually made here, measured:
 - **elision misread** — `l’`, `d’`, `qu’`, `j’` are the article or preposition
   with its vowel dropped, not part of the following word.
 
+## The trap that a gate cannot catch
+
+The context sentence is there to disambiguate the word, not to be translated
+with it. Do not fold anything that belongs to the sentence into the entry --
+above all a negation.
+
+A German pass on the same pipeline returned "undelivered" for a participle
+meaning *delivered*, because it had met it in "letters never delivered". The
+dictionary is keyed by the single word: a player clicking it has to see what
+that word means on its own, because the *ne*, the *pas* or the *sans* beside it
+is a separate word they can click for themselves.
+
+The same goes for number, tense and person carried by the sentence rather than
+by the word.
+
 ## translation
 
 - Give the meaning that fits **WoW quest text**, not a dictionary's first entry.

@@ -44,6 +44,24 @@ def load(path):
     return out
 
 
+# A note has to say something. One agent filled 136 of its 150 rows with the
+# single word "yes" and every note-rate check passed it, because the gate only
+# ever asked whether the field was non-empty. These are the answers that mean
+# "I looked at it" rather than telling the reader anything.
+FILLER_NOTES = {
+    "yes", "no", "ok", "okay", "n/a", "na", "none", "-", "--",
+    "audited", "checked", "verified", "correct", "true", "fine", "good",
+    "same", "unchanged", "confirmed", "reviewed", "valid",
+}
+
+
+def has_note(record):
+    note = (record.get("note") or "").strip().rstrip(".").lower()
+    if len(note) <= 3:
+        return False
+    return note not in FILLER_NOTES
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--min-share", type=float, default=0.25,
@@ -116,7 +134,7 @@ def main():
         changed = sum(1 for r in rows
                       if resolve(r) in src
                       and (r.get("translation") or "").strip() != src[resolve(r)]["current"].strip())
-        noted = sum(1 for r in rows if (r.get("note") or "").strip())
+        noted = sum(1 for r in rows if has_note(r))
         # Advisory only. The commonest miss on this dictionary is a word Google
         # handed back untouched -- French in, French out -- which reads as a
         # translation but is not one. A row left unchanged whose gloss is either
@@ -145,7 +163,7 @@ def main():
             # mucus or cosmos is the same word in English, that row stays
             # suspicious forever and the batch could never pass. A row it left
             # alone AND said nothing about is the one that was not looked at.
-            if (r.get("note") or "").strip():
+            if has_note(r):
                 continue
             capped += 1
         stats.append((out_path.name, len(rows), changed, noted, bool(broken), capped))
