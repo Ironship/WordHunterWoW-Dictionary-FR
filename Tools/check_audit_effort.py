@@ -185,6 +185,12 @@ def main():
         # What always applies: the rows that do look untranslated should mostly
         # have been touched. A batch with ten such rows that changed none of them
         # did not look at them, however clean the rest of it was.
+        # Writing a note on every row zeroes the suspicious count, which then
+        # disables the change floor -- so a pass could keep every translation
+        # untouched and still get through on notes alone. A batch of this size
+        # that changed nothing has not audited anything, whatever else it did.
+        if ch == 0 and n >= 50:
+            why.append("zero zmian")
         if capped >= 4 and ch < capped * 0.5:
             why.append(f"tknieto {ch} z {capped} podejrzanych")
         if rate_nt < args.min_note_rate:
