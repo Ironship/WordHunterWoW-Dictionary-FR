@@ -1,4 +1,5 @@
 WordHunterWoW_Dictionary_FR = WordHunterWoW_Dictionary_FR or {}
+;(function()
 WordHunterWoW_Dictionary_FR["a"] = { word = "a", translation = "has", note = "avoir, 3rd person singular — il a = he has; not the preposition à" }
 WordHunterWoW_Dictionary_FR["a'dal"] = { word = "A'dal", translation = "A'dal", note = "NPC/being name" }
 WordHunterWoW_Dictionary_FR["a'moora"] = { word = "A'moora", translation = "A'moora", note = "proper name; priestess NPC" }
@@ -19999,6 +20000,8 @@ WordHunterWoW_Dictionary_FR["d’imprégnés"] = { word = "d’imprégnés", tra
 WordHunterWoW_Dictionary_FR["d’impuretés"] = { word = "d’impuretés", translation = "of impurities", note = "de impuretés; impurities" }
 WordHunterWoW_Dictionary_FR["d’impôts"] = { word = "d’impôts", translation = "of taxes; taxes", note = "d' (de) + impôts (plural); mandatory payments to authority" }
 WordHunterWoW_Dictionary_FR["d’inanition"] = { word = "d’inanition", translation = "of starvation; from hunger", note = "mourir d'inanition = to die of starvation" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_FR["d’inattendu"] = { word = "d’inattendu", translation = "unexpected", note = "de inattendu; something unexpected" }
 WordHunterWoW_Dictionary_FR["d’inattention"] = { word = "d’inattention", translation = "of inattention; inattention", note = "d' (de) + inattention; lack of attention or carelessness" }
 WordHunterWoW_Dictionary_FR["d’incantation"] = { word = "d’incantation", translation = "of incantation", note = "de incantation; a spell" }
@@ -39999,6 +40002,8 @@ WordHunterWoW_Dictionary_FR["mangeaient"] = { word = "mangeaient", translation =
 WordHunterWoW_Dictionary_FR["mangeaille"] = { word = "mangeaille", translation = "eating; feast; food; eating contest", note = "noun; 'concours de mangeaille' = eating competitions or feasting events" }
 WordHunterWoW_Dictionary_FR["mangeais"] = { word = "mangeais", translation = "ate", note = "past imperfect; would eat for info" }
 WordHunterWoW_Dictionary_FR["mangeait"] = { word = "mangeait", translation = "ate; was eating", note = "imperfect past; describes insatiable hunger even after death" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_FR["mangeant"] = { word = "mangeant", translation = "eating", note = "" }
 WordHunterWoW_Dictionary_FR["mangelrath"] = { word = "Mangelrath", translation = "Mangelrath", note = "proper name" }
 WordHunterWoW_Dictionary_FR["mangent"] = { word = "mangent", translation = "eat", note = "present tense: they consume food" }
@@ -59999,6 +60004,8 @@ WordHunterWoW_Dictionary_FR["souffrait"] = { word = "souffrait", translation = "
 WordHunterWoW_Dictionary_FR["souffrance"] = { word = "souffrance", translation = "suffering", note = "pain" }
 WordHunterWoW_Dictionary_FR["souffrances"] = { word = "souffrances", translation = "suffering; sorrows", note = "plural; pain or hardship experienced" }
 WordHunterWoW_Dictionary_FR["souffrant"] = { word = "souffrant", translation = "suffering", note = "suffering, in pain; adjective (e.g., Altruis the Suffering)" }
+end)()
+;(function()
 WordHunterWoW_Dictionary_FR["souffrantes"] = { word = "souffrantes", translation = "suffering", note = "" }
 WordHunterWoW_Dictionary_FR["souffrants"] = { word = "souffrants", translation = "sufferers", note = "plural: those suffering" }
 WordHunterWoW_Dictionary_FR["souffre"] = { word = "souffre", translation = "suffer", note = "suffers; endures" }
@@ -70295,3 +70302,4 @@ WordHunterWoW_Dictionary_FR["œuvrez"] = { word = "œuvrez", translation = "work
 WordHunterWoW_Dictionary_FR["œuvrions"] = { word = "œuvrions", translation = "let's work", note = "1st person plural past subjunctive; we were working together" }
 WordHunterWoW_Dictionary_FR["œuvrons"] = { word = "œuvrons", translation = "let's work", note = "1st person plural present; we labor or toil together" }
 WordHunterWoW_Dictionary_FR["œuvré"] = { word = "œuvré", translation = "worked", note = "worked; past participle of œuvrer" }
+end)()
