@@ -2,7 +2,7 @@
 
 Learning French from quests is great until every second sentence sends you to a translator.
 
-This is a ready-made French→English glossary built from real quest text, so the words you click already have a meaning waiting. **58,653 words.**
+This is a ready-made French→English glossary built from real quest text, so the words you click already have a meaning waiting. **70,296 words.**
 
 ## Install
 
@@ -27,7 +27,7 @@ There are packs for [Spanish](https://github.com/Ironship/WordHunterWoW-Dictiona
 
 Want English quest text beside the original as well? That is [English Quest Panel](https://github.com/Ironship/WordHunterWoW-ENPanel).
 
-Retail 12.1. All rights reserved.
+Retail 12.1 and Classic Era. GPL v3 — see `LICENSE`.
 
 ## Rebuild (maintainers)
 

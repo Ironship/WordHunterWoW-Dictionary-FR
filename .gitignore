@@ -18,5 +18,6 @@ _check.lua
 /*.py
 /*.ps1
 /*.lua
+!/Bootstrap.lua
 /*.txt
 !/README.md

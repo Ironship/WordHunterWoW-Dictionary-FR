@@ -10,8 +10,24 @@ def quote(value):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--locale", choices=LOCALES, default=next(iter(LOCALES)))
+    parser.add_argument("--all", action="store_true",
+                        help="ship every cached word, including ones no longer "
+                             "in the corpus")
     args = parser.parse_args()
     config = LOCALES[args.locale]
+    wordlist = ROOT / f"Data/cache/wordlist_{args.locale}.jsonl"
+    live = None
+    if wordlist.exists() and not args.all:
+        live = {json.loads(line)["key"]
+                for line in wordlist.read_text(encoding="utf-8").splitlines()
+                if line.strip()}
+
+    def english_leftover(record):
+        if live is None or record.get("key") in live:
+            return False
+        return (record.get("translation") or "").strip().casefold() == \
+            (record.get("word") or "").strip().casefold()
+
     records = {}
     sources = [ROOT / f"Data/cache/translations_{args.locale}_en.jsonl"]
     curated = config.get("curated")
@@ -22,6 +38,7 @@ def main():
         for line in source.read_text(encoding="utf-8-sig").splitlines():
             if not line.strip(): continue
             record = json.loads(line)
+            if english_leftover(record): continue
             if record.get("translation"): records[record["key"]] = record
     # WoW Lua 5.1: 2^18-1 constants per function. Nested functions avoid
     # "constant table overflow" once unique strings pass that cap.
