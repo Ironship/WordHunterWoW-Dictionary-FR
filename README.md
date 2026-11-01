@@ -23,6 +23,10 @@ These translations are machine-made. They will get you through a quest, but expe
 
 The [German pack](https://github.com/Ironship/WordHunterWoW-Dictionary-DE) is the one that has been checked by hand, word by word.
 
+## Planned
+
+- Add Fish S2 Pro voice recordings for every dictionary entry, so clicking a word plays its pronunciation. Follow the integration used by the German dictionary.
+
 ## Other languages
 
 There are packs for [Spanish](https://github.com/Ironship/WordHunterWoW-Dictionary-ES), [Italian](https://github.com/Ironship/WordHunterWoW-Dictionary-IT) and [Portuguese](https://github.com/Ironship/WordHunterWoW-Dictionary-PTBR) too.
