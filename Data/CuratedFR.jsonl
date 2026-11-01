@@ -588,7 +588,7 @@
 {"key": "passage", "word": "passage", "translation": "passage", "note": "cognate: French and English share this form through a common historical root"}
 {"key": "sud-est", "word": "sud-est", "translation": "southeast", "note": "hyphenated compound; each part contributes to the direction or description"}
 {"key": "îles", "word": "îles", "translation": "islands", "note": "plural form; the final -s is usually silent in French"}
-{"key": "bientôt", "word": "bientôt", "translation": "Soon", "note": ""}
+{"key": "bientôt", "word": "bientôt", "translation": "soon", "note": ""}
 {"key": "l’île", "word": "l’île", "translation": "island", "note": "l’ is the elided article; île is feminine despite starting with a vowel"}
 {"key": "orcs", "word": "Orcs", "translation": "Orcs", "note": "plural form; the final -s is usually silent in French"}
 {"key": "ordre", "word": "ordre", "translation": "order", "note": ""}
@@ -1419,7 +1419,7 @@
 {"key": "blessés", "word": "blessés", "translation": "wounded", "note": "blesser means wound, not bless; a classic French-English false friend"}
 {"key": "forte", "word": "forte", "translation": "strong", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "fut", "word": "fut", "translation": "was", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "j’imagine", "word": "J’imagine", "translation": "so; extremely", "note": "j’ is je elided before a vowel"}
+{"key": "j’imagine", "word": "J’imagine", "translation": "I imagine; I suppose", "note": "j’imagine que = I suppose that; not “so” or “extremely”"}
 {"key": "tellement", "word": "tellement", "translation": "so much", "note": "the -ment ending often forms a noun from a verb or adjective"}
 {"key": "totem", "word": "totem", "translation": "totem", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "traces", "word": "traces", "translation": "traces", "note": "plural form; the final -s is usually silent in French"}
@@ -3113,7 +3113,7 @@
 {"key": "infesté", "word": "infesté", "translation": "infested", "note": ""}
 {"key": "jette", "word": "jette", "translation": "throw", "note": ""}
 {"key": "jeté", "word": "jeté", "translation": "thrown", "note": "past participle; its ending can agree in gender and number with the noun it describes"}
-{"key": "j’entends", "word": "j’entends", "translation": "hear", "note": "j’ is je elided before a vowel; it means “I”"}
+{"key": "j’entends", "word": "j’entends", "translation": "I hear; I mean", "note": "j’entends par là que = I mean by that; also plain “I hear”"}
 {"key": "lourd", "word": "lourd", "translation": "heavy", "note": ""}
 {"key": "l’équipage", "word": "l’équipage", "translation": "the crew", "note": "l’ is le/la elided before a vowel; it means “the”"}
 {"key": "maleterres", "word": "Maleterres", "translation": "Plaguelands", "note": ""}
@@ -3316,7 +3316,7 @@
 {"key": "hauteurs", "word": "hauteurs", "translation": "heights", "note": "the final -s or -x marks a plural and is usually silent in French"}
 {"key": "idéale", "word": "idéale", "translation": "ideal", "note": "feminine form; the ending marks agreement with a feminine noun"}
 {"key": "incapables", "word": "incapables", "translation": "unable", "note": "plural form; French adjectives agree with the noun, while English adjectives do not"}
-{"key": "j’vais", "word": "J’vais", "translation": "i'm going", "note": "colloquial for je vais; the unstressed e is dropped"}
+{"key": "j’vais", "word": "J’vais", "translation": "I am going; I will", "note": "spoken je vais; with an infinitive it is the near future: j’vais avoir = I am going to have"}
 {"key": "kalecgos", "word": "Kalecgos", "translation": "Kalecgos", "note": ""}
 {"key": "l’emporter", "word": "l’emporter", "translation": "win; prevail", "note": "l’ is le/la elided before a vowel; it means “the”"}
 {"key": "manquons", "word": "manquons", "translation": "lack", "note": ""}
@@ -3379,7 +3379,7 @@
 {"key": "installer", "word": "installer", "translation": "install", "note": ""}
 {"key": "joue", "word": "joue", "translation": "plays", "note": ""}
 {"key": "joué", "word": "joué", "translation": "played", "note": ""}
-{"key": "j’vous", "word": "j’vous", "translation": "i'd", "note": "j’ is je elided before a vowel; it means “I”"}
+{"key": "j’vous", "word": "j’vous", "translation": "I … you; I … to you", "note": "spoken je vous; the verb follows: j’vous l’ai dit = I told you so"}
 {"key": "l'extérieur", "word": "l'extérieur", "translation": "exterior", "note": "l’ is le/la elided before a vowel; it means “the”"}
 {"key": "l'honneur", "word": "l'honneur", "translation": "honor", "note": "l’ is le/la elided before a vowel; it means “the”"}
 {"key": "li", "word": "Li", "translation": "li", "note": ""}
@@ -4207,7 +4207,7 @@
 {"key": "infâmes", "word": "infâmes", "translation": "infamous; vile", "note": "plural form; final -s is usually silent in French"}
 {"key": "interdit", "word": "interdit", "translation": "forbidden", "note": "french word-final consonants are often silent unless liaison links them to the next word"}
 {"key": "intrus", "word": "intrus", "translation": "intruders", "note": "french word-final consonants are often silent unless liaison links them to the next word"}
-{"key": "j'étais", "word": "j'étais", "translation": "be", "note": "elision marks a dropped vowel; keep the apostrophe in the lookup form"}
+{"key": "j'étais", "word": "j'étais", "translation": "I was", "note": "imperfect of être"}
 {"key": "l'armée", "word": "l'armée", "translation": "army", "note": "elision marks a dropped vowel; keep the apostrophe in the lookup form"}
 {"key": "l'utiliser", "word": "l'utiliser", "translation": "use it", "note": "elision marks a dropped vowel; keep the apostrophe in the lookup form"}
 {"key": "laissera", "word": "laissera", "translation": "let; allow", "note": ""}
@@ -9881,11 +9881,11 @@
 {"key": "invoqués", "word": "invoqués", "translation": "invoked", "note": "past participle of invoquer; the ending agrees with a masculine plural noun"}
 {"key": "irait", "word": "irait", "translation": "go", "note": "conditional form of aller; it can mean would go"}
 {"key": "isolés", "word": "isolés", "translation": "isolated", "note": "masculine plural of isolé; the feminine plural is isolées"}
-{"key": "j'aie", "word": "j'aie", "translation": "have", "note": "subjunctive form of avoir; it is not the ordinary present-tense j’ai"}
+{"key": "j'aie", "word": "j'aie", "translation": "I have", "note": "subjunctive of avoir, as in que j’aie jamais vue = that I have ever seen"}
 {"key": "j'vous", "word": "j'vous", "translation": "I (you)", "note": "colloquial contraction of je vous; the French keeps both the speaker and addressee"}
 {"key": "jetés", "word": "jetés", "translation": "thrown", "note": "past participle of se jeter; it agrees with the plural subject"}
 {"key": "justesse", "word": "justesse", "translation": "barely", "note": "in the phrase à la justesse, it can mean narrowly or by a small margin"}
-{"key": "j’adorerais", "word": "J’adorerais", "translation": "love", "note": "conditional of adorer; a polite way to say “I’d love to”"}
+{"key": "j’adorerais", "word": "J’adorerais", "translation": "I would love", "note": "conditional of adorer; a polite way to say how much you would like something"}
 {"key": "kaelynara", "word": "Kaelynara", "translation": "Kaelynara", "note": ""}
 {"key": "kaja’cola", "word": "Kaja’Cola", "translation": "Kaja’Cola", "note": ""}
 {"key": "kaja’côte", "word": "Kaja’Côte", "translation": "Kaja’Côte", "note": ""}
@@ -10425,8 +10425,8 @@
 {"key": "iriez", "word": "iriez", "translation": "go", "note": "conditional or imperfect-subjunctive form of aller; the infinitive is go"}
 {"key": "isolée", "word": "isolée", "translation": "isolated", "note": "feminine form of isolé; the masculine is isolé"}
 {"key": "issue", "word": "issue", "translation": "way out", "note": "as a noun, issue can mean an exit or way out, not just a problem"}
-{"key": "j'aime", "word": "J'aime", "translation": "like", "note": "j’ is je elided before a vowel; the verb aimer means like or love"}
-{"key": "j'y", "word": "j'y", "translation": "about it", "note": "y is a pronoun for a place or previously mentioned thing; in j’y pense it means think about it"}
+{"key": "j'aime", "word": "J'aime", "translation": "I like; I love", "note": "j’ is je elided before a vowel; the verb aimer means like or love"}
+{"key": "j'y", "word": "j'y", "translation": "I … it; I … there", "note": "y stands for a place or for à + something already mentioned: j’y pense = I think about it"}
 {"key": "jarod", "word": "Jarod", "translation": "Jarod", "note": ""}
 {"key": "jintha’alor", "word": "Jintha’Alor", "translation": "Jintha’Alor", "note": ""}
 {"key": "jolies", "word": "jolies", "translation": "pretty", "note": "feminine plural of joli; the masculine singular is joli"}
@@ -10435,7 +10435,7 @@
 {"key": "jouez", "word": "jouez", "translation": "play", "note": "formal plural or imperative of jouer; the infinitive means play"}
 {"key": "journées", "word": "journées", "translation": "days", "note": "plural of journée, a day considered as a stretch of time or activity"}
 {"key": "justes", "word": "justes", "translation": "right", "note": "plural of juste; in paroles justes, it means the right or apt words"}
-{"key": "j’ose", "word": "J’ose", "translation": "dare", "note": "j’ is the elided subject pronoun je; ose is the verb dare"}
+{"key": "j’ose", "word": "J’ose", "translation": "I dare", "note": "si j’ose dire = if I may say so"}
 {"key": "karak", "word": "Karak", "translation": "Karak", "note": "proper name; preserve it unchanged"}
 {"key": "katherine", "word": "Katherine", "translation": "Katherine", "note": ""}
 {"key": "kaz", "word": "Kaz", "translation": "Kaz", "note": "proper name; preserve it unchanged"}
@@ -11061,8 +11061,8 @@
 {"key": "jetons", "word": "jetons", "translation": "give the creeps; tokens", "note": "in avoir les jetons, jetons means “the creeps”; literally, jetons are tokens"}
 {"key": "journaux", "word": "journaux", "translation": "journals", "note": "plural of journal; -al commonly changes to -aux in French plurals"}
 {"key": "joyeux", "word": "joyeux", "translation": "joyful", "note": "masculine form of joyeuse; it can mean happy or festive"}
-{"key": "j’attendais", "word": "j’attendais", "translation": "wait", "note": "colloquial j’ + attendais; attendais is imperfect, but the dictionary verb is wait"}
-{"key": "j’sais", "word": "J’sais", "translation": "know", "note": "spoken contraction of je sais; sais comes from savoir, “to know"}
+{"key": "j’attendais", "word": "j’attendais", "translation": "I was waiting; I was expecting", "note": "colloquial j’ + attendais; attendais is imperfect, but the dictionary verb is wait"}
+{"key": "j’sais", "word": "J’sais", "translation": "I know", "note": "spoken contraction of je sais; sais comes from savoir, “to know"}
 {"key": "kalec", "word": "Kalec", "translation": "Kalec", "note": "a personal name; Kalec is also part of the dragon name Kalecgos"}
 {"key": "kezan", "word": "Kezan", "translation": "Kezan", "note": "kezan is a proper island name in Warcraft"}
 {"key": "korgran", "word": "Korgran", "translation": "Korgran", "note": "a personal name; retain its spelling"}
@@ -11825,9 +11825,9 @@
 {"key": "jones", "word": "Jones", "translation": "Jones", "note": ""}
 {"key": "jovite", "word": "jovite", "translation": "jovite", "note": "jovite is a mineral name used in WoW mining quests"}
 {"key": "joyeuse", "word": "Joyeuse", "translation": "Joyful", "note": ""}
-{"key": "j’aille", "word": "j’aille", "translation": "go", "note": "subjunctive of aller after a phrase expressing what someone would prefer"}
-{"key": "j’apporte", "word": "J’apporte", "translation": "Bring", "note": ""}
-{"key": "j’explorais", "word": "j’explorais", "translation": "explore", "note": "j’ is je shortened before a vowel"}
+{"key": "j’aille", "word": "j’aille", "translation": "I go; I may go", "note": "subjunctive of aller after a phrase expressing what someone would prefer"}
+{"key": "j’apporte", "word": "J’apporte", "translation": "I bring", "note": ""}
+{"key": "j’explorais", "word": "j’explorais", "translation": "I was exploring", "note": "j’ is je shortened before a vowel"}
 {"key": "kadrak", "word": "Kadrak", "translation": "Kadrak", "note": ""}
 {"key": "karam", "word": "Karam", "translation": "Karam", "note": ""}
 {"key": "kayn", "word": "Kayn", "translation": "Kayn", "note": ""}
@@ -12678,10 +12678,10 @@
 {"key": "jurerais", "word": "jurerais", "translation": "swear", "note": "the dictionary gloss omits the conditional ending carried by the sentence"}
 {"key": "jusqu’où", "word": "jusqu’où", "translation": "how far", "note": "où means where/how far; the circumflex distinguishes it from ou, or"}
 {"key": "juteux", "word": "juteux", "translation": "juicy", "note": "the same form can describe fruit or a richly rewarding opportunity"}
-{"key": "j’apprécie", "word": "J’apprécie", "translation": "appreciate", "note": "the apostrophe marks the dropped e in je before a vowel"}
-{"key": "j’m’assure", "word": "j’m’assure", "translation": "make sure", "note": "spoken French drops the e in je and me before the following consonant"}
-{"key": "j’perdrais", "word": "j’perdrais", "translation": "lose", "note": "the dictionary gloss avoids carrying over the sentence’s conditional person and tense"}
-{"key": "j’serais", "word": "j’serais", "translation": "be", "note": "the dictionary gloss avoids carrying over the sentence’s conditional person and tense"}
+{"key": "j’apprécie", "word": "J’apprécie", "translation": "I appreciate", "note": "the apostrophe marks the dropped e in je before a vowel"}
+{"key": "j’m’assure", "word": "j’m’assure", "translation": "I make sure", "note": "spoken French drops the e in je and me before the following consonant"}
+{"key": "j’perdrais", "word": "j’perdrais", "translation": "I would lose", "note": "j’ is je elided before a vowel; the -rais ending marks the conditional"}
+{"key": "j’serais", "word": "j’serais", "translation": "I would be", "note": "j’ is je elided before a vowel; the -rais ending marks the conditional"}
 {"key": "kaja'mite", "word": "kaja'mite", "translation": "kaja'mite", "note": ""}
 {"key": "kartak", "word": "Kartak", "translation": "Kartak", "note": ""}
 {"key": "kearnen", "word": "Kearnen", "translation": "Kearnen", "note": ""}
@@ -12805,7 +12805,7 @@
 {"key": "mushan", "word": "mushan", "translation": "mushan", "note": ""}
 {"key": "mythes", "word": "mythes", "translation": "myths", "note": "the final -s marks plural"}
 {"key": "médecine", "word": "médecine", "translation": "medicine; remedy", "note": "in fantasy contexts, médecine can mean a healing remedy or potion"}
-{"key": "médical", "word": "médical", "translation": "Medical", "note": "the adjective médical means related to medicine or treatment"}
+{"key": "médical", "word": "médical", "translation": "medical", "note": "the adjective médical means related to medicine or treatment"}
 {"key": "m’aidera", "word": "m’aidera", "translation": "help", "note": "the dictionary gloss does not carry over the future tense or the first-person object"}
 {"key": "m’aiderez-vous", "word": "M’aiderez-vous", "translation": "Help me", "note": "the attached me means “me”; the question form does not change the base verb"}
 {"key": "m’apprendre", "word": "m’apprendre", "translation": "teach me", "note": "apprendre à quelqu’un means to teach someone"}
@@ -13675,7 +13675,7 @@
 {"key": "irradie", "word": "irradie", "translation": "radiate", "note": ""}
 {"key": "irrémédiablement", "word": "irrémédiablement", "translation": "irremediably", "note": "the ending forms a noun of action, state, or result from a related French word"}
 {"key": "isoler", "word": "isoler", "translation": "isolate", "note": "the infinitive is the dictionary form; it names an action without person or tense"}
-{"key": "j'ignore", "word": "J'ignore", "translation": "Ignore", "note": "j’ is je shortened before a vowel; it means “I”"}
+{"key": "j'ignore", "word": "J'ignore", "translation": "I do not know; I am unaware of", "note": "ignorer usually means not to know, not to ignore: j’ignore qui ils sont = I do not know who they are"}
 {"key": "javelot", "word": "javelot", "translation": "javelin", "note": ""}
 {"key": "javelots", "word": "javelots", "translation": "javelins", "note": "the written plural ending is normally silent in French"}
 {"key": "ja’tul", "word": "Ja’tul", "translation": "Ja'tul", "note": ""}
@@ -13686,9 +13686,9 @@
 {"key": "jugées", "word": "jugées", "translation": "judged", "note": "past participle; French agreement may mark gender and number with -e or -s"}
 {"key": "julia", "word": "Julia", "translation": "Julia", "note": ""}
 {"key": "jute", "word": "jute", "translation": "jute", "note": "French jute and English jute are cognates; the fiber is used for coarse cloth"}
-{"key": "j’accepte", "word": "J’accepte", "translation": "Accept", "note": "j’ is je shortened before a vowel; it means “I”"}
-{"key": "j’enverrai", "word": "J’enverrai", "translation": "Send", "note": "the -rai ending marks the simple future; the infinitive is envoyer"}
-{"key": "j’essaierai", "word": "j’essaierai", "translation": "try", "note": "the -rai ending marks the simple future; the infinitive is essayer"}
+{"key": "j’accepte", "word": "J’accepte", "translation": "I accept", "note": "j’ is je shortened before a vowel; it means “I”"}
+{"key": "j’enverrai", "word": "J’enverrai", "translation": "I will send", "note": "the -rai ending marks the simple future; the infinitive is envoyer"}
+{"key": "j’essaierai", "word": "j’essaierai", "translation": "I will try", "note": "the -rai ending marks the simple future; the infinitive is essayer"}
 {"key": "kamagua", "word": "Kamagua", "translation": "Kamagua", "note": ""}
 {"key": "kaoshin", "word": "Kaoshin", "translation": "Kaoshin", "note": ""}
 {"key": "karuk", "word": "Karuk", "translation": "Karuk", "note": ""}
@@ -14939,7 +14939,7 @@
 {"key": "irrésistiblement", "word": "irrésistiblement", "translation": "irresistibly", "note": "the ending carries tense or subject agreement; the gloss gives the verb without that sentence context"}
 {"key": "ivre", "word": "ivre", "translation": "drunk", "note": ""}
 {"key": "ivres", "word": "ivres", "translation": "drunk", "note": "the final letter marks a plural form; French plural -s is usually silent"}
-{"key": "j'apprécierais", "word": "J'apprécierais", "translation": "appreciate", "note": ""}
+{"key": "j'apprécierais", "word": "J'apprécierais", "translation": "I would appreciate", "note": ""}
 {"key": "jaillir", "word": "jaillir", "translation": "erupt", "note": "the ending marks an infinitive; English uses the bare verb"}
 {"key": "jaillit", "word": "jaillit", "translation": "erupt", "note": "this ending marks an agreeing participle/adjective; it is not an infinitive"}
 {"key": "jarre", "word": "jarre", "translation": "jar", "note": "the ending marks an infinitive; English uses the bare verb"}
@@ -14949,14 +14949,14 @@
 {"key": "juguler", "word": "juguler", "translation": "curb", "note": "the ending marks an infinitive; English uses the bare verb"}
 {"key": "jungles", "word": "jungles", "translation": "jungles", "note": "the final letter marks a plural form; French plural -s is usually silent"}
 {"key": "junior", "word": "junior", "translation": "junior", "note": "a close French–English cognate; pronunciation differs even when the spelling is familiar"}
-{"key": "j’appelle", "word": "j’appelle", "translation": "call", "note": "the apostrophe marks an elided pronoun; it is not part of the verb stem"}
-{"key": "j’apprends", "word": "j’apprends", "translation": "learn", "note": "the apostrophe marks an elided pronoun; it is not part of the verb stem"}
-{"key": "j’essayais", "word": "j’essayais", "translation": "try", "note": "the apostrophe marks an elided pronoun; it is not part of the verb stem"}
-{"key": "j’ignorais", "word": "J’ignorais", "translation": "not know; be unaware of", "note": "the apostrophe marks an attached pronoun; the verb gloss should not inherit the sentence’s tense or subject"}
-{"key": "j’organise", "word": "J’organise", "translation": "organize", "note": "the apostrophe marks an elided pronoun; it is not part of the verb stem"}
-{"key": "j’ouvrirai", "word": "j’ouvrirai", "translation": "open", "note": "the apostrophe marks an elided pronoun; it is not part of the verb stem"}
-{"key": "j’utiliserai", "word": "j’utiliserai", "translation": "use", "note": "the apostrophe marks an elided pronoun; it is not part of the verb stem"}
-{"key": "j’étudie", "word": "J’étudie", "translation": "study", "note": "the apostrophe marks an elided pronoun; it is not part of the verb stem"}
+{"key": "j’appelle", "word": "j’appelle", "translation": "I call", "note": "ce que j’appelle = what I call"}
+{"key": "j’apprends", "word": "j’apprends", "translation": "I learn; I find out", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’essayais", "word": "j’essayais", "translation": "I was trying; I tried", "note": "j’ is je elided before a vowel; the -ais ending marks the imperfect"}
+{"key": "j’ignorais", "word": "J’ignorais", "translation": "I did not know; I was unaware of", "note": "imperfect of ignorer, which usually means not to know: j’ignorais qu’elle viendrait = I did not know she would come"}
+{"key": "j’organise", "word": "J’organise", "translation": "I organize", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’ouvrirai", "word": "j’ouvrirai", "translation": "I will open", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
+{"key": "j’utiliserai", "word": "j’utiliserai", "translation": "I will use", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
+{"key": "j’étudie", "word": "J’étudie", "translation": "I study", "note": "j’ is je elided before a vowel; present tense"}
 {"key": "kairoz", "word": "Kairoz", "translation": "Kairoz", "note": ""}
 {"key": "karg", "word": "Karg", "translation": "Karg", "note": ""}
 {"key": "kevin", "word": "Kevin", "translation": "Kevin", "note": ""}
@@ -15861,7 +15861,7 @@
 {"key": "chronique", "word": "chronique", "translation": "chronicle; record", "note": "chronique can mean a chronicle or long-lasting; it is not always a medical “chronic”"}
 {"key": "chuchoter", "word": "chuchoter", "translation": "whisper", "note": "chuchoter means speak very quietly, typically so others cannot hear"}
 {"key": "chèrement", "word": "chèrement", "translation": "dearly", "note": "the -ment forms an adverb; payer chèrement means pay dearly"}
-{"key": "chérie", "word": "chérie", "translation": "Dear", "note": "feminine past participle of chérir, also a term of endearment “dear”"}
+{"key": "chérie", "word": "chérie", "translation": "darling; dear", "note": "feminine past participle of chérir, also a term of endearment “dear”"}
 {"key": "chœur", "word": "chœur", "translation": "choir", "note": "the œ ligature is part of the spelling; chœur means choir or chorus"}
 {"key": "cingletrames", "word": "Cingletrames", "translation": "Cingletrames", "note": ""}
 {"key": "citerne", "word": "citerne", "translation": "cistern; tank", "note": "a citerne is a storage tank or cistern, often for water"}
@@ -16440,10 +16440,10 @@
 {"key": "invitée", "word": "invitée", "translation": "guest", "note": "feminine past participle/noun; as a noun, it means a female guest"}
 {"key": "invoque", "word": "invoque", "translation": "invoke", "note": "present, third-person singular; the final -e is not an infinitive marker"}
 {"key": "irruption", "word": "irruption", "translation": "sudden incursion; outbreak", "note": "a French-English cognate; the spelling is similar, but the French pronunciation differs"}
-{"key": "j'allais", "word": "j'allais", "translation": "go", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j'entends", "word": "J'entends", "translation": "Hear", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j'utiliserai", "word": "j'utiliserai", "translation": "use", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j'vais", "word": "J'vais", "translation": "Go", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
+{"key": "j'allais", "word": "j'allais", "translation": "I was going; I was about to", "note": "j’allais + infinitive = I was going to / I was about to"}
+{"key": "j'entends", "word": "J'entends", "translation": "I hear; I mean", "note": "j’entends par là que = I mean by that; also plain “I hear”"}
+{"key": "j'utiliserai", "word": "j'utiliserai", "translation": "I will use", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
+{"key": "j'vais", "word": "J'vais", "translation": "I am going; I will", "note": "spoken je vais; with an infinitive it is the near future"}
 {"key": "jailli", "word": "jailli", "translation": "gushed", "note": "past participle of jaillir; it describes something that burst forth"}
 {"key": "jasper", "word": "Jasper", "translation": "Jasper", "note": ""}
 {"key": "jaunes", "word": "jaunes", "translation": "yellow", "note": "plural form; the final -s is usually silent in French"}
@@ -16464,12 +16464,12 @@
 {"key": "jo’zolo", "word": "Jo’zolo", "translation": "Jo'zolo", "note": ""}
 {"key": "jurés", "word": "jurés", "translation": "sworn", "note": "past participle; the surrounding sentence supplies the auxiliary and subject"}
 {"key": "justifier", "word": "justifier", "translation": "justify", "note": "the verb is in the infinitive, its dictionary form; French infinitives end in -er, -ir, or -re"}
-{"key": "j’compte", "word": "J’compte", "translation": "Count; intend", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j’estime", "word": "j’estime", "translation": "believe; consider", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j’m’en", "word": "J’m’en", "translation": "Leave; go away", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j’offre", "word": "j’offre", "translation": "offer", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j’vois", "word": "J’vois", "translation": "See", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
-{"key": "j’éviterais", "word": "j’éviterais", "translation": "avoid", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
+{"key": "j’compte", "word": "J’compte", "translation": "I intend; I count", "note": "compter + infinitive = to intend to: j’compte bien aller = I fully intend to go"}
+{"key": "j’estime", "word": "j’estime", "translation": "I believe; I consider", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’m’en", "word": "J’m’en", "translation": "I … of it; I … with it", "note": "spoken je m’en; the verb follows: j’m’en sers = I use it"}
+{"key": "j’offre", "word": "j’offre", "translation": "I offer", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’vois", "word": "J’vois", "translation": "I see", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’éviterais", "word": "j’éviterais", "translation": "I would avoid", "note": "j’ is je elided before a vowel; the -rais ending marks the conditional"}
 {"key": "kaenius", "word": "Kaenius", "translation": "Kaenius", "note": ""}
 {"key": "kafa’kota", "word": "kafa’kota", "translation": "kafa'kota", "note": ""}
 {"key": "kalandrios", "word": "Kalandrios", "translation": "Kalandrios", "note": ""}
@@ -18297,7 +18297,7 @@
 {"key": "isolées", "word": "isolées", "translation": "isolated", "note": "the final -s marks a French plural, even when English does not show the same ending"}
 {"key": "itinéraire", "word": "itinéraire", "translation": "itinerary", "note": "adjective endings agree with the noun in French; English usually leaves the form unchanged"}
 {"key": "iv", "word": "IV", "translation": "IV", "note": ""}
-{"key": "j'irais", "word": "j'irais", "translation": "go", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
+{"key": "j'irais", "word": "j'irais", "translation": "I would go", "note": "j’ is je elided before a vowel; the -rais ending marks the conditional"}
 {"key": "jabat", "word": "Jabat", "translation": "Jabat", "note": ""}
 {"key": "jacob", "word": "Jacob", "translation": "Jacob", "note": ""}
 {"key": "jammal'an", "word": "Jammal'an", "translation": "Jammal'an", "note": ""}
@@ -19677,15 +19677,15 @@
 {"key": "jurer", "word": "jurer", "translation": "swear", "note": "the French infinitive is the dictionary form; English uses the bare verb here"}
 {"key": "juteuse", "word": "juteuse", "translation": "juicy", "note": "the -euse ending often forms a noun naming an action, quality, or result"}
 {"key": "jyoba", "word": "Jyoba", "translation": "Jyoba", "note": ""}
-{"key": "j’accepterai", "word": "j’accepterai", "translation": "accept", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
-{"key": "j’aperçois", "word": "j’aperçois", "translation": "see; catch sight of", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
-{"key": "j’arriverai", "word": "J’arriverai", "translation": "arrive", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
-{"key": "j’invoquerai", "word": "j’invoquerai", "translation": "invoke", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
-{"key": "j’les", "word": "j’les", "translation": "hate them", "note": "j’ is je (I) elided before a vowel; les is the plural object “them”"}
-{"key": "j’ordonnerai", "word": "j’ordonnerai", "translation": "order", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
-{"key": "j’oublie", "word": "j’oublie", "translation": "forget", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
-{"key": "j’parie", "word": "J’parie", "translation": "bet", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
-{"key": "j’étudiais", "word": "j’étudiais", "translation": "study", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
+{"key": "j’accepterai", "word": "j’accepterai", "translation": "I will accept", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
+{"key": "j’aperçois", "word": "j’aperçois", "translation": "I see; I catch sight of", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’arriverai", "word": "J’arriverai", "translation": "I will manage; I will arrive", "note": "arriver à + infinitive = to manage to"}
+{"key": "j’invoquerai", "word": "j’invoquerai", "translation": "I will summon; I will invoke", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
+{"key": "j’les", "word": "j’les", "translation": "I … them", "note": "spoken je les; the verb follows: j’les hais = I hate them"}
+{"key": "j’ordonnerai", "word": "j’ordonnerai", "translation": "I will order", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
+{"key": "j’oublie", "word": "j’oublie", "translation": "I forget", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’parie", "word": "J’parie", "translation": "I bet", "note": "j’ is je elided before a vowel; present tense"}
+{"key": "j’étudiais", "word": "j’étudiais", "translation": "I was studying", "note": "j’ is je elided before a vowel; the -ais ending marks the imperfect"}
 {"key": "kaganishu", "word": "Kaganishu", "translation": "Kaganishu", "note": ""}
 {"key": "kao", "word": "Kao", "translation": "Kao", "note": ""}
 {"key": "karnitol", "word": "Karnitol", "translation": "Karnitol", "note": ""}
@@ -20365,7 +20365,7 @@
 {"key": "chopé", "word": "chopé", "translation": "mug", "note": "past participle of choper; grabbed or robbed"}
 {"key": "chroniqueuse", "word": "chroniqueuse", "translation": "columnist", "note": "feminine; one who writes chronicles or news columns"}
 {"key": "chronoseigneur", "word": "chronoseigneur", "translation": "chronolord", "note": "compound: chrono (time) + seigneur (lord); fantasy WoW title"}
-{"key": "chéri", "word": "chéri", "translation": "Dear", "note": "term of endearment; darling or beloved"}
+{"key": "chéri", "word": "chéri", "translation": "darling; dear", "note": "term of endearment; darling or beloved"}
 {"key": "chênecœur", "word": "Chênecœur", "translation": "Oakheart", "note": "proper noun; chêne (oak) + cœur (heart); location or character name"}
 {"key": "cie", "word": "Cie", "translation": "Co.", "note": "abbreviation for Compagnie (Company); equivalent to Co. in English"}
 {"key": "circonscrire", "word": "circonscrire", "translation": "circumscribe", "note": "to limit or restrict; to contain within bounds"}
@@ -23775,7 +23775,7 @@
 {"key": "j'emmènerais", "word": "j'emmènerais", "translation": "I would take", "note": "elision of je; conditional first person"}
 {"key": "j'envoie", "word": "J'envoie", "translation": "I send", "note": "elision of je; present tense first person"}
 {"key": "j'essaie", "word": "J'essaie", "translation": "I try", "note": "elision of je; present tense first person"}
-{"key": "j'me", "word": "j'me", "translation": "I", "note": "colloquial elision of je me; reflexive context"}
+{"key": "j'me", "word": "j'me", "translation": "I … myself", "note": "spoken je me; the verb follows: j’me trompe = I am mistaken"}
 {"key": "j'parie", "word": "j'parie", "translation": "I bet", "note": "colloquial je parie; present tense first person"}
 {"key": "j'suis", "word": "J'suis", "translation": "I am", "note": "colloquial je suis; present tense être"}
 {"key": "j'utilise", "word": "j'utilise", "translation": "I use", "note": "elision of je; present tense first person"}
@@ -24825,7 +24825,7 @@
 {"key": "dérangera", "word": "dérangera", "translation": "will disturb; will bother", "note": "future tense of déranger"}
 {"key": "dérangerait-il", "word": "dérangerait-il", "translation": "would he/it disturb", "note": "conditional form; polite question"}
 {"key": "dérisoire", "word": "dérisoire", "translation": "paltry; negligible", "note": "adjective; so small as to be laughable"}
-{"key": "dérivation", "word": "dérivation", "translation": "Diversion; Bypass", "note": "noun; a channel or path that diverts flow"}
+{"key": "dérivation", "word": "dérivation", "translation": "diversion; bypass", "note": "noun; a channel or path that diverts flow"}
 {"key": "dérives", "word": "dérives", "translation": "drifts; drift", "note": "plural noun or verb; deviation from course"}
 {"key": "dérivé", "word": "dérivé", "translation": "derived; derivative", "note": "past participle or adjective; coming from something else"}
 {"key": "dérobent", "word": "dérobent", "translation": "steal; rob", "note": "3rd person plural present of dérober"}
@@ -24845,7 +24845,7 @@
 {"key": "désinsectisation", "word": "désinsectisation", "translation": "Disinfestation; Pest control", "note": "noun; removal of insects or vermin"}
 {"key": "désintégrer", "word": "désintégrer", "translation": "to disintegrate; to break apart", "note": "infinitive; to fall to pieces or decompose"}
 {"key": "désobéir", "word": "désobéir", "translation": "to disobey; to rebel", "note": "infinitive; to refuse to obey orders"}
-{"key": "désolés", "word": "désolés", "translation": "Sorry; Regretful", "note": "masculine plural adjective; full of sorrow or regret"}
+{"key": "désolés", "word": "désolés", "translation": "sorry; regretful", "note": "masculine plural adjective; full of sorrow or regret"}
 {"key": "désorganiser", "word": "désorganiser", "translation": "to disorganize; to throw into disorder", "note": "infinitive; to destroy organization or structure"}
 {"key": "désorientée", "word": "désorientée", "translation": "disoriented; confused", "note": "feminine past participle; lost sense of direction or bearings"}
 {"key": "désorientés", "word": "désorientés", "translation": "disoriented; confused", "note": "masculine plural past participle"}
@@ -24853,30 +24853,30 @@
 {"key": "déséquilibrer", "word": "déséquilibrer", "translation": "to unbalance; to upset the balance", "note": "infinitive; to disrupt equilibrium"}
 {"key": "désœuvré", "word": "désœuvré", "translation": "idle; at loose ends", "note": "adjective; without work or occupation"}
 {"key": "détachés", "word": "détachés", "translation": "detached; separate", "note": "masculine plural past participle or adjective"}
-{"key": "détective", "word": "détective", "translation": "Detective; Investigator", "note": "noun; one who solves mysteries (English loanword)"}
+{"key": "détective", "word": "détective", "translation": "detective; investigator", "note": "noun; one who solves mysteries (English loanword)"}
 {"key": "détenaient", "word": "détenaient", "translation": "held; possessed", "note": "3rd person plural imperfect; kept or maintained"}
-{"key": "détenions", "word": "détenions", "translation": "We held; We possessed", "note": "1st person plural imperfect or past tense"}
+{"key": "détenions", "word": "détenions", "translation": "we held; we possessed", "note": "1st person plural imperfect or past tense"}
 {"key": "détermine", "word": "détermine", "translation": "determines; decides", "note": "3rd person singular present; establishes what happens"}
-{"key": "déterminez", "word": "déterminez", "translation": "Determine; Decide", "note": "imperative or 2nd person plural present"}
-{"key": "déterrée", "word": "déterrée", "translation": "Dug up; Exhumed", "note": "feminine past participle; removed from burial ground"}
-{"key": "détestables", "word": "détestables", "translation": "Detestable; Loathsome", "note": "masculine plural adjective; deserving hatred"}
-{"key": "détestez", "word": "détestez", "translation": "Hate; Detest", "note": "imperative or 2nd person plural present"}
-{"key": "détiendrait", "word": "détiendrait", "translation": "Would hold; Would possess", "note": "conditional form of détenir"}
-{"key": "détonant", "word": "détonant", "translation": "Detonating; Exploding", "note": "present participle; undergoing a violent explosion"}
-{"key": "détone", "word": "détone", "translation": "Detonates; Explodes", "note": "3rd person singular present"}
-{"key": "détournera", "word": "détournera", "translation": "Will divert; Will turn aside", "note": "future tense of détourner"}
+{"key": "déterminez", "word": "déterminez", "translation": "determine; decide", "note": "imperative or 2nd person plural present"}
+{"key": "déterrée", "word": "déterrée", "translation": "dug up; exhumed", "note": "feminine past participle; removed from burial ground"}
+{"key": "détestables", "word": "détestables", "translation": "detestable; loathsome", "note": "masculine plural adjective; deserving hatred"}
+{"key": "détestez", "word": "détestez", "translation": "hate; detest", "note": "imperative or 2nd person plural present"}
+{"key": "détiendrait", "word": "détiendrait", "translation": "would hold; would possess", "note": "conditional form of détenir"}
+{"key": "détonant", "word": "détonant", "translation": "detonating; exploding", "note": "present participle; undergoing a violent explosion"}
+{"key": "détone", "word": "détone", "translation": "detonates; explodes", "note": "3rd person singular present"}
+{"key": "détournera", "word": "détournera", "translation": "will divert; will turn aside", "note": "future tense of détourner"}
 {"key": "détournez", "word": "Détournez", "translation": "Divert; Turn aside", "note": "imperative or 2nd person plural present"}
-{"key": "détraqué", "word": "détraqué", "translation": "Unhinged; Out of order", "note": "masculine past participle; broken or mentally unsound"}
-{"key": "détraqués", "word": "détraqués", "translation": "Unhinged; Deranged", "note": "masculine plural; broken or malfunctioning"}
-{"key": "détrempée", "word": "détrempée", "translation": "Soggy; Waterlogged", "note": "feminine past participle; soaked with water"}
-{"key": "détruirai", "word": "détruirai", "translation": "Will destroy; Will ruin", "note": "future tense, 1st person singular"}
-{"key": "détériorer", "word": "détériorer", "translation": "To deteriorate; To wear down", "note": "infinitive; to make worse or to decay"}
-{"key": "développée", "word": "développée", "translation": "Developed; Advanced", "note": "feminine past participle; grown or unfolded"}
-{"key": "développés", "word": "développés", "translation": "Developed; Advanced", "note": "masculine plural past participle; grown or expanded"}
-{"key": "déversant", "word": "déversant", "translation": "Pouring; Spilling", "note": "present participle; flowing or cascading down"}
-{"key": "dévoilera", "word": "dévoilera", "translation": "Will reveal; Will uncover", "note": "future tense of dévoiler"}
-{"key": "dévoilez", "word": "dévoilez", "translation": "Reveal; Uncover", "note": "imperative or 2nd person plural present"}
-{"key": "dévoilés", "word": "dévoilés", "translation": "Revealed; Uncovered", "note": "masculine plural past participle"}
+{"key": "détraqué", "word": "détraqué", "translation": "unhinged; broken", "note": "masculine past participle; broken or mentally unsound"}
+{"key": "détraqués", "word": "détraqués", "translation": "unhinged; deranged", "note": "masculine plural; broken or malfunctioning"}
+{"key": "détrempée", "word": "détrempée", "translation": "soggy; waterlogged", "note": "feminine past participle; soaked with water"}
+{"key": "détruirai", "word": "détruirai", "translation": "I will destroy; I will ruin", "note": "future tense, 1st person singular"}
+{"key": "détériorer", "word": "détériorer", "translation": "to deteriorate; to wear down", "note": "infinitive; to make worse or to decay"}
+{"key": "développée", "word": "développée", "translation": "developed; advanced", "note": "feminine past participle; grown or unfolded"}
+{"key": "développés", "word": "développés", "translation": "developed; advanced", "note": "masculine plural past participle; grown or expanded"}
+{"key": "déversant", "word": "déversant", "translation": "pouring; spilling", "note": "present participle; flowing or cascading down"}
+{"key": "dévoilera", "word": "dévoilera", "translation": "will reveal; will uncover", "note": "future tense of dévoiler"}
+{"key": "dévoilez", "word": "dévoilez", "translation": "reveal; uncover", "note": "imperative or 2nd person plural present"}
+{"key": "dévoilés", "word": "dévoilés", "translation": "revealed; uncovered", "note": "masculine plural past participle"}
 {"key": "dévorantes", "word": "dévorantes", "translation": "Devouring; Consuming", "note": "feminine plural adjective; eating greedily or destroying"}
 {"key": "dévorera", "word": "dévorera", "translation": "Will devour; Will consume", "note": "future tense; will eat greedily"}
 {"key": "dévouer", "word": "dévouer", "translation": "To devote; To dedicate", "note": "infinitive; reflexive se dévouer = to sacrifice oneself"}
@@ -32132,7 +32132,7 @@
 {"key": "j'essaierai", "word": "j'essaierai", "translation": "I will try", "note": "future tense; I'll attempt or make an effort"}
 {"key": "j'essaye", "word": "J'essaye", "translation": "I try; I'm trying", "note": "present tense; immediate or ongoing attempt"}
 {"key": "j'estime", "word": "J'estime", "translation": "I reckon; I believe; I consider", "note": "means I judge or estimate; can mean I think or regard"}
-{"key": "j'les", "word": "j'les", "translation": "I've got them; I see them", "note": "colloquial contraction of je les; casual speech, object pronoun"}
+{"key": "j'les", "word": "j'les", "translation": "I … them", "note": "spoken je les; the verb follows: j’les ai perdus = I lost them"}
 {"key": "j'peux", "word": "j'peux", "translation": "I can; I'm able to", "note": "colloquial contraction of je peux; informal or rural speech"}
 {"key": "j'pourrais", "word": "j'pourrais", "translation": "I could", "note": "colloquial contraction of je pourrais; conditional, informal speech"}
 {"key": "jabari", "word": "Jabari", "translation": "Jabari", "note": ""}
@@ -32261,7 +32261,7 @@
 {"key": "j’invite", "word": "j’invite", "translation": "I invite", "note": "j' (I) + invite (invite); to ask someone to attend or participate"}
 {"key": "j’inviterais", "word": "j’inviterais", "translation": "I would invite", "note": "j' (I) + inviterais (would invite); conditional tense"}
 {"key": "j’laisse", "word": "j’laisse", "translation": "I leave", "note": "j' (I) + laisse (leave); colloquial for je laisse, to let or abandon"}
-{"key": "j’lui", "word": "j’lui", "translation": "to him; to her", "note": "j' (I) + lui (to him/her); recipient of an action, often used with verbs like apprendre (teach)"}
+{"key": "j’lui", "word": "j’lui", "translation": "I … him; I … her", "note": "spoken je lui; the verb follows: j’lui donne = I give him"}
 {"key": "j’mettrais", "word": "j’mettrais", "translation": "I would put", "note": "j' (I) + mettrais (would put); conditional tense"}
 {"key": "j’observe", "word": "J’observe", "translation": "I observe", "note": "j' (I) + observe (observe); to watch or notice"}
 {"key": "j’observerai", "word": "J’observerai", "translation": "I will observe", "note": "j' (I) + observerai (will observe); future tense"}
@@ -42962,7 +42962,7 @@
 {"key": "d’engouement", "word": "d’engouement", "translation": "of craze; fad", "note": "sudden passionate enthusiasm"}
 {"key": "d’engrais", "word": "d’engrais", "translation": "of fertilizer; manure", "note": "agricultural nutrients"}
 {"key": "d’enith", "word": "d’Enith", "translation": "of Enith", "note": "proper name (location)"}
-{"key": "d’enlèvements", "word": "d’ENLÈVEMENTS", "translation": "ABDUCTIONS", "note": "kidnappings; unusual all-caps usage suggests alien-like tone"}
+{"key": "d’enlèvements", "word": "d’ENLÈVEMENTS", "translation": "of abductions", "note": "d’ is de elided; enlèvement is an abduction or kidnapping"}
 {"key": "d’ennuy-o-trons", "word": "d’Ennuy-o-trons", "translation": "of Boredom-o-trons", "note": "WoW mechanical unit name; playful -tron suffix"}
 {"key": "d’enohar", "word": "d’Enohar", "translation": "of Enohar", "note": "proper name (person or item)"}
 {"key": "d’enquête", "word": "d’enquête", "translation": "of investigation; inquiry", "note": "detective work; formal questioning"}
@@ -46835,9 +46835,9 @@
 {"key": "j'pense", "word": "J'pense", "translation": "I think", "note": "colloquial: j'pense = je pense"}
 {"key": "j'préférerais", "word": "J'préférerais", "translation": "I would prefer", "note": "colloquial conditional of préférer"}
 {"key": "j'rappelle", "word": "j'rappelle", "translation": "I remind", "note": "colloquial: j'rappelle = je rappelle"}
-{"key": "j'te", "word": "j'te", "translation": "I", "note": "je te (I you); needs context for full meaning"}
+{"key": "j'te", "word": "j'te", "translation": "I … you", "note": "spoken je te; the verb follows"}
 {"key": "j'tiens", "word": "j'tiens", "translation": "I have; I got", "note": "tenir: to hold or to have; j'tiens de = I got from/I hold from"}
-{"key": "j'tons", "word": "j'tons", "translation": "I'm spooked", "note": "j'ai les j'tons = I'm scared; from avoir les jetons"}
+{"key": "j'tons", "word": "j'tons", "translation": "jitters; the creeps", "note": "clipped jetons: ça me fout les jetons = it gives me the creeps"}
 {"key": "j'trouve", "word": "j'trouve", "translation": "I find", "note": "j' (je) + trouve; present tense"}
 {"key": "j'veux", "word": "j'veux", "translation": "I want", "note": "colloquial: j'veux = je veux"}
 {"key": "j'vois", "word": "j'vois", "translation": "I see", "note": "j' (je) + vois; present tense of voir"}
@@ -47077,7 +47077,7 @@
 {"key": "j’arracherai", "word": "j’arracherai", "translation": "I will tear off", "note": "future: will tear off"}
 {"key": "j’arracherais", "word": "j’arracherais", "translation": "I would tear off", "note": "conditional: would tear off"}
 {"key": "j’arrange", "word": "j’arrange", "translation": "I arrange", "note": "present: I fix, repair"}
-{"key": "j’arrivais", "word": "j’arrivais", "translation": "I arrived", "note": "imperfect: was arriving"}
+{"key": "j’arrivais", "word": "j’arrivais", "translation": "I managed; I was able to", "note": "arriver à + infinitive = to manage to; imperfect"}
 {"key": "j’arriverais", "word": "j’arriverais", "translation": "I would arrive", "note": "conditional: would arrive"}
 {"key": "j’arrondis", "word": "J’arrondis", "translation": "I supplement", "note": "arrondir les fins de mois = supplement income (idiom)"}
 {"key": "j’arrête", "word": "J’arrête", "translation": "I stop", "note": "present: I stop"}
@@ -47113,11 +47113,11 @@
 {"key": "j’essayerais", "word": "j’essayerais", "translation": "I would try", "note": "from essayer"}
 {"key": "j’examinerai", "word": "J’examinerai", "translation": "I will examine", "note": "from examiner"}
 {"key": "j’exigerai", "word": "j’exigerai", "translation": "I will demand", "note": "from exiger: demand"}
-{"key": "j’exterminerai", "word": "j’exterminerai", "translation": "I would uproot", "note": "from extirper: pull out, root out"}
+{"key": "j’exterminerai", "word": "j’exterminerai", "translation": "I will exterminate", "note": "future of exterminer; j’ is je elided"}
 {"key": "j’extirperais", "word": "j’extirperais", "translation": "I would extirpate", "note": "from extraire: pull out"}
 {"key": "j’extrayais", "word": "J’extrayais", "translation": "I extracted", "note": "from examiner"}
-{"key": "j’fasse", "word": "j’fasse", "translation": "I do", "note": "colloquial ferai"}
-{"key": "j’ferai", "word": "j’ferai", "translation": "I may finish", "note": "subjunctive of finir (j'finisse)"}
+{"key": "j’fasse", "word": "j’fasse", "translation": "I do; I make", "note": "subjunctive of faire after que: que j’fasse briller = that I polish"}
+{"key": "j’ferai", "word": "j’ferai", "translation": "I will do; I will make", "note": "spoken je ferai; j’ferai en sorte que = I will see to it that"}
 {"key": "j’finisse", "word": "j’finisse", "translation": "I finish", "note": "from fouiner: snoop"}
 {"key": "j’fouinais", "word": "j’fouinais", "translation": "I was snooping", "note": "from garder: keep"}
 {"key": "j’garde", "word": "J’garde", "translation": "I may do", "note": "subjunctive of faire (j'fasse)"}
@@ -47130,14 +47130,14 @@
 {"key": "j’initierai", "word": "j’initierai", "translation": "I will initiate", "note": "from interpreter"}
 {"key": "j’interprète", "word": "j’interprète", "translation": "I interpret", "note": "from interrompre"}
 {"key": "j’interromps", "word": "j’interromps", "translation": "I interrupt", "note": "from invoquer"}
-{"key": "j’invoque", "word": "j’invoque", "translation": "I her", "note": "elision: je la to j'la (object pronoun)"}
+{"key": "j’invoque", "word": "j’invoque", "translation": "I summon; I invoke", "note": "present of invoquer, to summon; j’ is je elided"}
 {"key": "j’la", "word": "J’la", "translation": "I", "note": "from utiliser"}
-{"key": "j’leur", "word": "j’leur", "translation": "I them", "note": "from avoir + object"}
+{"key": "j’leur", "word": "j’leur", "translation": "I … them; I … to them", "note": "spoken je leur; the verb follows: j’leur veux pas de mal = I mean them no harm"}
 {"key": "j’l’ai", "word": "j’l’ai", "translation": "I have it", "note": "from utiliser"}
 {"key": "j’l’utilise", "word": "j’l’utilise", "translation": "I use it", "note": "from etaler"}
 {"key": "j’l’étale", "word": "j’l’étale", "translation": "I spread it", "note": "from manger"}
-{"key": "j’mange", "word": "j’mange", "translation": "I one", "note": "colloquial: me en to j'men"}
-{"key": "j’men", "word": "j’men", "translation": "I", "note": "from mettre"}
+{"key": "j’mange", "word": "j’mange", "translation": "I eat", "note": "spoken je mange, from manger, to eat"}
+{"key": "j’men", "word": "j’men", "translation": "I … of it; I … myself … it", "note": "spoken je m’en; the verb follows: j’men séparerai = I will part with it"}
 {"key": "j’mets", "word": "J’mets", "translation": "I put", "note": "from avoir negated"}
 {"key": "j’ne", "word": "j’ne", "translation": "I don't", "note": "from avoir"}
 {"key": "j’n’ai", "word": "j’n’ai", "translation": "I don't have", "note": "from obtenir"}
@@ -47145,10 +47145,10 @@
 {"key": "j’obtiendrais", "word": "j’obtiendrais", "translation": "I would get", "note": "from obei"}
 {"key": "j’obtiens", "word": "j’obtiens", "translation": "I get", "note": "from occuper"}
 {"key": "j’obéis", "word": "j’obéis", "translation": "I obey", "note": "from occuper"}
-{"key": "j’occupais", "word": "j’occupais", "translation": "I occupied", "note": "from opter"}
+{"key": "j’occupais", "word": "j’occupais", "translation": "I held; I occupied", "note": "j’occupais une position = I held a position"}
 {"key": "j’opte", "word": "J’opte", "translation": "I opt", "note": "from opter"}
-{"key": "j’opterais", "word": "j’opterais", "translation": "I was forgetting", "note": "imparfait: ongoing past action"}
-{"key": "j’oubliais", "word": "j’oubliais", "translation": "I forgot", "note": "from parier"}
+{"key": "j’opterais", "word": "j’opterais", "translation": "I would opt; I would choose", "note": "conditional of opter, as in j’opterais pour = I would go for"}
+{"key": "j’oubliais", "word": "j’oubliais", "translation": "I was forgetting; if I forgot", "note": "imperfect, here inside si j’oubliais = if I forgot"}
 {"key": "j’parierais", "word": "J’parierais", "translation": "I would bet", "note": "from partager"}
 {"key": "j’partagerai", "word": "j’partagerai", "translation": "I will share", "note": "from ramasser"}
 {"key": "j’pas", "word": "J’pas", "translation": "I don't", "note": "from regretter"}
@@ -47160,13 +47160,13 @@
 {"key": "j’ramasse", "word": "J’ramasse", "translation": "I pick up", "note": "from supposer"}
 {"key": "j’regrette", "word": "J’regrette", "translation": "I regret", "note": "from travailler"}
 {"key": "j’repars", "word": "j’repars", "translation": "I'm leaving again", "note": "from trainer"}
-{"key": "j’reste", "word": "j’reste", "translation": "I hold", "note": "tenir: hold, insist (not want)"}
+{"key": "j’reste", "word": "j’reste", "translation": "I stay; I remain", "note": "spoken je reste, from rester, to stay"}
 {"key": "j’rigole", "word": "j’rigole", "translation": "I'm laughing", "note": "from t'parler"}
 {"key": "j’sens", "word": "J’sens", "translation": "I feel", "note": "from utiliser"}
 {"key": "j’serai", "word": "J’serai", "translation": "I will be", "note": "from utilisais"}
 {"key": "j’suppose", "word": "J’suppose", "translation": "I suppose", "note": "from valoir"}
-{"key": "j’ter", "word": "j’ter", "translation": "I'm", "note": "from verrai"}
-{"key": "j’tiens", "word": "j’tiens", "translation": "I want", "note": "from viendrais"}
+{"key": "j’ter", "word": "j’ter", "translation": "throw", "note": "spoken clipping of jeter, as in j’ter un œil = to take a look; not “I am”"}
+{"key": "j’tiens", "word": "j’tiens", "translation": "I insist; I am keen", "note": "tenir à + infinitive = to be keen to: j’tiens à vous remercier = I really want to thank you"}
 {"key": "j’travaille", "word": "J’travaille", "translation": "I work", "note": "from viens"}
 {"key": "j’traîne", "word": "J’traîne", "translation": "I'm hanging out", "note": "from voudrais"}
 {"key": "j’t’parle", "word": "J’t’parle", "translation": "I'm talking to you", "note": "from voulais"}
@@ -58877,7 +58877,7 @@
 {"key": "echantillons", "word": "Echantillons", "translation": "Samples", "note": "the French spelling is échantillons; the missing accent is in the source word"}
 {"key": "falthir", "word": "Falthir", "translation": "Falthir", "note": ""}
 {"key": "feathermoon", "word": "Feathermoon", "translation": "Feathermoon", "note": ""}
-{"key": "j'adore", "word": "J'adore", "translation": "adore", "note": "j’ is the subject pronoun je elided before a vowel; adore is the verb"}
+{"key": "j'adore", "word": "J'adore", "translation": "I love; I adore", "note": "j’ is the subject pronoun je elided before a vowel; adore is the verb"}
 {"key": "jin'rokh", "word": "Jin'rokh", "translation": "Jin'rokh", "note": ""}
 {"key": "kin'weelay", "word": "Kin'weelay", "translation": "Kin'weelay", "note": ""}
 {"key": "kum'isha", "word": "Kum'isha", "translation": "Kum’isha", "note": ""}
@@ -59132,7 +59132,7 @@
 {"key": "icoke", "word": "iCoke", "translation": "iCoke", "note": "a French-English cognate; the shared spelling does not guarantee identical pronunciation"}
 {"key": "incube", "word": "incube", "translation": "incubus", "note": "the French masculine form is incube; English incubus adds a Latin ending"}
 {"key": "inigo", "word": "Inigo", "translation": "Inigo", "note": ""}
-{"key": "j'insiste", "word": "J'insiste", "translation": "Insist", "note": "j’ is je shortened before a vowel; it means “I”"}
+{"key": "j'insiste", "word": "J'insiste", "translation": "I insist", "note": "j’ is je shortened before a vowel; it means “I”"}
 {"key": "jer'kai", "word": "Jer'kai", "translation": "Jer'kai", "note": ""}
 {"key": "kaja'cola", "word": "Kaja'Cola", "translation": "Kaja'Cola", "note": ""}
 {"key": "katoom", "word": "Katoom", "translation": "Katoom", "note": ""}
@@ -59400,11 +59400,11 @@
 {"key": "hello", "word": "Hello", "translation": "Hello", "note": "a French-English cognate; the spelling is similar, but the French pronunciation differs"}
 {"key": "imbécildamus", "word": "Imbécildamus", "translation": "Imbecildamus", "note": ""}
 {"key": "informerai", "word": "informerai", "translation": "will inform", "note": "the verb ending marks the future; the subject is not part of the gloss"}
-{"key": "j'essayais", "word": "j'essayais", "translation": "try", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
+{"key": "j'essayais", "word": "j'essayais", "translation": "I was trying", "note": "j’ is je elided before a vowel; the -ais ending marks the imperfect"}
 {"key": "ja'y", "word": "Ja'y", "translation": "Ja'y", "note": "a French-English cognate; the spelling is similar, but the French pronunciation differs"}
 {"key": "janela", "word": "Janela", "translation": "Janela", "note": ""}
 {"key": "jorgen", "word": "Jorgen", "translation": "Jorgen", "note": ""}
-{"key": "j’amplifierai", "word": "j’amplifierai", "translation": "amplify", "note": "j’ is je (“I”) elided before a vowel; the verb form carries the tense"}
+{"key": "j’amplifierai", "word": "j’amplifierai", "translation": "I will amplify", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
 {"key": "kamsis", "word": "Kamsis", "translation": "Kamsis", "note": ""}
 {"key": "keltus", "word": "Keltus", "translation": "Keltus", "note": ""}
 {"key": "kibli", "word": "Kibli", "translation": "Kibli", "note": ""}
@@ -59630,13 +59630,13 @@
 {"key": "iiie", "word": "IIIe", "translation": "third; III", "note": "the suffix -e after a Roman numeral marks an ordinal: IIIe = third"}
 {"key": "inhumain", "word": "inhumain", "translation": "inhuman; bestial; unearthly", "note": ""}
 {"key": "isalien", "word": "Isalien", "translation": "Isalien", "note": ""}
-{"key": "j'éprouve", "word": "j'éprouve", "translation": "experience; feel", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
+{"key": "j'éprouve", "word": "j'éprouve", "translation": "I feel; I experience", "note": "j’ is je elided before a vowel; present tense"}
 {"key": "jcj", "word": "JcJ", "translation": "PvP", "note": ""}
 {"key": "jern", "word": "Jern", "translation": "Jern", "note": ""}
 {"key": "jesthenis", "word": "Jesthenis", "translation": "Jesthenis", "note": ""}
 {"key": "jeziba", "word": "Jeziba", "translation": "Jeziba", "note": ""}
 {"key": "ju-ju", "word": "Ju-ju", "translation": "Ju-ju; charm", "note": "a hyphenated compound: ju + ju"}
-{"key": "j’échangerai", "word": "j’échangerai", "translation": "exchange; trade", "note": "j’ is je (“I”) elided before a vowel; the gloss gives the verb without sentence tense"}
+{"key": "j’échangerai", "word": "j’échangerai", "translation": "I will exchange; I will trade", "note": "j’ is je elided before a vowel; the -rai ending marks the future"}
 {"key": "kam", "word": "Kam", "translation": "Kam", "note": ""}
 {"key": "keanna", "word": "Keanna", "translation": "Keanna", "note": ""}
 {"key": "ken'jai", "word": "Ken'jai", "translation": "Ken'jai", "note": ""}
@@ -60556,7 +60556,7 @@
 {"key": "diligent", "word": "diligent", "translation": "diligent", "note": ""}
 {"key": "dirigeais", "word": "dirigeais", "translation": "was directing; was leading", "note": "imparfait; je dirigeais = I was directing/leading"}
 {"key": "donnez-la-moi", "word": "Donnez-la-moi", "translation": "give it to me", "note": "imperative; donnez (give) + la (it) + moi (me)"}
-{"key": "draconidés", "word": "draconidés", "translation": "Draconids; draconids", "note": "plural; draconic creatures/dragon-kin"}
+{"key": "draconidés", "word": "draconidés", "translation": "Draconids", "note": "plural; draconic creatures/dragon-kin"}
 {"key": "drenna", "word": "Drenna", "translation": "Drenna", "note": "NPC name; falconer"}
 {"key": "droiture", "word": "droiture", "translation": "righteousness; integrity", "note": "can also mean uprightness or virtue"}
 {"key": "drostan", "word": "Drostan", "translation": "Drostan", "note": "NPC name"}
@@ -66686,7 +66686,7 @@
 {"key": "j'adapterai", "word": "j'adapterai", "translation": "I will adapt", "note": "future 1st person; I'll adjust my plans if only you are being sent"}
 {"key": "j'affronte", "word": "j'affronte", "translation": "I face", "note": "present 1st person; I am facing a dark future after the final battle"}
 {"key": "j'affronterai", "word": "j'affronterai", "translation": "I will face", "note": "future 1st person; hypothetical—if I met them now, they'd capture me again"}
-{"key": "j'agis", "word": "j'agis", "translation": "act", "note": "present 1st person; my dragon flight acts differently in Andorhal"}
+{"key": "j'agis", "word": "j'agis", "translation": "I act", "note": "present of agir, to act; j’ is je elided"}
 {"key": "j'aiguisais", "word": "j'aiguisais", "translation": "I was sharpening", "note": "imperfect; a hunter sharpening his sword before harpies attacked him"}
 {"key": "j'aille", "word": "j'aille", "translation": "I go", "note": "subjunctive present; avant j'aille = before I go to the Overlook"}
 {"key": "j'aimerai", "word": "j'aimerai", "translation": "I would like", "note": "future/conditional sense; I'd like it if we made ice cream at school"}
@@ -66738,8 +66738,8 @@
 {"key": "j'ignorerais", "word": "j'ignorerais", "translation": "I would overlook", "note": "conditional; Velinde vanished after losing control in Felwood"}
 {"key": "j'imaginais", "word": "j'imaginais", "translation": "I imagined", "note": "imperfect; it's worse than I feared—nineteen men died needlessly"}
 {"key": "j'installerais", "word": "j'installerais", "translation": "I would place", "note": "conditional; I'd put this post somewhere less unpleasant if I could"}
-{"key": "j'leur", "word": "J'leur", "translation": "to them", "note": "dialectal je leur; I worked near dark iron dwarves attacking the excavation site"}
-{"key": "j'lui", "word": "j'lui", "translation": "to him", "note": "dialectal je lui; I need to send him Budd's mask defenses soon"}
+{"key": "j'leur", "word": "J'leur", "translation": "I … them; I … from them", "note": "spoken je leur; the verb follows: j’leur ai échappé = I escaped them"}
+{"key": "j'lui", "word": "j'lui", "translation": "I … him; I … her", "note": "spoken je lui; the verb follows: j’lui file = I give him"}
 {"key": "j'm'apprêtais", "word": "j'm'apprêtais", "translation": "I was preparing", "note": "imperfect dialectal; I'd just defeated the corrupted water spirit"}
 {"key": "j'm'occupe", "word": "j'm'occupe", "translation": "I deal with", "note": "present dialectal; I'll handle you if you push me too far"}
 {"key": "j'm'attendais", "word": "J'm'attendais", "translation": "I expected", "note": "imperfect dialectal; I thought Stormwind needed more troops from the Alliance fleet"}
@@ -68070,7 +68070,7 @@
 {"key": "m’honorez", "word": "m’honorez", "translation": "honor me", "note": "imperative; help elders, honor speaker"}
 {"key": "m’honorent", "word": "m’honorent", "translation": "honor me", "note": "honor the Horde through these bars"}
 {"key": "m’intéressais", "word": "m’intéressais", "translation": "interested me", "note": "imparfait; no longer interested in past"}
-{"key": "m’inclinerai", "word": "m’inclinerai", "translation": "I will not bow", "note": "future negative; refusing Keeshan's decision"}
+{"key": "m’inclinerai", "word": "m’inclinerai", "translation": "I will bow; I will submit", "note": "s’incliner devant = to bow to; the “not” came from ne … pas around it, not from this word"}
 {"key": "m’obliger", "word": "m’obliger", "translation": "force me", "note": "me + obliger (force); stop changing opinion"}
 {"key": "m’offrez", "word": "m’offrez", "translation": "offer me", "note": "provide keys to troll shamanism"}
 {"key": "m’organise", "word": "m’organise", "translation": "am organizing; am plotting", "note": "present; preparing to win war"}
