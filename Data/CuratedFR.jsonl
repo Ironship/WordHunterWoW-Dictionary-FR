@@ -52096,7 +52096,7 @@
 {"key": "provoquaient", "word": "provoquaient", "translation": "provoked", "note": "imperfect"}
 {"key": "provoquez-le", "word": "provoquez-le", "translation": "provoke him", "note": "imperative"}
 {"key": "provoquez-les", "word": "Provoquez-les", "translation": "provoke them", "note": "imperative"}
-{"key": "provoquions", "word": "provoquions", "translation": "let's provoke", "note": "subjunctive"}
+{"key": "provoquions", "word": "provoquions", "translation": "we were provoking", "note": "subjunctive"}
 {"key": "provoquons", "word": "provoquons", "translation": "let's provoke", "note": "subjunctive"}
 {"key": "provoquées", "word": "provoquées", "translation": "provoked", "note": "feminine plural"}
 {"key": "proéminence", "word": "proéminence", "translation": "prominence", "note": "standing out"}
@@ -52114,9 +52114,9 @@
 {"key": "préalables", "word": "préalables", "translation": "prerequisites", "note": "prior conditions"}
 {"key": "préambules", "word": "Préambules", "translation": "Preambles", "note": "introductions"}
 {"key": "préavis", "word": "préavis", "translation": "notice", "note": "advance warning"}
-{"key": "précipitait", "word": "précipitait", "translation": "rushed", "note": "imperfect"}
+{"key": "précipitait", "word": "précipitait", "translation": "was rushing", "note": "imperfect"}
 {"key": "précipitant", "word": "précipitant", "translation": "rushing", "note": "present participle"}
-{"key": "précipitons", "word": "précipitons", "translation": "don't rush", "note": "negative imperative"}
+{"key": "précipitons", "word": "précipitons", "translation": "we rush; let's rush", "note": "negative imperative"}
 {"key": "préciseuses", "word": "préciseuses", "translation": "precious", "note": "valued relics"}
 {"key": "précisions", "word": "précisions", "translation": "details", "note": "clarifications"}
 {"key": "précisés", "word": "précisés", "translation": "specified", "note": "made clear"}
@@ -52128,8 +52128,8 @@
 {"key": "prédilections", "word": "prédilections", "translation": "predilections", "note": "preferences"}
 {"key": "prédisposition", "word": "prédisposition", "translation": "predisposition", "note": "tendency"}
 {"key": "prédéterminé", "word": "prédéterminé", "translation": "predetermined", "note": "decided in advance"}
-{"key": "préférais", "word": "préférais", "translation": "I preferred", "note": "imperfect"}
-{"key": "préférait", "word": "préférait", "translation": "preferred", "note": "imperfect"}
+{"key": "préférais", "word": "préférais", "translation": "I/you were preferring", "note": "imperfect"}
+{"key": "préférait", "word": "préférait", "translation": "was preferring", "note": "imperfect"}
 {"key": "préfére", "word": "préfére", "translation": "prefers", "note": "third-person singular"}
 {"key": "préférerait", "word": "préférerait", "translation": "he/she would prefer", "note": "conditional"}
 {"key": "préférerez", "word": "préférerez", "translation": "you will prefer", "note": "future"}
@@ -52153,7 +52153,7 @@
 {"key": "prénommée", "word": "prénommée", "translation": "named", "note": "called; the girl"}
 {"key": "préoccupants", "word": "préoccupants", "translation": "concerning", "note": "worrying"}
 {"key": "préoccuperions", "word": "préoccuperions", "translation": "we would worry", "note": "conditional"}
-{"key": "préparais", "word": "préparais", "translation": "was preparing", "note": "imperfect"}
+{"key": "préparais", "word": "préparais", "translation": "I/you were preparing", "note": "imperfect"}
 {"key": "préparatoire", "word": "préparatoire", "translation": "preparatory", "note": "preliminary"}
 {"key": "préparent-ils", "word": "préparent-ils", "translation": "are they preparing", "note": "inversion"}
 {"key": "prépareraient", "word": "prépareraient", "translation": "they would prepare", "note": "conditional"}
@@ -52162,38 +52162,38 @@
 {"key": "préparez-y", "word": "préparez-y", "translation": "prepare for it", "note": "with y"}
 {"key": "prépariez", "word": "prépariez", "translation": "were preparing", "note": "imperfect"}
 {"key": "prépariez-vous", "word": "prépariez-vous", "translation": "were you preparing", "note": "imperfect"}
-{"key": "préparions", "word": "préparions", "translation": "let's prepare", "note": "subjunctive"}
+{"key": "préparions", "word": "préparions", "translation": "we were preparing", "note": "subjunctive"}
 {"key": "préparons-nous", "word": "préparons-nous", "translation": "let's get ready", "note": "reflexive"}
 {"key": "préposée", "word": "préposée", "translation": "attendant", "note": "female"}
 {"key": "préproduction", "word": "préproduction", "translation": "pre-production", "note": "before production"}
 {"key": "prérogative", "word": "prérogative", "translation": "prerogative", "note": "exclusive right"}
-{"key": "présageait", "word": "présageait", "translation": "presaged", "note": "portended"}
+{"key": "présageait", "word": "présageait", "translation": "was presaging", "note": "portended"}
 {"key": "présagerait", "word": "présagerait", "translation": "he/she would presage", "note": "conditional"}
 {"key": "présences", "word": "présences", "translation": "presences", "note": "manifestations"}
 {"key": "présenta", "word": "présenta", "translation": "presented", "note": "past tense"}
-{"key": "présentaient", "word": "présentaient", "translation": "presented", "note": "imperfect"}
+{"key": "présentaient", "word": "présentaient", "translation": "were presenting", "note": "imperfect"}
 {"key": "présentent-ils", "word": "Présentent-ils", "translation": "Do they present", "note": "inversion"}
 {"key": "présenterons", "word": "présenterons", "translation": "we will present", "note": "future"}
 {"key": "présenteront", "word": "présenteront", "translation": "they will present", "note": "future"}
 {"key": "présentoir", "word": "présentoir", "translation": "display stand", "note": "showcase"}
 {"key": "présentons", "word": "présentons", "translation": "let's present", "note": "subjunctive"}
-{"key": "préservaient", "word": "préservaient", "translation": "preserved", "note": "imperfect"}
+{"key": "préservaient", "word": "préservaient", "translation": "were preserving", "note": "imperfect"}
 {"key": "préservent", "word": "préservent", "translation": "preserve", "note": "present"}
 {"key": "préservons", "word": "Préservons", "translation": "Let's preserve", "note": "imperative"}
-{"key": "présidait", "word": "présidait", "translation": "presided", "note": "imperfect"}
+{"key": "présidait", "word": "présidait", "translation": "was presiding", "note": "imperfect"}
 {"key": "président-archéologue", "word": "président-archéologue", "translation": "president-archaeologist", "note": "compound"}
 {"key": "présidera", "word": "présidera", "translation": "he/she will preside", "note": "future"}
 {"key": "présomptif", "word": "présomptif", "translation": "presumptive", "note": "heir presumptive"}
 {"key": "prétentions", "word": "prétentions", "translation": "claims", "note": "assertions"}
 {"key": "prétoire", "word": "Prétoire", "translation": "Praetorium", "note": "Roman court"}
-{"key": "prévalait", "word": "prévalait", "translation": "prevailed", "note": "imperfect"}
+{"key": "prévalait", "word": "prévalait", "translation": "was prevailing", "note": "imperfect"}
 {"key": "prévale", "word": "prévale", "translation": "prevails", "note": "subjunctive"}
 {"key": "prévalent", "word": "prévalent", "translation": "prevail", "note": "present"}
 {"key": "prévaloir", "word": "prévaloir", "translation": "prevail", "note": "gain advantage"}
 {"key": "prévaudra", "word": "prévaudra", "translation": "he/she will prevail", "note": "future"}
 {"key": "prévaut", "word": "prévaut", "translation": "prevails", "note": "present"}
-{"key": "prévenez-les", "word": "Prévenez-les", "translation": "Warn them", "note": "imperative"}
-{"key": "prévenez-nous", "word": "Prévenez-nous", "translation": "Let us know", "note": "inform"}
+{"key": "prévenez-les", "word": "Prévenez-les", "translation": "warn them", "note": "imperative"}
+{"key": "prévenez-nous", "word": "Prévenez-nous", "translation": "let us know", "note": "inform"}
 {"key": "préviendra", "word": "préviendra", "translation": "he/she will warn", "note": "future"}
 {"key": "préviendrez", "word": "préviendrez", "translation": "you will warn", "note": "future"}
 {"key": "préviendront", "word": "préviendront", "translation": "they will warn", "note": "future"}
@@ -52207,7 +52207,7 @@
 {"key": "prêterait", "word": "prêterait", "translation": "he/she would lend", "note": "conditional form of prêter"}
 {"key": "prêteriez", "word": "prêteriez", "translation": "you would lend", "note": "conditional form, second person plural"}
 {"key": "prêtez-vous", "word": "Prêtez-vous", "translation": "lend", "note": "ask for assistance or help"}
-{"key": "prêtiez", "word": "prêtiez", "translation": "lent", "note": "imperfect form of prêter"}
+{"key": "prêtiez", "word": "prêtiez", "translation": "you were lending", "note": "imperfect form of prêter"}
 {"key": "prêtons", "word": "prêtons", "translation": "lend", "note": "first person plural present"}
 {"key": "prêtres-assassins", "word": "prêtres-assassins", "translation": "priest-assassins", "note": "mogu elite soldiers combining magic and stealth"}
 {"key": "prêtresse-loa", "word": "prêtresse-Loa", "translation": "priestess-Loa", "note": "priestess dedicated to a Loa; spirit/deity in WoW"}
@@ -52225,7 +52225,7 @@
 {"key": "ptacos", "word": "ptacos", "translation": "ptacos", "note": ""}
 {"key": "pterreurtorial", "word": "pterreurtorial", "translation": "pterritorial", "note": "WoW pun; pteranodon + territorial"}
 {"key": "ptêt", "word": "Ptêt", "translation": "maybe", "note": "casual/dialect form of peut-être"}
-{"key": "pt’être", "word": "pt’être", "translation": "to be", "note": ""}
+{"key": "pt’être", "word": "pt’être", "translation": "maybe", "note": ""}
 {"key": "pub", "word": "pub", "translation": "pub", "note": ""}
 {"key": "publicités", "word": "Publicités", "translation": "advertisements", "note": ""}
 {"key": "publié", "word": "publié", "translation": "published", "note": ""}
@@ -52244,9 +52244,9 @@
 {"key": "puisqu’ils", "word": "puisqu’ils", "translation": "since they", "note": ""}
 {"key": "puisqu’ofi", "word": "Puisqu’Ofi", "translation": "Since Ofi", "note": ""}
 {"key": "puissent-elles", "word": "puissent-elles", "translation": "may they", "note": "subjunctive form of pouvoir"}
-{"key": "puisse-t-il", "word": "Puisse-t-il", "translation": "May he", "note": "subjunctive with inversion; formal construction"}
-{"key": "puissions-nous", "word": "Puissions-nous", "translation": "May we", "note": "subjunctive form; formal appeal or wish"}
-{"key": "puissse", "word": "puissse", "translation": "can", "note": "likely typo or hissing naga speech"}
+{"key": "puisse-t-il", "word": "Puisse-t-il", "translation": "may he", "note": "subjunctive with inversion; formal construction"}
+{"key": "puissions-nous", "word": "Puissions-nous", "translation": "may we", "note": "subjunctive form; formal appeal or wish"}
+{"key": "puissse", "word": "puissse", "translation": "may", "note": "likely typo or hissing naga speech"}
 {"key": "pul", "word": "Pul", "translation": "Pul", "note": ""}
 {"key": "puits-doré", "word": "Puits-doré", "translation": "Golden Well", "note": "puits (well) + doré (golden); location name"}
 {"key": "pulencre", "word": "Pulencre", "translation": "Pulancre", "note": ""}
@@ -52258,7 +52258,7 @@
 {"key": "pulvérisations", "word": "pulvérisations", "translation": "sprays", "note": "plural of pulvérisation"}
 {"key": "pulvérise", "word": "pulvérise", "translation": "sprays", "note": "third person singular of pulvériser"}
 {"key": "pulvérisera", "word": "pulvérisera", "translation": "he/she will spray", "note": "future tense of pulvériser"}
-{"key": "pulvérisiez", "word": "pulvérisiez", "translation": "sprayed", "note": "imperfect form; second person plural"}
+{"key": "pulvérisiez", "word": "pulvérisiez", "translation": "you were spraying", "note": "imperfect form; second person plural"}
 {"key": "pulvéristeur", "word": "pulvéristeur", "translation": "sprayer", "note": "one who sprays; possibly WoW-specific"}
 {"key": "pulvérisée", "word": "pulvérisée", "translation": "sprayed", "note": "feminine past participle"}
 {"key": "pulvérulente", "word": "pulvérulente", "translation": "powdery", "note": "fine and dusty in texture"}
@@ -52269,7 +52269,7 @@
 {"key": "pupille", "word": "pupille", "translation": "pupil", "note": "child under guardianship; also iris opening"}
 {"key": "pupille-rouge", "word": "Pupille-Rouge", "translation": "Pupil-Red", "note": ""}
 {"key": "purbosquet", "word": "Purbosquet", "translation": "Purbosquet", "note": ""}
-{"key": "purent", "word": "purent", "translation": "could", "note": "past simple of pouvoir; were able"}
+{"key": "purent", "word": "purent", "translation": "they were able to", "note": "past simple of pouvoir; were able"}
 {"key": "purgera", "word": "purgera", "translation": "he/she will purge", "note": "future tense of purger"}
 {"key": "purgerons", "word": "purgerons", "translation": "we will purge", "note": "future of purger"}
 {"key": "purgée", "word": "purgée", "translation": "purged", "note": "feminine past participle of purger"}
@@ -52305,10 +52305,10 @@
 {"key": "pyre", "word": "Pyre", "translation": "Pyre", "note": ""}
 {"key": "pyrium", "word": "Pyrium", "translation": "Pyrium", "note": ""}
 {"key": "pyro-côtelettes", "word": "pyro-côtelettes", "translation": "pyro-chops", "note": "pyro (fire) + côtelettes (chops); food item"}
-{"key": "pyroarachnophobie", "word": "Pyroarachnophobie", "translation": "Pyroarachnophobia", "note": ""}
+{"key": "pyroarachnophobie", "word": "Pyroarachnophobie", "translation": "pyroarachnophobia", "note": ""}
 {"key": "pyrocônes", "word": "pyrocônes", "translation": "pyrocones", "note": ""}
-{"key": "pyrolithe", "word": "Pyrolithe", "translation": "Pyrolith", "note": ""}
-{"key": "pyromane", "word": "Pyromane", "translation": "Pyromaniac", "note": ""}
+{"key": "pyrolithe", "word": "Pyrolithe", "translation": "pyrolith", "note": ""}
+{"key": "pyromane", "word": "Pyromane", "translation": "pyromaniac", "note": ""}
 {"key": "pyromanie", "word": "pyromanie", "translation": "pyromania", "note": "obsessive desire to set fires"}
 {"key": "pyromanciens", "word": "pyromanciens", "translation": "pyromancers", "note": "mages specializing in fire magic"}
 {"key": "pyrox", "word": "Pyrox", "translation": "Pyrox", "note": ""}
@@ -52326,7 +52326,7 @@
 {"key": "père-tout-puissant", "word": "Père-tout-puissant", "translation": "Almighty Father", "note": ""}
 {"key": "pète-flammes", "word": "pète-flammes", "translation": "flamethrower", "note": "pète (throws) + flammes (flames)"}
 {"key": "pètent", "word": "pètent", "translation": "fart", "note": "vulgar term; also means burst/explode"}
-{"key": "pécheur", "word": "pécheur", "translation": "fisherman", "note": ""}
+{"key": "pécheur", "word": "pécheur", "translation": "sinner", "note": ""}
 {"key": "pécheurs", "word": "pécheurs", "translation": "sinners", "note": "those who sin; homophones with pécheur"}
 {"key": "pédales", "word": "pédales", "translation": "pedals", "note": "foot controls on instruments/vehicles"}
 {"key": "pédonculé", "word": "pédonculé", "translation": "pedunculate", "note": "having a peduncle; botanical term"}
@@ -52364,18 +52364,18 @@
 {"key": "pétillant", "word": "pétillant", "translation": "sparkling", "note": "pétiller (to sparkle, crackle) + -ant; makes it an adjective meaning sparkling"}
 {"key": "pétiller", "word": "pétiller", "translation": "sparkle", "note": "to sparkle, crackle, or fizz; from pétil- (crackle) + -er (infinitive)"}
 {"key": "pétivif", "word": "Pétivif", "translation": "Petitive", "note": ""}
-{"key": "pétoires", "word": "pétoires", "translation": "farts", "note": ""}
+{"key": "pétoires", "word": "pétoires", "translation": "popguns; old rifles", "note": ""}
 {"key": "pétoncle", "word": "pétoncle", "translation": "scallop", "note": "shellfish; a type of scallop; from Latin petunculus"}
 {"key": "pétrifiante", "word": "pétrifiante", "translation": "petrifying", "note": "pétrifier (to petrify, turn to stone) + -ante; literally stone-making"}
 {"key": "pétrifier", "word": "pétrifier", "translation": "petrify", "note": "from latin petrificare (to turn to stone); petra (stone) + -fier (make)"}
 {"key": "pétrifient", "word": "pétrifient", "translation": "petrify", "note": "3rd person plural of pétrifier; context involves basilisks that turn creatures to stone"}
 {"key": "pété", "word": "pété", "translation": "broke; misfired; failed", "note": "péteur (to fart, to fail, to misfire); context is about a flying machine that failed"}
-{"key": "pêchais", "word": "pêchais", "translation": "was fishing", "note": "imparfait (was fishing); 1st person singular of pêcher"}
+{"key": "pêchais", "word": "pêchais", "translation": "I/you were fishing", "note": "imparfait (was fishing); 1st person singular of pêcher"}
 {"key": "pêchait", "word": "pêchait", "translation": "was fishing", "note": "imparfait (was fishing); 3rd person singular of pêcher"}
 {"key": "pêche-surprise", "word": "Pêche-surprise", "translation": "Surprise fishing", "note": ""}
 {"key": "pêcherie", "word": "pêcherie", "translation": "fishery", "note": "pêcher (to fish) + -erie (place/practice); a fishing place or fishery"}
 {"key": "pêchez-nous", "word": "pêchez-nous", "translation": "fish us", "note": "imperative: 'fish us'; pêchez (fish, 2nd plural) + nous (us); catch us some fish"}
-{"key": "pêchiez", "word": "pêchiez", "translation": "fished", "note": "imparfait 2nd person plural (you were fishing) or conditional of pêcher"}
+{"key": "pêchiez", "word": "pêchiez", "translation": "you were fishing", "note": "imparfait 2nd person plural (you were fishing) or conditional of pêcher"}
 {"key": "pêchions", "word": "pêchions", "translation": "let's fish", "note": "1st person plural present subjunctive (let us fish); pêch- + -ions"}
 {"key": "pêchons", "word": "pêchons", "translation": "let's fish", "note": "1st person plural imperative (let's fish); pêch- + -ons"}
 {"key": "pêchues", "word": "pêchues", "translation": "lucky; fortunate", "note": "false friend: pêchu (full of luck/fortune) not 'fishy'; from pêche (luck) + -u"}
@@ -52397,33 +52397,33 @@
 {"key": "qu'anub'arak", "word": "qu'Anub'arak", "translation": "that Anub'arak", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'apporte", "word": "qu'apporte", "translation": "what brings", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'apprennent", "word": "qu'apprennent", "translation": "what do they learn", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'apprenti", "word": "qu'apprenti", "translation": "as", "note": ""}
+{"key": "qu'apprenti", "word": "qu'apprenti", "translation": "as apprentice", "note": ""}
 {"key": "qu'approcher", "word": "qu'approcher", "translation": "what to approach", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'argus", "word": "qu'Argus", "translation": "that Argus", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'arrive-t-il", "word": "Qu'arrive-t-il", "translation": "What happens", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'artisan", "word": "qu'artisan", "translation": "that", "note": ""}
+{"key": "qu'artisan", "word": "qu'artisan", "translation": "that artisan", "note": ""}
 {"key": "qu'aurait", "word": "qu'aurait", "translation": "what would have", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'auront", "word": "qu'auront", "translation": "what will they have", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'autant", "word": "qu'autant", "translation": "as", "note": ""}
-{"key": "qu'autrefois", "word": "qu'autrefois", "translation": "than", "note": ""}
+{"key": "qu'autant", "word": "qu'autant", "translation": "as much as; as many as", "note": ""}
+{"key": "qu'autrefois", "word": "qu'autrefois", "translation": "than formerly", "note": ""}
 {"key": "qu'avait", "word": "qu'avait", "translation": "what had", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'avoir", "word": "qu'avoir", "translation": "what to have", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'azeroth", "word": "qu'Azeroth", "translation": "that Azeroth", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'eau-plate", "word": "qu'Eau-Plate", "translation": "than Still Water", "note": ""}
 {"key": "qu'ellis", "word": "qu'Ellis", "translation": "that Ellis", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'empruntait", "word": "qu'empruntait", "translation": "what was borrowing", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'entre", "word": "qu'entre", "translation": "that", "note": ""}
+{"key": "qu'entre", "word": "qu'entre", "translation": "that between", "note": ""}
 {"key": "qu'entretient", "word": "qu'entretient", "translation": "what maintains", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'est-il", "word": "Qu'est-il", "translation": "What is it", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'hemet", "word": "qu'Hemet", "translation": "that Hemet", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'hier", "word": "qu'hier", "translation": "than", "note": ""}
+{"key": "qu'hier", "word": "qu'hier", "translation": "than yesterday", "note": ""}
 {"key": "qu'hélix", "word": "qu'Hélix", "translation": "that Helix", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'importe", "word": "Qu'importe", "translation": "What does it matter", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'impose", "word": "qu'impose", "translation": "what imposes", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'indiquaient", "word": "qu'indiquaient", "translation": "what did they indicate", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'impressionné", "word": "qu'impressionné", "translation": "that", "note": ""}
+{"key": "qu'impressionné", "word": "qu'impressionné", "translation": "that impressed", "note": ""}
 {"key": "qu'intervient", "word": "qu'intervient", "translation": "what happens", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'intéressantes", "word": "qu'intéressantes", "translation": "that", "note": ""}
+{"key": "qu'intéressantes", "word": "qu'intéressantes", "translation": "that interesting", "note": ""}
 {"key": "qu'j'ai", "word": "qu'j'ai", "translation": "that I have", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'iset", "word": "qu'Iset", "translation": "that Iset", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'j’aimerais", "word": "qu'j’aimerais", "translation": "that I would like", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
@@ -52436,11 +52436,11 @@
 {"key": "qu'que", "word": "qu'que", "translation": "what", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'ulcéré", "word": "qu'Ulcéré", "translation": "that Ulcerated", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "qu'tu", "word": "qu'tu", "translation": "that", "note": ""}
-{"key": "qu'urgent", "word": "qu'urgent", "translation": "that", "note": ""}
+{"key": "qu'urgent", "word": "qu'urgent", "translation": "that urgent", "note": ""}
 {"key": "qu'utilise", "word": "qu'utilise", "translation": "what does it use", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
-{"key": "qu'éclaireur", "word": "qu'éclaireur", "translation": "as", "note": ""}
-{"key": "qu'émissaire", "word": "qu'émissaire", "translation": "as", "note": ""}
-{"key": "qu'éphémère", "word": "qu'éphémère", "translation": "that", "note": ""}
+{"key": "qu'éclaireur", "word": "qu'éclaireur", "translation": "as scout", "note": ""}
+{"key": "qu'émissaire", "word": "qu'émissaire", "translation": "as emissary", "note": ""}
+{"key": "qu'éphémère", "word": "qu'éphémère", "translation": "that short-lived", "note": ""}
 {"key": "qu'étaient", "word": "qu'étaient", "translation": "what were", "note": "qu' = que or qui with vowel dropped; subordinating or relative clause marker"}
 {"key": "quadri-colore", "word": "Quadri-colore", "translation": "Quadricolor", "note": ""}
 {"key": "quadrillent", "word": "quadrillent", "translation": "patrol", "note": "quadriller = to patrol an area, to cover in a grid pattern; -ent = 3rd person plural"}
@@ -52499,55 +52499,55 @@
 {"key": "quincaillerie", "word": "Quincaillerie", "translation": "Hardware", "note": "quincaille (hardware goods) + -erie (shop); hardware store or hard goods"}
 {"key": "quinzaine", "word": "quinzaine", "translation": "fortnight", "note": "quinze (fifteen) + -aine (group of); about two weeks or a fortnight"}
 {"key": "quis", "word": "quis", "translation": "who", "note": ""}
-{"key": "quittaient", "word": "quittaient", "translation": "left", "note": "imparfait 3rd plural of quitter (to leave); were leaving"}
-{"key": "quittais", "word": "quittais", "translation": "left", "note": "imparfait 1st singular of quitter (to leave); I was leaving"}
+{"key": "quittaient", "word": "quittaient", "translation": "were leaving", "note": "imparfait 3rd plural of quitter (to leave); were leaving"}
+{"key": "quittais", "word": "quittais", "translation": "I/you were leaving", "note": "imparfait 1st singular of quitter (to leave); I was leaving"}
 {"key": "quitterait", "word": "quitterait", "translation": "he/she would leave", "note": "conditional 3rd singular of quitter (to leave); would leave"}
 {"key": "qu’harry", "word": "qu’Harry", "translation": "than Harry", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’henry", "word": "qu’Henry", "translation": "than Henry", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’herboristes", "word": "qu’herboristes", "translation": "as", "note": ""}
+{"key": "qu’herboristes", "word": "qu’herboristes", "translation": "as herbalists", "note": ""}
 {"key": "qu’hinott", "word": "qu’Hinott", "translation": "than Hinott", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’hir’eek", "word": "qu’Hir’eek", "translation": "that Hir’eek", "note": ""}
 {"key": "qu’hobart", "word": "qu’Hobart", "translation": "than Hobart", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’historien", "word": "qu’historien", "translation": "as", "note": ""}
+{"key": "qu’historien", "word": "qu’historien", "translation": "as historian", "note": ""}
 {"key": "qu’holbruk", "word": "qu’Holbruk", "translation": "than Holbruk", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’honorable", "word": "qu’honorable", "translation": "as", "note": ""}
+{"key": "qu’honorable", "word": "qu’honorable", "translation": "as honorable", "note": ""}
 {"key": "qu’hymdall", "word": "qu’Hymdall", "translation": "than Hymdall", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’héphaïstos", "word": "qu’Héphaïstos", "translation": "than Héphaïstos", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’héritier", "word": "qu’héritier", "translation": "as", "note": ""}
-{"key": "qu’héroïque", "word": "qu’héroïque", "translation": "as", "note": ""}
-{"key": "qu’idéaux", "word": "qu’idéaux", "translation": "what", "note": "que: exclamatory 'what a/an'; not a person"}
+{"key": "qu’héritier", "word": "qu’héritier", "translation": "as heir", "note": ""}
+{"key": "qu’héroïque", "word": "qu’héroïque", "translation": "as heroic", "note": ""}
+{"key": "qu’idéaux", "word": "qu’idéaux", "translation": "what ideals", "note": "que: exclamatory 'what a/an'; not a person"}
 {"key": "qu’ignédus", "word": "qu’Ignédus", "translation": "than Ignédus", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’illusion", "word": "qu’illusion", "translation": "what", "note": "que: exclamatory 'what a/an'; not a person"}
-{"key": "qu’imbécile", "word": "qu’imbécile", "translation": "what", "note": "que: exclamatory 'what a/an'; not a person"}
-{"key": "qu’immenses", "word": "qu’immenses", "translation": "as", "note": ""}
-{"key": "qu’implacable", "word": "qu’implacable", "translation": "as", "note": ""}
-{"key": "qu’important", "word": "qu’important", "translation": "as", "note": ""}
-{"key": "qu’importantes", "word": "qu’importantes", "translation": "as", "note": ""}
-{"key": "qu’impose", "word": "qu’impose", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’importent", "word": "qu’importent", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’imprévisibles", "word": "qu’imprévisibles", "translation": "as", "note": ""}
-{"key": "qu’impulsif", "word": "qu’impulsif", "translation": "as", "note": ""}
+{"key": "qu’illusion", "word": "qu’illusion", "translation": "what illusion", "note": "que: exclamatory 'what a/an'; not a person"}
+{"key": "qu’imbécile", "word": "qu’imbécile", "translation": "what imbecile", "note": "que: exclamatory 'what a/an'; not a person"}
+{"key": "qu’immenses", "word": "qu’immenses", "translation": "as vast", "note": ""}
+{"key": "qu’implacable", "word": "qu’implacable", "translation": "as implacable", "note": ""}
+{"key": "qu’important", "word": "qu’important", "translation": "as important", "note": ""}
+{"key": "qu’importantes", "word": "qu’importantes", "translation": "as important", "note": ""}
+{"key": "qu’impose", "word": "qu’impose", "translation": "what imposes", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’importent", "word": "qu’importent", "translation": "what matter", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’imprévisibles", "word": "qu’imprévisibles", "translation": "as unpredictable", "note": ""}
+{"key": "qu’impulsif", "word": "qu’impulsif", "translation": "as impulsive", "note": ""}
 {"key": "qu’impéria", "word": "qu’Impéria", "translation": "that Imperia", "note": ""}
 {"key": "qu’incombe", "word": "qu’incombe", "translation": "befalls", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
 {"key": "qu’inconstante", "word": "qu’inconstante", "translation": "as", "note": ""}
-{"key": "qu’inconnues", "word": "qu’inconnues", "translation": "as", "note": ""}
-{"key": "qu’incontournable", "word": "qu’incontournable", "translation": "as", "note": ""}
+{"key": "qu’inconnues", "word": "qu’inconnues", "translation": "as unknown", "note": ""}
+{"key": "qu’incontournable", "word": "qu’incontournable", "translation": "as essential", "note": ""}
 {"key": "qu’indigente", "word": "qu’indigente", "translation": "that", "note": ""}
-{"key": "qu’indépendamment", "word": "qu’indépendamment", "translation": "that", "note": ""}
-{"key": "qu’infuser", "word": "qu’infuser", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’inhabituelles", "word": "qu’inhabituelles", "translation": "as", "note": ""}
+{"key": "qu’indépendamment", "word": "qu’indépendamment", "translation": "that independently", "note": ""}
+{"key": "qu’infuser", "word": "qu’infuser", "translation": "what infuse", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’inhabituelles", "word": "qu’inhabituelles", "translation": "as unusual", "note": ""}
 {"key": "qu’insidion", "word": "qu’Insidion", "translation": "than Insidion", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’intendant", "word": "qu’intendant", "translation": "as", "note": ""}
-{"key": "qu’intéressante", "word": "qu’intéressante", "translation": "as", "note": ""}
-{"key": "qu’inventeur", "word": "qu’inventeur", "translation": "as", "note": ""}
+{"key": "qu’intendant", "word": "qu’intendant", "translation": "as steward", "note": ""}
+{"key": "qu’intéressante", "word": "qu’intéressante", "translation": "as interesting", "note": ""}
+{"key": "qu’inventeur", "word": "qu’inventeur", "translation": "as inventor", "note": ""}
 {"key": "qu’iz’ken", "word": "qu’Iz’ken", "translation": "that Iz’ken", "note": ""}
 {"key": "qu’j’aillais", "word": "qu’j’aillais", "translation": "that I was going", "note": ""}
 {"key": "qu’j’attends", "word": "qu’j’attends", "translation": "that I am waiting for", "note": ""}
 {"key": "qu’le", "word": "qu’le", "translation": "the", "note": "que + le: dialectal contraction"}
 {"key": "qu’mes", "word": "qu’mes", "translation": "my", "note": "que + mes: possessive; 'only my'"}
-{"key": "qu’observatrice", "word": "qu’observatrice", "translation": "as", "note": ""}
+{"key": "qu’observatrice", "word": "qu’observatrice", "translation": "as observant", "note": ""}
 {"key": "qu’oenia", "word": "qu’Oenia", "translation": "than Oenia", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’officier", "word": "qu’officier", "translation": "as", "note": ""}
+{"key": "qu’officier", "word": "qu’officier", "translation": "as officer", "note": ""}
 {"key": "qu’okrog", "word": "qu’Okrog", "translation": "than Okrog", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’ont-ils", "word": "Qu’ont-ils", "translation": "do they have", "note": "que + ont-ils: question 'what do they have'"}
 {"key": "qu’orfus", "word": "qu’Orfus", "translation": "than Orfus", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
@@ -52562,13 +52562,13 @@
 {"key": "qu’umbranse", "word": "qu’Umbranse", "translation": "than Umbranse", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’un-œil", "word": "Qu’un-œil", "translation": "That", "note": ""}
 {"key": "qu’urael", "word": "qu’Urael", "translation": "than Urael", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’utile", "word": "qu’utile", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’utiles", "word": "qu’utiles", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’utilisaient", "word": "qu’utilisaient", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’utilisait", "word": "qu’utilisait", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’utilise", "word": "qu’utilise", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’utiliser", "word": "qu’utiliser", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’utilisé", "word": "qu’utilisé", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’utile", "word": "qu’utile", "translation": "what useful", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’utiles", "word": "qu’utiles", "translation": "what useful", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’utilisaient", "word": "qu’utilisaient", "translation": "what they were using", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’utilisait", "word": "qu’utilisait", "translation": "what he/she was using", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’utilise", "word": "qu’utilise", "translation": "what uses", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’utiliser", "word": "qu’utiliser", "translation": "what use", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’utilisé", "word": "qu’utilisé", "translation": "what used", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
 {"key": "qu’yrel", "word": "qu’Yrel", "translation": "than Yrel", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’ysera", "word": "qu’Ysera", "translation": "than Ysera", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’z’allez", "word": "qu’z’allez", "translation": "let's go", "note": ""}
@@ -52578,21 +52578,21 @@
 {"key": "qu’z’êtes", "word": "qu’z’êtes", "translation": "what are you", "note": ""}
 {"key": "qu’ébyssian", "word": "qu’Ébyssian", "translation": "than Ébyssian", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’échoit", "word": "qu’échoit", "translation": "befalls", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’égoïste", "word": "qu’égoïste", "translation": "as", "note": ""}
-{"key": "qu’élucider", "word": "qu’élucider", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’élèvent", "word": "qu’élèvent", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’élément", "word": "qu’élément", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’émanations", "word": "qu’émanations", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’égoïste", "word": "qu’égoïste", "translation": "as selfish", "note": ""}
+{"key": "qu’élucider", "word": "qu’élucider", "translation": "what clarify", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’élèvent", "word": "qu’élèvent", "translation": "what raise", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’élément", "word": "qu’élément", "translation": "what element", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’émanations", "word": "qu’émanations", "translation": "what fumes", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
 {"key": "qu’éméni", "word": "qu’Éméni", "translation": "than Éméni", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’épaissir", "word": "qu’épaissir", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’épaissir", "word": "qu’épaissir", "translation": "what thicken", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
 {"key": "qu’émettrait", "word": "qu’émettrait", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’éprouve", "word": "qu’éprouve", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’érudit", "word": "qu’érudit", "translation": "as", "note": ""}
+{"key": "qu’éprouve", "word": "qu’éprouve", "translation": "what experiences", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’érudit", "word": "qu’érudit", "translation": "as scholar", "note": ""}
 {"key": "qu’érédath", "word": "qu’Érédath", "translation": "than Érédath", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
 {"key": "qu’éternia", "word": "qu’Éternia", "translation": "than Éternia", "note": "que (comparison): proper name or noun in comparative; often 'as...as'"}
-{"key": "qu’étrange", "word": "qu’étrange", "translation": "as", "note": ""}
-{"key": "qu’étudiants", "word": "qu’étudiants", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
-{"key": "qu’éviter", "word": "qu’éviter", "translation": "what", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’étrange", "word": "qu’étrange", "translation": "as strange", "note": ""}
+{"key": "qu’étudiants", "word": "qu’étudiants", "translation": "what students", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
+{"key": "qu’éviter", "word": "qu’éviter", "translation": "what avoid", "note": "que: relative pronoun or conjunction; 'what' or 'that'"}
 {"key": "r'donne", "word": "r'donne", "translation": "give back", "note": "re- + donne: colloquial imperative 'give it back'"}
 {"key": "r'couverts", "word": "r'couverts", "translation": "covered", "note": "re- + couverts: covered again"}
 {"key": "r'garder", "word": "r'garder", "translation": "watch", "note": "re- + garder: watch or look at"}
@@ -52606,8 +52606,8 @@
 {"key": "rabaisse", "word": "rabaisse", "translation": "belittles", "note": "3rd person singular: to demean or lower"}
 {"key": "rabattent", "word": "rabattent", "translation": "drive back", "note": "rabattre: repel; or 'se rabattent' = resort to"}
 {"key": "rabattez-leur", "word": "Rabattez-leur", "translation": "drive back", "note": "rabattre: repel; or 'se rabattent' = resort to"}
-{"key": "rabattu", "word": "rabattu", "translation": "drive back", "note": "rabattre: repel; or 'se rabattent' = resort to"}
-{"key": "rabattus", "word": "rabattus", "translation": "drive back", "note": "rabattre: repel; or 'se rabattent' = resort to"}
+{"key": "rabattu", "word": "rabattu", "translation": "driven back", "note": "rabattre: repel; or 'se rabattent' = resort to"}
+{"key": "rabattus", "word": "rabattus", "translation": "driven back", "note": "rabattre: repel; or 'se rabattent' = resort to"}
 {"key": "rabis", "word": "Rabis", "translation": "reductions", "note": "plural: rebates or discounts"}
 {"key": "rabine", "word": "Rabine", "translation": "reductions", "note": "plural: rebates or discounts"}
 {"key": "rabrouer", "word": "rabrouer", "translation": "rebuke", "note": "infinitive: to scold sternly or retort"}
@@ -52620,7 +52620,7 @@
 {"key": "raccourcir", "word": "raccourcir", "translation": "shorten", "note": "infinitive: make shorter"}
 {"key": "raccroche", "word": "raccroche", "translation": "hangs up", "note": "raccrocher: hang up or reconnect"}
 {"key": "raccourcissez-moi", "word": "Raccourcissez-moi", "translation": "shorten", "note": "infinitive: make shorter"}
-{"key": "raccrochent", "word": "raccrochent", "translation": "hangs up", "note": "raccrocher: hang up or reconnect"}
+{"key": "raccrochent", "word": "raccrochent", "translation": "hang up", "note": "raccrocher: hang up or reconnect"}
 {"key": "rachetées", "word": "rachetées", "translation": "redeemed", "note": "past participle: ransomed or bought back"}
 {"key": "rachitiques", "word": "rachitiques", "translation": "scrawny", "note": "adjective: thin or undernourished"}
 {"key": "rachurer", "word": "rachurer", "translation": "rachurate", "note": ""}
@@ -52638,15 +52638,15 @@
 {"key": "raclures", "word": "raclures", "translation": "riffraff", "note": "plural: dregs or worthless persons"}
 {"key": "raclé", "word": "raclé", "translation": "scraped", "note": "past participle: scraped clean"}
 {"key": "raclées", "word": "raclées", "translation": "beatings", "note": "plural: severe thrashings or defeats"}
-{"key": "raconta", "word": "raconta", "translation": "tell", "note": "raconter: narrate, recount, relate"}
+{"key": "raconta", "word": "raconta", "translation": "told", "note": "raconter: narrate, recount, relate"}
 {"key": "racontaient", "word": "racontaient", "translation": "they were telling", "note": "raconter: narrate, recount, relate"}
 {"key": "racontais", "word": "racontais", "translation": "I was telling", "note": "imperfect of raconter"}
-{"key": "raconteront-ils", "word": "raconteront-ils", "translation": "tell", "note": "raconter: narrate, recount, relate"}
-{"key": "racontez-moi", "word": "Racontez-moi", "translation": "tell", "note": "imperative: tell me"}
-{"key": "racontons", "word": "racontons", "translation": "tell", "note": "1st plural: let's tell"}
-{"key": "racontés", "word": "racontés", "translation": "tell", "note": "raconter: narrate, recount, relate"}
-{"key": "racontée", "word": "racontée", "translation": "tell", "note": "raconter: narrate, recount, relate"}
-{"key": "racont’rez", "word": "racont’rez", "translation": "tell", "note": "raconter: narrate, recount, relate"}
+{"key": "raconteront-ils", "word": "raconteront-ils", "translation": "will they tell", "note": "raconter: narrate, recount, relate"}
+{"key": "racontez-moi", "word": "Racontez-moi", "translation": "tell me", "note": "imperative: tell me"}
+{"key": "racontons", "word": "racontons", "translation": "let's tell", "note": "1st plural: let's tell"}
+{"key": "racontés", "word": "racontés", "translation": "told", "note": "raconter: narrate, recount, relate"}
+{"key": "racontée", "word": "racontée", "translation": "told", "note": "raconter: narrate, recount, relate"}
+{"key": "racont’rez", "word": "racont’rez", "translation": "you will tell", "note": "raconter: narrate, recount, relate"}
 {"key": "racorni", "word": "racorni", "translation": "shriveled", "note": "past participle: dried up or brittle"}
 {"key": "radcliffe", "word": "Radcliffe", "translation": "Radcliffe", "note": "proper surname: no translation"}
 {"key": "radeaux", "word": "radeaux", "translation": "rafts", "note": "plural: flat boats made of lashed logs"}
@@ -52664,10 +52664,10 @@
 {"key": "raffineurs", "word": "raffineurs", "translation": "refiners", "note": "plural: those who work refining materials"}
 {"key": "rafiots", "word": "rafiots", "translation": "hulks; old tubs", "note": "informal/pejorative: old, ramshackle boats or ships"}
 {"key": "rafistépingle", "word": "Rafistépingle", "translation": "Rafistepin", "note": "surname/NPC name; pun on rafistolé (botched) and épingle (pin)"}
-{"key": "raflez", "word": "Raflez", "translation": "Grab; Seize", "note": "imperative of rafler: to grab or sweep up hastily"}
-{"key": "raflez-en", "word": "Raflez-en", "translation": "Grab some; Take some", "note": "rafler + en: grab/seize some of it"}
+{"key": "raflez", "word": "Raflez", "translation": "grab; seize", "note": "imperative of rafler: to grab or sweep up hastily"}
+{"key": "raflez-en", "word": "Raflez-en", "translation": "grab some; take some", "note": "rafler + en: grab/seize some of it"}
 {"key": "rafraîchissante", "word": "rafraîchissante", "translation": "refreshing", "note": "feminine form: pleasant to the senses, cooling"}
-{"key": "rafraîchissez-leur", "word": "Rafraîchissez-leur", "translation": "Refresh them; Cool them off", "note": "imperative with dative: give them refreshment"}
+{"key": "rafraîchissez-leur", "word": "Rafraîchissez-leur", "translation": "refresh them; cool them off", "note": "imperative with dative: give them refreshment"}
 {"key": "rafraîchit", "word": "rafraîchit", "translation": "refreshes; cools off", "note": "third person singular present tense"}
 {"key": "rageante", "word": "rageante", "translation": "infuriating; exasperating", "note": "feminine form of rageur: causing rage or frustration"}
 {"key": "ragelune", "word": "Ragelune", "translation": "Ragelune", "note": "NPC name; likely moonnight druid; no translation needed"}
@@ -52692,17 +52692,17 @@
 {"key": "raillé", "word": "raillé", "translation": "mocked; ridiculed", "note": "past participle: having been made fun of or scorned"}
 {"key": "rainures", "word": "rainures", "translation": "grooves; furrows", "note": "plural: parallel indentations or channels cut into a surface"}
 {"key": "rais", "word": "rais", "translation": "spokes; rays", "note": "plural of rai: the spokes of a wheel or rays of light"}
-{"key": "raisonne", "word": "raisonne", "translation": "reasoned; sounds out", "note": "third person singular: makes sound/music or thinks through logically"}
+{"key": "raisonne", "word": "raisonne", "translation": "reasons; resounds", "note": "third person singular: makes sound/music or thinks through logically"}
 {"key": "raisonnent", "word": "raisonnent", "translation": "sound; resound", "note": "third person plural: bells or sounds ring out; also: they reason"}
 {"key": "raj", "word": "Raj", "translation": "Raj", "note": "NPC title/name; likely emperor; no translation needed"}
-{"key": "raisonnez-le", "word": "Raisonnez-le", "translation": "Reason with him; Talk sense to him", "note": "imperative with object: convince him through logic"}
+{"key": "raisonnez-le", "word": "Raisonnez-le", "translation": "reason with him; talk sense to him", "note": "imperative with object: convince him through logic"}
 {"key": "rajah", "word": "Rajah", "translation": "Rajah", "note": "Indian/naga ruler title; no translation needed"}
 {"key": "rajeunir", "word": "rajeunir", "translation": "to rejuvenate; to make young again", "note": "transitive verb: restore youth or vitality"}
 {"key": "rajeuni", "word": "rajeuni", "translation": "rejuvenated; renewed", "note": "past participle: restored to youthfulness or vigor"}
 {"key": "rajeunis", "word": "rajeunis", "translation": "rejuvenated; made young again", "note": "plural past participle: multiple things restored to youth"}
 {"key": "rajoute", "word": "rajoute", "translation": "adds; throws in extra", "note": "third person singular: adds something on top or as extra"}
 {"key": "rajis", "word": "Rajis", "translation": "Rajis", "note": "NPC name; naga captain; no translation needed"}
-{"key": "rajoutez-les", "word": "Rajoutez-les", "translation": "Add them; Put them on", "note": "imperative with object: add them to the pile"}
+{"key": "rajoutez-les", "word": "Rajoutez-les", "translation": "add them; put them on", "note": "imperative with object: add them to the pile"}
 {"key": "rakani", "word": "Rakani", "translation": "Rakani", "note": "NPC name; orc warrior; no translation needed"}
 {"key": "rakit", "word": "Rakit", "translation": "Rakit", "note": "NPC name; creature or champion; no translation needed"}
 {"key": "raku", "word": "Raku", "translation": "Raku", "note": "NPC name; troll or explorer; no translation needed"}
@@ -52712,7 +52712,7 @@
 {"key": "ralenties", "word": "ralenties", "translation": "slowed down; retarded", "note": "feminine plural past participle: made to go slower"}
 {"key": "ralentirons", "word": "ralentirons", "translation": "we will slow down; we will retard", "note": "first person plural future: we shall make slower"}
 {"key": "ralentissant", "word": "ralentissant", "translation": "slowing down; retarding", "note": "present participle: in the process of reducing speed"}
-{"key": "ralentissions", "word": "ralentissions", "translation": "slowdowns; retardations", "note": "plural noun: acts or instances of slowing"}
+{"key": "ralentissions", "word": "ralentissions", "translation": "we were slowing down", "note": "plural noun: acts or instances of slowing"}
 {"key": "rallia", "word": "rallia", "translation": "rallied; gathered", "note": "past tense: brought together or united forces"}
 {"key": "ralliera", "word": "ralliera", "translation": "he/she will rally; he/she will gather", "note": "future tense: shall bring together or unite"}
 {"key": "rallierait", "word": "rallierait", "translation": "he/she would rally; he/she would gather", "note": "conditional: would unite or bring people together"}
@@ -52722,22 +52722,22 @@
 {"key": "rallumait", "word": "rallumait", "translation": "was relighting; relit", "note": "imperfect tense: was in the process of lighting again"}
 {"key": "rallumera", "word": "rallumera", "translation": "he/she will relight; he/she will light again", "note": "future tense: shall ignite or kindle again"}
 {"key": "ralton", "word": "Ralton", "translation": "Ralton", "note": "NPC name; dwarf or human warrior; no translation needed"}
-{"key": "ram'nez-les", "word": "Ram'nez-les", "translation": "Bring them back", "note": ""}
-{"key": "ram'nez-nous", "word": "Ram'nez-nous", "translation": "Bring us back", "note": ""}
-{"key": "ramasse-les", "word": "Ramasse-les", "translation": "Pick them up; Gather them", "note": "imperative with object: collect or gather them"}
+{"key": "ram'nez-les", "word": "Ram'nez-les", "translation": "bring them back", "note": ""}
+{"key": "ram'nez-nous", "word": "Ram'nez-nous", "translation": "bring us back", "note": ""}
+{"key": "ramasse-les", "word": "Ramasse-les", "translation": "pick them up; gather them", "note": "imperative with object: collect or gather them"}
 {"key": "ramasseront", "word": "ramasseront", "translation": "they will pick up; they will gather", "note": "future tense: shall collect or gather"}
 {"key": "ramasseuses", "word": "ramasseuses", "translation": "pickers; gatherers", "note": "feminine plural noun: females who collect or gather"}
-{"key": "ramassez-m'en", "word": "ramassez-m'en", "translation": "pick me up", "note": ""}
-{"key": "ramassez-les", "word": "Ramassez-les", "translation": "Pick them up; Gather them", "note": "imperative plural: collect these items"}
+{"key": "ramassez-m'en", "word": "ramassez-m'en", "translation": "pick some up for me", "note": ""}
+{"key": "ramassez-les", "word": "Ramassez-les", "translation": "pick them up; gather them", "note": "imperative plural: collect these items"}
 {"key": "ramassez-moi", "word": "ramassez-moi", "translation": "pick me up; rescue me", "note": "imperative: rescue or collect me"}
 {"key": "ramdam", "word": "Ramdam", "translation": "Ramdam", "note": "NPC name; murloc chieftain; no translation needed"}
 {"key": "rameau-de-l’hiver", "word": "Rameau-de-l’Hiver", "translation": "Winterbough", "note": "location name; WoW zone; literal: winter branch"}
 {"key": "ramenait", "word": "ramenait", "translation": "was bringing back; used to bring back", "note": "imperfect tense: was repeatedly returning something"}
 {"key": "ramenez-le-nous", "word": "ramenez-le-nous", "translation": "bring it back to us; return it to us", "note": "imperative: fetch it back for our group"}
 {"key": "ramenez-les-nous", "word": "ramenez-les-nous", "translation": "bring them back to us; return them to us", "note": "imperative: fetch them back for our group"}
-{"key": "ramenez-nous-en", "word": "Ramenez-nous-en", "translation": "Bring us some back; Fetch us some", "note": "imperative: return with some of it for us"}
-{"key": "ramenions", "word": "ramenions", "translation": "let’s bring back; we should bring back", "note": "conditional first person: we should return them"}
-{"key": "ramenons", "word": "Ramenons", "translation": "Let’s bring back; Let’s return", "note": "hortative first person plural: let us take them back"}
+{"key": "ramenez-nous-en", "word": "Ramenez-nous-en", "translation": "bring us some back; fetch us some", "note": "imperative: return with some of it for us"}
+{"key": "ramenions", "word": "ramenions", "translation": "we were bringing back", "note": "conditional first person: we should return them"}
+{"key": "ramenons", "word": "Ramenons", "translation": "let’s bring back; let’s return", "note": "hortative first person plural: let us take them back"}
 {"key": "ramenons-les", "word": "ramenons-les", "translation": "let’s bring them back; let’s return them", "note": "hortative first person plural: let us fetch them back"}
 {"key": "ramenée", "word": "ramenée", "translation": "brought back; returned", "note": "feminine singular past participle: returned or fetched"}
 {"key": "ramer", "word": "ramer", "translation": "to row; to paddle", "note": "verb: propel a boat with oars"}
@@ -52746,7 +52746,7 @@
 {"key": "ramolli", "word": "ramolli", "translation": "softened; weakened", "note": "masculine singular past participle: made soft or feeble"}
 {"key": "ramollie", "word": "ramollie", "translation": "softened; weakened", "note": "feminine singular past participle: made soft or soft-bodied"}
 {"key": "ramollir", "word": "ramollir", "translation": "to soften; to weaken", "note": "verb: make soft or feeble; also: to become senile"}
-{"key": "rampé", "word": "rampé", "translation": "climbed", "note": "past participle of ramper: scaled or climbed; also archaic past tense"}
+{"key": "rampé", "word": "rampé", "translation": "crawled", "note": "past participle of ramper: scaled or climbed; also archaic past tense"}
 {"key": "ramstein", "word": "Ramstein", "translation": "Ramstein", "note": "NPC name; undead commander; no translation needed"}
 {"key": "ramrod", "word": "Ramrod", "translation": "Ramrod", "note": "NPC name; orc trainer; no translation needed"}
 {"key": "ramèneriez", "word": "ramèneriez", "translation": "you would bring back; you would return", "note": "conditional second person plural: you all would fetch back"}
@@ -52784,18 +52784,18 @@
 {"key": "rappelons-nous", "word": "rappelons-nous", "translation": "let’s remember; let us recall", "note": "hortative first person reflexive: let us bring to mind"}
 {"key": "rappliquera", "word": "rappliquera", "translation": "he/she will show up; he/she will arrive quickly", "note": "future: shall return or show up promptly"}
 {"key": "rappliqueront", "word": "rappliqueront", "translation": "they will show up; they will arrive quickly", "note": "future third person plural: they shall come quickly"}
-{"key": "rappliquiez", "word": "rappliquiez", "translation": "show up; arrive quickly", "note": "second person plural imperative: come right away"}
-{"key": "rapportais", "word": "rapportais", "translation": "was reporting; used to report", "note": "imperfect first person: I was bringing or reporting back"}
-{"key": "rapporte-le-moi", "word": "Rapporte-le-moi", "translation": "Bring it back to me; Return it to me", "note": "imperative with objects: fetch it back for me"}
+{"key": "rappliquiez", "word": "rappliquiez", "translation": "you were showing up", "note": "second person plural imperative: come right away"}
+{"key": "rapportais", "word": "rapportais", "translation": "I/you were reporting", "note": "imperfect first person: I was bringing or reporting back"}
+{"key": "rapporte-le-moi", "word": "Rapporte-le-moi", "translation": "bring it back to me; return it to me", "note": "imperative with objects: fetch it back for me"}
 {"key": "rapporte-les-moi", "word": "rapporte-les-moi", "translation": "bring them back to me; return them to me", "note": "imperative with objects: fetch them for me"}
 {"key": "rapporte-moi", "word": "rapporte-moi", "translation": "report to me; tell me about it", "note": "imperative: inform me or bring news back to me"}
 {"key": "rapporterai", "word": "rapporterai", "translation": "I will report; I will bring back", "note": "future first person singular: I shall report or fetch"}
 {"key": "rapporteraient", "word": "rapporteraient", "translation": "they would report; they would bring back", "note": "conditional third person plural: they would report back"}
 {"key": "rapporteriez", "word": "rapporteriez", "translation": "you would report; you would bring back", "note": "conditional second person plural: you all would report"}
 {"key": "rapportez-les-nous", "word": "rapportez-les-nous", "translation": "bring them back to us; report them to us", "note": "imperative: fetch or deliver them to our group"}
-{"key": "rapportez-leur-en", "word": "Rapportez-leur-en", "translation": "Bring it back to them; Report it to them", "note": "imperative: deliver some of it to them"}
-{"key": "rapportons-le", "word": "Rapportons-le", "translation": "Let’s report it; Let’s bring it back", "note": "hortative first person: let us bring it to the researcher"}
-{"key": "rapportons-lui", "word": "Rapportons-lui", "translation": "Let’s report to him; Let’s bring it to him", "note": "hortative first person: let us deliver this to him"}
+{"key": "rapportez-leur-en", "word": "Rapportez-leur-en", "translation": "bring it back to them; report it to them", "note": "imperative: deliver some of it to them"}
+{"key": "rapportons-le", "word": "Rapportons-le", "translation": "let’s report it; let’s bring it back", "note": "hortative first person: let us bring it to the researcher"}
+{"key": "rapportons-lui", "word": "Rapportons-lui", "translation": "let’s report to him; let’s bring it to him", "note": "hortative first person: let us deliver this to him"}
 {"key": "rapprocha", "word": "rapprocha", "translation": "brought closer; brought together", "note": "past tense: drew near or united"}
 {"key": "rapprochaient", "word": "rapprochaient", "translation": "were drawing closer; were approaching", "note": "imperfect plural: were gradually coming near"}
 {"key": "rapprocherai", "word": "rapprocherai", "translation": "I will bring closer; I will draw near", "note": "future first person: I shall get closer or unite"}
@@ -53113,12 +53113,12 @@
 {"key": "qu’a-t-elle", "word": "Qu’a-t-elle", "translation": "What has she", "note": "qu'a-t-elle interrogative with ellipsis"}
 {"key": "qu’abdumati", "word": "qu’Abdumati", "translation": "that Abdumati", "note": ""}
 {"key": "qu’aboutit", "word": "qu’aboutit", "translation": "where it leads", "note": "aboutir = ends; trail destination"}
-{"key": "qu’abritait", "word": "qu’abritait", "translation": "that", "note": ""}
-{"key": "qu’abritent", "word": "qu’abritent", "translation": "that", "note": ""}
+{"key": "qu’abritait", "word": "qu’abritait", "translation": "that he/she was sheltering", "note": ""}
+{"key": "qu’abritent", "word": "qu’abritent", "translation": "that shelter", "note": ""}
 {"key": "qu’accentuer", "word": "qu’accentuer", "translation": "only accentuate", "note": "n'a fait qu' = did nothing but"}
 {"key": "qu’accomplir", "word": "qu’accomplir", "translation": "only fulfill", "note": "n'ont fait qu' = only carried out"}
 {"key": "qu’accélérer", "word": "qu’accélérer", "translation": "only hastened", "note": "n'a fait qu' = sole effect speeding"}
-{"key": "qu’acolyte", "word": "qu’acolyte", "translation": "as", "note": ""}
+{"key": "qu’acolyte", "word": "qu’acolyte", "translation": "as acolyte", "note": ""}
 {"key": "qu’adore", "word": "qu’adore", "translation": "whom she loves", "note": "object of verb adore"}
 {"key": "qu’advienne", "word": "Qu’advienne", "translation": "let reign", "note": "subjunctive poetic form"}
 {"key": "qu’aeosera", "word": "qu’Aeosera", "translation": "that Aeosera", "note": ""}
@@ -53127,7 +53127,7 @@
 {"key": "qu’affectionne", "word": "qu’affectionne", "translation": "who favors", "note": "whom she prefers"}
 {"key": "qu’affirme", "word": "qu’affirme", "translation": "what claims", "note": "what text asserts"}
 {"key": "qu’affreuses", "word": "qu’affreuses", "translation": "vile creatures", "note": "affreux = dreadful pests"}
-{"key": "qu’affrontent", "word": "qu’affrontent", "translation": "that", "note": ""}
+{"key": "qu’affrontent", "word": "qu’affrontent", "translation": "that confront", "note": ""}
 {"key": "qu’afin", "word": "qu’afin", "translation": "so that", "note": "qu'afin de purpose clause"}
 {"key": "qu’agapanthe", "word": "qu’Agapanthe", "translation": "that Agapanthe", "note": ""}
 {"key": "qu’agmar", "word": "Qu’Agmar", "translation": "than Agmar", "note": "proper name"}
@@ -53143,25 +53143,25 @@
 {"key": "qu’akaani", "word": "qu’Akaani", "translation": "that Akaani", "note": ""}
 {"key": "qu’aksem", "word": "qu’Aksem", "translation": "that Aksem", "note": ""}
 {"key": "qu’alanna", "word": "qu’Alanna", "translation": "that Alanna", "note": ""}
-{"key": "qu’alchimistes", "word": "qu’alchimistes", "translation": "as", "note": ""}
+{"key": "qu’alchimistes", "word": "qu’alchimistes", "translation": "as alchemists", "note": ""}
 {"key": "qu’alimenter", "word": "qu’alimenter", "translation": "only fuel", "note": "blood curse theme; only fuels war"}
 {"key": "qu’allait-il", "word": "Qu’allait-il", "translation": "What would happen", "note": "qu'allait-il advenir = what befalls"}
 {"key": "qu’aller", "word": "qu’aller", "translation": "only go", "note": "worms only obey their master"}
-{"key": "qu’allié", "word": "qu’allié", "translation": "as", "note": ""}
+{"key": "qu’allié", "word": "qu’allié", "translation": "as ally", "note": ""}
 {"key": "qu’allons", "word": "qu’allons", "translation": "who will launch", "note": "c'est nous qu'allons = we're starters"}
 {"key": "qu’aln’sharan", "word": "qu’Aln’sharan", "translation": "that Aln'sharan", "note": ""}
 {"key": "qu’alonsus", "word": "qu’Alonsus", "translation": "that Alonsus", "note": ""}
 {"key": "qu’amani", "word": "qu’Amani", "translation": "as Amani", "note": "true to her people"}
 {"key": "qu’althea", "word": "qu’Althea", "translation": "that Althea", "note": ""}
-{"key": "qu’ambassadeur", "word": "qu’ambassadeur", "translation": "as", "note": ""}
+{"key": "qu’ambassadeur", "word": "qu’ambassadeur", "translation": "as ambassador", "note": ""}
 {"key": "qu’amber", "word": "qu’Amber", "translation": "that Amber", "note": ""}
 {"key": "qu’amicaux", "word": "qu’amicaux", "translation": "only friendly", "note": "purely diplomatic relations"}
 {"key": "qu’amirdrassil", "word": "qu’Amirdrassil", "translation": "that Amirdrassil", "note": "world tree needs diversity"}
 {"key": "qu’amplifier", "word": "qu’amplifier", "translation": "to amplify", "note": "ritual incomplete; very dangerous"}
 {"key": "qu’amythora", "word": "qu’Amythora", "translation": "that Amythora", "note": ""}
 {"key": "qu’améliorer", "word": "qu’améliorer", "translation": "to improve", "note": "always room to do better"}
-{"key": "qu’ancien", "word": "qu’ancien", "translation": "as", "note": ""}
-{"key": "qu’anciennes", "word": "qu’anciennes", "translation": "as", "note": ""}
+{"key": "qu’ancien", "word": "qu’ancien", "translation": "as ancient", "note": ""}
+{"key": "qu’anciennes", "word": "qu’anciennes", "translation": "as ancient", "note": ""}
 {"key": "qu’andarl", "word": "qu’Andarl", "translation": "that Andarl", "note": ""}
 {"key": "qu’andira", "word": "qu’Andira", "translation": "that Andira", "note": "volion character name"}
 {"key": "qu’angorla", "word": "qu’Angorla", "translation": "that Angorla", "note": ""}
@@ -53175,44 +53175,44 @@
 {"key": "qu’appeler", "word": "qu’appeler", "translation": "only calls", "note": "Azeroth connection; I hear scream"}
 {"key": "qu’apportez-vous", "word": "Qu’apportez-vous", "translation": "What do you bring", "note": "formal offering question"}
 {"key": "qu’arbauch", "word": "qu’Arbauch", "translation": "that Arbauch", "note": ""}
-{"key": "qu’archevêque", "word": "qu’archevêque", "translation": "as", "note": ""}
-{"key": "qu’archéologue", "word": "qu’archéologue", "translation": "as", "note": ""}
+{"key": "qu’archevêque", "word": "qu’archevêque", "translation": "as archbishop", "note": ""}
+{"key": "qu’archéologue", "word": "qu’archéologue", "translation": "as archaeologist", "note": ""}
 {"key": "qu’ardgrin", "word": "qu’Ardgrin", "translation": "that Ardgrin", "note": "supply chain supervisor"}
 {"key": "qu’ariana", "word": "qu’Ariana", "translation": "that Ariana", "note": ""}
 {"key": "qu’ared", "word": "qu’Ared", "translation": "that Ared", "note": "blacksmith from Shattrath"}
 {"key": "qu’aristan", "word": "qu’Aristan", "translation": "that Aristan", "note": "potion expert"}
 {"key": "qu’arlos", "word": "qu’Arlos", "translation": "that Arlos", "note": "recruiter of fighters"}
 {"key": "qu’arrivera", "word": "qu’arrivera", "translation": "will arrive", "note": "news delivery first"}
-{"key": "qu’artisan", "word": "qu’artisan", "translation": "as", "note": ""}
+{"key": "qu’artisan", "word": "qu’artisan", "translation": "as artisan", "note": ""}
 {"key": "qu’arugal", "word": "qu’Arugal", "translation": "that Arugal", "note": "miners never give up"}
 {"key": "qu’as", "word": "qu’as", "translation": "what do you have", "note": "treasure thief question"}
-{"key": "qu’assemblage", "word": "qu’assemblage", "translation": "as", "note": ""}
-{"key": "qu’assistante", "word": "qu’assistante", "translation": "as", "note": ""}
-{"key": "qu’attend", "word": "qu’attend", "translation": "that", "note": ""}
+{"key": "qu’assemblage", "word": "qu’assemblage", "translation": "as assembly", "note": ""}
+{"key": "qu’assistante", "word": "qu’assistante", "translation": "as assistant", "note": ""}
+{"key": "qu’attend", "word": "qu’attend", "translation": "that awaits", "note": ""}
 {"key": "qu’attendons-nous", "word": "qu’attendons-nous", "translation": "what do we wait for", "note": "urgency expressed"}
 {"key": "qu’attirer", "word": "qu’attirer", "translation": "only draw", "note": "failure attracts attention"}
 {"key": "qu’auchindoun", "word": "qu’Auchindoun", "translation": "that Auchindoun", "note": "investigation site"}
 {"key": "qu’augmenter", "word": "qu’augmenter", "translation": "will only increase", "note": "curse worsens only"}
-{"key": "qu’aujourd'hui", "word": "qu’aujourd'hui", "translation": "as", "note": ""}
+{"key": "qu’aujourd'hui", "word": "qu’aujourd'hui", "translation": "as today", "note": ""}
 {"key": "qu’aurons-nous", "word": "qu’aurons-nous", "translation": "will we have accomplished", "note": "existential worry"}
 {"key": "qu’auront", "word": "qu’auront", "translation": "will have", "note": "future possession"}
-{"key": "qu’autant", "word": "qu’autant", "translation": "so many", "note": "rare mogu assembly"}
+{"key": "qu’autant", "word": "qu’autant", "translation": "as much as; as many as", "note": "rare mogu assembly"}
 {"key": "qu’austrivage", "word": "qu’Austrivage", "translation": "Southshore", "note": "WoW location name"}
-{"key": "qu’autorité", "word": "qu’autorité", "translation": "as", "note": ""}
+{"key": "qu’autorité", "word": "qu’autorité", "translation": "as authority", "note": ""}
 {"key": "qu’avaient-ils", "word": "Qu’avaient-ils", "translation": "What had they done", "note": "curse mystery"}
 {"key": "qu’avaros", "word": "qu’Avaros", "translation": "that Avaros", "note": "order member"}
-{"key": "qu’aventurier", "word": "qu’aventurier", "translation": "as", "note": ""}
+{"key": "qu’aventurier", "word": "qu’aventurier", "translation": "as adventurer", "note": ""}
 {"key": "qu’avez", "word": "qu’avez", "translation": "who provided", "note": "anima supplier"}
 {"key": "qu’aviana", "word": "qu’Aviana", "translation": "that Aviana", "note": "goddess figure"}
 {"key": "qu’azj-kahet", "word": "qu’Azj-Kahet", "translation": "that Azj-Kahet", "note": "heritage site"}
-{"key": "qu’celui", "word": "qu’celui", "translation": "that", "note": ""}
+{"key": "qu’celui", "word": "qu’celui", "translation": "that the one", "note": ""}
 {"key": "qu’azuregos", "word": "qu’Azuregos", "translation": "that Azuregos", "note": "old dragon"}
 {"key": "qu’eau-plate", "word": "qu’Eau-Plate", "translation": "than Still Water", "note": "WoW location"}
 {"key": "qu’edgar", "word": "qu’Edgar", "translation": "that Edgar", "note": "box sender"}
 {"key": "qu’edress", "word": "qu’Edress", "translation": "that Edress", "note": "discoverer"}
 {"key": "qu’edwyn", "word": "qu’Edwyn", "translation": "that Edwyn", "note": "careless scholar"}
-{"key": "qu’efficace", "word": "qu’efficace", "translation": "as", "note": ""}
-{"key": "qu’effrayants", "word": "qu’effrayants", "translation": "as", "note": ""}
+{"key": "qu’efficace", "word": "qu’efficace", "translation": "as effective", "note": ""}
+{"key": "qu’effrayants", "word": "qu’effrayants", "translation": "as scary", "note": ""}
 {"key": "qu’eligor", "word": "qu’Eligor", "translation": "that Eligor", "note": "restraint helper"}
 {"key": "qu’ella", "word": "qu’Ella", "translation": "that Ella", "note": "timid hungry character"}
 {"key": "qu’emploie", "word": "qu’emploie", "translation": "uses", "note": "lock mechanism"}
@@ -53243,8 +53243,8 @@
 {"key": "qu’exerce", "word": "qu’exerce", "translation": "wields", "note": "magical power"}
 {"key": "qu’exigent", "word": "qu’exigent", "translation": "require", "note": "conditional need"}
 {"key": "qu’existe", "word": "qu’existe", "translation": "exists", "note": "spiritual location"}
-{"key": "qu’exotique", "word": "qu’exotique", "translation": "as", "note": ""}
-{"key": "qu’experte", "word": "qu’experte", "translation": "as", "note": ""}
+{"key": "qu’exotique", "word": "qu’exotique", "translation": "as exotic", "note": ""}
+{"key": "qu’experte", "word": "qu’experte", "translation": "as expert", "note": ""}
 {"key": "qu’eyir", "word": "qu’Eyir", "translation": "that Eyir", "note": "spirit entity"}
 {"key": "qu’habite", "word": "qu’habite", "translation": "dwells", "note": "sanctuary location"}
 {"key": "qu’habitants", "word": "qu’habitants", "translation": "for inhabitants", "note": "population need"}
@@ -53261,7 +53261,7 @@
 {"key": "ras-le-bol", "word": "ras-le-bol", "translation": "fed up", "note": "colloquial: sick of (literally 'full to the brim')"}
 {"key": "rascasse", "word": "rascasse", "translation": "scorpion fish", "note": "Mediterranean fish; not an arachnid, used as food and bait"}
 {"key": "rascasses", "word": "rascasses", "translation": "scorpion fish", "note": "plural of rascasse"}
-{"key": "rase", "word": "rase", "translation": "razes", "note": "from raser (to demolish, scrape); 'faire table rase' = make clean slate"}
+{"key": "rase", "word": "rase", "translation": "shaves; razes", "note": "from raser (to demolish, scrape); 'faire table rase' = make clean slate"}
 {"key": "rase-mottes", "word": "rase-mottes", "translation": "hedge-hopping; low-level flight", "note": "raser (to skim) + mottes (mounds); vol en rase-mottes is flying just above the ground"}
 {"key": "raseront", "word": "raseront", "translation": "they will shave", "note": "future third person plural of raser"}
 {"key": "rasez-lui", "word": "rasez-lui", "translation": "shave him", "note": "imperative: shave him"}
@@ -53283,7 +53283,7 @@
 {"key": "rassurée", "word": "rassurée", "translation": "reassured", "note": "feminine: calmed"}
 {"key": "rassurés", "word": "rassurés", "translation": "reassured", "note": "masculine plural"}
 {"key": "rat-cafard", "word": "rat-cafard", "translation": "rat-cockroach", "note": "compound creature name"}
-{"key": "rat-é", "word": "Rat-é", "translation": "Missed", "note": ""}
+{"key": "rat-é", "word": "Rat-é", "translation": "missed", "note": ""}
 {"key": "rata", "word": "rata", "translation": "rata", "note": "a New Zealand tree"}
 {"key": "ratatiner", "word": "ratatiner", "translation": "shrivel", "note": "to shrivel or wither"}
 {"key": "ratatinez", "word": "ratatinez", "translation": "shrivel", "note": "second person plural imperative"}
@@ -53295,7 +53295,7 @@
 {"key": "ration", "word": "ration", "translation": "ration", "note": "allotted portion"}
 {"key": "rationnels", "word": "rationnels", "translation": "rational", "note": "masculine plural adjective"}
 {"key": "rationner", "word": "rationner", "translation": "ration", "note": "allocate in portions"}
-{"key": "ratissons", "word": "ratissons", "translation": "rake", "note": "first person plural of ratisser"}
+{"key": "ratissons", "word": "ratissons", "translation": "we comb; let's comb", "note": "first person plural of ratisser"}
 {"key": "ratissé", "word": "ratissé", "translation": "raked", "note": "past participle of ratisser"}
 {"key": "ratissés", "word": "ratissés", "translation": "raked", "note": "masculine plural"}
 {"key": "ratissée", "word": "ratissée", "translation": "raked", "note": "feminine singular"}
@@ -53373,15 +53373,15 @@
 {"key": "rebâtissons-la", "word": "rebâtissons-la", "translation": "let's rebuild it", "note": "first person plural imperative + pronoun"}
 {"key": "recapturée", "word": "recapturée", "translation": "recaptured", "note": "feminine past participle"}
 {"key": "received", "word": "received", "translation": "received", "note": "English word"}
-{"key": "recelait", "word": "recelait", "translation": "received", "note": "third person singular imperfect of receler"}
-{"key": "recelaient", "word": "recelaient", "translation": "concealed", "note": "third person plural imperfect"}
+{"key": "recelait", "word": "recelait", "translation": "was concealing; was harboring", "note": "third person singular imperfect of receler"}
+{"key": "recelaient", "word": "recelaient", "translation": "were concealing", "note": "third person plural imperfect"}
 {"key": "recelant", "word": "recelant", "translation": "concealing", "note": "present participle"}
 {"key": "recensant", "word": "recensant", "translation": "conducting census", "note": "present participle of recenser"}
 {"key": "recensement", "word": "Recensement", "translation": "census", "note": "population count or survey"}
-{"key": "recevais", "word": "recevais", "translation": "received", "note": "first person imperfect"}
-{"key": "recevait", "word": "recevait", "translation": "received", "note": "third person singular imperfect"}
+{"key": "recevais", "word": "recevais", "translation": "I/you were receiving", "note": "first person imperfect"}
+{"key": "recevait", "word": "recevait", "translation": "was receiving", "note": "third person singular imperfect"}
 {"key": "recevant", "word": "recevant", "translation": "receiving", "note": "present participle"}
-{"key": "recevions", "word": "recevions", "translation": "received", "note": "first person plural imperfect"}
+{"key": "recevions", "word": "recevions", "translation": "we were receiving", "note": "first person plural imperfect"}
 {"key": "recevrais", "word": "recevrais", "translation": "I/you would receive", "note": "conditional first person"}
 {"key": "recevrait", "word": "recevrait", "translation": "he/she would receive", "note": "conditional third person"}
 {"key": "rechargent", "word": "rechargent", "translation": "reload", "note": "third person plural of recharger"}
@@ -53453,7 +53453,7 @@
 {"key": "recrutera", "word": "recrutera", "translation": "he/she will recruit", "note": "future tense third person singular; enlist new members"}
 {"key": "recrutent-ils", "word": "recrutent-ils", "translation": "do they recruit", "note": "third person plural question; inquire about recruitment practices"}
 {"key": "recruterait", "word": "recruterait", "translation": "he/she would recruit", "note": "conditional tense; hypothetical enlisting of members"}
-{"key": "recrutiez", "word": "recrutiez", "translation": "recruited", "note": "imperfect second person plural; were enlisting persons"}
+{"key": "recrutiez", "word": "recrutiez", "translation": "you were recruiting", "note": "imperfect second person plural; were enlisting persons"}
 {"key": "recrutons", "word": "recrutons", "translation": "let us recruit", "note": "first person plural exhortative; we enlist new members"}
 {"key": "recrutez-y", "word": "recrutez-y", "translation": "recruit there", "note": "imperative with location; enlist new personnel in that place"}
 {"key": "recrutée", "word": "recrutée", "translation": "recruited", "note": "feminine singular past participle; new member or soldier enlisted"}
@@ -53461,7 +53461,7 @@
 {"key": "rectifie", "word": "rectifie", "translation": "corrects", "note": "third person singular; makes right or adjusts an error"}
 {"key": "rectifiez", "word": "rectifiez", "translation": "correct", "note": "second person plural imperative; fix the mistake"}
 {"key": "rectifiez-moi", "word": "rectifiez-moi", "translation": "correct me", "note": "second person plural imperative; point out my errors"}
-{"key": "recueillais", "word": "recueillais", "translation": "was gathering", "note": "imperfect first person singular; collecting information or objects"}
+{"key": "recueillais", "word": "recueillais", "translation": "I/you were gathering", "note": "imperfect first person singular; collecting information or objects"}
 {"key": "recueillerez", "word": "recueillerez", "translation": "you will gather", "note": "future tense second person plural; collect or assemble"}
 {"key": "recueilleront", "word": "recueilleront", "translation": "they will gather", "note": "future tense third person plural; collect materials"}
 {"key": "recueillez-en", "word": "Recueillez-en", "translation": "collect some", "note": "imperative second person plural; gather a portion of items"}
@@ -53493,15 +53493,15 @@
 {"key": "redirigée", "word": "redirigée", "translation": "redirected", "note": "feminine singular past participle; sent in new direction"}
 {"key": "redirigées", "word": "redirigées", "translation": "redirected", "note": "feminine plural past participle; sent along new paths"}
 {"key": "redistribué", "word": "redistribué", "translation": "redistributed", "note": "masculine singular past participle; allocated anew among recipients"}
-{"key": "redite", "word": "redite", "translation": "repeats", "note": "third person singular; states or mentions again"}
+{"key": "redite", "word": "redite", "translation": "repetition", "note": "third person singular; states or mentions again"}
 {"key": "redondance", "word": "Redondance", "translation": "redundancy", "note": "noun; unnecessary duplication or repetition"}
 {"key": "redonnent", "word": "redonnent", "translation": "give back", "note": "third person plural present; return or restore something"}
 {"key": "redoublerai", "word": "redoublerai", "translation": "I will intensify", "note": "future tense first person singular; strengthen efforts anew"}
 {"key": "redoutablement", "word": "redoutablement", "translation": "formidably", "note": "adverb; in a fearsome or impressive manner"}
-{"key": "redoutaient", "word": "redoutaient", "translation": "feared", "note": "imperfect third person plural; were afraid of"}
+{"key": "redoutaient", "word": "redoutaient", "translation": "were fearing", "note": "imperfect third person plural; were afraid of"}
 {"key": "redoutent", "word": "redoutent", "translation": "fear", "note": "third person plural present; dread or are afraid of"}
 {"key": "redouter", "word": "redouter", "translation": "to fear", "note": "infinitive; dread or be apprehensive about"}
-{"key": "redoutions", "word": "redoutions", "translation": "feared", "note": "first person plural imperfect; we dreaded or were afraid"}
+{"key": "redoutions", "word": "redoutions", "translation": "we were fearing", "note": "first person plural imperfect; we dreaded or were afraid"}
 {"key": "redressera", "word": "redressera", "translation": "he/she will straighten", "note": "future tense third person singular; make upright or correct"}
 {"key": "redresseuses", "word": "redresseuses", "translation": "straighteners", "note": "feminine plural noun; devices or people that correct or straighten"}
 {"key": "redressé", "word": "redressé", "translation": "righted itself", "note": "masculine singular past participle; stood up or corrected"}
@@ -53523,7 +53523,7 @@
 {"key": "refleuri", "word": "refleuri", "translation": "bloomed again", "note": "masculine singular past participle; flourished or flowered anew"}
 {"key": "refleurira", "word": "refleurira", "translation": "he/she will bloom again", "note": "future tense third person singular; flower or flourish once more"}
 {"key": "refleurisse", "word": "refleurisse", "translation": "bloom again", "note": "subjunctive third person singular; flower or flourish"}
-{"key": "reflétait", "word": "reflétait", "translation": "reflected", "note": "imperfect third person singular; mirrored or gave back image"}
+{"key": "reflétait", "word": "reflétait", "translation": "was reflecting", "note": "imperfect third person singular; mirrored or gave back image"}
 {"key": "refonder", "word": "refonder", "translation": "refound", "note": "to establish anew or reconstruct an organization"}
 {"key": "refondre", "word": "refondre", "translation": "recast", "note": "to melt and reshape; restructure completely"}
 {"key": "refont", "word": "refont", "translation": "redo", "note": "third person plural present; do again or remake"}
@@ -53533,28 +53533,28 @@
 {"key": "refoulement", "word": "Refoulement", "translation": "repression", "note": "psychological term; suppression of emotions or memories"}
 {"key": "refoulent", "word": "refoulent", "translation": "repress", "note": "third person plural present; suppress or hold back"}
 {"key": "refoulés", "word": "refoulés", "translation": "repressed", "note": "masculine plural past participle; suppressed or held back"}
-{"key": "refourguer", "word": "refourguer", "translation": "refurbish", "note": "to restore or recondition equipment for reuse"}
+{"key": "refourguer", "word": "refourguer", "translation": "to palm off; to offload", "note": "to restore or recondition equipment for reuse"}
 {"key": "refrain", "word": "refrain", "translation": "refrain", "note": "a repeated line or chorus; also means to abstain"}
 {"key": "refroidi", "word": "refroidi", "translation": "cooled", "note": "masculine singular past participle; reduced in temperature"}
-{"key": "refroidie", "word": "refroidie", "translation": "cold trail", "note": "feminine singular; investigation path that has gone inactive"}
+{"key": "refroidie", "word": "refroidie", "translation": "cooled; cold", "note": "feminine singular; investigation path that has gone inactive"}
 {"key": "refroidissant", "word": "refroidissant", "translation": "coolant", "note": "masculine singular present participle; cooling agent or substance"}
 {"key": "refroidissez-le", "word": "Refroidissez-le", "translation": "cool him down", "note": "second person plural imperative; calm or chill someone"}
 {"key": "refusa", "word": "refusa", "translation": "refused", "note": "past historic third person singular; declined or rejected"}
 {"key": "refuserions", "word": "refuserions", "translation": "we would refuse", "note": "conditional first person plural; we would decline"}
 {"key": "refuseront", "word": "refuseront", "translation": "they will refuse", "note": "future tense third person plural; will decline"}
-{"key": "refusions", "word": "refusions", "translation": "we refuse", "note": "first person plural present; we decline or reject"}
+{"key": "refusions", "word": "refusions", "translation": "we were refusing", "note": "first person plural present; we decline or reject"}
 {"key": "refusons", "word": "refusons", "translation": "we refuse", "note": "first person plural present; we decline"}
 {"key": "refusionner", "word": "refusionner", "translation": "remerge", "note": "to combine or fuse together again"}
 {"key": "refusée", "word": "refusée", "translation": "refused", "note": "feminine singular past participle; rejected or declined"}
 {"key": "refusées", "word": "refusées", "translation": "refused", "note": "feminine plural past participle; declined or rejected"}
-{"key": "regagnaient", "word": "regagnaient", "translation": "regained", "note": "imperfect third person plural; recovered or won back"}
+{"key": "regagnaient", "word": "regagnaient", "translation": "were regaining", "note": "imperfect third person plural; recovered or won back"}
 {"key": "regagnera", "word": "regagnera", "translation": "he/she will regain", "note": "future tense third person singular; recover or win back"}
 {"key": "regagnerez-vous", "word": "regagnerez-vous", "translation": "will you regain", "note": "future tense second person plural; will you recover"}
 {"key": "regagnées", "word": "regagnées", "translation": "regained", "note": "feminine plural past participle; recovered or retaken"}
 {"key": "regard-de-pierre", "word": "Regard-de-pierre", "translation": "Stone Gaze", "note": "proper name or ability; petrifying gaze or basilisk ability"}
 {"key": "regarderais", "word": "regarderais", "translation": "I/you would watch", "note": "conditional of regarder (to watch)"}
 {"key": "regarderont", "word": "regarderont", "translation": "they will watch", "note": "future tense"}
-{"key": "regardez-nous", "word": "Regardez-nous", "translation": "Look at us", "note": ""}
+{"key": "regardez-nous", "word": "Regardez-nous", "translation": "look at us", "note": ""}
 {"key": "regardée", "word": "regardée", "translation": "watched", "note": "feminine past participle"}
 {"key": "regeler", "word": "regeler", "translation": "refreeze", "note": "re- + geler (freeze)"}
 {"key": "reginal", "word": "Reginal", "translation": "Reginal", "note": "proper name"}
@@ -53563,10 +53563,10 @@
 {"key": "regonfler", "word": "regonfler", "translation": "reinflate", "note": "re- + gonfler (to swell)"}
 {"key": "regrette-t-elle", "word": "Regrette-t-elle", "translation": "Does she regret", "note": "inverted question form"}
 {"key": "regretteriez", "word": "regretteriez", "translation": "you would regret", "note": "conditional"}
-{"key": "regrettiez", "word": "regrettiez", "translation": "regretted", "note": "imperfect past tense"}
+{"key": "regrettiez", "word": "regrettiez", "translation": "you were regretting", "note": "imperfect past tense"}
 {"key": "regrettée", "word": "regrettée", "translation": "regretted", "note": "feminine past participle"}
-{"key": "regroupaient", "word": "regroupaient", "translation": "gathered", "note": "imperfect: were gathering together"}
-{"key": "regroupait", "word": "regroupait", "translation": "gathered", "note": "imperfect: was gathering"}
+{"key": "regroupaient", "word": "regroupaient", "translation": "were gathering", "note": "imperfect: were gathering together"}
+{"key": "regroupait", "word": "regroupait", "translation": "was gathering", "note": "imperfect: was gathering"}
 {"key": "regroupez", "word": "regroupez", "translation": "gather", "note": "imperative: gather them"}
 {"key": "regroupé", "word": "regroupé", "translation": "gathered", "note": "past participle"}
 {"key": "regroupées", "word": "regroupées", "translation": "gathered", "note": "feminine plural past participle"}
@@ -53574,18 +53574,18 @@
 {"key": "regulkut", "word": "Regulkut", "translation": "Regulkut", "note": "NPC or place name"}
 {"key": "reinará", "word": "reinará", "translation": "reinará", "note": "Spanish form (data error); means will reign"}
 {"key": "reine-venin", "word": "reine-venin", "translation": "venom queen", "note": "reine (queen) + venin (venom); queen of poisons"}
-{"key": "rejaillissent", "word": "rejaillissent", "translation": "reflects", "note": "rejaillit = reflects or redounds (honour reflected on)"}
-{"key": "rejaillit", "word": "rejaillit", "translation": "reflects", "note": "singular: reflects (redounds to)"}
-{"key": "rejetez", "word": "Rejetez", "translation": "Reject", "note": "imperative command"}
-{"key": "rejetons-les", "word": "Rejetons-les", "translation": "Let's reject them", "note": "first person plural imperative"}
+{"key": "rejaillissent", "word": "rejaillissent", "translation": "splash back; reflect (onto)", "note": "rejaillit = reflects or redounds (honour reflected on)"}
+{"key": "rejaillit", "word": "rejaillit", "translation": "splashes back; reflects (onto)", "note": "singular: reflects (redounds to)"}
+{"key": "rejetez", "word": "Rejetez", "translation": "reject", "note": "imperative command"}
+{"key": "rejetons-les", "word": "Rejetons-les", "translation": "let's reject them", "note": "first person plural imperative"}
 {"key": "rejoignant", "word": "rejoignant", "translation": "joining", "note": "present participle"}
 {"key": "rejoignirent", "word": "rejoignirent", "translation": "joined", "note": "past simple"}
 {"key": "rejoignit", "word": "rejoignit", "translation": "joined", "note": "past simple"}
-{"key": "rejoignons-le", "word": "Rejoignons-le", "translation": "Let's join him", "note": "first person plural imperative + direct object"}
-{"key": "rejoignons-la", "word": "Rejoignons-la", "translation": "Let's join her", "note": "first person plural imperative + direct object"}
-{"key": "rejoignons-les", "word": "Rejoignons-les", "translation": "Let's join them", "note": "first person plural imperative + plural object"}
+{"key": "rejoignons-le", "word": "Rejoignons-le", "translation": "let's join him", "note": "first person plural imperative + direct object"}
+{"key": "rejoignons-la", "word": "Rejoignons-la", "translation": "let's join her", "note": "first person plural imperative + direct object"}
+{"key": "rejoignons-les", "word": "Rejoignons-les", "translation": "let's join them", "note": "first person plural imperative + plural object"}
 {"key": "rejoindrait", "word": "rejoindrait", "translation": "he/she would join", "note": "conditional"}
-{"key": "rejoins-moi", "word": "Rejoins-moi", "translation": "Join me", "note": "imperative + indirect object"}
+{"key": "rejoins-moi", "word": "Rejoins-moi", "translation": "join me", "note": "imperative + indirect object"}
 {"key": "rejouant", "word": "rejouant", "translation": "replaying", "note": "re- + jouant (playing); performing again"}
 {"key": "rejouer", "word": "rejouer", "translation": "replay", "note": "re- + jouer; perform again"}
 {"key": "relatent", "word": "relatent", "translation": "recount", "note": "relate or tell; detail events"}
@@ -53596,19 +53596,19 @@
 {"key": "relax", "word": "Relax", "translation": "Relax", "note": "English loanword"}
 {"key": "relaxeront", "word": "relaxeront", "translation": "they will relax", "note": "future tense"}
 {"key": "relayer", "word": "relayer", "translation": "relay", "note": "to pass on or transmit (messages)"}
-{"key": "relayez-moi", "word": "Relayez-moi", "translation": "brief me", "note": "inform me or fill me in (relay information to me)"}
+{"key": "relayez-moi", "word": "Relayez-moi", "translation": "relieve me; relay to me", "note": "inform me or fill me in (relay information to me)"}
 {"key": "relayée", "word": "relayée", "translation": "relayed", "note": "feminine past participle"}
 {"key": "reldorn", "word": "Reldorn", "translation": "Reldorn", "note": "proper name (NPC or place)"}
 {"key": "relent", "word": "relent", "translation": "reek", "note": "bad smell or stench"}
-{"key": "relevais", "word": "relevais", "translation": "was hauling", "note": "imperfect: I was taking/hauling goods to market"}
+{"key": "relevais", "word": "relevais", "translation": "I/you were lifting; I/you were picking up", "note": "imperfect: I was taking/hauling goods to market"}
 {"key": "relevez-la", "word": "relevez-la", "translation": "lift it up", "note": "imperative: raise or lift"}
-{"key": "relevez-vous", "word": "Relevez-vous", "translation": "Get up", "note": "reflexive imperative"}
+{"key": "relevez-vous", "word": "Relevez-vous", "translation": "get up", "note": "reflexive imperative"}
 {"key": "releviez", "word": "releviez", "translation": "were raising", "note": "imperfect: you (plural) were lifting"}
-{"key": "relevées", "word": "relevées", "translation": "enhanced", "note": "feminine plural: heightened or amplified (flavors)"}
+{"key": "relevées", "word": "relevées", "translation": "raised; lifted", "note": "feminine plural: heightened or amplified (flavors)"}
 {"key": "relief", "word": "relief", "translation": "relief", "note": "reprieve; reinforcement or taking turns"}
 {"key": "religieux", "word": "religieux", "translation": "religious", "note": "adjective: relating to religion or belief"}
 {"key": "reliquaires", "word": "reliquaires", "translation": "reliquaries", "note": "sacred receptacles or shrines"}
-{"key": "relooking", "word": "Relooking", "translation": "Makeover", "note": "English loanword: cosmetic transformation"}
+{"key": "relooking", "word": "Relooking", "translation": "makeover", "note": "English loanword: cosmetic transformation"}
 {"key": "reluisante", "word": "reluisante", "translation": "lustrous", "note": "gleaming or shiny; having a bright appearance"}
 {"key": "relâchera", "word": "relâchera", "translation": "he/she will release", "note": "future tense"}
 {"key": "relâchez-les", "word": "relâchez-les", "translation": "release them", "note": "imperative: let them go"}
@@ -53618,27 +53618,27 @@
 {"key": "relèverait", "word": "relèverait", "translation": "he/she would raise", "note": "conditional: would lift or aid"}
 {"key": "relèverions", "word": "relèverions", "translation": "we would raise", "note": "conditional first person plural"}
 {"key": "reléguer", "word": "reléguer", "translation": "relegate", "note": "banish or exile to a lower position"}
-{"key": "remaniais", "word": "remaniais", "translation": "was reshuffling", "note": "imperfect: was reworking or remaking"}
+{"key": "remaniais", "word": "remaniais", "translation": "I/you were reshuffling", "note": "imperfect: was reworking or remaking"}
 {"key": "remanier", "word": "remanier", "translation": "reshuffle", "note": "remake or overhaul; restructure"}
 {"key": "remarquant", "word": "remarquant", "translation": "noticing", "note": "present participle: observing"}
 {"key": "remarqueraient", "word": "remarqueraient", "translation": "they would notice", "note": "conditional: would observe or detect"}
 {"key": "remarquiez", "word": "remarquiez", "translation": "noticed", "note": "imperfect: you (plural) were noticing"}
 {"key": "remballer", "word": "remballer", "translation": "repack", "note": "re- + emballer; wrap up again"}
-{"key": "remballez", "word": "Remballez", "translation": "Repack", "note": "imperative: pack up"}
-{"key": "rembobiner", "word": "Rembobiner", "translation": "Rewind", "note": "re- + bobiner; roll back"}
+{"key": "remballez", "word": "Remballez", "translation": "repack", "note": "imperative: pack up"}
+{"key": "rembobiner", "word": "Rembobiner", "translation": "rewind", "note": "re- + bobiner; roll back"}
 {"key": "rembarrés", "word": "rembarrés", "translation": "rebuffed", "note": "past participle: turned away or rejected"}
-{"key": "rembobinage", "word": "Rembobinage", "translation": "Rewinding", "note": "noun: the act of rewinding"}
+{"key": "rembobinage", "word": "Rembobinage", "translation": "rewinding", "note": "noun: the act of rewinding"}
 {"key": "rembobinez", "word": "rembobinez", "translation": "rewind", "note": "imperative: roll back"}
 {"key": "rembourrés", "word": "rembourrés", "translation": "padded", "note": "filled or cushioned"}
 {"key": "rembourse", "word": "rembourse", "translation": "reimburses", "note": "3rd person: repays or refunds"}
 {"key": "remboursée", "word": "remboursée", "translation": "reimbursed", "note": "feminine past participle: repaid"}
-{"key": "remboursez", "word": "Remboursez", "translation": "Repay", "note": "imperative: reimburse or pay back"}
+{"key": "remboursez", "word": "Remboursez", "translation": "repay", "note": "imperative: reimburse or pay back"}
 {"key": "remerciera", "word": "remerciera", "translation": "he/she will thank", "note": "future tense"}
 {"key": "remerciez-la", "word": "remerciez-la", "translation": "thank her", "note": "imperative + indirect object"}
 {"key": "remercié", "word": "remercié", "translation": "thanked", "note": "past participle"}
-{"key": "remerciez-le", "word": "Remerciez-le", "translation": "Thank him", "note": "imperative: express gratitude"}
+{"key": "remerciez-le", "word": "Remerciez-le", "translation": "thank him", "note": "imperative: express gratitude"}
 {"key": "remerciés", "word": "remerciés", "translation": "thanked", "note": "masculine plural past participle"}
-{"key": "remettez-en", "word": "Remettez-en", "translation": "Add another layer", "note": "idiom: lay it on thick or apply again"}
+{"key": "remettez-en", "word": "Remettez-en", "translation": "put some back; add some more", "note": "idiom: lay it on thick or apply again"}
 {"key": "remettez-la-lui", "word": "remettez-la-lui", "translation": "give it to him", "note": "imperative with two pronouns"}
 {"key": "remettez-le-moi", "word": "remettez-le-moi", "translation": "give it to me", "note": "imperative: hand it over"}
 {"key": "remettez-vous", "word": "remettez-vous", "translation": "recover", "note": "reflexive imperative: pull yourself together"}
@@ -53646,20 +53646,20 @@
 {"key": "remik", "word": "Remik", "translation": "Remik", "note": "NPC name"}
 {"key": "remiser", "word": "remiser", "translation": "stash away", "note": "store or put in a safe place"}
 {"key": "remisera", "word": "remisera", "translation": "he/she will stash away", "note": "future: will store safely"}
-{"key": "remises", "word": "remises", "translation": "provisions", "note": "arrangements or terms set in advance"}
+{"key": "remises", "word": "remises", "translation": "discounts; sheds", "note": "arrangements or terms set in advance"}
 {"key": "remisé", "word": "remisé", "translation": "stored", "note": "past participle: put away in a safe place"}
 {"key": "remma", "word": "Remma", "translation": "Remma", "note": "NPC name"}
 {"key": "remmène", "word": "remmène", "translation": "brings back", "note": "re- + emmène (takes); brings or escorts back"}
 {"key": "remodelée", "word": "remodelée", "translation": "remodeled", "note": "reshaped or restructured"}
 {"key": "remodèleront", "word": "remodèleront", "translation": "they will reshape", "note": "future: will restructure"}
-{"key": "remontait", "word": "remontait", "translation": "went back", "note": "imperfect: was going back or upstream"}
+{"key": "remontait", "word": "remontait", "translation": "was going back up", "note": "imperfect: was going back or upstream"}
 {"key": "remonterai", "word": "remonterai", "translation": "I will go back", "note": "future: will return"}
 {"key": "remonterons", "word": "remonterons", "translation": "we will go back", "note": "future first person plural"}
 {"key": "remonteront", "word": "remonteront", "translation": "they will go back", "note": "future: will return or ascend"}
 {"key": "remontez-m’en", "word": "Remontez-m’en", "translation": "bring me some", "note": "imperative: fetch some for me (mushrooms, etc)"}
 {"key": "remontre", "word": "remontre", "translation": "shows", "note": "demonstrates or exhibits again"}
-{"key": "remontons", "word": "Remontons", "translation": "Let's go back", "note": "first person plural: let's return"}
-{"key": "remontées", "word": "remontées", "translation": "uprisings", "note": "plural noun: ascents or returns (or ski lifts in modern sense)"}
+{"key": "remontons", "word": "Remontons", "translation": "let's go back", "note": "first person plural: let's return"}
+{"key": "remontées", "word": "remontées", "translation": "ascents; rises; lifts", "note": "plural noun: ascents or returns (or ski lifts in modern sense)"}
 {"key": "removed", "word": "removed", "translation": "removed", "note": "English placeholder"}
 {"key": "remous-des-ondes", "word": "Remous-des-Ondes", "translation": "Waverush", "note": "proper name: literal means whirlwinds of waves"}
 {"key": "remplace", "word": "remplace", "translation": "replaces", "note": "3rd person: substitutes or takes the place of"}
@@ -53667,14 +53667,14 @@
 {"key": "remplacerai", "word": "remplacerai", "translation": "I will replace", "note": "future first person"}
 {"key": "remplacerez", "word": "remplacerez", "translation": "you will replace", "note": "future second person plural"}
 {"key": "remplaceront", "word": "remplaceront", "translation": "they will replace", "note": "future third person plural"}
-{"key": "remplaciez", "word": "remplaciez", "translation": "were replacing", "note": "imperfect: you (plural) were substituting"}
+{"key": "remplaciez", "word": "remplaciez", "translation": "you were replacing", "note": "imperfect: you (plural) were substituting"}
 {"key": "remplaçables", "word": "remplaçables", "translation": "replaceable", "note": "can be substituted or swapped out"}
 {"key": "remplirai", "word": "remplirai", "translation": "I will fill", "note": "future first person"}
 {"key": "remplirait", "word": "remplirait", "translation": "he/she would fill", "note": "conditional"}
 {"key": "remplissage", "word": "remplissage", "translation": "filler", "note": "padding or material used to fill space"}
-{"key": "remplissait", "word": "remplissait", "translation": "filled", "note": "imperfect: was filling"}
+{"key": "remplissait", "word": "remplissait", "translation": "was filling", "note": "imperfect: was filling"}
 {"key": "remplissez-en", "word": "remplissez-en", "translation": "fill some", "note": "imperative with partitive: fill some of it"}
-{"key": "remplumer", "word": "Remplumer", "translation": "Refill", "note": "re- + plumer; restore or replenish"}
+{"key": "remplumer", "word": "Remplumer", "translation": "to put weight back on; to recover", "note": "re- + plumer; restore or replenish"}
 {"key": "remporterez", "word": "remporterez", "translation": "you will win", "note": "future: will achieve victory"}
 {"key": "remportées", "word": "remportées", "translation": "won", "note": "feminine plural past participle"}
 {"key": "remportés", "word": "remportés", "translation": "won", "note": "masculine plural past participle"}
@@ -53682,7 +53682,7 @@
 {"key": "remuants", "word": "remuants", "translation": "stirring", "note": "plural adjective: moving or agitated"}
 {"key": "remuent", "word": "remuent", "translation": "stir", "note": "3rd person plural: move or disturb"}
 {"key": "remuez", "word": "remuez", "translation": "stir", "note": "imperative: mix or move about"}
-{"key": "remuons", "word": "Remuons", "translation": "Let's stir", "note": "first person plural imperative"}
+{"key": "remuons", "word": "Remuons", "translation": "let's stir", "note": "first person plural imperative"}
 {"key": "remués", "word": "remués", "translation": "stirred", "note": "masculine plural past participle"}
 {"key": "remâche", "word": "remâche", "translation": "chews over", "note": "ponders or dwells on repeatedly"}
 {"key": "remédie", "word": "remédie", "translation": "remedies", "note": "3rd person: addresses or fixes a problem"}
@@ -53694,13 +53694,13 @@
 {"key": "rencarder", "word": "rencarder", "translation": "set up a meeting", "note": "arrange an encounter or rendezvous"}
 {"key": "rencarderai", "word": "rencarderai", "translation": "I will arrange a meeting", "note": "future: will set up an encounter"}
 {"key": "rencissa", "word": "Rencissa", "translation": "Rencissa", "note": "NPC name"}
-{"key": "rencontrait", "word": "rencontrait", "translation": "met", "note": "imperfect: was meeting or encountered"}
+{"key": "rencontrait", "word": "rencontrait", "translation": "was meeting", "note": "imperfect: was meeting or encountered"}
 {"key": "rencontrant", "word": "rencontrant", "translation": "meeting", "note": "present participle: encountering"}
 {"key": "rencontrera", "word": "rencontrera", "translation": "he/she will meet", "note": "future tense"}
 {"key": "rencontreront", "word": "rencontreront", "translation": "they will meet", "note": "future third person plural"}
-{"key": "rencontrons-nous", "word": "Rencontrons-nous", "translation": "Let's meet", "note": "first person plural reflexive imperative"}
+{"key": "rencontrons-nous", "word": "Rencontrons-nous", "translation": "let's meet", "note": "first person plural reflexive imperative"}
 {"key": "rend-il", "word": "rend-il", "translation": "does he make", "note": "inversion: does he render/make"}
-{"key": "rend-on", "word": "rend-on", "translation": "how does one get there", "note": "how does one go (rendre = to go to)"}
+{"key": "rend-on", "word": "rend-on", "translation": "does one go (to)", "note": "how does one go (rendre = to go to)"}
 {"key": "rendez-les", "word": "rendez-les", "translation": "give them back", "note": "imperative: return them"}
 {"key": "rendez-les-lui", "word": "rendez-les-lui", "translation": "give them back to him", "note": "rendre (give back); compound verb form with pronouns"}
 {"key": "rendons-leur", "word": "Rendons-leur", "translation": "return the favor", "note": "rendre + leur; idiom: rendre la pareille means to return a favor"}
@@ -53710,10 +53710,10 @@
 {"key": "renfermait", "word": "renfermait", "translation": "contained", "note": "renfermer (enclose/contain); past imperfect tense"}
 {"key": "renfermé", "word": "renfermé", "translation": "withdrawn", "note": "can mean reserved or withdrawn personality; from renfermer (enclose)"}
 {"key": "renfloue", "word": "renfloue", "translation": "bails out", "note": "renflouer (refloat ship); financial metaphor for bailing out"}
-{"key": "renforcements", "word": "Renforcements", "translation": "Reinforcements", "note": "from renforcer (strengthen); quest buff or reinforcements"}
+{"key": "renforcements", "word": "Renforcements", "translation": "reinforcements", "note": "from renforcer (strengthen); quest buff or reinforcements"}
 {"key": "renforcerai", "word": "renforcerai", "translation": "I will strengthen", "note": "renforcer (strengthen); future tense, first person"}
 {"key": "renforceraient", "word": "renforceraient", "translation": "they would strengthen", "note": "renforcer (strengthen); conditional form"}
-{"key": "renforçait", "word": "renforçait", "translation": "reinforced", "note": "renforcer (strengthen); past imperfect, magic reinforcing a creature"}
+{"key": "renforçait", "word": "renforçait", "translation": "was reinforcing", "note": "renforcer (strengthen); past imperfect, magic reinforcing a creature"}
 {"key": "renforçant", "word": "renforçant", "translation": "reinforcing", "note": "renforcer (strengthen); present participle"}
 {"key": "renfrogné", "word": "renfrogné", "translation": "sullen", "note": "frown-like expression; means morose or ill-tempered"}
 {"key": "renient", "word": "renient", "translation": "renounce", "note": "renier (disown/repudiate); to break oaths or abandon allegiance"}
@@ -53740,7 +53740,7 @@
 {"key": "renonçons", "word": "renonçons", "translation": "let's give up", "note": "renoncer (renounce); first person plural, miners refusing to surrender"}
 {"key": "renouons", "word": "renouons", "translation": "let's reconnect", "note": "renouer (tie again); resume family bonds"}
 {"key": "renouvelable", "word": "renouvelable", "translation": "renewable", "note": "renouveler (renew); technical term for resource"}
-{"key": "renouvelions", "word": "renouvelions", "translation": "renewed", "note": "renouveler (renew); past imperfect, cyclic renewal"}
+{"key": "renouvelions", "word": "renouvelions", "translation": "we were renewing", "note": "renouveler (renew); past imperfect, cyclic renewal"}
 {"key": "renouvellerai", "word": "renouvellerai", "translation": "I will renew", "note": "renouveler (renew); future tense"}
 {"key": "renouvelons", "word": "renouvelons", "translation": "let's renew", "note": "renouveler (renew); first person plural imperative"}
 {"key": "renouvelées", "word": "renouvelées", "translation": "renewed", "note": "renouveler (renew); plural feminine decorative or visual effect"}
@@ -53749,23 +53749,23 @@
 {"key": "renseignera", "word": "renseignera", "translation": "he/she will inform", "note": "renseigner (inform); future tense"}
 {"key": "renseignée", "word": "renseignée", "translation": "informed", "note": "renseigner (inform); past participle feminine"}
 {"key": "rentabilise", "word": "rentabilise", "translation": "make profitable", "note": "rentabiliser (monetize); must turn hands to profit"}
-{"key": "rentrais", "word": "rentrais", "translation": "came back", "note": "rentrer (return); past imperfect, returning with treasure"}
-{"key": "rentrait", "word": "rentrait", "translation": "returned", "note": "rentrer (return); past imperfect"}
+{"key": "rentrais", "word": "rentrais", "translation": "I/you were coming back", "note": "rentrer (return); past imperfect, returning with treasure"}
+{"key": "rentrait", "word": "rentrait", "translation": "was returning", "note": "rentrer (return); past imperfect"}
 {"key": "rentrerons", "word": "rentrerons", "translation": "we will return", "note": "rentrer (return); future tense, first person plural"}
-{"key": "rentriez", "word": "rentriez", "translation": "return", "note": "rentrer (return); subjunctive or conditional form"}
-{"key": "renversement", "word": "Renversement", "translation": "Reversal", "note": "steam reversal; mechanical or tactical reversal"}
+{"key": "rentriez", "word": "rentriez", "translation": "you were returning", "note": "rentrer (return); subjunctive or conditional form"}
+{"key": "renversement", "word": "Renversement", "translation": "reversal", "note": "steam reversal; mechanical or tactical reversal"}
 {"key": "renverseront", "word": "renverseront", "translation": "they will overturn", "note": "renverser (overturn); dragons preventing overthrow of ancient groves"}
 {"key": "renversez-moi", "word": "renversez-moi", "translation": "knock me down", "note": "renverser (knock over); unclear context, possibly error in quest"}
 {"key": "renversées", "word": "renversées", "translation": "spilled", "note": "renverser (overturn); grain spilled from overturned cart"}
 {"key": "renvoi", "word": "renvoi", "translation": "dismissal", "note": "renvoi (sending back); magical returning or banishment of item"}
 {"key": "renvoyez-en", "word": "Renvoyez-en", "translation": "Send some back", "note": "renvoyer (send back) + en (some); imperative"}
-{"key": "renvoyions", "word": "renvoyions", "translation": "referred", "note": "renvoyer (send/refer); past imperfect diplomatic relations"}
+{"key": "renvoyions", "word": "renvoyions", "translation": "we were sending back", "note": "renvoyer (send/refer); past imperfect diplomatic relations"}
 {"key": "renvoyons", "word": "Renvoyons", "translation": "Let's send back", "note": "renvoyer (send back); first person plural"}
 {"key": "renvoyons-le", "word": "Renvoyons-le", "translation": "Let's send it back", "note": "renvoyer (send back) + le (it); imperative"}
 {"key": "renvoyons-les", "word": "Renvoyons-les", "translation": "Let's send them back", "note": "renvoyer (send back) + les (them); multiple versions of same person"}
 {"key": "renégate", "word": "renégate", "translation": "renegade", "note": "renégat(e); one who has betrayed their group or cause"}
 {"key": "renégates", "word": "renégates", "translation": "renegades", "note": "plural feminine of renégat; apostate forces"}
-{"key": "renégociations", "word": "Renégociations", "translation": "Renegotiations", "note": "re- (again) + negotiate"}
+{"key": "renégociations", "word": "Renégociations", "translation": "renegotiations", "note": "re- (again) + negotiate"}
 {"key": "renégocier", "word": "renégocier", "translation": "renegotiate", "note": "to discuss terms again; armor innovation requiring negotiation"}
 {"key": "repaisse", "word": "repaisse", "translation": "feeds on", "note": "repaître (feast on); archaic subjunctive, creatures gorging"}
 {"key": "repaissons-nous", "word": "Repaissons-nous", "translation": "let's feast on", "note": "repaître (feast); ancient subjunctive form, dragons as food"}
@@ -53775,7 +53775,7 @@
 {"key": "reparlé", "word": "reparlé", "translation": "spoken again", "note": "reparler (speak again); past participle"}
 {"key": "reparte", "word": "reparte", "translation": "leaves again", "note": "repartir (leave); subjunctive or imperative, captain departing with treasure"}
 {"key": "repartent", "word": "repartent", "translation": "leave again", "note": "repartir (leave); present tense, assemblies taking captives"}
-{"key": "repartions", "word": "repartions", "translation": "leave", "note": "repartir (leave); subjunctive before the closing ceremony"}
+{"key": "repartions", "word": "repartions", "translation": "we were leaving again", "note": "repartir (leave); subjunctive before the closing ceremony"}
 {"key": "repartira", "word": "repartira", "translation": "he/she will leave", "note": "repartir (leave); future tense, champion leaving with reward"}
 {"key": "repartirez", "word": "repartirez", "translation": "you will leave", "note": "repartir (leave); future tense formal or plural"}
 {"key": "repartiront", "word": "repartiront", "translation": "they will leave", "note": "repartir (leave); future tense, three gladiators departing"}
@@ -53784,8 +53784,8 @@
 {"key": "repaîtra", "word": "repaîtra", "translation": "he/she will feed on", "note": "repaître (feast on); Teron'gor will not consume souls"}
 {"key": "repeindre", "word": "repeindre", "translation": "repaint", "note": "re- (again) + peindre (paint); to dye the continent red metaphorically"}
 {"key": "repel", "word": "repel", "translation": "repel", "note": ""}
-{"key": "repensais", "word": "repensais", "translation": "thought again", "note": "repenser (think again); past imperfect, recalling old times"}
-{"key": "repensait", "word": "repensait", "translation": "thought again", "note": "repenser (think again); past imperfect during festival remembrance"}
+{"key": "repensais", "word": "repensais", "translation": "I/you were rethinking", "note": "repenser (think again); past imperfect, recalling old times"}
+{"key": "repensait", "word": "repensait", "translation": "was rethinking", "note": "repenser (think again); past imperfect during festival remembrance"}
 {"key": "repensant", "word": "repensant", "translation": "thinking back", "note": "repenser (think); present participle, recalling celebrations"}
 {"key": "repenser", "word": "repenser", "translation": "rethink", "note": "re- (again) + penser (think); reconsidering a decision"}
 {"key": "repentance", "word": "repentance", "translation": "repentance", "note": "from repentir (repent); quest buff or blessing"}
@@ -53794,10 +53794,10 @@
 {"key": "replat", "word": "replat", "translation": "flat", "note": "uncertain term, possibly quest system specific"}
 {"key": "repletos", "word": "repletos", "translation": "repletos", "note": "SPANISH word (not French); means full or gorged with spores"}
 {"key": "replets", "word": "replets", "translation": "full", "note": "replet (full/abundant); well-stocked supplies or resources"}
-{"key": "replie", "word": "replie", "translation": "retreat", "note": "replier (fold/withdraw); Alliance troops pulling back from battle"}
+{"key": "replie", "word": "replie", "translation": "folds back; retreats", "note": "replier (fold/withdraw); Alliance troops pulling back from battle"}
 {"key": "repliera", "word": "repliera", "translation": "he/she will collapse", "note": "replier (fold); dimensional pocket closing or dimension folding"}
 {"key": "replierons", "word": "replierons", "translation": "we will retreat", "note": "replier (retreat/withdraw); military pullback order"}
-{"key": "replions", "word": "replions", "translation": "retreat", "note": "replier (retreat); if we do not withdraw from threats"}
+{"key": "replions", "word": "replions", "translation": "we fold; let's fall back", "note": "replier (retreat); if we do not withdraw from threats"}
 {"key": "repliées", "word": "repliées", "translation": "withdrawn", "note": "replier (withdraw); terrestrial forces pulled back from battle line"}
 {"key": "replongez", "word": "replongez", "translation": "dive back", "note": "replonger (dive again); plunging into a journal or record"}
 {"key": "repolarisé", "word": "repolarisé", "translation": "repolarized", "note": "technical scientific term for energy or charge"}
@@ -53814,15 +53814,15 @@
 {"key": "reposez", "word": "reposez", "translation": "rest", "note": "idiom: don't rest on your laurels; don't become complacent"}
 {"key": "reposez-vous", "word": "Reposez-vous", "translation": "Rest", "note": "reposer (rest); reflexive imperative in the dream realm"}
 {"key": "reposons", "word": "reposons", "translation": "let's rest", "note": "reposer (rest); don't rest on laurels (military context)"}
-{"key": "repoussais", "word": "repoussais", "translation": "repelled", "note": "repousser (repel); past imperfect defending against jormungar"}
+{"key": "repoussais", "word": "repoussais", "translation": "I/you were pushing back", "note": "repousser (repel); past imperfect defending against jormungar"}
 {"key": "repoussante", "word": "repoussante", "translation": "repulsive", "note": "repousser (repel); adjective meaning distasteful or abhorrent"}
 {"key": "repousserai", "word": "repousserai", "translation": "I will push back", "note": "repousser (push back); future tense"}
 {"key": "repousserez", "word": "repousserez", "translation": "you will push back", "note": "repousser (push back); future tense formal or plural"}
 {"key": "repousserions", "word": "repousserions", "translation": "we would push back", "note": "repousser (push back); conditional form"}
 {"key": "repousserons", "word": "repousserons", "translation": "we will push back", "note": "repousser (push back); military pushing back demonic armies"}
 {"key": "repoussez-la", "word": "repoussez-la", "translation": "repel her", "note": "repousser (repel); imperative, driving back enemy forces"}
-{"key": "repoussiez", "word": "repoussiez", "translation": "push back", "note": "repousser (push back); subjunctive or conditional"}
-{"key": "repoussions", "word": "repoussions", "translation": "push back", "note": "repousser (push back); first person plural subjunctive"}
+{"key": "repoussiez", "word": "repoussiez", "translation": "you were pushing back", "note": "repousser (push back); subjunctive or conditional"}
+{"key": "repoussions", "word": "repoussions", "translation": "we were pushing back", "note": "repousser (push back); first person plural subjunctive"}
 {"key": "repoussons-les", "word": "repoussons-les", "translation": "let's push them away", "note": "repousser (push back) + les (them); defend against Drust"}
 {"key": "repoussée", "word": "repoussée", "translation": "pushed back", "note": "repousser (push back); dragon assault being repulsed"}
 {"key": "reprenant", "word": "reprenant", "translation": "resuming", "note": "reprendre (take back/resume); messenger catching breath"}
@@ -53833,7 +53833,7 @@
 {"key": "reprenez-les-leur", "word": "reprenez-les-leur", "translation": "take them back from them", "note": "reprendre (take back) + les + leur; recover vegetables from Hozen"}
 {"key": "reprocher", "word": "reprocher", "translation": "to reproach", "note": "to scold or blame; not associated with Domanaar feud"}
 {"key": "reproduira-t-elle", "word": "reproduira-t-elle", "translation": "will she reproduce", "note": "reproduire (reproduce); future tense interrogative"}
-{"key": "reproduisait", "word": "reproduisait", "translation": "reproduced", "note": "reproduire (reproduce); magic waves reproducing across Suramar"}
+{"key": "reproduisait", "word": "reproduisait", "translation": "was reproducing", "note": "reproduire (reproduce); magic waves reproducing across Suramar"}
 {"key": "reprogrammer", "word": "reprogrammer", "translation": "reprogram", "note": "to reprogram directives; technical maintenance term"}
 {"key": "reprogrammés", "word": "reprogrammés", "translation": "reprogrammed", "note": "reprogrammer (reprogram); Terrestres converted to protect domains"}
 {"key": "représentantes", "word": "représentantes", "translation": "representatives", "note": "feminine plural; female delegates of Horde and Alliance"}
@@ -53841,7 +53841,7 @@
 {"key": "représentative", "word": "représentative", "translation": "representative", "note": "representative quality of beast hides from Broken Isles"}
 {"key": "représenteront", "word": "représenteront", "translation": "they will represent", "note": "représenter (represent); assemblies posing threat if not eliminated"}
 {"key": "représentez-vous", "word": "Représentez-vous", "translation": "imagine", "note": "représenter reflexive (picture/imagine); visualize this situation"}
-{"key": "représentiez", "word": "représentiez", "translation": "represented", "note": "représenter (represent); you represented the Light's vanguard"}
+{"key": "représentiez", "word": "représentiez", "translation": "you were representing", "note": "représenter (represent); you represented the Light's vanguard"}
 {"key": "représenté", "word": "représenté", "translation": "represented", "note": "représenter (represent); past participle in mystical containers"}
 {"key": "reptile", "word": "reptile", "translation": "reptile", "note": "Gammerita the turtle; creature type"}
 {"key": "reptilienne", "word": "reptilienne", "translation": "reptilian", "note": "reptile + -ienne; adjective describing reptilian traits or script"}
@@ -53857,17 +53857,17 @@
 {"key": "rez’kal", "word": "Rez’kal", "translation": "Rez'kal", "note": "NPC name, cannot determine English version from context"}
 {"key": "rglrgmrg", "word": "Rglrgmrg", "translation": "Rglrgmrg", "note": "murloc speech, untranslatable"}
 {"key": "rglrmgl", "word": "Rglrmgl", "translation": "Rglrmgl", "note": "murloc speech, untranslatable"}
-{"key": "rhapsodie", "word": "Rhapsodie", "translation": "Rhapsody", "note": "direct loan from English; often a title or place name in WoW"}
+{"key": "rhapsodie", "word": "Rhapsodie", "translation": "rhapsody", "note": "direct loan from English; often a title or place name in WoW"}
 {"key": "rhapsody", "word": "Rhapsody", "translation": "Rhapsody", "note": "English proper noun used in French text"}
 {"key": "rhenik", "word": "Rhenik", "translation": "Rhenik", "note": "NPC name"}
 {"key": "rhizomes", "word": "rhizomes", "translation": "rhizomes", "note": "technical plant term, same in both languages"}
 {"key": "rhodes", "word": "Rhodes", "translation": "Rhodes", "note": "NPC name (Bronwyn Rhodes)"}
 {"key": "rhol", "word": "Rhol", "translation": "Rhol", "note": "NPC name (likely short for Forinn Cœur-de-Pierre's apprentice)"}
-{"key": "rhombe", "word": "Rhombe", "translation": "Rhombus", "note": "geometric shape; 'rhombe' is archaic French for rhombus, often an item name"}
+{"key": "rhombe", "word": "Rhombe", "translation": "rhombus", "note": "geometric shape; 'rhombe' is archaic French for rhombus, often an item name"}
 {"key": "rhonda", "word": "Rhonda", "translation": "Rhonda", "note": "NPC name"}
 {"key": "rhoo", "word": "Rhoo", "translation": "Rhoo", "note": "NPC or character name"}
-{"key": "rhésus", "word": "Rhésus", "translation": "Rhesus", "note": "blood type designation, same in both languages"}
-{"key": "riait", "word": "riait", "translation": "laughed", "note": "imperfect tense of rire (to laugh); context: 'who laughed like a maniac'"}
+{"key": "rhésus", "word": "Rhésus", "translation": "rhesus", "note": "blood type designation, same in both languages"}
+{"key": "riait", "word": "riait", "translation": "was laughing", "note": "imperfect tense of rire (to laugh); context: 'who laughed like a maniac'"}
 {"key": "riandron", "word": "Riandron", "translation": "Riandron", "note": "NPC name"}
 {"key": "riannah", "word": "Riannah", "translation": "Riannah", "note": "NPC name"}
 {"key": "riant", "word": "riant", "translation": "laughing; grinning", "note": "present participle of rire; in context: 'laughing stupidly at you'"}
@@ -53905,8 +53905,8 @@
 {"key": "ris", "word": "ris", "translation": "laugh", "note": "first or second person singular of rire; 'vous trouvez' context suggests reading something"}
 {"key": "risible", "word": "risible", "translation": "laughable; ludicrous", "note": "deserving of laughter or ridicule"}
 {"key": "risotto", "word": "risotto", "translation": "risotto", "note": "Italian rice dish, same in English"}
-{"key": "risquiez", "word": "risquiez", "translation": "risked", "note": "past tense; 'you risked' encountering horde attacks"}
-{"key": "risquions", "word": "risquions", "translation": "risked", "note": "imperfect first person plural; what we risked finding here"}
+{"key": "risquiez", "word": "risquiez", "translation": "you were risking", "note": "past tense; 'you risked' encountering horde attacks"}
+{"key": "risquions", "word": "risquions", "translation": "we were risking", "note": "imperfect first person plural; what we risked finding here"}
 {"key": "ritualiste", "word": "ritualiste", "translation": "ritualistic", "note": "adjective; related to ritual practice or initiation"}
 {"key": "rit’ko", "word": "Rit’ko", "translation": "Rit'ko", "note": "NPC name"}
 {"key": "rivalisait", "word": "rivalisait", "translation": "rivaled; competed with", "note": "imperfect; the djaradin once rivaled dragons"}
@@ -54072,7 +54072,7 @@
 {"key": "rugit", "word": "rugit", "translation": "roars", "note": "third person singular of rugir; the beast roars"}
 {"key": "rugrum", "word": "Rugrum", "translation": "Rugrum", "note": "proper name: ogre"}
 {"key": "ruinepoigne", "word": "Ruinepoigne", "translation": "Ruinfist", "note": "proper name; ruine (ruin) + poigne (fist/grip)"}
-{"key": "ruineur", "word": "Ruineur", "translation": "Ruiner", "note": "proper name combining ruin + -eur suffix"}
+{"key": "ruineur", "word": "Ruineur", "translation": "ruiner", "note": "proper name combining ruin + -eur suffix"}
 {"key": "ruinée", "word": "ruinée", "translation": "ruined", "note": "feminine past participle of ruiner (to ruin)"}
 {"key": "ruinées", "word": "ruinées", "translation": "ruined", "note": "feminine plural past participle; ruined research notes"}
 {"key": "ruisse-sol", "word": "Ruisse-Sol", "translation": "Ruisse-Sol", "note": "proper name; ruisse (stream/gutter) + sol (ground)"}
@@ -54151,13 +54151,13 @@
 {"key": "réapparaîtrez", "word": "réapparaîtrez", "translation": "you will reappear; you will manifest again", "note": "future tense of réapparaître (to reappear)"}
 {"key": "réapparition", "word": "réapparition", "translation": "reappearance; return", "note": "noun: an appearance or emergence again"}
 {"key": "réapprenez", "word": "réapprenez", "translation": "relearn; learn again", "note": "second person plural imperative of réapprendre"}
-{"key": "réappropriation", "word": "Réappropriation", "translation": "Reappropriation", "note": "noun: reclaiming or taking back ownership"}
+{"key": "réappropriation", "word": "Réappropriation", "translation": "reappropriation", "note": "noun: reclaiming or taking back ownership"}
 {"key": "réapproprier", "word": "réapproprier", "translation": "reappropriate", "note": "from re- + approprié, to reclaim or take back"}
 {"key": "réapprovisionnez-moi", "word": "Réapprovisionnez-moi", "translation": "Restock me", "note": "imperative: restock me or resupply me"}
 {"key": "réapprovisionné", "word": "réapprovisionné", "translation": "restocked", "note": "past participle of réapprovisionner"}
 {"key": "réapprovisionnées", "word": "réapprovisionnées", "translation": "restocked", "note": "feminine plural past participle"}
 {"key": "réapprovisionnés", "word": "réapprovisionnés", "translation": "restocked", "note": "masculine plural past participle"}
-{"key": "réarmement", "word": "Réarmement", "translation": "Rearmament", "note": "rearming or rearmament (military sense)"}
+{"key": "réarmement", "word": "Réarmement", "translation": "rearmament", "note": "rearming or rearmament (military sense)"}
 {"key": "réarmez", "word": "réarmez", "translation": "rearm", "note": "imperative: to arm again or take up arms"}
 {"key": "réarranger", "word": "réarranger", "translation": "rearrange", "note": "to arrange or organize again"}
 {"key": "réassemblé", "word": "réassemblé", "translation": "reassembled", "note": "past participle: put back together"}
@@ -54168,11 +54168,11 @@
 {"key": "récepteurs", "word": "récepteurs", "translation": "receptors", "note": "plural: biological receptors or sensors"}
 {"key": "réceptionnent", "word": "réceptionnent", "translation": "accept", "note": "to receive goods/delivery; accept shipment"}
 {"key": "réchapperait", "word": "réchapperait", "translation": "he/she would survive", "note": "conditional: would escape or survive"}
-{"key": "réchauffement", "word": "Réchauffement", "translation": "Warming", "note": "warming or heating"}
+{"key": "réchauffement", "word": "Réchauffement", "translation": "warming", "note": "warming or heating"}
 {"key": "réchauffent", "word": "réchauffent", "translation": "warm", "note": "present tense: they warm or heat"}
 {"key": "réchauffera", "word": "réchauffera", "translation": "he/she will warm", "note": "future: will warm or heat"}
 {"key": "réchaufferez", "word": "réchaufferez", "translation": "you will warm", "note": "future with vous: will warm"}
-{"key": "réchauffez", "word": "Réchauffez", "translation": "Reheat", "note": "imperative: warm or reheat"}
+{"key": "réchauffez", "word": "Réchauffez", "translation": "reheat", "note": "imperative: warm or reheat"}
 {"key": "récitations", "word": "récitations", "translation": "recitations", "note": "plural: recitations or recitals"}
 {"key": "récitées", "word": "récitées", "translation": "recited", "note": "feminine plural past participle: recited"}
 {"key": "réclamait", "word": "réclamait", "translation": "was claiming", "note": "imperfect: was demanding or claiming"}
@@ -54180,7 +54180,7 @@
 {"key": "récolteront", "word": "récolteront", "translation": "they will harvest", "note": "future: will harvest"}
 {"key": "récoltez-les", "word": "Récoltez-les", "translation": "Harvest them", "note": "imperative: harvest them"}
 {"key": "récoltez-moi", "word": "récoltez-moi", "translation": "harvest for me", "note": "colloquial: come gather these for me"}
-{"key": "récoltions", "word": "récoltions", "translation": "we would harvest", "note": "imperfect/conditional: we would gather"}
+{"key": "récoltions", "word": "récoltions", "translation": "we were harvesting", "note": "imperfect/conditional: we would gather"}
 {"key": "récoltons", "word": "récoltons", "translation": "let's harvest", "note": "first person plural: we harvest"}
 {"key": "récompensent", "word": "récompensent", "translation": "reward", "note": "present tense: they reward"}
 {"key": "récompensera-t-elle", "word": "récompensera-t-elle", "translation": "will she reward", "note": "future with inversion: will she reward"}
@@ -54204,9 +54204,9 @@
 {"key": "réduiriez", "word": "réduiriez", "translation": "you would reduce", "note": "conditional: you would reduce"}
 {"key": "réduirons", "word": "réduirons", "translation": "we will reduce", "note": "future: we will reduce"}
 {"key": "réduiront", "word": "réduiront", "translation": "they will reduce", "note": "future: they will reduce"}
-{"key": "réduisaient", "word": "réduisaient", "translation": "reduced", "note": "imperfect: they were reducing"}
+{"key": "réduisaient", "word": "réduisaient", "translation": "were reducing", "note": "imperfect: they were reducing"}
 {"key": "réduise", "word": "réduise", "translation": "reduce", "note": "subjunctive: that it reduce or diminish"}
-{"key": "réduisions", "word": "réduisions", "translation": "we reduce", "note": "first person plural: we reduce"}
+{"key": "réduisions", "word": "réduisions", "translation": "we were reducing", "note": "first person plural: we reduce"}
 {"key": "réemménagent", "word": "réemménagent", "translation": "move back in", "note": "present: they return or resettle"}
 {"key": "réenchanter", "word": "réenchanter", "translation": "re-enchant", "note": "to enchant again; magical reapplication"}
 {"key": "réenclencher", "word": "réenclencher", "translation": "restart", "note": "to restart or reengage a mechanism"}
@@ -54215,7 +54215,7 @@
 {"key": "réfemment", "word": "réfemment", "translation": "refemming", "note": "corrupted text: exact meaning unclear"}
 {"key": "réflexe", "word": "réflexe", "translation": "reflex", "note": "a reflex or automatic reaction"}
 {"key": "réfléchirons", "word": "réfléchirons", "translation": "we will think", "note": "future: we will reflect or consider"}
-{"key": "réfléchissais", "word": "réfléchissais", "translation": "was pondering", "note": "imperfect: I was thinking or reflecting"}
+{"key": "réfléchissais", "word": "réfléchissais", "translation": "I/you were pondering", "note": "imperfect: I was thinking or reflecting"}
 {"key": "réfléchissante", "word": "réfléchissante", "translation": "reflective", "note": "feminine: reflective or mirror-like"}
 {"key": "réfléchissantes", "word": "réfléchissantes", "translation": "reflective", "note": "feminine plural: reflective surfaces"}
 {"key": "réfléchisse", "word": "réfléchisse", "translation": "should think", "note": "subjunctive: that one should reflect"}
@@ -54230,7 +54230,7 @@
 {"key": "réfugiées", "word": "réfugiées", "translation": "refugees", "note": "feminine plural: female refugees"}
 {"key": "réfère", "word": "réfère", "translation": "refers", "note": "present: refers to or appeals to"}
 {"key": "référencées", "word": "référencées", "translation": "referenced", "note": "feminine plural: referenced or indexed"}
-{"key": "référions", "word": "référions", "translation": "refer", "note": "first person plural: let us refer or appeal to"}
+{"key": "référions", "word": "référions", "translation": "we were referring", "note": "first person plural: let us refer or appeal to"}
 {"key": "régalent", "word": "régalent", "translation": "feast", "note": "present: they feast or treat themselves"}
 {"key": "régalerai", "word": "régalerai", "translation": "I will treat", "note": "future: I will regale or delight"}
 {"key": "régaleraient", "word": "régaleraient", "translation": "they would delight", "note": "conditional: they would regale or treat"}
@@ -54240,10 +54240,10 @@
 {"key": "régente", "word": "régente", "translation": "regent", "note": "a female regent or female ruler"}
 {"key": "régi", "word": "régi", "translation": "governed", "note": "past participle: governed or ruled"}
 {"key": "régional", "word": "régional", "translation": "regional", "note": "adjective: regional or relating to a region"}
-{"key": "régissait", "word": "régissait", "translation": "governed", "note": "imperfect: it governed or regulated"}
+{"key": "régissait", "word": "régissait", "translation": "was governing", "note": "imperfect: it governed or regulated"}
 {"key": "régisseuses", "word": "régisseuses", "translation": "managers", "note": "female stage managers or administrators"}
 {"key": "régit", "word": "régit", "translation": "governs", "note": "present: governs or regulates"}
-{"key": "réglait", "word": "réglait", "translation": "settled", "note": "imperfect: was settling or regulating"}
+{"key": "réglait", "word": "réglait", "translation": "was settling", "note": "imperfect: was settling or regulating"}
 {"key": "réglant", "word": "réglant", "translation": "settling", "note": "present participle: settling accounts"}
 {"key": "réglementaire", "word": "réglementaire", "translation": "regulatory", "note": "regulatory or according to regulations"}
 {"key": "réglementaires", "word": "réglementaires", "translation": "regulatory", "note": "plural: regulatory or standard issue"}
@@ -54257,7 +54257,7 @@
 {"key": "régnante", "word": "régnante", "translation": "reigning", "note": "feminine: reigning or ruling"}
 {"key": "régnerait", "word": "régnerait", "translation": "he/she would reign", "note": "conditional: would reign or rule"}
 {"key": "régneront", "word": "régneront", "translation": "they will reign", "note": "future: will reign or rule"}
-{"key": "régnions", "word": "régnions", "translation": "we reigned", "note": "imperfect: we would reign"}
+{"key": "régnions", "word": "régnions", "translation": "we were reigning", "note": "imperfect: we would reign"}
 {"key": "régnons", "word": "régnons", "translation": "we reign", "note": "present: we reign or rule"}
 {"key": "régularité", "word": "régularité", "translation": "regularity", "note": "regularity or consistency of rhythm"}
 {"key": "régulateur", "word": "régulateur", "translation": "regulator", "note": "regulator or control mechanism"}
@@ -54276,13 +54276,13 @@
 {"key": "réincarnation", "word": "réincarnation", "translation": "reincarnation", "note": "reincarnation or rebirth"}
 {"key": "réinfecter", "word": "réinfecter", "translation": "reinfect", "note": "to reinfect or contaminate again"}
 {"key": "réinitialisation", "word": "réinitialisation", "translation": "reset", "note": "reset or emergency reinitialization"}
-{"key": "réinstallation", "word": "réinstallation", "translation": "relocation", "note": "relocation or reinstallation"}
+{"key": "réinstallation", "word": "réinstallation", "translation": "reinstallation; resettlement", "note": "relocation or reinstallation"}
 {"key": "réinstallerai", "word": "réinstallerai", "translation": "I will reinstall", "note": "future: I will reinstall or return"}
 {"key": "réintroduction", "word": "réintroduction", "translation": "reintroduction", "note": "reintroduction or return to an area"}
 {"key": "réintègre", "word": "réintègre", "translation": "reinstates", "note": "present: reinstates or brings back"}
 {"key": "réinventer", "word": "réinventer", "translation": "reinvent", "note": "to reinvent or remake"}
 {"key": "réitérant", "word": "réitérant", "translation": "reiterating", "note": "present participle: reiterating or repeating"}
-{"key": "réitériez", "word": "réitériez", "translation": "repeat", "note": "conditional: you would reiterate"}
+{"key": "réitériez", "word": "réitériez", "translation": "you were repeating", "note": "conditional: you would reiterate"}
 {"key": "réjouie", "word": "réjouie", "translation": "rejoiced", "note": "feminine past participle: rejoiced or delighted"}
 {"key": "réjouirai", "word": "réjouirai", "translation": "I will rejoice", "note": "future: I will rejoice or be glad"}
 {"key": "réjouirais", "word": "réjouirais", "translation": "I/you would rejoice", "note": "conditional: I would rejoice"}
@@ -54304,7 +54304,7 @@
 {"key": "répandrait", "word": "répandrait", "translation": "he/she would spread", "note": "conditional: would spread"}
 {"key": "répandrons", "word": "répandrons", "translation": "we will spread", "note": "future tense of répandre; plural first-person"}
 {"key": "réparable", "word": "réparable", "translation": "repairable", "note": "capable of being repaired"}
-{"key": "réparais", "word": "réparais", "translation": "was repairing", "note": "imperfect tense; past habitual action"}
+{"key": "réparais", "word": "réparais", "translation": "I/you were repairing", "note": "imperfect tense; past habitual action"}
 {"key": "réparatoire", "word": "Réparatoire", "translation": "restorative", "note": "healing or remedial in nature"}
 {"key": "réparera", "word": "réparera", "translation": "he/she will repair", "note": "future tense, third-person singular"}
 {"key": "réparerons", "word": "réparerons", "translation": "we will repair", "note": "future tense, first-person plural"}
@@ -54317,21 +54317,21 @@
 {"key": "répliquer", "word": "répliquer", "translation": "to reply", "note": "to answer back; not 'replicate' in sense of copying"}
 {"key": "répliquerons", "word": "répliquerons", "translation": "we will reply", "note": "future tense; will respond"}
 {"key": "répond-il", "word": "répond-il", "translation": "does he answer", "note": "present tense with inversion for question"}
-{"key": "répondais", "word": "répondais", "translation": "was answering", "note": "imperfect past tense"}
+{"key": "répondais", "word": "répondais", "translation": "I/you were answering", "note": "imperfect past tense"}
 {"key": "réponde", "word": "réponde", "translation": "answer", "note": "subjunctive or infinitive; may answer"}
 {"key": "répondez-moi", "word": "Répondez-moi", "translation": "answer me", "note": "imperative with indirect object"}
 {"key": "répondit", "word": "répondit", "translation": "replied", "note": "past definite, third-person singular"}
 {"key": "répondrait", "word": "répondrait", "translation": "he/she would answer", "note": "conditional tense"}
-{"key": "répondriez", "word": "répondriez", "translation": "you would you answer", "note": "conditional second-person plural"}
+{"key": "répondriez", "word": "répondriez", "translation": "you would answer", "note": "conditional second-person plural"}
 {"key": "réponds-moi", "word": "Réponds-moi", "translation": "answer me", "note": "familiar imperative singular"}
 {"key": "réprime", "word": "réprime", "translation": "represses", "note": "present tense; to hold back"}
 {"key": "répriment", "word": "répriment", "translation": "repress", "note": "present tense plural"}
 {"key": "réprimées", "word": "réprimées", "translation": "repressed", "note": "feminine plural; held back"}
-{"key": "répugnais", "word": "répugnais", "translation": "repelled me", "note": "imperfect; I was repulsed by"}
+{"key": "répugnais", "word": "répugnais", "translation": "I/you were repelled; I/you were reluctant", "note": "imperfect; I was repulsed by"}
 {"key": "répulsifs", "word": "répulsifs", "translation": "repellents", "note": "plural; devices that repel"}
 {"key": "répulsion", "word": "répulsion", "translation": "repulsion", "note": "force or feeling that repels"}
 {"key": "répétera", "word": "répétera", "translation": "he/she will repeat", "note": "future tense, third-person singular"}
-{"key": "répéterez", "word": "répéterez", "translation": "you will you repeat", "note": "future tense, second-person plural"}
+{"key": "répéterez", "word": "répéterez", "translation": "you will repeat", "note": "future tense, second-person plural"}
 {"key": "répétitive", "word": "répétitive", "translation": "repetitive", "note": "characterized by repetition"}
 {"key": "répétitives", "word": "répétitives", "translation": "repetitive", "note": "feminine plural"}
 {"key": "répété", "word": "répété", "translation": "repeated", "note": "past participle; done multiple times"}
@@ -54376,7 +54376,7 @@
 {"key": "rétablissent", "word": "rétablissent", "translation": "restore", "note": "present tense plural"}
 {"key": "rétablissez-le", "word": "Rétablissez-le", "translation": "restore it", "note": "imperative plural with object"}
 {"key": "rétablit", "word": "rétablit", "translation": "restores", "note": "present tense, third-person singular"}
-{"key": "rétamer", "word": "rétamer", "translation": "to coat", "note": "to coat with metal; re-tin"}
+{"key": "rétamer", "word": "rétamer", "translation": "to re-tin; to knock out (slang)", "note": "to coat with metal; re-tin"}
 {"key": "réticent", "word": "réticent", "translation": "reluctant", "note": "unwilling; hesitant"}
 {"key": "réticentes", "word": "réticentes", "translation": "reluctant", "note": "feminine plural; unwilling"}
 {"key": "réticents", "word": "réticents", "translation": "reluctant", "note": "masculine plural; unwilling"}
@@ -54407,12 +54407,12 @@
 {"key": "réunissions", "word": "réunissions", "translation": "let us gather", "note": "subjunctive first-person plural"}
 {"key": "réunissons", "word": "réunissons", "translation": "let us gather", "note": "hortative first-person plural"}
 {"key": "réussirais", "word": "réussirais", "translation": "I/you would succeed", "note": "conditional first-person singular"}
-{"key": "réussirions", "word": "réussirions", "translation": "we would we succeed", "note": "conditional first-person plural"}
+{"key": "réussirions", "word": "réussirions", "translation": "we would succeed", "note": "conditional first-person plural"}
 {"key": "réussirons-nous", "word": "réussirons-nous", "translation": "will we succeed", "note": "future tense, first-person plural interrogative"}
 {"key": "réussissait", "word": "réussissait", "translation": "was succeeding", "note": "imperfect; was doing well"}
 {"key": "réussissions", "word": "réussissions", "translation": "if we succeeded", "note": "subjunctive first-person plural"}
 {"key": "réutilisée", "word": "réutilisée", "translation": "reused", "note": "feminine singular; used again"}
-{"key": "réveillais", "word": "réveillais", "translation": "was waking", "note": "imperfect first-person singular"}
+{"key": "réveillais", "word": "réveillais", "translation": "I/you were waking", "note": "imperfect first-person singular"}
 {"key": "réveillant", "word": "réveillant", "translation": "waking", "note": "present participle of réveiller"}
 {"key": "réveillez-vous", "word": "Réveillez-vous", "translation": "wake up", "note": "imperative plural reflexive"}
 {"key": "révoltante", "word": "révoltante", "translation": "revolting", "note": "feminine singular; appalling"}
@@ -54444,9 +54444,9 @@
 {"key": "rééquipé", "word": "rééquipé", "translation": "re-equipped", "note": "masculine singular; fitted with new equipment"}
 {"key": "rééquipée", "word": "rééquipée", "translation": "re-equipped", "note": "feminine singular; fitted with new gear"}
 {"key": "réévaluer", "word": "Réévaluer", "translation": "to reassess", "note": "to evaluate again; reconsider"}
-{"key": "rêvais", "word": "rêvais", "translation": "was dreaming", "note": "imperfect first-person singular"}
+{"key": "rêvais", "word": "rêvais", "translation": "I/you were dreaming", "note": "imperfect first-person singular"}
 {"key": "rêveraient", "word": "rêveraient", "translation": "they would dream", "note": "conditional third-person plural"}
-{"key": "rêviez", "word": "rêviez", "translation": "were dreaming", "note": "imperfect second-person plural"}
+{"key": "rêviez", "word": "rêviez", "translation": "you were dreaming", "note": "imperfect second-person plural"}
 {"key": "rêvons", "word": "rêvons", "translation": "let us dream", "note": "hortative first-person plural"}
 {"key": "rôdailler", "word": "rôdailler", "translation": "to prowl", "note": "to wander aimlessly or lurk"}
 {"key": "rôde-brune", "word": "rôde-brune", "translation": "brown roamer", "note": "proper name; descriptive title"}
@@ -54481,7 +54481,7 @@
 {"key": "s'achève", "word": "s'achève", "translation": "ends", "note": "achever; draws to a close"}
 {"key": "s'affrontaient", "word": "s'affrontaient", "translation": "clashed", "note": "s'affronter; fought with one another"}
 {"key": "s'agenouille", "word": "s'agenouille", "translation": "kneels", "note": "ritual gesture of honor and respect"}
-{"key": "s'agira", "word": "s'agira", "translation": "he/she will be", "note": "s'agir (to be a matter of)"}
+{"key": "s'agira", "word": "s'agira", "translation": "it will be a matter of; it will be about", "note": "s'agir (to be a matter of)"}
 {"key": "s'agiter", "word": "s'agiter", "translation": "thrash", "note": "is thrashing; more vivid than 'agitate'"}
 {"key": "s'aident", "word": "s'aident", "translation": "help each other", "note": "mutual support among themselves"}
 {"key": "s'aider", "word": "s'aider", "translation": "help oneself", "note": "aid those who help themselves"}
@@ -54492,7 +54492,7 @@
 {"key": "s'aperçoivent", "word": "s'aperçoivent", "translation": "realize", "note": "s'apercevoir; notice or become aware"}
 {"key": "s'apercevoir", "word": "s'apercevoir", "translation": "notice", "note": "notice or observe what happened"}
 {"key": "s'appelait", "word": "s'appelait", "translation": "was called", "note": "the dwarf's name was Theldurin"}
-{"key": "s'appelle-t-elle", "word": "s'appelle-t-elle", "translation": "is her name", "note": "what is she called; interrogative"}
+{"key": "s'appelle-t-elle", "word": "s'appelle-t-elle", "translation": "what is her name", "note": "what is she called; interrogative"}
 {"key": "s'appliqueraient", "word": "s'appliqueraient", "translation": "they would apply", "note": "conditional mood; would work on animals"}
 {"key": "s'approchent", "word": "s'approchent", "translation": "are approaching", "note": "drawing close or coming near"}
 {"key": "s'approcheraient", "word": "s'approcheraient", "translation": "they would approach", "note": "conditional; might come close"}
@@ -54504,7 +54504,7 @@
 {"key": "s'arrange", "word": "s'arrange", "translation": "improves", "note": "situation improving or changing for worse"}
 {"key": "s'arranger", "word": "s'arranger", "translation": "settle", "note": "settle things after quarrel ends"}
 {"key": "s'arrêtera", "word": "s'arrêtera", "translation": "he/she will stop", "note": "work stopping without crafters present"}
-{"key": "s'arrêteront", "word": "s'arrêteront", "translation": "won't stop", "note": "cult not stopping until destruction"}
+{"key": "s'arrêteront", "word": "s'arrêteront", "translation": "they will stop", "note": "cult not stopping until destruction"}
 {"key": "s'arrêteront-ils", "word": "s'arrêteront-ils", "translation": "will they stop", "note": "Dark Iron orcs attacking repeatedly"}
 {"key": "s'assemblent", "word": "s'assemblent", "translation": "fit together", "note": "pieces fitting to form a hammer"}
 {"key": "s'associer", "word": "s'associer", "translation": "associate", "note": "work with or join the magnataurs"}
@@ -55711,7 +55711,7 @@
 {"key": "restaurés", "word": "restaurés", "translation": "restored; repaired", "note": "past participle masculine plural; made whole again"}
 {"key": "resteraient", "word": "resteraient", "translation": "they would stay; they would remain", "note": "conditional third person plural; hypothetical inaction"}
 {"key": "resterais", "word": "resterais", "translation": "I/you would stay; I/you would remain", "note": "conditional first person; what I would do if inactive"}
-{"key": "restions", "word": "restions", "translation": "stay; remain", "note": "first person plural subjunctive/conditional; let us stay vigilant"}
+{"key": "restions", "word": "restions", "translation": "we were staying", "note": "first person plural subjunctive/conditional; let us stay vigilant"}
 {"key": "restituant", "word": "restituant", "translation": "restoring; returning", "note": "present participle; giving back or making amends"}
 {"key": "restitue", "word": "restitue", "translation": "restores; returns to owner", "note": "present tense third person; gives back to rightful owner"}
 {"key": "restitué", "word": "restitué", "translation": "restored; returned", "note": "past participle masculine; given back to owner"}
@@ -55743,13 +55743,13 @@
 {"key": "retirez-en", "word": "retirez-en", "translation": "take it out; remove it", "note": "imperative with pronoun; take a sample or extract"}
 {"key": "retirez-la", "word": "Retirez-la", "translation": "Remove it; pull it out", "note": "imperative with feminine pronoun; extract the spear"}
 {"key": "retombé", "word": "retombé", "translation": "fell back; collapsed back", "note": "past participle; dropped back or reverted to prior state"}
-{"key": "retounez", "word": "Retounez", "translation": "Return; go back", "note": "misspelled form of 'Retournez'; command to turn around or return"}
+{"key": "retounez", "word": "Retounez", "translation": "return; go back", "note": "misspelled form of 'Retournez'; command to turn around or return"}
 {"key": "retournaient", "word": "retournaient", "translation": "were returning; kept returning", "note": "imperfect tense; habitually going back in past"}
 {"key": "retournait", "word": "retournait", "translation": "was returning; returned", "note": "imperfect tense; going back habitually or repeatedly"}
 {"key": "retournement", "word": "Retournement", "translation": "turnaround; reversal", "note": "dramatic shift or complete change of direction or fortune"}
 {"key": "retourneraient", "word": "retourneraient", "translation": "they would return; they would go back", "note": "conditional third person plural; hypothetical return"}
 {"key": "retracerait", "word": "retracerait", "translation": "he/she would trace; he/she would recount", "note": "conditional; would tell the story of or follow the path of"}
-{"key": "retracez", "word": "Retracez", "translation": "Trace; tell the story", "note": "imperative; recount or follow the history of something"}
+{"key": "retracez", "word": "Retracez", "translation": "trace; tell the story", "note": "imperative; recount or follow the history of something"}
 {"key": "retraits", "word": "retraits", "translation": "withdrawals; taking out", "note": "plural; removing or extracting funds or items"}
 {"key": "retranscription", "word": "retranscription", "translation": "retranscription; re-transcription", "note": "writing down again or transferring to another medium"}
 {"key": "retranscrits", "word": "retranscrits", "translation": "retranscribed; written again", "note": "past participle; recopied or transferred to new form"}
@@ -55783,7 +55783,7 @@
 {"key": "reverserai", "word": "reverserai", "translation": "I will donate; I will contribute", "note": "future first person; will give money to help"}
 {"key": "revi", "word": "Revi", "translation": "Revi", "note": "NPC proper name; no translation"}
 {"key": "reviendraient-ils", "word": "reviendraient-ils", "translation": "would they come back; would they return", "note": "conditional interrogative; hypothetical return question"}
-{"key": "reviendu", "word": "Reviendu", "translation": "Back; returned", "note": "past participle; come back or returned as promised"}
+{"key": "reviendu", "word": "Reviendu", "translation": "back; returned", "note": "past participle; come back or returned as promised"}
 {"key": "revigorante", "word": "revigorante", "translation": "invigorating; refreshing", "note": "giving new energy or strength; stimulating"}
 {"key": "revik", "word": "Revik", "translation": "Revik", "note": "NPC proper name; no translation"}
 {"key": "revinrent", "word": "revinrent", "translation": "returned; came back", "note": "past tense third person plural archaic; went back"}
@@ -55794,7 +55794,7 @@
 {"key": "revitalisants", "word": "revitalisants", "translation": "revitalizing; restoring vigor", "note": "adjective masculine plural; products that restore energy"}
 {"key": "revivent", "word": "revivent", "translation": "revive; come alive again", "note": "present tense third person plural; returning to life or activity"}
 {"key": "revivifiés", "word": "revivifiés", "translation": "revived; brought back to life", "note": "past participle masculine plural; restored to animation"}
-{"key": "revivions", "word": "revivions", "translation": "let's relive; let's experience again", "note": "subjunctive first person plural; revisiting past experience"}
+{"key": "revivions", "word": "revivions", "translation": "we were reliving", "note": "subjunctive first person plural; revisiting past experience"}
 {"key": "revivrez", "word": "revivrez", "translation": "you will live again; you will be alive again", "note": "future second person; you will return to life"}
 {"key": "revivrons", "word": "revivrons", "translation": "we will live again; we will survive", "note": "future first person plural; collective survival or revival"}
 {"key": "revolons", "word": "revolons", "translation": "let's fly again; let's take wing again", "note": "first person plural imperative; resuming flight"}
@@ -70005,7 +70005,7 @@
 {"key": "qu'aussi", "word": "qu'aussi", "translation": "that also", "note": ""}
 {"key": "qu'autre", "word": "qu'autre", "translation": "than other", "note": ""}
 {"key": "qu'aynasha", "word": "qu'Aynasha", "translation": "that Aynasha", "note": ""}
-{"key": "qu'de", "word": "qu'de", "translation": "than", "note": ""}
+{"key": "qu'de", "word": "qu'de", "translation": "than of", "note": ""}
 {"key": "qu'ensemble", "word": "qu'ensemble", "translation": "that together", "note": ""}
 {"key": "qu'entres", "word": "qu'entres", "translation": "that enter", "note": ""}
 {"key": "qu'envoie", "word": "qu'envoie", "translation": "what sends", "note": ""}
