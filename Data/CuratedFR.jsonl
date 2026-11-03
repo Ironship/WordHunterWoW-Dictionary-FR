@@ -20997,7 +20997,7 @@
 {"key": "jonesy", "word": "Jonesy", "translation": "Jonesy", "note": "nickname; informal surname"}
 {"key": "jongler", "word": "jongler", "translation": "juggle", "note": "toss and catch multiple objects"}
 {"key": "jongleur", "word": "jongleur", "translation": "juggler", "note": "entertainer who juggles"}
-{"key": "jouera", "word": "jouera", "translation": "will play", "note": "third person singular future"}
+{"key": "jouera", "word": "jouera", "translation": "he/she will play", "note": "third person singular future"}
 {"key": "jouit", "word": "jouit", "translation": "enjoys", "note": "third person singular"}
 {"key": "jouxte", "word": "jouxte", "translation": "borders", "note": "third person singular; lies adjacent"}
 {"key": "judicieusement", "word": "judicieusement", "translation": "judiciously", "note": "with wise judgment"}
@@ -21076,7 +21076,7 @@
 {"key": "l'arbre-monde", "word": "l'Arbre-Monde", "translation": "the World Tree", "note": "Arbre-Monde (World Tree); stays the same as current"}
 {"key": "l'arcatraz", "word": "l'Arcatraz", "translation": "the Arcatraz", "note": "location; l' = the article"}
 {"key": "l'archiviste", "word": "l'archiviste", "translation": "the archivist", "note": "archiviste = archivist"}
-{"key": "l'arsenal", "word": "L'arsenal", "translation": "The arsenal", "note": "arsenal = weapons storehouse"}
+{"key": "l'arsenal", "word": "L'arsenal", "translation": "the arsenal", "note": "arsenal = weapons storehouse"}
 {"key": "l'ascendant", "word": "l'Ascendant", "translation": "the Ascendant", "note": "location or dragon aspect rank"}
 {"key": "l'aspect", "word": "l'aspect", "translation": "the appearance", "note": "dragon aspect (rank of power)"}
 {"key": "l'aspirant", "word": "l'aspirant", "translation": "the aspirant", "note": "aspirant = one who aspires"}
@@ -21084,14 +21084,14 @@
 {"key": "l'avais", "word": "l'avais", "translation": "had it", "note": "past tense; l'avais = I had it"}
 {"key": "l'aveugle", "word": "l'Aveugle", "translation": "the Blind Man", "note": "aveugle = blind; used as noun for blind person"}
 {"key": "l'effet", "word": "l'effet", "translation": "the effect", "note": "effet = effect"}
-{"key": "l'embuscade", "word": "L'embuscade", "translation": "The ambush", "note": "embuscade = ambush"}
+{"key": "l'embuscade", "word": "L'embuscade", "translation": "the ambush", "note": "embuscade = ambush"}
 {"key": "l'emporter", "word": "l'emporter", "translation": "take it; carry it away", "note": "emporter = to take/carry; l' = it"}
 {"key": "l'empêcher", "word": "l'empêcher", "translation": "prevent it; stop it", "note": "empêcher = to prevent; l' = it (object)"}
 {"key": "l'enclave", "word": "l'enclave", "translation": "the enclave", "note": "enclave = enclosed settlement"}
-{"key": "l'engagement", "word": "L'engagement", "translation": "The commitment", "note": "engagement = commitment/betrothal"}
+{"key": "l'engagement", "word": "L'engagement", "translation": "the commitment", "note": "engagement = commitment/betrothal"}
 {"key": "l'esclavage", "word": "l'esclavage", "translation": "slavery", "note": "esclavage = slavery"}
 {"key": "l'escouade", "word": "l'escouade", "translation": "the squad", "note": "escouade = squad/team"}
-{"key": "l'examen", "word": "L'examen", "translation": "The exam", "note": "examen = examination/test"}
+{"key": "l'examen", "word": "L'examen", "translation": "the exam", "note": "examen = examination/test"}
 {"key": "l'exemple", "word": "l'exemple", "translation": "the example", "note": "exemple = example"}
 {"key": "l'exil", "word": "l'exil", "translation": "exile", "note": "exil = exile"}
 {"key": "l'extinction", "word": "l'extinction", "translation": "extinction", "note": "extinction = extinction"}
@@ -21103,7 +21103,7 @@
 {"key": "l'infâme", "word": "l'infâme", "translation": "the infamous", "note": "infâme = infamous/vile"}
 {"key": "l'ingénierie", "word": "l'ingénierie", "translation": "engineering", "note": "ingénierie = engineering"}
 {"key": "l'iris", "word": "l'iris", "translation": "the iris", "note": "iris = iris (eye part or flower)"}
-{"key": "l'issue", "word": "L'issue", "translation": "The outcome", "note": "issue = outcome/way out"}
+{"key": "l'issue", "word": "L'issue", "translation": "the outcome", "note": "issue = outcome/way out"}
 {"key": "l'obtenir", "word": "l'obtenir", "translation": "get it; obtain it", "note": "obtenir = to obtain; l' = it"}
 {"key": "l'océan", "word": "l'océan", "translation": "the ocean", "note": "océan = ocean"}
 {"key": "l'oint", "word": "l'oint", "translation": "the anointed", "note": "oint = anointed (past participle as noun)"}
@@ -21117,11 +21117,11 @@
 {"key": "l'écart", "word": "l'écart", "translation": "the gap", "note": "écart = gap/difference"}
 {"key": "l'échec", "word": "l'échec", "translation": "failure", "note": "échec = failure; l' = the"}
 {"key": "l'éclaireuse", "word": "l'éclaireuse", "translation": "the scout", "note": "éclaireuse = female scout"}
-{"key": "l'écriture", "word": "L'écriture", "translation": "Writing", "note": "écriture = writing/script"}
+{"key": "l'écriture", "word": "L'écriture", "translation": "the writing", "note": "écriture = writing/script"}
 {"key": "l'émissaire", "word": "l'émissaire", "translation": "the emissary", "note": "émissaire = emissary/messenger"}
-{"key": "l'équipe", "word": "L'équipe", "translation": "The team", "note": "équipe = team"}
-{"key": "l'étreinte", "word": "L'étreinte", "translation": "The embrace", "note": "étreinte = embrace"}
-{"key": "l'éveil", "word": "L'éveil", "translation": "Awakening", "note": "éveil = awakening"}
+{"key": "l'équipe", "word": "L'équipe", "translation": "the team", "note": "équipe = team"}
+{"key": "l'étreinte", "word": "L'étreinte", "translation": "the embrace", "note": "étreinte = embrace"}
+{"key": "l'éveil", "word": "L'éveil", "translation": "the awakening", "note": "éveil = awakening"}
 {"key": "l'être", "word": "l'être", "translation": "to be; being", "note": "être = to be or a being (noun)"}
 {"key": "l'œuvre", "word": "l'œuvre", "translation": "the work", "note": "œuvre = work/creation"}
 {"key": "laanda", "word": "Laanda", "translation": "Laanda", "note": "NPC name"}
@@ -21129,8 +21129,8 @@
 {"key": "ladite", "word": "ladite", "translation": "said; aforementioned", "note": "formal/legal: the said (feminine)"}
 {"key": "laides", "word": "laides", "translation": "ugly", "note": "feminine plural of laid (ugly)"}
 {"key": "laisseraient", "word": "laisseraient", "translation": "would leave; would let", "note": "conditional of laisser"}
-{"key": "laisserez", "word": "laisserez", "translation": "will leave; will let", "note": "future of laisser"}
-{"key": "laissez-les", "word": "Laissez-les", "translation": "Leave them", "note": "imperative: leave them"}
+{"key": "laisserez", "word": "laisserez", "translation": "you will leave", "note": "future of laisser"}
+{"key": "laissez-les", "word": "Laissez-les", "translation": "leave them", "note": "imperative: leave them"}
 {"key": "laissiez", "word": "laissiez", "translation": "let; would let", "note": "subjunctive/conditional of laisser"}
 {"key": "laissions", "word": "laissions", "translation": "let's leave; would leave", "note": "1st person plural conditional/subjunctive of laisser"}
 {"key": "lamelune", "word": "Lamelune", "translation": "Moonblade", "note": "lame (blade) + lune (moon); compound"}
@@ -21138,7 +21138,7 @@
 {"key": "lanciez", "word": "lanciez", "translation": "launch; threw", "note": "2nd person plural imperfect of lancer"}
 {"key": "landefrey", "word": "Landefrey", "translation": "Landefrey", "note": "place name"}
 {"key": "lan’dalock", "word": "Lan’dalock", "translation": "Lan’dalock", "note": "NPC name"}
-{"key": "larguez", "word": "Larguez", "translation": "Drop", "note": "imperative of larguer (to drop/release)"}
+{"key": "larguez", "word": "Larguez", "translation": "drop", "note": "imperative of larguer (to drop/release)"}
 {"key": "laroche", "word": "Laroche", "translation": "Laroche", "note": "NPC name"}
 {"key": "lasztak", "word": "Lasztak", "translation": "Lasztak", "note": "NPC name"}
 {"key": "lathorius", "word": "Lathorius", "translation": "Lathorius", "note": "NPC name"}
@@ -21150,9 +21150,9 @@
 {"key": "leviroth", "word": "Leviroth", "translation": "Leviroth", "note": "NPC name"}
 {"key": "liam", "word": "Liam", "translation": "Liam", "note": "NPC name"}
 {"key": "liasse", "word": "liasse", "translation": "bundle", "note": "liasse = bundle/sheaf"}
-{"key": "libérerai", "word": "libérerai", "translation": "will free", "note": "future tense of libérer"}
-{"key": "libérerons", "word": "libérerons", "translation": "will free", "note": "1st person plural future of libérer"}
-{"key": "libéreront", "word": "libéreront", "translation": "will free", "note": "future tense"}
+{"key": "libérerai", "word": "libérerai", "translation": "I will free", "note": "future tense of libérer"}
+{"key": "libérerons", "word": "libérerons", "translation": "we will free", "note": "1st person plural future of libérer"}
+{"key": "libéreront", "word": "libéreront", "translation": "they will free", "note": "future tense"}
 {"key": "libérez-nous", "word": "libérez-nous", "translation": "free us", "note": "imperative"}
 {"key": "lierre", "word": "lierre", "translation": "ivy", "note": "climbing plant"}
 {"key": "lilaju", "word": "Lilaju", "translation": "Lilaju", "note": ""}
@@ -21163,13 +21163,13 @@
 {"key": "limitons", "word": "limitons", "translation": "limit", "note": "imperative"}
 {"key": "linge", "word": "linge", "translation": "cloth; linen", "note": "fabric or garments"}
 {"key": "liquides", "word": "liquides", "translation": "liquids", "note": "plural"}
-{"key": "lira", "word": "lira", "translation": "will read", "note": "future tense"}
+{"key": "lira", "word": "lira", "translation": "he/she will read", "note": "future tense"}
 {"key": "lisky", "word": "Lisky", "translation": "Lisky", "note": ""}
 {"key": "lits", "word": "lits", "translation": "beds", "note": "plural"}
 {"key": "littéral", "word": "littéral", "translation": "literal", "note": "exact"}
-{"key": "livrera", "word": "livrera", "translation": "will deliver", "note": "future"}
+{"key": "livrera", "word": "livrera", "translation": "he/she will deliver", "note": "future"}
 {"key": "livriez", "word": "livriez", "translation": "would deliver", "note": "conditional"}
-{"key": "livrée", "word": "livrée", "translation": "abandoned; left to itself", "note": "participle"}
+{"key": "livrée", "word": "livrée", "translation": "delivered; livery; given over", "note": "participle"}
 {"key": "lièvres", "word": "lièvres", "translation": "hares", "note": "plural"}
 {"key": "loganaar", "word": "Loganaar", "translation": "Loganaar", "note": ""}
 {"key": "logiquement", "word": "logiquement", "translation": "logically", "note": "adverb"}
@@ -21196,7 +21196,7 @@
 {"key": "lâcheté", "word": "lâcheté", "translation": "cowardice", "note": "flaw"}
 {"key": "lâchées", "word": "lâchées", "translation": "released; unleashed", "note": "feminine plural"}
 {"key": "lâchés", "word": "lâchés", "translation": "released; let loose", "note": "masculine plural"}
-{"key": "lève-toi", "word": "Lève-toi", "translation": "Rise; Get up", "note": "imperative"}
+{"key": "lève-toi", "word": "Lève-toi", "translation": "rise; get up", "note": "imperative"}
 {"key": "lèvent", "word": "lèvent", "translation": "rise; awaken", "note": "present"}
 {"key": "lèverons", "word": "lèverons", "translation": "we will lift; we shall raise", "note": "future"}
 {"key": "légionnaire", "word": "légionnaire", "translation": "legionary", "note": "military"}
@@ -21212,7 +21212,7 @@
 {"key": "l’accumulation", "word": "l’accumulation", "translation": "the accumulation", "note": "buildup"}
 {"key": "l’acide", "word": "l’acide", "translation": "acid", "note": "substance"}
 {"key": "l’activation", "word": "l’activation", "translation": "the activation", "note": "process"}
-{"key": "l’affronterez", "word": "l’affronterez", "translation": "will face; will confront", "note": "future"}
+{"key": "l’affronterez", "word": "l’affronterez", "translation": "you will face it", "note": "future"}
 {"key": "l’aidiez", "word": "l’aidiez", "translation": "help; would help", "note": "subjunctive"}
 {"key": "l’aime", "word": "l’aime", "translation": "love", "note": "present"}
 {"key": "l’aldor", "word": "l’Aldor", "translation": "the Aldor", "note": "faction"}
@@ -21230,7 +21230,7 @@
 {"key": "l’artiste", "word": "l’artiste", "translation": "the artist", "note": "skilled"}
 {"key": "l’assassinat", "word": "l’assassinat", "translation": "the assassination", "note": "murder"}
 {"key": "l’athenaeum", "word": "l’Athenaeum", "translation": "the Athenaeum", "note": "library"}
-{"key": "l’aurons", "word": "l’aurons", "translation": "we will have", "note": "future"}
+{"key": "l’aurons", "word": "l’aurons", "translation": "we will have it", "note": "future"}
 {"key": "l’automa", "word": "l’Automa", "translation": "the Automa", "note": "construct"}
 {"key": "l’avarice", "word": "l’avarice", "translation": "greed; avarice", "note": "wealth"}
 {"key": "l’avertir", "word": "l’avertir", "translation": "warn; alert", "note": "caution"}
@@ -21245,10 +21245,10 @@
 {"key": "l’empyrium", "word": "l’empyrium", "translation": "the empyrium", "note": "ore"}
 {"key": "l’empêchant", "word": "l’empêchant", "translation": "preventing; hindering", "note": "obstruction"}
 {"key": "l’enchanteresse", "word": "l’enchanteresse", "translation": "the enchantress", "note": "magical"}
-{"key": "l’engeance", "word": "L’engeance", "translation": "The spawn; brood", "note": "offspring"}
+{"key": "l’engeance", "word": "L’engeance", "translation": "the spawn; brood", "note": "offspring"}
 {"key": "l’engrenage", "word": "l’engrenage", "translation": "the gear; gearing", "note": "mechanical"}
-{"key": "l’entendez-vous", "word": "L’entendez-vous", "translation": "Do you hear it; Can you hear", "note": "listening"}
-{"key": "l’entité", "word": "L’entité", "translation": "The entity", "note": "being"}
+{"key": "l’entendez-vous", "word": "L’entendez-vous", "translation": "do you hear it; can you hear", "note": "listening"}
+{"key": "l’entité", "word": "L’entité", "translation": "the entity", "note": "being"}
 {"key": "l’esclavage", "word": "l’esclavage", "translation": "slavery", "note": "bondage"}
 {"key": "l’estran", "word": "l’Estran", "translation": "the Foreshore", "note": "location"}
 {"key": "l’examinant", "word": "l’examinant", "translation": "examining it; inspecting", "note": "inspection"}
@@ -21282,7 +21282,7 @@
 {"key": "l’ivraie", "word": "l’ivraie", "translation": "the tares; weeds", "note": "biblical"}
 {"key": "l’ivresse", "word": "l’ivresse", "translation": "drunkenness; intoxication", "note": "drunk"}
 {"key": "l’observant", "word": "l’observant", "translation": "observing; watching", "note": "watching"}
-{"key": "l’obtention", "word": "L’obtention", "translation": "The obtaining; acquisition", "note": "acquiring"}
+{"key": "l’obtention", "word": "L’obtention", "translation": "the obtaining; acquisition", "note": "acquiring"}
 {"key": "l’obéissance", "word": "l’obéissance", "translation": "obedience; compliance", "note": "submission"}
 {"key": "l’oculus", "word": "l’Oculus", "translation": "the Oculus", "note": "location"}
 {"key": "l’ohn", "word": "l’ohn", "translation": "the ohn", "note": "cultural"}
@@ -21294,7 +21294,7 @@
 {"key": "l’urne", "word": "l’urne", "translation": "the urn", "note": "vessel"}
 {"key": "l’usurpateur", "word": "l’usurpateur", "translation": "the usurper", "note": "illegitimate"}
 {"key": "l’utilisent", "word": "l’utilisent", "translation": "use it", "note": "present"}
-{"key": "l’utiliserez", "word": "l’utiliserez", "translation": "will use it", "note": "future"}
+{"key": "l’utiliserez", "word": "l’utiliserez", "translation": "you will use it", "note": "future"}
 {"key": "l’écraser", "word": "l’écraser", "translation": "crush it", "note": "infinitive"}
 {"key": "l’écrire", "word": "l’écrire", "translation": "write it", "note": "infinitive"}
 {"key": "l’édit", "word": "l’Édit", "translation": "the Edict", "note": "proper noun"}
@@ -21304,14 +21304,14 @@
 {"key": "l’épuisement", "word": "l’épuisement", "translation": "exhaustion", "note": "fatigue"}
 {"key": "l’éradiquer", "word": "l’éradiquer", "translation": "eradicate", "note": "l' = elision of le (the); infinitive form"}
 {"key": "l’établissement", "word": "l’établissement", "translation": "the establishment", "note": "l' = elision of le (the); a place or institution"}
-{"key": "l’étudiant", "word": "l’étudiant", "translation": "examining", "note": "present participle of étudier; while examining it, not the noun student"}
+{"key": "l’étudiant", "word": "l’étudiant", "translation": "the student", "note": "present participle of étudier; while examining it, not the noun student"}
 {"key": "l’évasion", "word": "l’évasion", "translation": "the escape", "note": "l' = elision of le (the); escape or evasion"}
 {"key": "l’éventualité", "word": "l’éventualité", "translation": "the possibility", "note": "l' = elision of le (the); possibility or eventuality"}
 {"key": "m'achèvent", "word": "m'achèvent", "translation": "finish me", "note": "from achever (to finish, to kill); to end or slay"}
-{"key": "m'aiderez", "word": "m'aiderez", "translation": "will help me", "note": "future tense of aider"}
+{"key": "m'aiderez", "word": "m'aiderez", "translation": "you will help me", "note": "future tense of aider"}
 {"key": "m'aidiez", "word": "m'aidiez", "translation": "would help me", "note": "conditional of aider"}
 {"key": "m'apportiez", "word": "m'apportiez", "translation": "would bring me", "note": "conditional of apporter; in si-clause context"}
-{"key": "m'assurerai", "word": "m'assurerai", "translation": "will ensure", "note": "future of assurer (to ensure/make sure)"}
+{"key": "m'assurerai", "word": "m'assurerai", "translation": "I will make sure", "note": "future of assurer (to ensure/make sure)"}
 {"key": "m'attends", "word": "m'attends", "translation": "expect me", "note": "from s'attendre (to expect); wait for me works contextually"}
 {"key": "m'avait", "word": "m'avait", "translation": "had (me)", "note": "past tense of avoir; meaning depends on full sentence"}
 {"key": "m'empêche", "word": "m'empêche", "translation": "prevents me", "note": "from empêcher (to prevent/stop)"}
@@ -21330,7 +21330,7 @@
 {"key": "magistrats", "word": "magistrats", "translation": "magistrates", "note": "Latin cognate; judicial officials"}
 {"key": "magnétite", "word": "magnétite", "translation": "magnetite", "note": "Latin cognate; iron oxide mineral"}
 {"key": "maintien", "word": "Maintien", "translation": "maintenance", "note": "from maintenir (to maintain); keeping or support"}
-{"key": "maintiendrai", "word": "maintiendrai", "translation": "will maintain", "note": "future of maintenir"}
+{"key": "maintiendrai", "word": "maintiendrai", "translation": "I will maintain", "note": "future of maintenir"}
 {"key": "majeures", "word": "majeures", "translation": "major", "note": "plural feminine of majeur; high-priority or primary"}
 {"key": "majeurs", "word": "majeurs", "translation": "major", "note": "plural of majeur; main or principal"}
 {"key": "malecarde", "word": "malecarde", "translation": "male card", "note": "possibly from mal (bad) + carte (card); WoW reference or place"}
@@ -21340,7 +21340,7 @@
 {"key": "maltorius", "word": "Maltorius", "translation": "Maltorius", "note": "proper name (NPC); keep as is"}
 {"key": "malveillant", "word": "malveillant", "translation": "malicious", "note": "from malveillant (hostile, evil)"}
 {"key": "malvenu", "word": "malvenu", "translation": "unwelcome", "note": "from malvenu (unwanted, not wanted)"}
-{"key": "mam’zelle", "word": "mam’zelle", "translation": "mam'zelle", "note": "abbreviated mademoiselle; part of character name"}
+{"key": "mam’zelle", "word": "mam’zelle", "translation": "miss; mademoiselle", "note": "abbreviated mademoiselle; part of character name"}
 {"key": "mandaté", "word": "mandaté", "translation": "mandated", "note": "from mandaté (authorized, commissioned)"}
 {"key": "mande-wyrm", "word": "mande-wyrm", "translation": "wyrmcaller", "note": "from mander (to summon) + wyrm (WoW dragon term)"}
 {"key": "mange-dragon", "word": "Mange-dragon", "translation": "dragon eater", "note": "from manger (to eat) + dragon"}
@@ -21350,9 +21350,9 @@
 {"key": "mannoroc", "word": "Mannoroc", "translation": "Mannoroc", "note": "proper name (location); keep as is"}
 {"key": "manquaient", "word": "manquaient", "translation": "were lacking", "note": "imperfect of manquer (to lack, to be missing)"}
 {"key": "manse", "word": "manse", "translation": "manse", "note": "Latin cognate; clergy dwelling or estate"}
-{"key": "marchais", "word": "marchais", "translation": "was walking", "note": "imperfect of marcher; continuous past action"}
+{"key": "marchais", "word": "marchais", "translation": "I was walking", "note": "imperfect of marcher; continuous past action"}
 {"key": "marchander", "word": "marchander", "translation": "haggle", "note": "to bargain or haggle; trade-related term"}
-{"key": "marchera", "word": "marchera", "translation": "will walk", "note": "future of marcher"}
+{"key": "marchera", "word": "marchera", "translation": "he/she will walk", "note": "future of marcher"}
 {"key": "marid", "word": "Marid", "translation": "Marid", "note": "proper name (NPC merchant); keep as is"}
 {"key": "marley", "word": "Marley", "translation": "Marley", "note": "proper name; keep as is"}
 {"key": "marmon", "word": "Marmon", "translation": "Marmon", "note": "proper name (NPC); keep as is"}
@@ -21383,7 +21383,7 @@
 {"key": "med’jai", "word": "Med’jai", "translation": "Med'jai", "note": "proper name (group/faction); keep as is"}
 {"key": "mekgénieur", "word": "mekgénieur", "translation": "mekengineer", "note": "gnomish WoW term; mek (mechanical) + engineer"}
 {"key": "melisara", "word": "Melisara", "translation": "Melisara", "note": "proper name (NPC); keep as is"}
-{"key": "menaceront", "word": "menaceront", "translation": "will threaten", "note": "future of menacer (to threaten)"}
+{"key": "menaceront", "word": "menaceront", "translation": "they will threaten", "note": "future of menacer (to threaten)"}
 {"key": "menacées", "word": "menacées", "translation": "threatened", "note": "feminine plural past participle of menacer"}
 {"key": "menaçait", "word": "menaçait", "translation": "was threatening", "note": "imperfect of menacer (to threaten)"}
 {"key": "menez-nous", "word": "Menez-nous", "translation": "lead us", "note": "imperative of mener (to lead); command form"}
@@ -21420,11 +21420,11 @@
 {"key": "monceaux", "word": "monceaux", "translation": "heaps", "note": "plural of monceau (pile, stack); large quantities"}
 {"key": "mondiale", "word": "mondiale", "translation": "worldwide", "note": "from mondiale (global, world-wide); across all lands"}
 {"key": "montagneux", "word": "montagneux", "translation": "mountainous", "note": "from montagneux (hilly, high-altitude)"}
-{"key": "montant", "word": "montant", "translation": "rising", "note": "present participle of monter (to rise); upward movement"}
+{"key": "montant", "word": "montant", "translation": "rising; amount; sum", "note": "present participle of monter (to rise); upward movement"}
 {"key": "montante", "word": "montante", "translation": "rising", "note": "feminine form of montant; upward or crescendoing"}
-{"key": "monterai", "word": "monterai", "translation": "will climb", "note": "future of monter (to ascend, to go up)"}
+{"key": "monterai", "word": "monterai", "translation": "I will climb", "note": "future of monter (to ascend, to go up)"}
 {"key": "monticule", "word": "monticule", "translation": "mound", "note": "from monticule (hillock, knoll); small elevated area"}
-{"key": "montreront", "word": "montreront", "translation": "will show", "note": "future of montrer (to display, to reveal)"}
+{"key": "montreront", "word": "montreront", "translation": "they will show", "note": "future of montrer (to display, to reveal)"}
 {"key": "moraya", "word": "Moraya", "translation": "Moraya", "note": "proper name (NPC); keep as is"}
 {"key": "morcelé", "word": "morcelé", "translation": "fragmented", "note": "from morceler (to break up, to divide); broken into pieces"}
 {"key": "mord-pierre", "word": "Mord-Pierre", "translation": "Mord-pierre", "note": "proper name (location); literally stone-biter"}
@@ -21436,8 +21436,8 @@
 {"key": "mouchoir", "word": "mouchoir", "translation": "handkerchief", "note": "from mouchoir (cloth for nose); personal cloth"}
 {"key": "moulin-de-tarren", "word": "Moulin-de-Tarren", "translation": "Moulin-de-Tarren", "note": "proper name (location); literally Tarren's mill"}
 {"key": "mouron", "word": "mouron", "translation": "worry", "note": "from se faire du mouron (to worry); anxiety or concern"}
-{"key": "mourrons", "word": "mourrons", "translation": "will die", "note": "first person plural future of mourir (to perish)"}
-{"key": "mourront", "word": "mourront", "translation": "will die", "note": "third person plural future of mourir"}
+{"key": "mourrons", "word": "mourrons", "translation": "we will die", "note": "first person plural future of mourir (to perish)"}
+{"key": "mourront", "word": "mourront", "translation": "they will die", "note": "third person plural future of mourir"}
 {"key": "moustache", "word": "moustache", "translation": "mustache", "note": "from moustache (facial hair); above the lip"}
 {"key": "mouvantes", "word": "mouvantes", "translation": "moving", "note": "feminine plural of mouvant (shifting, changing); in flux"}
 {"key": "mouvementé", "word": "mouvementé", "translation": "hectic", "note": "from mouvementé (eventful, lively); full of action"}
@@ -21493,7 +21493,7 @@
 {"key": "m’éloigner", "word": "m’éloigner", "translation": "move away", "note": ""}
 {"key": "m’était", "word": "m’était", "translation": "was me", "note": ""}
 {"key": "m’étonner", "word": "m’étonner", "translation": "surprise me", "note": ""}
-{"key": "n'agissons", "word": "n'agissons", "translation": "don't act", "note": "ne + act"}
+{"key": "n'agissons", "word": "n'agissons", "translation": "we do not act", "note": "ne + act"}
 {"key": "n'existe", "word": "n'existe", "translation": "doesn't exist", "note": "ne + exists"}
 {"key": "n'hésitent", "word": "n'hésitent", "translation": "don't hesitate", "note": "ne + hesitate"}
 {"key": "n'ose", "word": "n'ose", "translation": "doesn't dare", "note": "ne + dare"}
@@ -21519,7 +21519,7 @@
 {"key": "neltharus", "word": "Neltharus", "translation": "Neltharus", "note": ""}
 {"key": "nerf", "word": "nerf", "translation": "nerve", "note": "courage"}
 {"key": "nerveusement", "word": "nerveusement", "translation": "nervously", "note": "anxious"}
-{"key": "nervis", "word": "nervis", "translation": "annoys", "note": "from énerver"}
+{"key": "nervis", "word": "nervis", "translation": "thugs; hired muscle", "note": "from énerver"}
 {"key": "ner’onok", "word": "Ner’onok", "translation": "Ner’onok", "note": ""}
 {"key": "nettoie", "word": "nettoie", "translation": "clean", "note": "imperative"}
 {"key": "nettoiera", "word": "nettoiera", "translation": "will cleanse", "note": "future"}
@@ -21536,12 +21536,12 @@
 {"key": "noircies", "word": "noircies", "translation": "blackened", "note": "charred"}
 {"key": "noirsillage", "word": "Noirsillage", "translation": "Darkening", "note": "proper name"}
 {"key": "nonosse", "word": "Nonosse", "translation": "Nonosse", "note": ""}
-{"key": "nordiques", "word": "nordiques", "translation": "Nordic", "note": "Norse"}
+{"key": "nordiques", "word": "nordiques", "translation": "nordic", "note": "Norse"}
 {"key": "nori", "word": "Nori", "translation": "Nori", "note": ""}
 {"key": "noroît", "word": "Noroît", "translation": "Noroît", "note": ""}
 {"key": "nouant", "word": "nouant", "translation": "tying", "note": "growing"}
 {"key": "noueux", "word": "Noueux", "translation": "Knotty", "note": "NPC"}
-{"key": "nourrice", "word": "nourrice", "translation": "caretaker", "note": "strategy"}
+{"key": "nourrice", "word": "nourrice", "translation": "nursemaid; wet nurse", "note": "strategy"}
 {"key": "nourris", "word": "nourris", "translation": "fed", "note": "past participle"}
 {"key": "nouveauté", "word": "nouveauté", "translation": "novelty", "note": "newness"}
 {"key": "nouvelle-brikabrok", "word": "Nouvelle-Brikabrok", "translation": "New Brikabrok", "note": "place"}
@@ -21559,7 +21559,7 @@
 {"key": "néophytes", "word": "néophytes", "translation": "neophytes", "note": "recruits"}
 {"key": "n’acceptent", "word": "n’acceptent", "translation": "do not accept", "note": ""}
 {"key": "n’accorde", "word": "n’accorde", "translation": "does not grant", "note": ""}
-{"key": "n’aille", "word": "n’aille", "translation": "don't go", "note": ""}
+{"key": "n’aille", "word": "n’aille", "translation": "may not go", "note": ""}
 {"key": "n’apprécient", "word": "n’apprécient", "translation": "do not appreciate", "note": ""}
 {"key": "n’attaquent", "word": "n’attaquent", "translation": "do not attack", "note": ""}
 {"key": "n’atteignent", "word": "n’atteignent", "translation": "do not reach", "note": ""}
@@ -21581,7 +21581,7 @@
 {"key": "obsédé", "word": "obsédé", "translation": "obsessed", "note": "fixated"}
 {"key": "obteniez", "word": "obteniez", "translation": "obtain", "note": "conditional"}
 {"key": "obéira", "word": "obéira", "translation": "will obey", "note": "future"}
-{"key": "occupait", "word": "occupait", "translation": "kept", "note": "imperfect"}
+{"key": "occupait", "word": "occupait", "translation": "he/she was keeping busy", "note": "imperfect"}
 {"key": "occupez-les", "word": "Occupez-les", "translation": "keep them busy", "note": "imperative"}
 {"key": "oculaire", "word": "oculaire", "translation": "ocular", "note": "eye"}
 {"key": "oculus", "word": "oculus", "translation": "oculus", "note": ""}
@@ -21619,7 +21619,7 @@
 {"key": "oralius", "word": "Oralius", "translation": "Oralius", "note": ""}
 {"key": "orbites", "word": "orbites", "translation": "sockets", "note": "eye sockets or orbital cavities"}
 {"key": "orchestrer", "word": "orchestrer", "translation": "orchestrate", "note": "arrange or coordinate"}
-{"key": "ordalie", "word": "Ordalie", "translation": "Ordeal", "note": ""}
+{"key": "ordalie", "word": "Ordalie", "translation": "ordeal", "note": ""}
 {"key": "ordonnez-leur", "word": "ordonnez-leur", "translation": "command them", "note": "imperative with indirect object"}
 {"key": "oreillers", "word": "oreillers", "translation": "pillows", "note": "cushions for resting the head"}
 {"key": "orendil", "word": "Orendil", "translation": "Orendil", "note": ""}
@@ -21637,12 +21637,12 @@
 {"key": "osseux", "word": "osseux", "translation": "bony", "note": "skeletal or thin-limbed"}
 {"key": "ouna", "word": "Ouna", "translation": "Ouna", "note": ""}
 {"key": "ouvragée", "word": "ouvragée", "translation": "wrought", "note": "finely worked or crafted (past participle)"}
-{"key": "ouvrez-le", "word": "Ouvrez-le", "translation": "Open it", "note": "imperative with direct object"}
+{"key": "ouvrez-le", "word": "Ouvrez-le", "translation": "open it", "note": "imperative with direct object"}
 {"key": "paleth", "word": "Paleth", "translation": "Paleth", "note": ""}
 {"key": "palmiers", "word": "palmiers", "translation": "palm trees", "note": "tropical trees"}
 {"key": "palta", "word": "Palta", "translation": "Palta", "note": ""}
 {"key": "pamphlets", "word": "pamphlets", "translation": "pamphlets", "note": "French cognate; same word in English"}
-{"key": "panade", "word": "panade", "translation": "jam", "note": "idiom: être dans la panade = be in a jam (predicament)"}
+{"key": "panade", "word": "panade", "translation": "mush; a jam (slang)", "note": "être dans la panade = to be in a fix"}
 {"key": "panorama", "word": "panorama", "translation": "panorama", "note": "French cognate; wide sweeping view"}
 {"key": "panoramas", "word": "panoramas", "translation": "panoramas", "note": "French cognate; plural"}
 {"key": "pans", "word": "pans", "translation": "sections", "note": "armor sections or sheets; not cookware"}
@@ -21650,7 +21650,7 @@
 {"key": "panthéon", "word": "panthéon", "translation": "pantheon", "note": "French cognate; temple or shrine"}
 {"key": "paonneau", "word": "paonneau", "translation": "peacock", "note": "diminutive form; peacock or young peacock"}
 {"key": "paragraphe", "word": "paragraphe", "translation": "paragraph", "note": "section of text"}
-{"key": "paraissez", "word": "paraissez", "translation": "appear", "note": "seem or look like"}
+{"key": "paraissez", "word": "paraissez", "translation": "you appear", "note": "seem or look like"}
 {"key": "paralysé", "word": "paralysé", "translation": "paralyzed", "note": "past participle; rendered unable to move"}
 {"key": "paramétré", "word": "paramétré", "translation": "configured", "note": "past participle; set up or tuned"}
 {"key": "parcellaires", "word": "parcellaires", "translation": "plots", "note": "small parcels of land"}
@@ -21663,7 +21663,7 @@
 {"key": "parodie", "word": "parodie", "translation": "parody", "note": "mockery or humorous imitation"}
 {"key": "parrainer", "word": "parrainer", "translation": "sponsor", "note": "support or back someone"}
 {"key": "parsemé", "word": "parsemé", "translation": "dotted", "note": "scattered or sprinkled (past participle)"}
-{"key": "partait", "word": "partait", "translation": "left", "note": "imperfect; was leaving or used to leave"}
+{"key": "partait", "word": "partait", "translation": "he/she was leaving", "note": "imperfect; was leaving or used to leave"}
 {"key": "participeront", "word": "participeront", "translation": "will participate", "note": "future; will take part"}
 {"key": "particularité", "word": "particularité", "translation": "peculiarity", "note": "distinctive quality or quirk"}
 {"key": "particules", "word": "particules", "translation": "particles", "note": "tiny pieces or fragments"}
@@ -21692,11 +21692,11 @@
 {"key": "perdurera", "word": "perdurera", "translation": "will persist", "note": "future; will endure or continue"}
 {"key": "perforée", "word": "perforée", "translation": "perforated", "note": "feminine past participle; having holes"}
 {"key": "permanentes", "word": "permanentes", "translation": "permanent", "note": "feminine plural; lasting or enduring"}
-{"key": "permettrez", "word": "permettrez", "translation": "will allow", "note": "future; will grant or permit"}
+{"key": "permettrez", "word": "permettrez", "translation": "you will allow", "note": "future; will grant or permit"}
 {"key": "perpétuel", "word": "perpétuel", "translation": "perpetual", "note": "eternal or never-ending"}
 {"key": "perpétuellement", "word": "perpétuellement", "translation": "perpetually", "note": "adverb; endlessly or continuously"}
 {"key": "persistance", "word": "persistance", "translation": "persistence", "note": "endurance or stubborn continuation"}
-{"key": "persuadez", "word": "Persuadez", "translation": "Persuade", "note": "imperative; convince or sway"}
+{"key": "persuadez", "word": "Persuadez", "translation": "persuade", "note": "imperative; convince or sway"}
 {"key": "persuadez-le", "word": "persuadez-le", "translation": "persuade him", "note": "imperative with object"}
 {"key": "persuadés", "word": "persuadés", "translation": "persuaded", "note": "masculine plural past participle; convinced"}
 {"key": "pertuis", "word": "pertuis", "translation": "sluice", "note": "water channel or tidal passage"}
@@ -21730,7 +21730,7 @@
 {"key": "piétinées", "word": "piétinées", "translation": "trampled", "note": "feminine plural past participle"}
 {"key": "placent", "word": "placent", "translation": "place", "note": "third person plural; put or position"}
 {"key": "placeront", "word": "placeront", "translation": "will place", "note": "future; will position or set"}
-{"key": "placez-en", "word": "Placez-en", "translation": "Place some", "note": "imperative with partitive"}
+{"key": "placez-en", "word": "Placez-en", "translation": "place some", "note": "imperative with partitive"}
 {"key": "plaie-de-lumière", "word": "Plaie-de-lumière", "translation": "Bane of Light", "note": "proper name; literally light-wound or bane"}
 {"key": "plaie-de-nuit", "word": "Plaie-de-nuit", "translation": "Nightbane", "note": "proper name; night-bane or night-wound"}
 {"key": "plaignent", "word": "plaignent", "translation": "complain", "note": "third person plural present"}
@@ -21739,7 +21739,7 @@
 {"key": "plaise", "word": "plaise", "translation": "please", "note": "subjunctive; may it please or satisfy"}
 {"key": "plaisirs", "word": "plaisirs", "translation": "pleasures", "note": "enjoyments or delights"}
 {"key": "plancher", "word": "plancher", "translation": "floor", "note": "wooden surface to walk on"}
-{"key": "plantez-le", "word": "Plantez-le", "translation": "Plant it", "note": "imperative with direct object"}
+{"key": "plantez-le", "word": "Plantez-le", "translation": "plant it", "note": "imperative with direct object"}
 {"key": "plantés", "word": "plantés", "translation": "planted", "note": "masculine plural past participle"}
 {"key": "pleurent", "word": "pleurent", "translation": "weep", "note": "third person plural present; cry"}
 {"key": "plissant", "word": "plissant", "translation": "squinting", "note": "narrowing eyes; present participle"}
@@ -21755,7 +21755,7 @@
 {"key": "pollue", "word": "pollue", "translation": "pollutes", "note": "Latin cognate: polluer/pollute"}
 {"key": "polluent", "word": "polluent", "translation": "pollute", "note": "Latin cognate: polluer/pollute"}
 {"key": "polluée", "word": "polluée", "translation": "polluted", "note": "past participle feminine singular"}
-{"key": "portais", "word": "portais", "translation": "was carrying", "note": "imperfect tense: was carrying, or carried repeatedly"}
+{"key": "portais", "word": "portais", "translation": "I was carrying", "note": "imperfect tense: was carrying, or carried repeatedly"}
 {"key": "porte-flamme", "word": "Porte-flamme", "translation": "flame bearer", "note": "porte (bearer) + flamme (flame); matches French lowercase"}
 {"key": "portelaube", "word": "Portelaube", "translation": "Portelaube", "note": "proper name (NPC); literally dawn-bearer or gate of dawn"}
 {"key": "porteraient", "word": "porteraient", "translation": "would carry", "note": "conditional: would carry across (not wear)"}
@@ -21775,27 +21775,27 @@
 {"key": "pourra-t-elle", "word": "pourra-t-elle", "translation": "will she be able to", "note": "inversion for emphasis in question form"}
 {"key": "pourrai-je", "word": "pourrai-je", "translation": "will I be able to", "note": "inversion for emphasis in question form"}
 {"key": "poursuivis", "word": "poursuivis", "translation": "pursued", "note": "hunted/chased (caribous in a frenzy)"}
-{"key": "poussaient", "word": "poussaient", "translation": "were growing", "note": "imperfect: putresciales were growing/thriving on dead matter"}
-{"key": "poussait", "word": "poussait", "translation": "pushed", "note": "imperfect: impelled/drove me (reason that drove me)"}
+{"key": "poussaient", "word": "poussaient", "translation": "they were pushing; they were growing", "note": "imperfect: putresciales were growing/thriving on dead matter"}
+{"key": "poussait", "word": "poussait", "translation": "he/she was pushing; it was growing", "note": "imperfect: impelled/drove me (reason that drove me)"}
 {"key": "poussières", "word": "poussières", "translation": "dust", "note": "collect dust particles"}
 {"key": "pozzik", "word": "Pozzik", "translation": "Pozzik", "note": "proper name (NPC): famous explosive-cart pilot"}
 {"key": "poète", "word": "poète", "translation": "poet", "note": "Latin cognate: poète/poet"}
 {"key": "prairies", "word": "prairies", "translation": "meadows", "note": "verdant grasslands or prairies"}
 {"key": "pratiquez", "word": "pratiquez", "translation": "practice", "note": "imperative: practice your art while I meditate"}
-{"key": "premièrement", "word": "Premièrement", "translation": "First of all", "note": "adverb: firstly, to begin with"}
-{"key": "prendrez", "word": "prendrez", "translation": "will take", "note": "future tense of prendre"}
+{"key": "premièrement", "word": "Premièrement", "translation": "first of all", "note": "adverb: firstly, to begin with"}
+{"key": "prendrez", "word": "prendrez", "translation": "you will take", "note": "future tense of prendre"}
 {"key": "prenez-leur", "word": "prenez-leur", "translation": "take from them", "note": "take (their totems) from them"}
 {"key": "presto", "word": "Presto", "translation": "Presto", "note": "proper name (familiar/pet name): Presto IV"}
-{"key": "prierai", "word": "prierai", "translation": "will ask", "note": "prier can mean pray or request; context: will ask you to leave"}
+{"key": "prierai", "word": "prierai", "translation": "I will pray; I will ask", "note": "prier can mean pray or request; context: will ask you to leave"}
 {"key": "primitif", "word": "primitif", "translation": "primitive", "note": "Latin cognate: primitive/rudimentary"}
 {"key": "prinz", "word": "Prinz", "translation": "Prinz", "note": "proper name (NPC)"}
 {"key": "priori", "word": "priori", "translation": "priori", "note": "Latin phrase a priori; seemingly/apparently"}
 {"key": "prisés", "word": "prisés", "translation": "prized", "note": "valued/prized/esteemed (red-feathered birds)"}
 {"key": "probabilité", "word": "probabilité", "translation": "probability", "note": "Latin cognate: probabilité/probability"}
 {"key": "proclamations", "word": "proclamations", "translation": "proclamations", "note": "Latin cognate: official declarations"}
-{"key": "procurera", "word": "procurera", "translation": "will provide", "note": "future: will procure/provide/supply"}
+{"key": "procurera", "word": "procurera", "translation": "he/she will provide", "note": "future: will procure/provide/supply"}
 {"key": "procurez", "word": "procurez", "translation": "procure", "note": "imperative: provide/obtain/secure provisions"}
-{"key": "procurez-moi", "word": "Procurez-moi", "translation": "Get me", "note": "procure for me; get me what I need"}
+{"key": "procurez-moi", "word": "Procurez-moi", "translation": "get me", "note": "procure for me; get me what I need"}
 {"key": "procurés", "word": "procurés", "translation": "procured", "note": "obtained/acquired (entirely legally)"}
 {"key": "procédons", "word": "procédons", "translation": "let's proceed", "note": "subjunctive: let us proceed with the ritual"}
 {"key": "prodigue", "word": "prodigue", "translation": "prodigal", "note": "prodigal; references the biblical prodigal son"}
@@ -21807,7 +21807,7 @@
 {"key": "programmé", "word": "programmé", "translation": "programmed", "note": "animated, set to operate; programmed egg-device"}
 {"key": "progressent", "word": "progressent", "translation": "progress", "note": "advance/progress; negotiations are advancing"}
 {"key": "prolongé", "word": "prolongé", "translation": "prolonged", "note": "Latin cognate: prolonged/extended"}
-{"key": "promenant", "word": "promenant", "translation": "dragging", "note": "carrying/dragging their dead flesh (not strolling)"}
+{"key": "promenant", "word": "promenant", "translation": "strolling; walking", "note": "carrying/dragging their dead flesh (not strolling)"}
 {"key": "promettez", "word": "promettez", "translation": "promise", "note": "imperative: you promise me this"}
 {"key": "promouvoir", "word": "promouvoir", "translation": "promote", "note": "to advance/promote (to council membership)"}
 {"key": "propageraient", "word": "propageraient", "translation": "would spread", "note": "conditional: would propagate/spread demonic corruption"}
@@ -21843,10 +21843,10 @@
 {"key": "prétendus", "word": "prétendus", "translation": "alleged", "note": "purported/supposed/claimed"}
 {"key": "prétorien", "word": "prétorien", "translation": "Praetorian", "note": "Latin cognate: elite guard or Praetorian (fungal trophy)"}
 {"key": "prévenue", "word": "prévenue", "translation": "warned", "note": "notified/informed/warned"}
-{"key": "prévois", "word": "prévois", "translation": "plan", "note": "foresee/anticipate/plan for"}
+{"key": "prévois", "word": "prévois", "translation": "I foresee; I plan", "note": "foresee/anticipate/plan for"}
 {"key": "prêtez-lui", "word": "prêtez-lui", "translation": "lend him", "note": "lend to him/grant to him"}
-{"key": "prêtez-moi", "word": "Prêtez-moi", "translation": "Lend me", "note": "grant/lend to me (your power)"}
-{"key": "prêtez-nous", "word": "Prêtez-nous", "translation": "Lend us", "note": "grant/lend to us (your power)"}
+{"key": "prêtez-moi", "word": "Prêtez-moi", "translation": "lend me", "note": "grant/lend to me (your power)"}
+{"key": "prêtez-nous", "word": "Prêtez-nous", "translation": "lend us", "note": "grant/lend to us (your power)"}
 {"key": "psychotropes", "word": "psychotropes", "translation": "psychotropic", "note": "adjective: affecting the mind or mental state"}
 {"key": "pterreurdaile", "word": "pterreurdaile", "translation": "pterrorwing", "note": "WoW creature name; pter- (wing) + terror + -daile"}
 {"key": "puante", "word": "puante", "translation": "stinky", "note": "foul-smelling/stinking (colloquial: stinky)"}
@@ -21886,7 +21886,7 @@
 {"key": "questionner", "word": "Questionner", "translation": "to question", "note": "infinitive: to interrogate/to ask about"}
 {"key": "queubrioles", "word": "queubrioles", "translation": "queubrioles", "note": "creature name or made-up word; unclear etymology"}
 {"key": "qui-brillent", "word": "qui-brillent", "translation": "that shine", "note": "relative clause: stones that shine; shining stones"}
-{"key": "quittera", "word": "quittera", "translation": "will leave", "note": "future tense: will depart/abandon"}
+{"key": "quittera", "word": "quittera", "translation": "he/she will leave", "note": "future tense: will depart/abandon"}
 {"key": "qu’ainsi", "word": "qu’ainsi", "translation": "that so", "note": ""}
 {"key": "qu’alors", "word": "qu’alors", "translation": "that then", "note": ""}
 {"key": "qu’anduin", "word": "qu’Anduin", "translation": "that Anduin", "note": ""}
@@ -21910,7 +21910,7 @@
 {"key": "radioactif", "word": "radioactif", "translation": "radioactive", "note": "modern scientific term, same in both languages"}
 {"key": "raelas", "word": "Raelas", "translation": "Raelas", "note": ""}
 {"key": "raffinage", "word": "raffinage", "translation": "refining", "note": "from raffiner; the refining process, especially for metals or oil"}
-{"key": "rafle", "word": "Rafle", "translation": "Roundup; Sweep", "note": "a mass sweep or roundup; used as an event or action name in WoW"}
+{"key": "rafle", "word": "Rafle", "translation": "roundup; sweep", "note": "a mass sweep or roundup; used as an event or action name in WoW"}
 {"key": "raflent", "word": "raflent", "translation": "snatch up; grab", "note": "from rafler; they seize or sweep things away quickly"}
 {"key": "rafraîchir", "word": "rafraîchir", "translation": "refresh; cool off", "note": "to make cool or fresh; can also mean to remind (rafraîchir la mémoire)"}
 {"key": "rafraîchissant", "word": "rafraîchissant", "translation": "refreshing", "note": "adjective form; cool and pleasant; thirst-quenching"}
@@ -21920,15 +21920,15 @@
 {"key": "ragoûts", "word": "ragoûts", "translation": "stews", "note": "plural of ragout; hearty meat and vegetable stews"}
 {"key": "raide", "word": "raide", "translation": "stiff; rigid", "note": "means rigid or unbending; raide mort = stark dead; not steep in this context"}
 {"key": "rakjan", "word": "Rakjan", "translation": "Rakjan", "note": ""}
-{"key": "ralentiront", "word": "ralentiront", "translation": "will slow down; will slacken", "note": "future tense of ralentir; to reduce speed"}
+{"key": "ralentiront", "word": "ralentiront", "translation": "they will slow down", "note": "future tense of ralentir; to reduce speed"}
 {"key": "rally", "word": "Rally", "translation": "Rally", "note": ""}
 {"key": "ramassée", "word": "ramassée", "translation": "picked up; gathered", "note": "feminine past participle of ramasser; collected or assembled"}
 {"key": "ramassées", "word": "ramassées", "translation": "picked up; gathered", "note": "feminine plural past participle; items that have been collected"}
-{"key": "rame", "word": "rame", "translation": "oar", "note": "used for rowing boats; rame is a single oar (not rames for plurals in this sense)"}
+{"key": "rame", "word": "rame", "translation": "oar; ream; subway train", "note": "used for rowing boats; rame is a single oar (not rames for plurals in this sense)"}
 {"key": "rameau-de-feu", "word": "Rameau-de-Feu", "translation": "Firebough", "note": "rameau = branch/bough; feu = fire; a fantasy location name"}
 {"key": "rameuté", "word": "rameuté", "translation": "rallied; gathered", "note": "from rameuter; to round up people or forces; not reamed"}
 {"key": "ramifications", "word": "ramifications", "translation": "ramifications", "note": "Latin cognate; branches (literal or metaphorical consequences); plural form"}
-{"key": "rangeront", "word": "rangeront", "translation": "will put away; will store", "note": "future of ranger; to put things in order or storage"}
+{"key": "rangeront", "word": "rangeront", "translation": "they will put away", "note": "future of ranger; to put things in order or storage"}
 {"key": "ranishu", "word": "ranishu", "translation": "ranishu", "note": "untranslated creature or item name; appears to be a Draenei or game-specific term"}
 {"key": "rapporterait", "word": "rapporterait", "translation": "would report; would tell", "note": "conditional tense; would bring back news or information"}
 {"key": "rapportez-lui", "word": "Rapportez-lui", "translation": "Report to him; Tell him", "note": "imperative command; rapporter = to report; lui = to him"}
@@ -21937,7 +21937,7 @@
 {"key": "rasade", "word": "rasade", "translation": "swig; gulp", "note": "a large drink or mouthful; hearty drink of liquor"}
 {"key": "rassurant", "word": "rassurant", "translation": "reassuring; comforting", "note": "adjective from rassurer; calming and confidence-giving"}
 {"key": "rassuré", "word": "rassuré", "translation": "reassured; eased", "note": "past participle; put at ease or calmed"}
-{"key": "ratissage", "word": "Ratissage", "translation": "Raking; Sweep", "note": "event or operation name; raking or sweeping as a military action"}
+{"key": "ratissage", "word": "Ratissage", "translation": "raking; sweep", "note": "event or operation name; raking or sweeping as a military action"}
 {"key": "rattrape", "word": "rattrape", "translation": "catches up with; overtakes", "note": "when war rattrape us = when war catches up with us; pursued and reached"}
 {"key": "ravagera", "word": "ravagera", "translation": "will devastate; will ravage", "note": "future of ravager; to destroy or lay waste completely"}
 {"key": "ravagées", "word": "ravagées", "translation": "ravaged; devastated", "note": "feminine plural past participle; lands or places destroyed"}
@@ -21954,10 +21954,10 @@
 {"key": "recommencent", "word": "recommencent", "translation": "start again; begin anew", "note": "present tense; to commence again or resume"}
 {"key": "recommencé", "word": "recommencé", "translation": "started again; begun anew", "note": "past participle of recommencer; resumed activity"}
 {"key": "reconnaissances", "word": "reconnaissances", "translation": "reconnaissance missions; scouting patrols", "note": "plural; exploratory missions to gather information (not recognitions)"}
-{"key": "reconnaîtrai", "word": "reconnaîtrai", "translation": "will recognize; will acknowledge", "note": "future tense; to know again or identify"}
+{"key": "reconnaîtrai", "word": "reconnaîtrai", "translation": "I will recognize", "note": "future tense; to know again or identify"}
 {"key": "reconstitué", "word": "reconstitué", "translation": "reconstituted", "note": "Latin cognate; reassembled or put back together"}
 {"key": "reconstruisent", "word": "reconstruisent", "translation": "rebuild; are rebuilding", "note": "present tense; to construct again after destruction"}
-{"key": "recontacterai", "word": "recontacterai", "translation": "will contact again; will reach out again", "note": "future tense; to get in touch with someone again"}
+{"key": "recontacterai", "word": "recontacterai", "translation": "I will contact again", "note": "future tense; to get in touch with someone again"}
 {"key": "reconvertir", "word": "reconvertir", "translation": "repurpose; reconvert", "note": "to convert machines or equipment to a different use; to retool"}
 {"key": "recouverts", "word": "recouverts", "translation": "covered; covered over", "note": "past participle masculine plural; to be covered with something"}
 {"key": "recule", "word": "recule", "translation": "backs up; retreats; moves back", "note": "present tense; to move backward or withdraw"}
@@ -21973,11 +21973,11 @@
 {"key": "reforgé", "word": "reforgé", "translation": "reforged", "note": "Latin cognate; forged anew or remade through forging"}
 {"key": "reformé", "word": "reformé", "translation": "reformed; reshaped", "note": "past participle; formed or shaped again"}
 {"key": "refusera", "word": "refusera", "translation": "will refuse; will deny", "note": "future tense; to decline or reject"}
-{"key": "refusez", "word": "Refusez", "translation": "Refuse; Deny", "note": "imperative command form; reject or turn down"}
-{"key": "regardais", "word": "regardais", "translation": "was looking at; looked", "note": "imperfect tense; was in the act of looking or watching"}
+{"key": "refusez", "word": "Refusez", "translation": "refuse; deny", "note": "imperative command form; reject or turn down"}
+{"key": "regardais", "word": "regardais", "translation": "I was looking at", "note": "imperfect tense; was in the act of looking or watching"}
 {"key": "regthar", "word": "Regthar", "translation": "Regthar", "note": ""}
 {"key": "reid", "word": "Reid", "translation": "Reid", "note": ""}
-{"key": "reins", "word": "reins", "translation": "kidneys", "note": "anatomical term; can refer to the organs or loins of meat"}
+{"key": "reins", "word": "reins", "translation": "kidneys; lower back", "note": "anatomical term; can refer to the organs or loins of meat"}
 {"key": "relaxer", "word": "relaxer", "translation": "relax; unwind", "note": "modern French; to make relaxed or tension-free"}
 {"key": "relevez", "word": "relevez", "translation": "raise; lift up", "note": "imperative command of relever; to pick up or raise something"}
 {"key": "relient", "word": "relient", "translation": "connect; link", "note": "present tense; to join together or establish connections"}
@@ -21987,7 +21987,7 @@
 {"key": "remarquée", "word": "remarquée", "translation": "noticed; observed", "note": "feminine past participle; seen or paid attention to"}
 {"key": "remarqués", "word": "remarqués", "translation": "noticed; observed", "note": "masculine plural past participle; not Remarks (wrong form)"}
 {"key": "rembourrage", "word": "rembourrage", "translation": "padding; stuffing", "note": "padding or cushioning material inside garments or furniture"}
-{"key": "remercierai", "word": "remercierai", "translation": "will thank", "note": "future tense; to express gratitude to someone"}
+{"key": "remercierai", "word": "remercierai", "translation": "I will thank", "note": "future tense; to express gratitude to someone"}
 {"key": "remerciez", "word": "remerciez", "translation": "thank", "note": "imperative command; to thank or show gratitude"}
 {"key": "remettons", "word": "remettons", "translation": "let's put back; let's set again", "note": "hortative imperative; let us place or restore"}
 {"key": "remontera", "word": "remontera", "translation": "will go up; will lift; will boost", "note": "future tense; to rise, ascend, or raise morale"}
@@ -22002,7 +22002,7 @@
 {"key": "renfermant", "word": "renfermant", "translation": "containing; enclosing", "note": "present participle; holding within or keeping inside"}
 {"key": "renn", "word": "Renn", "translation": "Renn", "note": ""}
 {"key": "renommés", "word": "renommés", "translation": "renowned; famous", "note": "masculine plural adjective; well-known and celebrated"}
-{"key": "rentrerai", "word": "rentrerai", "translation": "will return; will go back home", "note": "future tense; to return to one's home or base"}
+{"key": "rentrerai", "word": "rentrerai", "translation": "I will return", "note": "future tense; to return to one's home or base"}
 {"key": "renvoyées", "word": "renvoyées", "translation": "sent back; returned", "note": "feminine plural past participle; dispatched or dismissed"}
 {"key": "renâcle", "word": "renâcle", "translation": "balks at; shows reluctance to", "note": "present tense; to resist, shy away, or hesitate"}
 {"key": "rep", "word": "Rep", "translation": "Rep", "note": "appears to be English text in a French entry; untranslated element"}
@@ -22031,7 +22031,7 @@
 {"key": "restalaan", "word": "Restalaan", "translation": "Restalaan", "note": ""}
 {"key": "restiez", "word": "restiez", "translation": "would stay; stay; would remain", "note": "conditional or imperfect; to remain or persist in a place"}
 {"key": "restitution", "word": "restitution", "translation": "restitution", "note": "Latin cognate; restoration of something taken or lost; repayment"}
-{"key": "retenez", "word": "Retenez", "translation": "Remember; Retain", "note": "imperative command; to hold in mind or keep in memory"}
+{"key": "retenez", "word": "Retenez", "translation": "remember; retain", "note": "imperative command; to hold in mind or keep in memory"}
 {"key": "retenues", "word": "retenues", "translation": "deductions; withholdings", "note": "feminine plural noun; amounts held back from a total"}
 {"key": "rethelshi", "word": "Rethelshi", "translation": "Rethelshi", "note": ""}
 {"key": "rethor", "word": "Rethor", "translation": "Rethor", "note": ""}
@@ -22093,10 +22093,10 @@
 {"key": "ryton", "word": "Ryton", "translation": "Ryton", "note": "proper name"}
 {"key": "râble", "word": "râble", "translation": "back", "note": "idiom 'tomber sur le râble' means to harass or attack someone"}
 {"key": "réalisez", "word": "réalisez", "translation": "realize", "note": "understand or accomplish"}
-{"key": "réapprovisionnement", "word": "Réapprovisionnement", "translation": "Replenishment", "note": "resupply"}
+{"key": "réapprovisionnement", "word": "Réapprovisionnement", "translation": "replenishment", "note": "resupply"}
 {"key": "récalcitrants", "word": "récalcitrants", "translation": "recalcitrants", "note": "plural; stubborn or resistant ones"}
 {"key": "récipients", "word": "récipients", "translation": "containers", "note": "plural of récipient"}
-{"key": "récoltais", "word": "récoltais", "translation": "was harvesting", "note": "past imperfect tense"}
+{"key": "récoltais", "word": "récoltais", "translation": "I was harvesting", "note": "past imperfect tense"}
 {"key": "récoltiez", "word": "récoltiez", "translation": "were harvesting", "note": "plural past imperfect"}
 {"key": "réconfortant", "word": "réconfortant", "translation": "comforting", "note": "soothing or reassuring"}
 {"key": "réconforter", "word": "réconforter", "translation": "comfort", "note": "to console"}
@@ -22170,7 +22170,7 @@
 {"key": "saumâtre", "word": "saumâtre", "translation": "brackish", "note": "slightly salty (water)"}
 {"key": "saurides", "word": "saurides", "translation": "saurids", "note": "creature type plural; lizard-like beings"}
 {"key": "sauvant", "word": "sauvant", "translation": "saving", "note": "present participle of sauver"}
-{"key": "sauverons", "word": "sauverons", "translation": "will save", "note": "first person plural future"}
+{"key": "sauverons", "word": "sauverons", "translation": "we will save", "note": "first person plural future"}
 {"key": "sauvez-en", "word": "sauvez-en", "translation": "save some", "note": "imperative + partitive pronoun"}
 {"key": "sauviez", "word": "sauviez", "translation": "were saving", "note": "past imperfect"}
 {"key": "savon", "word": "savon", "translation": "soap", "note": "cleaning agent"}
@@ -22181,7 +22181,7 @@
 {"key": "scorpashi", "word": "scorpashi", "translation": "scorpashi", "note": "poison or creature type in WoW"}
 {"key": "scrupules", "word": "scrupules", "translation": "scruples", "note": "plural; moral doubts or hesitations"}
 {"key": "scélérat", "word": "scélérat", "translation": "scoundrel", "note": "wicked person; wickedness itself"}
-{"key": "secourez-les", "word": "Secourez-les", "translation": "Rescue them", "note": "imperative + pronoun"}
+{"key": "secourez-les", "word": "Secourez-les", "translation": "rescue them", "note": "imperative + pronoun"}
 {"key": "secs", "word": "secs", "translation": "dry", "note": "not wet or damp"}
 {"key": "sectes", "word": "sectes", "translation": "sects", "note": "plural of secte; groups or cults"}
 {"key": "seigneur-dragon", "word": "Seigneur-dragon", "translation": "Dragonlord", "note": "compound: seigneur (lord) + dragon"}
@@ -22191,7 +22191,7 @@
 {"key": "sensiblement", "word": "sensiblement", "translation": "noticeably", "note": "perceptibly or considerably"}
 {"key": "sentait", "word": "sentait", "translation": "felt", "note": "past imperfect; sensed or experienced"}
 {"key": "sente", "word": "sente", "translation": "path", "note": "part of location name 'La Sente Épouvanthe'"}
-{"key": "sentiront", "word": "sentiront", "translation": "will feel", "note": "future tense"}
+{"key": "sentiront", "word": "sentiront", "translation": "they will feel", "note": "future tense"}
 {"key": "sentons", "word": "sentons", "translation": "let's feel", "note": "first person plural hortative"}
 {"key": "serait-elle", "word": "serait-elle", "translation": "would she be", "note": "conditional form"}
 {"key": "sereins", "word": "sereins", "translation": "serene", "note": "peaceful or calm; proper noun in spa name"}
@@ -22292,7 +22292,7 @@
 {"key": "spectraux", "word": "spectraux", "translation": "spectral", "note": "adjective: relating to specters or ghostly (masculine plural)"}
 {"key": "spirituels", "word": "spirituels", "translation": "spiritual", "note": "adjective: relating to spirit or soul (masculine plural)"}
 {"key": "spraggle", "word": "Spraggle", "translation": "Spraggle", "note": ""}
-{"key": "spéléologie", "word": "Spéléologie", "translation": "Speleology", "note": "science of cave exploration and study; also called potholing (the sport)"}
+{"key": "spéléologie", "word": "Spéléologie", "translation": "speleology", "note": "science of cave exploration and study; also called potholing (the sport)"}
 {"key": "squammandant", "word": "squammandant", "translation": "Squammandant", "note": "Dracthyr military title; left as proper noun"}
 {"key": "sri-la", "word": "Sri-La", "translation": "Sri-La", "note": ""}
 {"key": "sseratus", "word": "Sseratus", "translation": "Sseratus", "note": ""}
@@ -22314,7 +22314,7 @@
 {"key": "stupéfiant", "word": "stupéfiant", "translation": "stunning", "note": "adjective: astonishing or amazing"}
 {"key": "stériles", "word": "stériles", "translation": "sterile", "note": "adjective: barren or lifeless (plural)"}
 {"key": "subies", "word": "subies", "translation": "suffered", "note": "past participle: endured or underwent (feminine plural)"}
-{"key": "subirez", "word": "subirez", "translation": "will undergo", "note": "2nd plural future: you will endure or submit to"}
+{"key": "subirez", "word": "subirez", "translation": "you will undergo", "note": "2nd plural future: you will endure or submit to"}
 {"key": "sublimé", "word": "sublimé", "translation": "sublimated", "note": "past participle: refined or elevated; in chemistry, changed directly from solid to gas"}
 {"key": "submergeront", "word": "submergeront", "translation": "will submerge", "note": "3rd plural future: will flood or overwhelm"}
 {"key": "subodore", "word": "subodore", "translation": "suspect", "note": "1st singular: I suspect or sense"}
@@ -22343,10 +22343,10 @@
 {"key": "surpopulation", "word": "surpopulation", "translation": "overpopulation", "note": "noun: too many individuals in a space"}
 {"key": "surprendra", "word": "surprendra", "translation": "will surprise", "note": "3rd singular future: will astonish or catch unaware"}
 {"key": "surpuissante", "word": "surpuissante", "translation": "overpowering", "note": "adjective: overwhelmingly strong (feminine)"}
-{"key": "surveillez", "word": "Surveillez", "translation": "Monitor", "note": "imperative: watch over or keep under observation"}
+{"key": "surveillez", "word": "Surveillez", "translation": "monitor", "note": "imperative: watch over or keep under observation"}
 {"key": "survivantes", "word": "survivantes", "translation": "survivors", "note": "noun feminine plural: those who survive"}
-{"key": "survivons", "word": "survivons", "translation": "survive", "note": "1st plural: we survive or will survive"}
-{"key": "survivrai", "word": "survivrai", "translation": "will survive", "note": "1st singular future: I will remain alive"}
+{"key": "survivons", "word": "survivons", "translation": "we survive; let us survive", "note": "1st plural: we survive or will survive"}
+{"key": "survivrai", "word": "survivrai", "translation": "I will survive", "note": "1st singular future: I will remain alive"}
 {"key": "survolons", "word": "survolons", "translation": "fly over", "note": "1st plural: we fly across or above"}
 {"key": "suscité", "word": "suscité", "translation": "caused", "note": "past participle: provoked or brought about"}
 {"key": "suture", "word": "suture", "translation": "suture", "note": "medical term: same in French and English (Latin origin)"}
@@ -22441,7 +22441,7 @@
 {"key": "tenaille", "word": "tenaille", "translation": "pincers", "note": "pincers or claw-like grip; military: pincer movement (tenaille)"}
 {"key": "tendres", "word": "tendres", "translation": "tender", "note": "plural adjective: soft/tender; also can mean loving/affectionate"}
 {"key": "tengo", "word": "tengo", "translation": "tengo", "note": "Spanish word: I have; appears in Spanish context"}
-{"key": "tenions", "word": "tenions", "translation": "were trying", "note": "variant/dialectal of tentions; from tenter (to try/attempt)"}
+{"key": "tenions", "word": "tenions", "translation": "we were holding", "note": "variant/dialectal of tentions; from tenter (to try/attempt)"}
 {"key": "tenteraient", "word": "tenteraient", "translation": "would try", "note": "conditional plural: would attempt; from tenter (to try)"}
 {"key": "tentions", "word": "tentions", "translation": "were trying", "note": "imperfect plural: were attempting; from tenter (to try/attempt)"}
 {"key": "terminal", "word": "terminal", "translation": "terminal", "note": "Latin cognate: terminalis (relating to end/boundary)"}
@@ -22488,7 +22488,7 @@
 {"key": "toldrek", "word": "Toldrek", "translation": "Toldrek", "note": ""}
 {"key": "tolère", "word": "tolère", "translation": "tolerate", "note": "third person singular: tolerates; from tolerer (to tolerate)"}
 {"key": "tolérable", "word": "tolérable", "translation": "tolerable", "note": "adjective: tolerable/bearable; from tolerer"}
-{"key": "tolérerons", "word": "tolérerons", "translation": "will tolerate", "note": "future first plural: will tolerate; from tolerer"}
+{"key": "tolérerons", "word": "tolérerons", "translation": "we will tolerate", "note": "future first plural: will tolerate; from tolerer"}
 {"key": "tombale", "word": "tombale", "translation": "grave", "note": "adjective: relating to a tomb/grave; from tombe (tomb)"}
 {"key": "tombe-hache", "word": "Tombe-Hache", "translation": "Tomb-Axe", "note": "compound name: tombe (falls/tomb) + hache (axe); place/character name"}
 {"key": "tombons", "word": "tombons", "translation": "let's fall", "note": "first plural: let us fall; from tomber (to fall)"}
@@ -22517,7 +22517,7 @@
 {"key": "vélins", "word": "vélins", "translation": "vellums", "note": "parchment used for writing; crafting material in WoW"}
 {"key": "vérification", "word": "vérification", "translation": "verification", "note": "verification, check"}
 {"key": "vérifie", "word": "vérifie", "translation": "check", "note": "verifies, checks"}
-{"key": "vérifions", "word": "Vérifions", "translation": "Let's check", "note": "let's check; imperative plural"}
+{"key": "vérifions", "word": "Vérifions", "translation": "let's check", "note": "let's check; imperative plural"}
 {"key": "vérifiée", "word": "vérifiée", "translation": "verified", "note": "verified; feminine singular past participle"}
 {"key": "wahl", "word": "Wahl", "translation": "Wahl", "note": ""}
 {"key": "waouh", "word": "Waouh", "translation": "Wow", "note": "exclamation (wow); matches French excitement"}
@@ -22562,7 +22562,7 @@
 {"key": "zul'mamwe", "word": "Zul'Mamwe", "translation": "Zul'Mamwe", "note": ""}
 {"key": "zulmork", "word": "Zulmork", "translation": "Zulmork", "note": ""}
 {"key": "zul’jin", "word": "Zul’jin", "translation": "Zul’jin", "note": ""}
-{"key": "zut", "word": "Zut", "translation": "Damn", "note": "mild exclamation (darn/damn)"}
+{"key": "zut", "word": "Zut", "translation": "damn", "note": "mild exclamation (darn/damn)"}
 {"key": "zygand", "word": "Zygand", "translation": "Zygand", "note": ""}
 {"key": "zz", "word": "ZZ", "translation": "ZZ", "note": "robot designation"}
 {"key": "zélés", "word": "zélés", "translation": "zealous", "note": "zealous; from 'zèle' (zeal)"}
@@ -22577,7 +22577,7 @@
 {"key": "échelons", "word": "échelons", "translation": "rungs", "note": "rungs of a hierarchy or ladder"}
 {"key": "échelon", "word": "Échelon", "translation": "Echelon", "note": "rank, tier; used as military/administrative rank"}
 {"key": "écheveaux", "word": "Écheveaux", "translation": "Skeins", "note": "skeins; strands of yarn or rope"}
-{"key": "échine", "word": "Échine", "translation": "Spine", "note": "spine, backbone"}
+{"key": "échine", "word": "Échine", "translation": "spine", "note": "spine, backbone"}
 {"key": "échoppe", "word": "échoppe", "translation": "stall", "note": "small shop or market stall"}
 {"key": "échouées", "word": "échouées", "translation": "stranded", "note": "stranded, beached"}
 {"key": "éclairera", "word": "éclairera", "translation": "will illuminate", "note": "will illuminate; future tense"}
@@ -22587,9 +22587,9 @@
 {"key": "économie", "word": "économie", "translation": "economy", "note": "economy, system"}
 {"key": "écornifleurs", "word": "écornifleurs", "translation": "dehorners", "note": "dehorners; creatures that remove horns"}
 {"key": "écosystème", "word": "écosystème", "translation": "ecosystem", "note": "ecosystem; biological system"}
-{"key": "écoutons", "word": "Écoutons", "translation": "Let's listen", "note": "let's listen; imperative plural"}
+{"key": "écoutons", "word": "Écoutons", "translation": "let's listen", "note": "let's listen; imperative plural"}
 {"key": "écrasez-les", "word": "écrasez-les", "translation": "crush them", "note": "crush them; imperative"}
-{"key": "écrasons", "word": "Écrasons", "translation": "Let's crush", "note": "let's crush; imperative plural"}
+{"key": "écrasons", "word": "Écrasons", "translation": "let's crush", "note": "let's crush; imperative plural"}
 {"key": "écumant", "word": "écumant", "translation": "foaming", "note": "foaming; describing turbulent or frothing water"}
 {"key": "écusson", "word": "écusson", "translation": "crest", "note": "crest, coat of arms; heraldic badge"}
 {"key": "éduquer", "word": "éduquer", "translation": "educate", "note": "to educate, teach"}
@@ -22638,9 +22638,9 @@
 {"key": "évocatrice", "word": "évocatrice", "translation": "evocative", "note": "evocative; stirring memories or emotions"}
 {"key": "œuvré", "word": "œuvré", "translation": "worked", "note": "worked; past participle of œuvrer"}
 {"key": "aalun", "word": "Aalun", "translation": "Aalun", "note": ""}
-{"key": "abandon", "word": "Abandon", "translation": "Abandonment", "note": "abandonment; as quest/item name"}
+{"key": "abandon", "word": "Abandon", "translation": "abandon; abandonment", "note": "abandonment; as quest/item name"}
 {"key": "abatha", "word": "Abatha", "translation": "Abatha", "note": ""}
-{"key": "abattrez", "word": "abattrez", "translation": "knock down", "note": "knock down, fell; will kill"}
+{"key": "abattrez", "word": "abattrez", "translation": "you will knock down", "note": "knock down, fell; will kill"}
 {"key": "aboie", "word": "aboie", "translation": "barks", "note": "barks; speaks loudly (from abois, barking)"}
 {"key": "abordables", "word": "abordables", "translation": "affordable", "note": "affordable, accessible; reasonably priced"}
 {"key": "aborde", "word": "aborde", "translation": "addresses", "note": "addresses, discusses; brings up"}
@@ -22654,14 +22654,14 @@
 {"key": "abyssales", "word": "abyssales", "translation": "abyssal", "note": "abyssal; relating to the abyss"}
 {"key": "accablant", "word": "accablant", "translation": "overwhelming", "note": "overwhelming ruin; from accabler (to overwhelm)"}
 {"key": "accable", "word": "accable", "translation": "overwhelm", "note": ""}
-{"key": "accepterez", "word": "accepterez", "translation": "will accept", "note": "future tense"}
+{"key": "accepterez", "word": "accepterez", "translation": "you will accept", "note": "future tense"}
 {"key": "accessoire", "word": "accessoire", "translation": "accessory", "note": ""}
 {"key": "accessoires", "word": "accessoires", "translation": "accessories", "note": ""}
 {"key": "accidentel", "word": "accidentel", "translation": "accidental", "note": ""}
 {"key": "accompagnait", "word": "accompagnait", "translation": "accompanied", "note": "imparfait: was accompanying"}
-{"key": "accompagneront", "word": "accompagneront", "translation": "will accompany", "note": "future tense"}
+{"key": "accompagneront", "word": "accompagneront", "translation": "they will accompany", "note": "future tense"}
 {"key": "accompagniez", "word": "accompagniez", "translation": "were accompanying", "note": "imparfait"}
-{"key": "accomplira", "word": "accomplira", "translation": "will accomplish", "note": "future tense"}
+{"key": "accomplira", "word": "accomplira", "translation": "he/she will accomplish", "note": "future tense"}
 {"key": "accomplissait", "word": "accomplissait", "translation": "was accomplishing", "note": "imparfait"}
 {"key": "accomplit", "word": "accomplit", "translation": "accomplishes", "note": "performs a ritual"}
 {"key": "accorderait", "word": "accorderait", "translation": "would grant", "note": "conditional tense"}
@@ -22671,7 +22671,7 @@
 {"key": "accourent", "word": "accourent", "translation": "rush", "note": "from accourir (to rush/hasten)"}
 {"key": "accro", "word": "accro", "translation": "addicted", "note": "colloquial; also noun: addict"}
 {"key": "accrochée", "word": "accrochée", "translation": "hooked", "note": "attached; hung"}
-{"key": "accueillerai", "word": "accueillerai", "translation": "will welcome", "note": "future tense"}
+{"key": "accueillerai", "word": "accueillerai", "translation": "I will welcome", "note": "future tense"}
 {"key": "acculée", "word": "acculée", "translation": "cornered", "note": "trapped; at bay"}
 {"key": "accuser", "word": "accuser", "translation": "accuse", "note": ""}
 {"key": "accélérée", "word": "accélérée", "translation": "accelerated", "note": "game ability name"}
@@ -22683,7 +22683,7 @@
 {"key": "achèvent", "word": "achèvent", "translation": "finish", "note": "complete; finish off"}
 {"key": "acquisitions", "word": "acquisitions", "translation": "acquisitions", "note": "loot; gained items"}
 {"key": "acropole", "word": "acropole", "translation": "acropolis", "note": "elevated citadel"}
-{"key": "actionnez", "word": "Actionnez", "translation": "Operate", "note": "activate; engage"}
+{"key": "actionnez", "word": "Actionnez", "translation": "operate", "note": "activate; engage"}
 {"key": "activation", "word": "Activation", "translation": "Activation", "note": "game event name"}
 {"key": "activera", "word": "activera", "translation": "will activate", "note": "future"}
 {"key": "activez-la", "word": "activez-la", "translation": "activate it", "note": "imperative + feminine pronoun"}
@@ -22694,7 +22694,7 @@
 {"key": "admirateur", "word": "admirateur", "translation": "admirer", "note": "one who admires"}
 {"key": "admirateurs", "word": "admirateurs", "translation": "admirers", "note": "admirers"}
 {"key": "admiration", "word": "admiration", "translation": "admiration", "note": "regard; esteem"}
-{"key": "admirez-moi", "word": "Admirez-moi", "translation": "Admire me", "note": "command"}
+{"key": "admirez-moi", "word": "Admirez-moi", "translation": "admire me", "note": "command"}
 {"key": "admission", "word": "admission", "translation": "admission", "note": "entry; acceptance"}
 {"key": "adoption", "word": "adoption", "translation": "adoption", "note": "taking up; choosing"}
 {"key": "adorait", "word": "adorait", "translation": "loved", "note": "adored; cherished"}
@@ -22713,14 +22713,14 @@
 {"key": "affectent", "word": "affectent", "translation": "affect", "note": "influence; touch"}
 {"key": "afficher", "word": "afficher", "translation": "display", "note": "show; exhibit"}
 {"key": "affiliés", "word": "affiliés", "translation": "affiliates", "note": "associates; members"}
-{"key": "affiné", "word": "Affiné", "translation": "Refined", "note": "polished; honed"}
+{"key": "affiné", "word": "Affiné", "translation": "refined", "note": "polished; honed"}
 {"key": "affirmant", "word": "affirmant", "translation": "claiming", "note": "asserting; affirming"}
 {"key": "affleurement", "word": "affleurement", "translation": "outcrop", "note": "geological exposure"}
 {"key": "affixes", "word": "Affixes", "translation": "Affixes", "note": "game modifier term"}
 {"key": "affleurements", "word": "affleurements", "translation": "outcrops", "note": "exposed formations"}
 {"key": "affligent", "word": "affligent", "translation": "afflict", "note": "trouble; distress"}
-{"key": "affrontez-le", "word": "Affrontez-le", "translation": "Face it", "note": "confront"}
-{"key": "affrontez-moi", "word": "Affrontez-moi", "translation": "Face me", "note": "meet in battle"}
+{"key": "affrontez-le", "word": "Affrontez-le", "translation": "face it", "note": "confront"}
+{"key": "affrontez-moi", "word": "Affrontez-moi", "translation": "face me", "note": "meet in battle"}
 {"key": "affrontions", "word": "affrontions", "translation": "confronted", "note": "imparfait: we faced"}
 {"key": "affrété", "word": "affrété", "translation": "chartered", "note": "hired; rented"}
 {"key": "affûté", "word": "affûté", "translation": "sharpened", "note": "honed; keen"}
@@ -22778,7 +22778,7 @@
 {"key": "allègrement", "word": "allègrement", "translation": "cheerfully", "note": "merrily; happily"}
 {"key": "alléchante", "word": "alléchante", "translation": "tempting", "note": "alluring; enticing"}
 {"key": "alodi", "word": "Alodi", "translation": "Alodi", "note": "NPC name"}
-{"key": "alpaga", "word": "Alpaga", "translation": "Alpaca", "note": "animal species"}
+{"key": "alpaga", "word": "Alpaga", "translation": "alpaca", "note": "animal species"}
 {"key": "alter", "word": "alter", "translation": "alter", "note": "alternate self"}
 {"key": "alterac", "word": "Alterac", "translation": "Alterac", "note": "kingdom name"}
 {"key": "altercation", "word": "altercation", "translation": "altercation", "note": "quarrel; dispute"}
@@ -22794,7 +22794,7 @@
 {"key": "ambréclats", "word": "ambréclats", "translation": "amber flashes", "note": "item name"}
 {"key": "ambrée", "word": "ambrée", "translation": "amber", "note": "amber-colored"}
 {"key": "ambulantes", "word": "ambulantes", "translation": "itinerant", "note": "wandering; traveling"}
-{"key": "amenez-les", "word": "Amenez-les", "translation": "Bring them", "note": "command"}
+{"key": "amenez-les", "word": "Amenez-les", "translation": "bring them", "note": "command"}
 {"key": "amenons", "word": "amenons", "translation": "let us bring", "note": "exhortation"}
 {"key": "amiraux", "word": "amiraux", "translation": "admirals", "note": "commanders"}
 {"key": "amoindrie", "word": "amoindrie", "translation": "diminished", "note": "reduced; lessened"}
@@ -24324,12 +24324,12 @@
 {"key": "traduise", "word": "traduise", "translation": "translate", "note": "subjunctive of traduire; to translate or interpret sacred text"}
 {"key": "trahie", "word": "trahie", "translation": "betrayed", "note": "past participle feminine of trahir; stabbed in the back"}
 {"key": "trahisons", "word": "trahisons", "translation": "betrayals", "note": "plural noun; acts of betrayal; traitorous acts"}
-{"key": "traitez-les", "word": "Traitez-les", "translation": "Treat them", "note": "imperative form; handle or treat the subject"}
+{"key": "traitez-les", "word": "Traitez-les", "translation": "treat them", "note": "imperative form; handle or treat the subject"}
 {"key": "trajets", "word": "trajets", "translation": "journeys", "note": "paths or courses of travel; flight routes in context"}
 {"key": "trame-sort", "word": "trame-sort", "translation": "spell weave", "note": "trame (weave/warp) + sort (spell); magical artifact used for enchantment"}
 {"key": "tranchecrins", "word": "Tranchecrins", "translation": "Razorhairs", "note": "tribe name; tranche (slash/cut) + crins (hair); WoW tribe"}
 {"key": "tranchefélon", "word": "Tranchefélon", "translation": "Trenchfelon", "note": "proper name; orcish commander"}
-{"key": "trancheur", "word": "Trancheur", "translation": "Slicer", "note": "one who cuts; proper name NPC"}
+{"key": "trancheur", "word": "Trancheur", "translation": "slicer", "note": "one who cuts; proper name NPC"}
 {"key": "transcrire", "word": "transcrire", "translation": "transcribe", "note": "to write out text; to copy word by word"}
 {"key": "transit", "word": "Transit", "translation": "Transit", "note": "proper name; location or quest name"}
 {"key": "transmettant", "word": "transmettant", "translation": "transmitting", "note": "present participle of transmettre; passing on"}
@@ -24338,11 +24338,11 @@
 {"key": "transporteurs", "word": "transporteurs", "translation": "carriers", "note": "those who carry or transport goods; plural"}
 {"key": "trappe", "word": "trappe", "translation": "hatch", "note": "concealed opening; trap door"}
 {"key": "traqueuses", "word": "traqueuses", "translation": "trackers", "note": "feminine plural; those who track or hunt; female hunters"}
-{"key": "traquez-le", "word": "Traquez-le", "translation": "Track him down", "note": "imperative; to pursue or hunt; find and confront"}
+{"key": "traquez-le", "word": "Traquez-le", "translation": "track him down", "note": "imperative; to pursue or hunt; find and confront"}
 {"key": "travailleuses", "word": "travailleuses", "translation": "workers", "note": "feminine plural; female workers or laborers"}
 {"key": "traversiez", "word": "traversiez", "translation": "crossed", "note": "imperfect past tense of traverser; were crossing"}
 {"key": "traînait", "word": "traînait", "translation": "was hanging around", "note": "imperfect of traîner; was hanging around or dragging"}
-{"key": "tremblez", "word": "Tremblez", "translation": "Tremble", "note": "imperative of trembler; an exclamation or warning"}
+{"key": "tremblez", "word": "Tremblez", "translation": "tremble", "note": "imperative of trembler; an exclamation or warning"}
 {"key": "trente-six", "word": "trente-six", "translation": "thirty-six", "note": "number; idiomatic: il n'y a pas trente-six solutions (few options)"}
 {"key": "trianguler", "word": "trianguler", "translation": "triangulate", "note": "to locate by triangulation; technical term"}
 {"key": "tribale", "word": "tribale", "translation": "tribal", "note": "relating to a tribe or tribal warfare"}
@@ -24356,13 +24356,13 @@
 {"key": "troquer", "word": "troquer", "translation": "barter", "note": "to exchange or swap; to trade one thing for another"}
 {"key": "trotte-brise", "word": "trotte-brise", "translation": "breeze-scooter", "note": "trotte (scooter/ride) + brise (breeze); compound proper name"}
 {"key": "trotteur", "word": "trotteur", "translation": "trotter", "note": "a horse that trots; or one who trots; equestrian term"}
-{"key": "trotteuse", "word": "Trotteuse", "translation": "Second hand", "note": "proper name; literally second hand (clock) or one who runs"}
+{"key": "trotteuse", "word": "Trotteuse", "translation": "second hand (clock); trotter", "note": "proper name; literally second hand (clock) or one who runs"}
 {"key": "trouble-fête", "word": "trouble-fête", "translation": "spoilsport", "note": "trouble (nuisance) + fête (party); one who spoils fun"}
 {"key": "troubloeil", "word": "Troubloeil", "translation": "Troubleeye", "note": "proper name; trouble + oeil (eye)"}
 {"key": "trouer", "word": "trouer", "translation": "bore; pierce", "note": "to make a hole in; verb form"}
 {"key": "trouillards", "word": "trouillards", "translation": "cowards", "note": "slang for cowards; derogatory insulting term"}
-{"key": "trouvais", "word": "trouvais", "translation": "found", "note": "imperfect tense of trouver; was finding or had found"}
-{"key": "trouverais", "word": "trouverais", "translation": "would find", "note": "conditional tense of trouver; would find or could find"}
+{"key": "trouvais", "word": "trouvais", "translation": "I found; I was finding", "note": "imperfect tense of trouver; was finding or had found"}
+{"key": "trouverais", "word": "trouverais", "translation": "I/you would find", "note": "conditional tense of trouver; would find or could find"}
 {"key": "trouveuse", "word": "trouveuse", "translation": "finder", "note": "feminine noun; one who finds or discovers"}
 {"key": "trouvez-nous", "word": "trouvez-nous", "translation": "find us", "note": "imperative form; address to the player"}
 {"key": "truffe", "word": "truffe", "translation": "truffle", "note": "rare fungus or chocolate confection; magical item in context"}
@@ -24387,11 +24387,11 @@
 {"key": "ukorz", "word": "Ukorz", "translation": "Ukorz", "note": "proper name"}
 {"key": "ultimes", "word": "ultimes", "translation": "ultimate", "note": "plural adjective; last or supreme; final preparations"}
 {"key": "union", "word": "Union", "translation": "Union", "note": "proper name; quest or event name"}
-{"key": "urne", "word": "Urne", "translation": "Urn", "note": "container for ashes or decorative vessel; funeral urn"}
+{"key": "urne", "word": "Urne", "translation": "urn", "note": "container for ashes or decorative vessel; funeral urn"}
 {"key": "utilisations", "word": "utilisations", "translation": "uses", "note": "plural noun; applications or purposes; medical uses"}
 {"key": "va-t-il", "word": "va-t-il", "translation": "will he", "note": "interrogative future tense; is he going to; what will happen"}
 {"key": "vaccin", "word": "vaccin", "translation": "vaccine", "note": "immunization preparation; protection against plague"}
-{"key": "vainquez-le", "word": "Vainquez-le", "translation": "Defeat him", "note": "imperative of vaincre; defeat or overcome him"}
+{"key": "vainquez-le", "word": "Vainquez-le", "translation": "defeat him", "note": "imperative of vaincre; defeat or overcome him"}
 {"key": "val'zareq", "word": "Val'zareq", "translation": "Val'zareq", "note": ""}
 {"key": "valeureuses", "word": "valeureuses", "translation": "valiant", "note": "brave or courageous; feminine plural adjective"}
 {"key": "valis", "word": "Valis", "translation": "Valis", "note": "proper name"}
@@ -24451,7 +24451,7 @@
 {"key": "voilées", "word": "voilées", "translation": "veiled", "note": "covered or hidden; past participle of voiler"}
 {"key": "vol'jin", "word": "Vol'jin", "translation": "Vol'jin", "note": "proper name; WoW character name"}
 {"key": "volcanoth", "word": "Volcanoth", "translation": "Volcanoth", "note": "proper name; deity or creature name"}
-{"key": "volez-leur", "word": "Volez-leur", "translation": "Steal from them", "note": "imperative; to rob or thieve; steal their feathers"}
+{"key": "volez-leur", "word": "Volez-leur", "translation": "steal from them", "note": "imperative; to rob or thieve; steal their feathers"}
 {"key": "crasseuse", "word": "crasseuse", "translation": "filthy", "note": "feminine form of crasseux; filthy or foul"}
 {"key": "crassouille", "word": "Crassouille", "translation": "Crassouille", "note": "npc name; silkwing larva"}
 {"key": "creuseplaie", "word": "Creuseplaie", "translation": "Digwound", "note": "creature name; means dig-wound"}
@@ -59828,7 +59828,7 @@
 {"key": "œil-mort", "word": "Œil-mort", "translation": "Deadeye", "note": "compound proper name: oeil (eye) + mort (dead)"}
 {"key": "abats", "word": "abats", "translation": "offal", "note": "organ meats/innards; from game creatures"}
 {"key": "absalan", "word": "Absalan", "translation": "Absalan", "note": ""}
-{"key": "accomplirez", "word": "accomplirez", "translation": "will accomplish", "note": "future tense second person plural"}
+{"key": "accomplirez", "word": "accomplirez", "translation": "you will accomplish", "note": "future tense second person plural"}
 {"key": "achetez-lui", "word": "achetez-lui", "translation": "buy him", "note": "imperative with indirect object pronoun"}
 {"key": "acquittés", "word": "acquittés", "translation": "paid", "note": "acquitter = to pay/settle; not acquitted (court); past participle"}
 {"key": "adamant", "word": "Adamant", "translation": "Adamant", "note": ""}
@@ -60112,12 +60112,12 @@
 {"key": "l’ambregraine", "word": "l’ambregraine", "translation": "ambregrain", "note": ""}
 {"key": "l’truc", "word": "l’truc", "translation": "the thing", "note": ""}
 {"key": "l’épouvante", "word": "l’épouvante", "translation": "the terror", "note": ""}
-{"key": "m'abuse", "word": "m'abuse", "translation": "mislead", "note": "false friend"}
-{"key": "m'apporte", "word": "m'apporte", "translation": "brings", "note": "present"}
-{"key": "m'apporterez", "word": "m'apporterez", "translation": "will bring", "note": "future"}
-{"key": "m'attend", "word": "m'attend", "translation": "is waiting", "note": "present"}
-{"key": "m'honorez", "word": "m'honorez", "translation": "honor", "note": "present"}
-{"key": "m'indiquent", "word": "m'indiquent", "translation": "tell", "note": "they tell"}
+{"key": "m'abuse", "word": "m'abuse", "translation": "misleads me; deceives me", "note": "false friend"}
+{"key": "m'apporte", "word": "m'apporte", "translation": "brings me", "note": "present"}
+{"key": "m'apporterez", "word": "m'apporterez", "translation": "you will bring me", "note": "future"}
+{"key": "m'attend", "word": "m'attend", "translation": "is waiting for me", "note": "present"}
+{"key": "m'honorez", "word": "m'honorez", "translation": "you honor me", "note": "present"}
+{"key": "m'indiquent", "word": "m'indiquent", "translation": "tell me", "note": "they tell"}
 {"key": "mac", "word": "Mac", "translation": "Mac", "note": ""}
 {"key": "mackreel", "word": "MacKreel", "translation": "MacKreel", "note": ""}
 {"key": "magar", "word": "Magar", "translation": "Magar", "note": ""}
@@ -60134,7 +60134,7 @@
 {"key": "mekeda", "word": "Mekeda", "translation": "Mekeda", "note": ""}
 {"key": "mehlisah", "word": "Mehlisah", "translation": "Mehlisah", "note": ""}
 {"key": "melyria", "word": "Melyria", "translation": "Melyria", "note": ""}
-{"key": "mentirai", "word": "mentirai", "translation": "will lie", "note": "future"}
+{"key": "mentirai", "word": "mentirai", "translation": "I will lie", "note": "future"}
 {"key": "merideth", "word": "Merideth", "translation": "Merideth", "note": ""}
 {"key": "merok", "word": "Merok", "translation": "Merok", "note": ""}
 {"key": "meuhtou", "word": "Meuhtou", "translation": "Meuhtou", "note": ""}
@@ -60149,7 +60149,7 @@
 {"key": "mura", "word": "Mura", "translation": "Mura", "note": ""}
 {"key": "murmemort", "word": "Murmemort", "translation": "Whisperdeath", "note": "whisper + death"}
 {"key": "murmombre", "word": "Murmombre", "translation": "Shadowwhisper", "note": "whisper + shadow"}
-{"key": "mètre", "word": "mètre", "translation": "tape", "note": "measuring tape"}
+{"key": "mètre", "word": "mètre", "translation": "meter; tape measure", "note": "measuring tape"}
 {"key": "mépriser", "word": "mépriser", "translation": "despise", "note": "to scorn"}
 {"key": "m’voir", "word": "m’voir", "translation": "see me", "note": "elision: m' (me with vowel dropped)"}
 {"key": "n'avaient", "word": "n'avaient", "translation": "didn't have", "note": "elision: n' (ne with vowel dropped); negated auxiliary"}
@@ -60167,7 +60167,7 @@
 {"key": "ormak", "word": "Ormak", "translation": "Ormak", "note": ""}
 {"key": "ormer", "word": "Ormer", "translation": "Ormer", "note": ""}
 {"key": "osworth", "word": "Osworth", "translation": "Osworth", "note": ""}
-{"key": "oubliera", "word": "oubliera", "translation": "will forget", "note": "future tense"}
+{"key": "oubliera", "word": "oubliera", "translation": "he/she will forget", "note": "future tense"}
 {"key": "outrepanse", "word": "Outrepanse", "translation": "Outreach", "note": "NPC name; could not confirm official English translation"}
 {"key": "paluna", "word": "Paluna", "translation": "Paluna", "note": ""}
 {"key": "pansières", "word": "Pansières", "translation": "side plates", "note": "pansière is medieval armor (sides), not panniers (baskets)"}
@@ -60182,12 +60182,12 @@
 {"key": "plombée", "word": "plombée", "translation": "leaded", "note": "past participle; weighted or made of lead"}
 {"key": "pn", "word": "pn", "translation": "p.n.", "note": ""}
 {"key": "porte-lances", "word": "Porte-lances", "translation": "Spear holders", "note": "porte (carry/bear) + lances (spears)"}
-{"key": "poserai", "word": "poserai", "translation": "will pose", "note": "future tense; will not ask questions"}
+{"key": "poserai", "word": "poserai", "translation": "I will pose", "note": "future tense; will not ask questions"}
 {"key": "posez-la", "word": "posez-la", "translation": "put it down", "note": "imperative + feminine pronoun; put her/it on tomb"}
 {"key": "poudrozieu", "word": "Poudrozieu", "translation": "Poudrozieu", "note": ""}
 {"key": "praire", "word": "praire", "translation": "clam", "note": "type of shellfish used as fishing bait"}
 {"key": "prate", "word": "Prate", "translation": "Prate", "note": ""}
-{"key": "procurerai", "word": "procurerai", "translation": "will procure", "note": "future tense; will get another for you"}
+{"key": "procurerai", "word": "procurerai", "translation": "I will procure", "note": "future tense; will get another for you"}
 {"key": "proposées", "word": "proposées", "translation": "proposed", "note": "past participle plural; offered rations and bandages"}
 {"key": "protège-tibias", "word": "protège-tibias", "translation": "shin guards", "note": ""}
 {"key": "prédiction", "word": "prédiction", "translation": "prediction", "note": ""}
@@ -60203,7 +60203,7 @@
 {"key": "qu’engendrent", "word": "qu’engendrent", "translation": "that generate", "note": "elision: qu' (que with vowel dropped)"}
 {"key": "racial", "word": "racial", "translation": "racial", "note": ""}
 {"key": "radioactive", "word": "radioactive", "translation": "radioactive", "note": ""}
-{"key": "raisin", "word": "raisin", "translation": "grapes", "note": ""}
+{"key": "raisin", "word": "raisin", "translation": "grape; grapes", "note": ""}
 {"key": "ranshalla", "word": "Ranshalla", "translation": "Ranshalla", "note": ""}
 {"key": "recherche-la-vérité", "word": "Recherche-la-vérité", "translation": "Seeking-the-truth", "note": "NPC name; literal translation of French components"}
 {"key": "redpath", "word": "Redpath", "translation": "Redpath", "note": ""}
@@ -60228,7 +60228,7 @@
 {"key": "ruinés", "word": "ruinés", "translation": "ruined", "note": "past participle adjective; projects are ruined"}
 {"key": "rynthariel", "word": "Rynthariel", "translation": "Rynthariel", "note": ""}
 {"key": "réattribue", "word": "réattribue", "translation": "reallocates", "note": "present tense; reassigns the mission"}
-{"key": "réfléchirai", "word": "réfléchirai", "translation": "will think", "note": "future tense of réfléchir"}
+{"key": "réfléchirai", "word": "réfléchirai", "translation": "I will think", "note": "future tense of réfléchir"}
 {"key": "réparouage", "word": "Réparouage", "translation": "Repair", "note": "NPC name; could not confirm official English translation"}
 {"key": "répétable", "word": "répétable", "translation": "repeatable", "note": "adjective; quest can be repeated"}
 {"key": "réussiriez", "word": "réussiriez", "translation": "would succeed", "note": "conditional tense; if you would succeed"}
@@ -60246,7 +60246,7 @@
 {"key": "sculpteur", "word": "Sculpteur", "translation": "Sculptor", "note": "title; one who sculpts heroes"}
 {"key": "seahorn", "word": "Seahorn", "translation": "Seahorn", "note": ""}
 {"key": "serrez", "word": "serrez", "translation": "squeeze", "note": "imperative of serrer; squeeze prediction in hand"}
-{"key": "servez-nous", "word": "Servez-nous", "translation": "Serve us", "note": "imperative; serve the cause"}
+{"key": "servez-nous", "word": "Servez-nous", "translation": "serve us", "note": "imperative; serve the cause"}
 {"key": "servo", "word": "Servo", "translation": "Servo", "note": ""}
 {"key": "sha'ni", "word": "Sha'ni", "translation": "Sha'ni", "note": ""}
 {"key": "shreev", "word": "Shreev", "translation": "Shreev", "note": ""}
@@ -60264,7 +60264,7 @@
 {"key": "séisme", "word": "Séisme", "translation": "Earthquake", "note": "séisme (earthquake); quest line name"}
 {"key": "tac", "word": "tac", "translation": "tock", "note": "tic-tac = tick-tock; clock sound onomatopoeia"}
 {"key": "tai'jin", "word": "Tai'jin", "translation": "Tai'jin", "note": ""}
-{"key": "taillerez", "word": "taillerez", "translation": "prune", "note": "future tense of tailler (cut/prune); cut gems"}
+{"key": "taillerez", "word": "taillerez", "translation": "you will trim; you will cut", "note": "future tense of tailler (cut/prune); cut gems"}
 {"key": "takar", "word": "Takar", "translation": "Takar", "note": ""}
 {"key": "talang", "word": "Talang", "translation": "Talang", "note": ""}
 {"key": "taleris", "word": "Taleris", "translation": "Taleris", "note": ""}
