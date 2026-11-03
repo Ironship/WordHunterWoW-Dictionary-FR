@@ -1442,8 +1442,8 @@
 {"key": "recette", "word": "recette", "translation": "recipe", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "restez", "word": "restez", "translation": "stay", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "salut", "word": "Salut", "translation": "hi", "note": ""}
-{"key": "serons", "word": "serons", "translation": "will be", "note": "plural form; the final -s is usually silent in French"}
-{"key": "trône", "word": "trône", "translation": "sits enthroned; reigns", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
+{"key": "serons", "word": "serons", "translation": "we will be", "note": "future of être"}
+{"key": "trône", "word": "trône", "translation": "throne; reigns", "note": "le trône = the throne; also the present of trôner (to sit enthroned, to reign)"}
 {"key": "caravane", "word": "caravane", "translation": "caravan", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "flèches", "word": "flèches", "translation": "arrows", "note": "plural form; the final -s is usually silent in French"}
 {"key": "gul’dan", "word": "Gul’dan", "translation": "Gul'dan", "note": ""}
@@ -1472,7 +1472,7 @@
 {"key": "démoniaque", "word": "démoniaque", "translation": "demonic", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "halte", "word": "halte", "translation": "halt", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "l'intérieur", "word": "l'intérieur", "translation": "the inside", "note": "l’ replaces le or la before a vowel; the article is separate from the noun"}
-{"key": "l’archimage", "word": "l’archimage", "translation": "attention", "note": "l’ replaces le or la before a vowel; the article is separate from the noun"}
+{"key": "l’archimage", "word": "l’archimage", "translation": "the archmage", "note": "l’ is le elided; archimage is a high-ranking mage"}
 {"key": "redoutables", "word": "redoutables", "translation": "fearsome", "note": "the -able ending often means “capable of being” or “fit for”"}
 {"key": "selon", "word": "Selon", "translation": "according to", "note": ""}
 {"key": "agir", "word": "agir", "translation": "act", "note": "the infinitive names an action without specifying its subject"}
@@ -1533,7 +1533,7 @@
 {"key": "trucs", "word": "trucs", "translation": "things; stuff", "note": "plural form; the final -s is usually silent in French"}
 {"key": "tyr", "word": "Tyr", "translation": "Tyr", "note": ""}
 {"key": "éclats", "word": "éclats", "translation": "shards", "note": "éclat means a shard or splinter; context distinguishes it from a flash or burst"}
-{"key": "avions", "word": "avions", "translation": "had", "note": "plural form; the final -s is usually silent in French"}
+{"key": "avions", "word": "avions", "translation": "we had; airplanes", "note": "nous avions = we had (imperfect of avoir); also the plural of avion"}
 {"key": "envers", "word": "envers", "translation": "towards; to; against", "note": "plural form; the final -s is usually silent in French"}
 {"key": "hauteur", "word": "hauteur", "translation": "height", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "importance", "word": "importance", "translation": "importance", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1554,7 +1554,7 @@
 {"key": "prison", "word": "prison", "translation": "prison", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "prévu", "word": "prévu", "translation": "planned; expected; foreseen", "note": "french adjectives agree with the noun in gender and number, unlike most English adjectives"}
 {"key": "questions", "word": "questions", "translation": "questions", "note": "plural form; the final -s is usually silent in French"}
-{"key": "rend", "word": "rend", "translation": "having", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
+{"key": "rend", "word": "rend", "translation": "returns; makes; renders", "note": "present of rendre; rendre + adjective = to make: cela rend fou = it drives mad"}
 {"key": "utilisez-le", "word": "utilisez-le", "translation": "use it", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "aidez", "word": "aidez", "translation": "help", "note": "french conjugation carries tense or subject information; English often uses a separate subject pronoun"}
 {"key": "allié", "word": "allié", "translation": "ally", "note": "an adverb modifies a verb, adjective, or other adverb; its position can differ from English"}
@@ -1573,7 +1573,7 @@
 {"key": "explorateurs", "word": "explorateurs", "translation": "explorers", "note": "plural form; the final -s is usually silent in French"}
 {"key": "lequel", "word": "lequel", "translation": "which; who; whom", "note": "a short function word; the words around it determine its precise reference"}
 {"key": "loups", "word": "loups", "translation": "wolves", "note": "plural form; the final -s is usually silent in French"}
-{"key": "mise", "word": "mise", "translation": "bounty; price", "note": "mise à prix is a fixed phrase for a bounty or price on someone"}
+{"key": "mise", "word": "mise", "translation": "stake; bet; placing", "note": "mise à prix = bounty"}
 {"key": "poignée", "word": "poignée", "translation": "handful", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "rare", "word": "rare", "translation": "rare", "note": "feminine adjective form; French adjectives agree with the noun they describe"}
 {"key": "veiller", "word": "veiller", "translation": "watch over; keep watch; stay awake", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1622,7 +1622,7 @@
 {"key": "redoutable", "word": "redoutable", "translation": "formidable; fearsome", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "récolter", "word": "récolter", "translation": "harvest; reap", "note": "the infinitive names an action without specifying its subject"}
 {"key": "sage", "word": "sage", "translation": "wise; sensible", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "souffle", "word": "souffle", "translation": "blows", "note": "souffler is “blow” when used as a verb, as in a breeze blowing"}
+{"key": "souffle", "word": "souffle", "translation": "breath; blast; blows", "note": "souffler is “blow” when used as a verb, as in a breeze blowing"}
 {"key": "énigme", "word": "énigme", "translation": "enigma; mystery; riddle", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "étape", "word": "étape", "translation": "step", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "assemblages", "word": "assemblages", "translation": "assemblies", "note": "plural form; the final -s is usually silent in French"}
@@ -1631,11 +1631,11 @@
 {"key": "haute", "word": "haute", "translation": "high", "note": "feminine adjective form; French adjectives agree with the noun they describe"}
 {"key": "matière", "word": "matière", "translation": "material", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "seraient", "word": "seraient", "translation": "would be", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "tiens", "word": "tiens", "translation": "stand; be standing", "note": "plural form; the final -s is usually silent in French"}
+{"key": "tiens", "word": "tiens", "translation": "hold; here (take this)", "note": "tenir in the present, or the exclamation tiens ! = here, take this / well well"}
 {"key": "vivre", "word": "vivre", "translation": "live; be alive; survive", "note": "the infinitive names an action without specifying its subject"}
 {"key": "dirige", "word": "dirige", "translation": "leads", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "guider", "word": "guider", "translation": "guide; lead; direct", "note": "the infinitive names an action without specifying its subject"}
-{"key": "nul", "word": "nul", "translation": "awful; lame", "note": "in informal speech, c’est nul means “that’s awful” or “that’s lame”"}
+{"key": "nul", "word": "nul", "translation": "no; none; worthless", "note": "nul(le) = no one / no; also “useless” in speech"}
 {"key": "paquet", "word": "paquet", "translation": "package", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "renseignements", "word": "renseignements", "translation": "information; intelligence; details", "note": "plural form; the final -s is usually silent in French"}
 {"key": "sacrenuit", "word": "Sacrenuit", "translation": "Nightborne", "note": "the official English race name is Nightborne"}
@@ -1677,7 +1677,7 @@
 {"key": "invoquer", "word": "invoquer", "translation": "summon; invoke", "note": "the infinitive names an action without specifying its subject"}
 {"key": "mers", "word": "mers", "translation": "seas", "note": "plural form; the final -s is usually silent in French"}
 {"key": "nid", "word": "nid", "translation": "nest", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "passez", "word": "Passez", "translation": "slip on; put on", "note": ""}
+{"key": "passez", "word": "Passez", "translation": "pass; go through; spend", "note": "vous command of passer; passer du temps = to spend time"}
 {"key": "poussent", "word": "poussent", "translation": "grow", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "prennent", "word": "prennent", "translation": "take; seize", "note": "french conjugation carries tense or subject information; English often uses a separate subject pronoun"}
 {"key": "retrouve", "word": "retrouve", "translation": "find", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1754,12 +1754,12 @@
 {"key": "aventurier", "word": "aventurier", "translation": "adventurer", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "coins", "word": "coins", "translation": "corners", "note": "plural form; the final -s is usually silent in French"}
 {"key": "construction", "word": "construction", "translation": "construction", "note": "the -tion/-sion ending commonly forms a feminine noun from a verb"}
-{"key": "courant", "word": "courant", "translation": "aware", "note": "au courant is a fixed phrase meaning “informed” or “aware”"}
+{"key": "courant", "word": "courant", "translation": "running; current; aware", "note": "être au courant = to be aware"}
 {"key": "dieux", "word": "dieux", "translation": "gods", "note": "many French adjectives in -eux/-euse have matching masculine and feminine forms"}
 {"key": "ferait", "word": "ferait", "translation": "would do; would make", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "fous", "word": "fous", "translation": "mad", "note": "plural form; the final -s is usually silent in French"}
 {"key": "informer", "word": "informer", "translation": "inform; tell", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "j’y", "word": "j’y", "translation": "I'm going there; I'm into it", "note": "y is a pronoun for a place or thing already mentioned"}
+{"key": "j’y", "word": "j’y", "translation": "I … there; I … it", "note": "y stands for a place or à + something already mentioned"}
 {"key": "magnifique", "word": "magnifique", "translation": "magnificent; splendid", "note": "french adjectives agree with the noun in gender and number, unlike most English adjectives"}
 {"key": "noyau", "word": "noyau", "translation": "core; nucleus", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "poids", "word": "poids", "translation": "weight", "note": "the final d is silent; poids and pois (“peas”) sound alike"}
@@ -1768,7 +1768,7 @@
 {"key": "sales", "word": "sales", "translation": "dirty; filthy", "note": "plural form; the final -s is usually silent in French"}
 {"key": "suramar", "word": "Suramar", "translation": "Suramar", "note": ""}
 {"key": "établir", "word": "établir", "translation": "establish; set up", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "étions", "word": "étions", "translation": "were", "note": "plural form; the final -s is usually silent in French"}
+{"key": "étions", "word": "étions", "translation": "we were", "note": "imperfect of être"}
 {"key": "crâne", "word": "crâne", "translation": "skull", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "découvertes", "word": "découvertes", "translation": "discoveries; finds", "note": "plural form; the final -s is usually silent in French"}
 {"key": "flèche", "word": "flèche", "translation": "arrow", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1787,12 +1787,12 @@
 {"key": "portent", "word": "portent", "translation": "wear", "note": "french conjugation carries tense or subject information; English often uses a separate subject pronoun"}
 {"key": "toucher", "word": "toucher", "translation": "touch", "note": "french conjugation carries tense or subject information; English often uses a separate subject pronoun"}
 {"key": "vaisseau", "word": "vaisseau", "translation": "vessel; ship", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "aidez-nous", "word": "Aidez-nous", "translation": "creatures", "note": "plural form; the final -s is usually silent in French"}
+{"key": "aidez-nous", "word": "Aidez-nous", "translation": "help us", "note": "vous command of aider + nous"}
 {"key": "armure", "word": "armure", "translation": "armor", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "citoyens", "word": "citoyens", "translation": "citizens", "note": "plural form; the final -s is usually silent in French"}
 {"key": "disposition", "word": "disposition", "translation": "availability; at one’s disposal", "note": "the -tion/-sion ending commonly forms a feminine noun from a verb"}
 {"key": "déguisement", "word": "déguisement", "translation": "disguise", "note": "the -ment ending often forms a noun from a verb or adjective"}
-{"key": "désacralisez", "word": "Désacralisez", "translation": "needless", "note": ""}
+{"key": "désacralisez", "word": "Désacralisez", "translation": "desecrate; strip of holiness", "note": "vous command of désacraliser"}
 {"key": "mystère", "word": "mystère", "translation": "mystery; secret", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "parchemins", "word": "parchemins", "translation": "parchments; scrolls", "note": "plural form; the final -s is usually silent in French"}
 {"key": "particulier", "word": "particulier", "translation": "particular; special", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1802,7 +1802,7 @@
 {"key": "énergies", "word": "énergies", "translation": "energies; forces", "note": "plural form; the final -s is usually silent in French"}
 {"key": "alentours", "word": "alentours", "translation": "surroundings; vicinity", "note": "plural form; the final -s is usually silent in French"}
 {"key": "avantage", "word": "avantage", "translation": "advantage", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "bâtiment", "word": "bâtiment", "translation": "ship; vessel", "note": "bâtiment can mean a building or a ship; here it refers to a vessel"}
+{"key": "bâtiment", "word": "bâtiment", "translation": "building; ship", "note": "in nautical talk a bâtiment is a ship"}
 {"key": "cesse", "word": "cesse", "translation": "ceases; stops", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "demeure", "word": "demeure", "translation": "remains; dwells", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "exemple", "word": "exemple", "translation": "example", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1832,10 +1832,10 @@
 {"key": "pauvres", "word": "pauvres", "translation": "poor", "note": "plural form; the final -s is usually silent in French"}
 {"key": "sale", "word": "sale", "translation": "nasty; filthy", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "sceau", "word": "sceau", "translation": "seal", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "sortez", "word": "sortez", "translation": "get by; manage", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
+{"key": "sortez", "word": "sortez", "translation": "come out; get out; take out", "note": "vous command of sortir"}
 {"key": "sourire", "word": "sourire", "translation": "smile", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "suffire", "word": "suffire", "translation": "suffice", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "tend", "word": "tend", "translation": "tends", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
+{"key": "tend", "word": "tend", "translation": "holds out; stretches; tends", "note": "tendre la main = to hold out a hand"}
 {"key": "antreliges", "word": "antreliges", "translation": "Mawsworn", "note": ""}
 {"key": "drakes", "word": "drakes", "translation": "drakes", "note": "plural form; the final -s is usually silent in French"}
 {"key": "essence", "word": "essence", "translation": "essence", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1884,11 +1884,11 @@
 {"key": "premiers", "word": "premiers", "translation": "first", "note": "plural form; the final -s is usually silent in French"}
 {"key": "proches", "word": "proches", "translation": "nearby", "note": "plural form; the final -s is usually silent in French"}
 {"key": "résistance", "word": "résistance", "translation": "resistance", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "su", "word": "su", "translation": "managed", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
+{"key": "su", "word": "su", "translation": "known; been able to", "note": "past participle of savoir: j’ai su = I found out"}
 {"key": "tiras", "word": "Tiras", "translation": "Tiras", "note": ""}
 {"key": "totems", "word": "totems", "translation": "totems", "note": "plural form; the final -s is usually silent in French"}
 {"key": "traître", "word": "traître", "translation": "traitor", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
-{"key": "étiez", "word": "étiez", "translation": "were", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
+{"key": "étiez", "word": "étiez", "translation": "you were", "note": "imperfect of être"}
 {"key": "actes", "word": "actes", "translation": "acts", "note": "plural form; the final -s is usually silent in French"}
 {"key": "anciennes", "word": "anciennes", "translation": "ancient", "note": "plural form; the final -s is usually silent in French"}
 {"key": "brûler", "word": "brûler", "translation": "burn", "note": "the infinitive names an action without specifying its subject"}
@@ -1898,7 +1898,7 @@
 {"key": "fantômes", "word": "fantômes", "translation": "ghosts", "note": "plural form; the final -s is usually silent in French"}
 {"key": "fou", "word": "fou", "translation": "mad", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "l'autre", "word": "l'autre", "translation": "the other", "note": "l’ replaces le or la before a vowel; the article is separate from the noun"}
-{"key": "l’ascension", "word": "l’Ascension", "translation": "Ascension", "note": "l’ replaces le or la before a vowel; the article is separate from the noun"}
+{"key": "l’ascension", "word": "l’Ascension", "translation": "the ascent", "note": "l’ replaces le or la before a vowel; the article is separate from the noun"}
 {"key": "massacrer", "word": "massacrer", "translation": "slaughter", "note": "the infinitive names an action without specifying its subject"}
 {"key": "représente", "word": "représente", "translation": "represents", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
 {"key": "signal", "word": "signal", "translation": "signal", "note": "french nouns have grammatical gender; learning the noun with its article helps remember it"}
@@ -1980,7 +1980,7 @@
 {"key": "hurlenfer", "word": "Hurlenfer", "translation": "Hellscream", "note": "the English clan name is Hellscream"}
 {"key": "insectes", "word": "insectes", "translation": "insects", "note": "plural form; the final -s is usually silent in French"}
 {"key": "jardins", "word": "jardins", "translation": "gardens", "note": "plural form; the final -s is usually silent in French"}
-{"key": "l'ancien", "word": "L'Ancien", "translation": "The Ancient", "note": "in Warcraft, Ancients are powerful sentient tree-like beings"}
+{"key": "l'ancien", "word": "L'Ancien", "translation": "the ancient; the former", "note": "in Warcraft, Ancients are powerful sentient tree-like beings"}
 {"key": "locale", "word": "locale", "translation": "local", "note": "french adjectives agree with the noun in gender and number, unlike most English adjectives"}
 {"key": "maîtriser", "word": "maîtriser", "translation": "master", "note": "the infinitive names an action without specifying its subject"}
 {"key": "montez", "word": "Montez", "translation": "go up", "note": ""}
@@ -2012,11 +2012,11 @@
 {"key": "secourir", "word": "secourir", "translation": "rescue", "note": "infinitive form, the standard citation form used in French dictionaries"}
 {"key": "échapper", "word": "échapper", "translation": "escape", "note": "infinitive form, the standard citation form used in French dictionaries"}
 {"key": "absence", "word": "absence", "translation": "absence", "note": ""}
-{"key": "airs", "word": "airs", "translation": "air", "note": ""}
+{"key": "airs", "word": "airs", "translation": "air; tunes; airs", "note": ""}
 {"key": "arcanes", "word": "arcanes", "translation": "arcana", "note": ""}
-{"key": "chaînes", "word": "chaînes", "translation": "mountain ranges", "note": "in chaîne de montagnes, the plural means a mountain range"}
+{"key": "chaînes", "word": "chaînes", "translation": "chains; mountain ranges", "note": "in chaîne de montagnes, the plural means a mountain range"}
 {"key": "continuent", "word": "continuent", "translation": "continue", "note": ""}
-{"key": "dis", "word": "dis", "translation": "tell", "note": ""}
+{"key": "dis", "word": "dis", "translation": "say; tell", "note": "je dis / tu dis: dis-moi = tell me"}
 {"key": "féroce", "word": "féroce", "translation": "fierce", "note": ""}
 {"key": "hautes-terres", "word": "hautes-terres", "translation": "highlands", "note": "plural form; the written French ending is usually silent"}
 {"key": "jusqu’aux", "word": "jusqu’aux", "translation": "up to the", "note": "jusqu’à + les contracts to jusqu’aux before a plural noun"}
@@ -2058,7 +2058,7 @@
 {"key": "coûte", "word": "coûte", "translation": "costs", "note": ""}
 {"key": "disparaître", "word": "disparaître", "translation": "disappear", "note": ""}
 {"key": "défaite", "word": "défaite", "translation": "defeat", "note": ""}
-{"key": "désolation", "word": "Désolation", "translation": "Dragonblight", "note": "the full French zone name Désolation des dragons is Dragonblight"}
+{"key": "désolation", "word": "Désolation", "translation": "desolation", "note": "la Désolation des dragons is the Dragonblight; the word alone is “desolation”"}
 {"key": "d’azshara", "word": "d’Azshara", "translation": "of Azshara", "note": ""}
 {"key": "ennuis", "word": "ennuis", "translation": "trouble", "note": ""}
 {"key": "furbolgs", "word": "Furbolgs", "translation": "Furbolgs", "note": ""}
@@ -2130,11 +2130,11 @@
 {"key": "baume", "word": "baume", "translation": "balm", "note": "feminine noun; French uses la/l’ with it, while English nouns have no grammatical gender"}
 {"key": "caisses", "word": "caisses", "translation": "crates", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
 {"key": "documents", "word": "documents", "translation": "documents", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
-{"key": "donnez", "word": "Donnez", "translation": "Give", "note": "imperative of donner; the subject vous is understood"}
+{"key": "donnez", "word": "Donnez", "translation": "give", "note": "imperative of donner; the subject vous is understood"}
 {"key": "dragonnets", "word": "dragonnets", "translation": "whelps; dragonets", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
 {"key": "d’azur", "word": "d’Azur", "translation": "azure; of azure", "note": "azur is a literary word for the blue sky; the d’ is the preposition de"}
 {"key": "entière", "word": "entière", "translation": "whole", "note": "feminine singular adjective or participle; -e marks agreement with its noun"}
-{"key": "espérons", "word": "Espérons", "translation": "Let's hope", "note": "first-person plural present of espérer"}
+{"key": "espérons", "word": "Espérons", "translation": "let us hope", "note": "first-person plural present of espérer"}
 {"key": "immense", "word": "immense", "translation": "immense", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
 {"key": "jade", "word": "jade", "translation": "jade", "note": "masculine noun; French uses le/l’ with it, while English nouns have no grammatical gender"}
 {"key": "lire", "word": "lire", "translation": "read", "note": "infinitive; -re is the French verb ending, while English uses the bare verb"}
@@ -2151,7 +2151,7 @@
 {"key": "trahison", "word": "trahison", "translation": "betrayal", "note": "feminine noun; French uses la/l’ with it, while English nouns have no grammatical gender"}
 {"key": "venger", "word": "venger", "translation": "avenge", "note": "infinitive; -er is the French verb ending, while English uses the bare verb"}
 {"key": "acceptez", "word": "acceptez", "translation": "accept", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
-{"key": "commençons", "word": "Commençons", "translation": "Let's begin", "note": "first-person plural present of commencer"}
+{"key": "commençons", "word": "Commençons", "translation": "let us begin", "note": "first-person plural present of commencer"}
 {"key": "heures", "word": "heures", "translation": "hours", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
 {"key": "humains", "word": "Humains", "translation": "Humans", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
 {"key": "infernales", "word": "infernales", "translation": "infernal", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
@@ -2221,7 +2221,7 @@
 {"key": "tonneau", "word": "tonneau", "translation": "barrel", "note": "masculine noun; French uses le/l’, while English nouns have no grammatical gender"}
 {"key": "anneau", "word": "anneau", "translation": "ring", "note": "masculine noun; French uses le/l’, while English nouns have no grammatical gender"}
 {"key": "crocs", "word": "crocs", "translation": "fangs", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
-{"key": "descendez", "word": "Descendez", "translation": "Descend", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
+{"key": "descendez", "word": "Descendez", "translation": "descend", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
 {"key": "d’entrer", "word": "d’entrer", "translation": "enter", "note": "d’ contracts de before a vowel; with an infinitive it often introduces the next action"}
 {"key": "graine", "word": "graine", "translation": "seed", "note": "feminine noun; French uses la/l’ with it, while English nouns have no grammatical gender"}
 {"key": "kyrians", "word": "Kyrians", "translation": "Kyrians", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
@@ -2229,14 +2229,14 @@
 {"key": "n'y", "word": "n'y", "translation": "not there", "note": "n’ is ne elided before a vowel; a later pas or other negative may complete it"}
 {"key": "nulle", "word": "nulle", "translation": "none", "note": "feminine singular adjective or participle; -e marks agreement with its noun"}
 {"key": "pavillon", "word": "pavillon", "translation": "pavilion", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
-{"key": "porté", "word": "porté", "translation": "dealt", "note": "porter un coup is the fixed expression “deal a blow”; the standalone verb often means carry"}
+{"key": "porté", "word": "porté", "translation": "carried; worn; dealt", "note": "past participle of porter; porter un coup = to strike a blow"}
 {"key": "primat", "word": "Primat", "translation": "leader; hierarch", "note": "false friend: here a leader or head, not a biological primate"}
 {"key": "prudence", "word": "prudence", "translation": "caution", "note": "cognate pattern: French -ance/-ence often matches the English noun ending"}
 {"key": "rassemblé", "word": "rassemblé", "translation": "gathered", "note": "past participle of rassembler"}
 {"key": "remonter", "word": "remonter", "translation": "climb back up; go back up", "note": "infinitive; re- can mean back/again, while monter means go up"}
 {"key": "réalité", "word": "réalité", "translation": "reality", "note": "cognate pattern: French -ité commonly corresponds to English -ity"}
 {"key": "réveiller", "word": "réveiller", "translation": "awaken", "note": "infinitive; -er is the French verb ending, while English uses the bare verb"}
-{"key": "semblables", "word": "semblables", "translation": "my kind; fellows", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
+{"key": "semblables", "word": "semblables", "translation": "similar; fellows", "note": "mes semblables = my fellow men"}
 {"key": "société", "word": "société", "translation": "society", "note": "feminine noun; French uses la/l’, while English nouns have no grammatical gender"}
 {"key": "technique", "word": "technique", "translation": "technique", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
 {"key": "torche", "word": "torche", "translation": "torch", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
@@ -2292,7 +2292,7 @@
 {"key": "récolte", "word": "récolte", "translation": "harvest", "note": "feminine noun; French uses la/l’ with it, while English nouns have no grammatical gender"}
 {"key": "sacrifice", "word": "sacrifice", "translation": "sacrifice", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
 {"key": "silence", "word": "silence", "translation": "silence", "note": "cognate pattern: French -ance/-ence often matches the English noun ending"}
-{"key": "six", "word": "Six", "translation": "Six", "note": "the French x is silent; six is pronounced differently before a consonant and before a vowel"}
+{"key": "six", "word": "Six", "translation": "six", "note": "the French x is silent; six is pronounced differently before a consonant and before a vowel"}
 {"key": "siècles", "word": "siècles", "translation": "centuries", "note": "plural form; the French final -s is normally silent, while English marks number on the noun"}
 {"key": "transport", "word": "transport", "translation": "transport; transportation", "note": "transparent cognate: French and English share a root, though pronunciation differs"}
 {"key": "échoué", "word": "échoué", "translation": "shipwrecked; stranded", "note": "past participle of échouer"}
