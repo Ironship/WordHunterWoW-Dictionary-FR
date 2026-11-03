@@ -1,4 +1,4 @@
-{"key": "à", "word": "à", "translation": "from", "note": "the accent distinguishes this preposition from a (has)"}
+{"key": "à", "word": "à", "translation": "to; at; in", "note": "preposition; a (no accent) is the verb “has”, à is “to / at / in”, and là is “there”"}
 {"key": "a", "word": "a", "translation": "has", "note": ""}
 {"key": "y", "word": "y", "translation": "there", "note": "y often replaces a place phrase: “there” or “to it”"}
 {"key": "ô", "word": "Ô", "translation": "Oh", "note": "an invocation or exclamation; English usually writes “oh”"}
@@ -9,7 +9,7 @@
 {"key": "le", "word": "le", "translation": "the", "note": "le is the masculine singular definite article; l’ replaces it before a vowel"}
 {"key": "et", "word": "et", "translation": "and", "note": "et joins words or clauses and does not change form"}
 {"key": "que", "word": "que", "translation": "that", "note": "que can introduce a clause or stand for “that/which”; syntax decides"}
-{"key": "des", "word": "des", "translation": "some; the", "note": "des can be the plural article or de + les"}
+{"key": "des", "word": "des", "translation": "some; of the", "note": "indefinite plural “some”, or de + les “of the”"}
 {"key": "nous", "word": "nous", "translation": "we; us", "note": "plural form; the final -s is usually silent in French"}
 {"key": "pour", "word": "pour", "translation": "for", "note": "pour marks purpose or recipient as well as “for”"}
 {"key": "un", "word": "un", "translation": "a; one", "note": "un is the masculine form of “a/one”; une is feminine"}
@@ -26,16 +26,16 @@
 {"key": "est", "word": "est", "translation": "is", "note": "est is the third-person singular of être"}
 {"key": "mais", "word": "mais", "translation": "but", "note": "plural form; the final -s is usually silent in French"}
 {"key": "sur", "word": "sur", "translation": "on", "note": ""}
-{"key": "plus", "word": "plus", "translation": "no longer", "note": "with ne, plus means “no longer”; without it, “more”"}
-{"key": "se", "word": "se", "translation": "themselves", "note": "se is the reflexive pronoun used with third-person subjects"}
-{"key": "si", "word": "si", "translation": "so", "note": "si means “if”; before an adjective/adverb it can mean “so”"}
+{"key": "plus", "word": "plus", "translation": "more; no longer", "note": "plus … ne = no longer; plus de = more of; the s is pronounced only in some uses"}
+{"key": "se", "word": "se", "translation": "oneself; himself; herself; themselves", "note": "reflexive pronoun; it usually has no separate English word: il se lève = he gets up"}
+{"key": "si", "word": "si", "translation": "if; so", "note": "“if” before a clause, “so / such” before an adjective"}
 {"key": "ces", "word": "ces", "translation": "these", "note": ""}
 {"key": "sont", "word": "sont", "translation": "are", "note": "sont is the plural present form of être"}
 {"key": "votre", "word": "votre", "translation": "your", "note": "votre is “your” for one or more addressees before a singular noun"}
 {"key": "cette", "word": "cette", "translation": "this", "note": ""}
 {"key": "leur", "word": "leur", "translation": "their", "note": "leur is “their” before a singular noun; leurs takes a plural noun"}
 {"key": "bien", "word": "bien", "translation": "well; very; indeed", "note": ""}
-{"key": "tout", "word": "tout", "translation": "all; every", "note": "tout agrees with its noun: toute, tous, and toutes are other forms"}
+{"key": "tout", "word": "tout", "translation": "all; every; quite", "note": "tout agrees with its noun: toute, tous, and toutes are other forms"}
 {"key": "c’est", "word": "c’est", "translation": "it is", "note": "c’est contracts ce + est; it introduces “it is/this is”"}
 {"key": "nos", "word": "nos", "translation": "our", "note": "nos is the plural possessive “our”; notre is used with a singular noun"}
 {"key": "notre", "word": "notre", "translation": "our", "note": "notre is “our” before a singular noun; nos is used with plural nouns"}
@@ -47,7 +47,7 @@
 {"key": "faire", "word": "faire", "translation": "do; make", "note": "infinitive; French dictionaries list verbs in this re form"}
 {"key": "name", "word": "name", "translation": "name", "note": "template token for the player’s character name, not French “name”"}
 {"key": "ils", "word": "ils", "translation": "they", "note": "ils means “they” for masculine or mixed groups"}
-{"key": "son", "word": "son", "translation": "its", "note": "son is “his/her/its” before a masculine noun or a vowel sound"}
+{"key": "son", "word": "son", "translation": "his; her; its", "note": "possessive that agrees with the thing owned, not the owner: son épée can be his or her sword"}
 {"key": "mon", "word": "mon", "translation": "my", "note": "mon is “my” before a masculine noun, including before a vowel sound"}
 {"key": "on", "word": "on", "translation": "one; we; you", "note": "on is an impersonal subject, often rendered “one,” “we,” or “people”"}
 {"key": "elle", "word": "elle", "translation": "she", "note": "elle means “she” or “it”; French grammatical gender determines inanimate references"}
@@ -57,7 +57,7 @@
 {"key": "ça", "word": "ça", "translation": "that", "note": ""}
 {"key": "ses", "word": "ses", "translation": "his; her; its", "note": "ses means “his/her/its” before plural nouns; the possessor’s gender is irrelevant"}
 {"key": "allez", "word": "Allez", "translation": "go", "note": ""}
-{"key": "fait", "word": "fait", "translation": "done", "note": "fait is both the past participle of faire and the noun “fact”"}
+{"key": "fait", "word": "fait", "translation": "done; made; fact", "note": "past participle of faire, or the noun “fact”; also “does” as a verb form"}
 {"key": "temps", "word": "temps", "translation": "time; weather", "note": "plural form; the final -s is usually silent in French"}
 {"key": "besoin", "word": "besoin", "translation": "need", "note": ""}
 {"key": "lui", "word": "lui", "translation": "him; her; to him; to her", "note": ""}
@@ -83,7 +83,7 @@
 {"key": "peu", "word": "peu", "translation": "little", "note": ""}
 {"key": "ma", "word": "ma", "translation": "my", "note": "ma is “my” before a feminine noun; mon replaces it before a vowel sound"}
 {"key": "suis", "word": "suis", "translation": "am; follow", "note": "present of être or suivre; je suis prêt = I am ready, je vous suis = I follow you"}
-{"key": "devons", "word": "devons", "translation": "must", "note": "plural form; the final -s is usually silent in French"}
+{"key": "devons", "word": "devons", "translation": "we must; we have to", "note": "nous form of devoir"}
 {"key": "d’un", "word": "d’un", "translation": "of a", "note": "d’ is de elided before a vowel; un means “a/one”"}
 {"key": "trouver", "word": "trouver", "translation": "find; think", "note": "infinitive; French dictionaries list verbs in this er form"}
 {"key": "où", "word": "où", "translation": "where", "note": "the accent distinguishes “where” from ou (“or”)"}
@@ -110,7 +110,7 @@
 {"key": "n’est", "word": "n’est", "translation": "is not", "note": ""}
 {"key": "vers", "word": "vers", "translation": "towards", "note": "plural form; the final -s is usually silent in French"}
 {"key": "depuis", "word": "depuis", "translation": "since", "note": "plural form; the final -s is usually silent in French"}
-{"key": "trouve", "word": "trouve", "translation": "find", "note": "present form of trouver; the ending can mark “I” or “he/she”"}
+{"key": "trouve", "word": "trouve", "translation": "finds; find", "note": "present form of trouver; the ending can mark “I” or “he/she”"}
 {"key": "bon", "word": "bon", "translation": "good", "note": "bon can be an adjective “good” or a noun meaning “voucher/coupon”"}
 {"key": "jamais", "word": "jamais", "translation": "never", "note": "plural form; the final -s is usually silent in French"}
 {"key": "trop", "word": "trop", "translation": "too", "note": ""}
@@ -129,7 +129,7 @@
 {"key": "sang", "word": "sang", "translation": "blood", "note": ""}
 {"key": "sous", "word": "sous", "translation": "under", "note": "plural form; the final -s is usually silent in French"}
 {"key": "reste", "word": "reste", "translation": "remains", "note": ""}
-{"key": "mort", "word": "mort", "translation": "death", "note": ""}
+{"key": "mort", "word": "mort", "translation": "dead; death", "note": "adjective or noun: un mort = a dead man, la mort = death"}
 {"key": "monde", "word": "monde", "translation": "world; people", "note": ""}
 {"key": "près", "word": "près", "translation": "near", "note": "plural form; the final -s is usually silent in French"}
 {"key": "trouverez", "word": "trouverez", "translation": "will find", "note": ""}
@@ -138,7 +138,7 @@
 {"key": "mettre", "word": "mettre", "translation": "put; place", "note": "infinitive; French dictionaries list verbs in this re form"}
 {"key": "chance", "word": "chance", "translation": "chance", "note": ""}
 {"key": "donc", "word": "donc", "translation": "so", "note": ""}
-{"key": "dit", "word": "dit", "translation": "said", "note": ""}
+{"key": "dit", "word": "dit", "translation": "said; says", "note": ""}
 {"key": "allons", "word": "allons", "translation": "let's go", "note": "plural form; the final -s is usually silent in French"}
 {"key": "dire", "word": "dire", "translation": "say; tell", "note": "infinitive; French dictionaries list verbs in this re form"}
 {"key": "toutes", "word": "toutes", "translation": "all", "note": "plural form; the final -s is usually silent in French"}
@@ -164,7 +164,7 @@
 {"key": "pouvez", "word": "pouvez", "translation": "can", "note": ""}
 {"key": "dont", "word": "dont", "translation": "of which", "note": ""}
 {"key": "sommes", "word": "sommes", "translation": "are", "note": "plural form; the final -s is usually silent in French"}
-{"key": "juste", "word": "juste", "translation": "right", "note": ""}
+{"key": "juste", "word": "juste", "translation": "just; fair; right", "note": "adjective “fair / just”, or adverb “just / only”"}
 {"key": "class", "word": "class", "translation": "class", "note": "template token for the player’s class"}
 {"key": "faites", "word": "faites", "translation": "do", "note": "plural form; the final -s is usually silent in French"}
 {"key": "sais", "word": "sais", "translation": "know", "note": "plural form; the final -s is usually silent in French"}
@@ -186,7 +186,7 @@
 {"key": "savoir", "word": "savoir", "translation": "know", "note": "infinitive; French dictionaries list verbs in this ir form"}
 {"key": "devez", "word": "devez", "translation": "must", "note": ""}
 {"key": "vu", "word": "vu", "translation": "seen", "note": "past participle; it can also agree in gender and number when used adjectivally"}
-{"key": "grande", "word": "grande", "translation": "big", "note": ""}
+{"key": "grande", "word": "grande", "translation": "big; great; tall", "note": "feminine of grand; before a noun it often means “great”"}
 {"key": "c'est", "word": "c'est", "translation": "it is", "note": ""}
 {"key": "nom", "word": "nom", "translation": "name", "note": ""}
 {"key": "feu", "word": "feu", "translation": "fire", "note": ""}
@@ -212,7 +212,7 @@
 {"key": "eux", "word": "eux", "translation": "them", "note": ""}
 {"key": "j'ai", "word": "J'ai", "translation": "I have", "note": ""}
 {"key": "peux", "word": "peux", "translation": "can", "note": "plural form; the final -s is usually silent in French"}
-{"key": "m’a", "word": "m’a", "translation": "my", "note": ""}
+{"key": "m’a", "word": "m’a", "translation": "has me; has … to me", "note": "me elided + a (has): il m’a dit = he told me; not the possessive “my”, which is mon / ma"}
 {"key": "était", "word": "était", "translation": "was", "note": "était is the imperfect of être, used for past states or background"}
 {"key": "l’un", "word": "l’un", "translation": "one", "note": "l’ is the elided article; un means “one”"}
 {"key": "vite", "word": "vite", "translation": "quickly", "note": ""}
@@ -227,13 +227,13 @@
 {"key": "coup", "word": "coup", "translation": "blow; stroke", "note": ""}
 {"key": "mission", "word": "mission", "translation": "mission", "note": "mission is feminine; the English cognate has the same Latin root"}
 {"key": "maître", "word": "maître", "translation": "master", "note": ""}
-{"key": "puis", "word": "puis", "translation": "then", "note": "plural form; the final -s is usually silent in French"}
+{"key": "puis", "word": "puis", "translation": "then; next", "note": "plural form; the final -s is usually silent in French"}
 {"key": "endroit", "word": "endroit", "translation": "place", "note": ""}
 {"key": "serait", "word": "serait", "translation": "would be", "note": "serait is the conditional of être, often “would be”"}
 {"key": "travers", "word": "travers", "translation": "through", "note": "plural form; the final -s is usually silent in French"}
 {"key": "aurez", "word": "aurez", "translation": "will have", "note": ""}
 {"key": "veux", "word": "veux", "translation": "want", "note": "plural form; the final -s is usually silent in French"}
-{"key": "part", "word": "part", "translation": "leaves", "note": ""}
+{"key": "part", "word": "part", "translation": "leaves; share", "note": "partir (to leave) in the present, or the noun “share / part”"}
 {"key": "trouvez", "word": "trouvez", "translation": "find", "note": ""}
 {"key": "lumière", "word": "Lumière", "translation": "Light", "note": "lumière is feminine; in WoW contexts a capitalized Light can name the power"}
 {"key": "seul", "word": "seul", "translation": "alone; sole", "note": ""}
@@ -257,24 +257,24 @@
 {"key": "devoir", "word": "devoir", "translation": "must; should", "note": ""}
 {"key": "lorsque", "word": "lorsque", "translation": "when", "note": ""}
 {"key": "d’autres", "word": "d’autres", "translation": "others", "note": "plural form; the final -s is usually silent in French"}
-{"key": "tour", "word": "tour", "translation": "round", "note": ""}
+{"key": "tour", "word": "tour", "translation": "turn; tower; round", "note": "la tour = the tower, le tour = the turn or round"}
 {"key": "mal", "word": "mal", "translation": "wrong", "note": ""}
 {"key": "devriez", "word": "devriez", "translation": "should", "note": ""}
 {"key": "problème", "word": "problème", "translation": "issue", "note": ""}
 {"key": "jour", "word": "jour", "translation": "day", "note": ""}
 {"key": "qu'il", "word": "qu'il", "translation": "that he", "note": ""}
-{"key": "passé", "word": "passé", "translation": "pass", "note": ""}
+{"key": "passé", "word": "passé", "translation": "past; passed", "note": ""}
 {"key": "fort", "word": "fort", "translation": "strong", "note": ""}
 {"key": "esprits", "word": "esprits", "translation": "spirits", "note": "plural form; the final -s is usually silent in French"}
 {"key": "seigneur", "word": "seigneur", "translation": "lord", "note": ""}
 {"key": "s’en", "word": "s’en", "translation": "of it; from it", "note": "s’ is se elided before a vowel; en remains a separate pronoun"}
 {"key": "peuple", "word": "peuple", "translation": "people", "note": "cognate: this English word shares a Latin root with the French form"}
-{"key": "point", "word": "point", "translation": "point; dot", "note": ""}
+{"key": "point", "word": "point", "translation": "point; dot; not at all", "note": "ne … point is an old negation, like ne … pas"}
 {"key": "porte", "word": "porte", "translation": "door", "note": ""}
 {"key": "yeux", "word": "yeux", "translation": "eyes", "note": "plural form; the final -s is usually silent in French"}
 {"key": "autant", "word": "autant", "translation": "as much", "note": ""}
 {"key": "voyez", "word": "voyez", "translation": "see", "note": ""}
-{"key": "ai", "word": "ai", "translation": "have", "note": ""}
+{"key": "ai", "word": "ai", "translation": "have", "note": "first-person singular of avoir; usually an auxiliary: j’ai trouvé = I found"}
 {"key": "rendez-vous", "word": "Rendez-vous", "translation": "meeting", "note": "plural form; the final -s is usually silent in French"}
 {"key": "plan", "word": "plan", "translation": "plan; layout", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "vide", "word": "Vide", "translation": "empty", "note": ""}
@@ -294,7 +294,7 @@
 {"key": "laisser", "word": "laisser", "translation": "leave", "note": "infinitive; French dictionaries list verbs in this er form"}
 {"key": "nombre", "word": "nombre", "translation": "number", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "trouvé", "word": "trouvé", "translation": "found", "note": "past participle; it can also agree in gender and number when used adjectivally"}
-{"key": "n’a", "word": "n’a", "translation": "n / A", "note": "n’ is ne elided before a vowel; keep the negative particle distinct"}
+{"key": "n’a", "word": "n’a", "translation": "has not; does not have", "note": "ne elided + a (has): n’a pas = has not, n’a jamais = has never"}
 {"key": "forces", "word": "forces", "translation": "forces", "note": "plural form; the final -s is usually silent in French"}
 {"key": "nouvelles", "word": "nouvelles", "translation": "news", "note": "plural form; the final -s is usually silent in French"}
 {"key": "donner", "word": "donner", "translation": "give", "note": "infinitive; French dictionaries list verbs in this er form"}
@@ -320,13 +320,13 @@
 {"key": "tuez", "word": "Tuez", "translation": "kill", "note": ""}
 {"key": "fin", "word": "fin", "translation": "end", "note": ""}
 {"key": "qu’un", "word": "qu’un", "translation": "only one", "note": "qu’ is que elided before a vowel; “only” depends on ne…que"}
-{"key": "voilà", "word": "voilà", "translation": "there", "note": ""}
+{"key": "voilà", "word": "voilà", "translation": "there; here is", "note": "points something out: voilà ! = there you go"}
 {"key": "présence", "word": "présence", "translation": "presence", "note": ""}
 {"key": "réussi", "word": "réussi", "translation": "succeeded", "note": "past participle; it can also agree in gender and number when used adjectivally"}
 {"key": "présent", "word": "présent", "translation": "present", "note": ""}
 {"key": "alliés", "word": "alliés", "translation": "allies", "note": "plural form; the final -s is usually silent in French"}
 {"key": "rituel", "word": "rituel", "translation": "ritual", "note": "cognate: this English word shares a Latin root with the French form"}
-{"key": "compte", "word": "compte", "translation": "account", "note": ""}
+{"key": "compte", "word": "compte", "translation": "account; count", "note": "noun “account”, or the verb compter in the present (to count, to intend)"}
 {"key": "anneaux", "word": "anneaux", "translation": "rings", "note": "plural form; the final -s is usually silent in French"}
 {"key": "doivent", "word": "doivent", "translation": "must", "note": ""}
 {"key": "village", "word": "village", "translation": "village", "note": "cognate: this English word shares a Latin root with the French form"}
@@ -349,12 +349,12 @@
 {"key": "défi", "word": "défi", "translation": "challenge", "note": ""}
 {"key": "veut", "word": "veut", "translation": "wants", "note": "veut is the third-person singular of vouloir"}
 {"key": "temple", "word": "temple", "translation": "temple", "note": "cognate: this English word shares a Latin root with the French form"}
-{"key": "train", "word": "train", "translation": "train", "note": "cognate: French and English share this form through a common historical root"}
+{"key": "train", "word": "train", "translation": "train; in the middle of", "note": "en train de + infinitive = in the middle of doing"}
 {"key": "fer", "word": "Fer", "translation": "iron", "note": ""}
 {"key": "démons", "word": "démons", "translation": "demons", "note": "plural form; the final -s is usually silent in French"}
 {"key": "pourquoi", "word": "pourquoi", "translation": "why", "note": ""}
 {"key": "pourriez-vous", "word": "Pourriez-vous", "translation": "could you", "note": "plural form; the final -s is usually silent in French"}
-{"key": "race", "word": "race", "translation": "breed", "note": ""}
+{"key": "race", "word": "race", "translation": "race; breed", "note": ""}
 {"key": "voie", "word": "voie", "translation": "way", "note": ""}
 {"key": "bois", "word": "bois", "translation": "woods", "note": "plural form; the final -s is usually silent in French"}
 {"key": "gens", "word": "gens", "translation": "people", "note": "plural form; the final -s is usually silent in French"}
@@ -369,7 +369,7 @@
 {"key": "jalonnent", "word": "jalonnent", "translation": "mark", "note": ""}
 {"key": "aucun", "word": "aucun", "translation": "none", "note": ""}
 {"key": "pourriez", "word": "pourriez", "translation": "could", "note": ""}
-{"key": "pu", "word": "pu", "translation": "could", "note": ""}
+{"key": "pu", "word": "pu", "translation": "been able to", "note": "past participle of pouvoir: j’ai pu = I was able to"}
 {"key": "détruire", "word": "détruire", "translation": "destroy", "note": "infinitive; French dictionaries list verbs in this re form"}
 {"key": "perdu", "word": "perdu", "translation": "lost", "note": "past participle; it can also agree in gender and number when used adjectivally"}
 {"key": "avait", "word": "avait", "translation": "had", "note": "avait is the imperfect of avoir, used for past background"}
@@ -393,8 +393,8 @@
 {"key": "rejoindre", "word": "rejoindre", "translation": "join", "note": "infinitive; French dictionaries list verbs in this re form"}
 {"key": "roi", "word": "roi", "translation": "king", "note": ""}
 {"key": "trois", "word": "trois", "translation": "three", "note": "plural form; the final -s is usually silent in French"}
-{"key": "dès", "word": "dès", "translation": "from", "note": ""}
-{"key": "puisse", "word": "puisse", "translation": "can", "note": ""}
+{"key": "dès", "word": "dès", "translation": "from; as soon as", "note": "dès que = as soon as; dès maintenant = from now on"}
+{"key": "puisse", "word": "puisse", "translation": "may; can", "note": "subjunctive of pouvoir: que je puisse = so that I can"}
 {"key": "plusieurs", "word": "plusieurs", "translation": "several", "note": "plural form; the final -s is usually silent in French"}
 {"key": "seront", "word": "seront", "translation": "will be", "note": ""}
 {"key": "d’être", "word": "d’être", "translation": "to be", "note": ""}
@@ -407,7 +407,7 @@
 {"key": "demandé", "word": "demandé", "translation": "asked", "note": ""}
 {"key": "morts", "word": "morts", "translation": "the dead", "note": "plural form; the final -s is usually silent in French"}
 {"key": "soldats", "word": "soldats", "translation": "soldiers", "note": "plural form; the final -s is usually silent in French"}
-{"key": "désormais", "word": "désormais", "translation": "henceforth", "note": "plural form; the final -s is usually silent in French"}
+{"key": "désormais", "word": "désormais", "translation": "from now on", "note": "plural form; the final -s is usually silent in French"}
 {"key": "peur", "word": "peur", "translation": "fear", "note": ""}
 {"key": "bêtes", "word": "bêtes", "translation": "beasts", "note": "plural form; the final -s is usually silent in French"}
 {"key": "derrière", "word": "derrière", "translation": "behind", "note": ""}
@@ -422,7 +422,7 @@
 {"key": "cherchez", "word": "cherchez", "translation": "seek", "note": ""}
 {"key": "sûrement", "word": "sûrement", "translation": "surely", "note": ""}
 {"key": "créature", "word": "créature", "translation": "creature", "note": "cognate: this English word shares a Latin root with the French form"}
-{"key": "car", "word": "car", "translation": "for", "note": ""}
+{"key": "car", "word": "car", "translation": "for; because", "note": "conjunction “for / because”; also a coach or bus"}
 {"key": "dû", "word": "dû", "translation": "should have", "note": ""}
 {"key": "flamme", "word": "flamme", "translation": "flame", "note": ""}
 {"key": "situation", "word": "situation", "translation": "situation", "note": "cognate: this English word shares a Latin root with the French form"}
@@ -459,8 +459,8 @@
 {"key": "quel", "word": "quel", "translation": "what", "note": ""}
 {"key": "ogres", "word": "Ogres", "translation": "Ogres", "note": "plural form; the final -s is usually silent in French"}
 {"key": "sait", "word": "sait", "translation": "knows", "note": ""}
-{"key": "plans", "word": "plans", "translation": "designs", "note": "plural form; the final -s is usually silent in French"}
-{"key": "utilisez", "word": "Utilisez", "translation": "Use", "note": ""}
+{"key": "plans", "word": "plans", "translation": "plans; maps; designs", "note": "plural form; the final -s is usually silent in French"}
+{"key": "utilisez", "word": "Utilisez", "translation": "use", "note": "vous command of utiliser"}
 {"key": "vrai", "word": "vrai", "translation": "true", "note": ""}
 {"key": "l’heure", "word": "l’heure", "translation": "hour", "note": ""}
 {"key": "capable", "word": "capable", "translation": "capable", "note": "cognate: French and English share this form through a common historical root"}
@@ -471,12 +471,12 @@
 {"key": "zone", "word": "zone", "translation": "area", "note": ""}
 {"key": "parmi", "word": "parmi", "translation": "among", "note": ""}
 {"key": "sécurité", "word": "sécurité", "translation": "safety", "note": ""}
-{"key": "cependant", "word": "Cependant", "translation": "However", "note": ""}
+{"key": "cependant", "word": "Cependant", "translation": "however", "note": ""}
 {"key": "contrôle", "word": "contrôle", "translation": "control", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "cours", "word": "cours", "translation": "course", "note": "plural form; the final -s is usually silent in French"}
 {"key": "capitaine", "word": "capitaine", "translation": "captain", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "soient", "word": "soient", "translation": "be", "note": ""}
-{"key": "sens", "word": "sens", "translation": "feeling", "note": "plural form; the final -s is usually silent in French"}
+{"key": "sens", "word": "sens", "translation": "sense; direction; meaning", "note": "also “I feel” (sentir): je sens = I feel"}
 {"key": "message", "word": "message", "translation": "message", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "retourner", "word": "retourner", "translation": "return", "note": "infinitive; French dictionaries list verbs in this er form"}
 {"key": "certain", "word": "certain", "translation": "certain", "note": "cognate: French and English share this form through a common historical root"}
@@ -491,16 +491,16 @@
 {"key": "découvert", "word": "découvert", "translation": "discovered", "note": ""}
 {"key": "j’aimerais", "word": "J’aimerais", "translation": "I’d like", "note": "plural form; the final -s is usually silent in French"}
 {"key": "trolls", "word": "Trolls", "translation": "Trolls", "note": "plural form; the final -s is usually silent in French"}
-{"key": "anciens", "word": "anciens", "translation": "eldest", "note": "plural form; the final -s is usually silent in French"}
+{"key": "anciens", "word": "anciens", "translation": "ancients; elders; former", "note": "plural form; the final -s is usually silent in French"}
 {"key": "autour", "word": "autour", "translation": "around", "note": ""}
 {"key": "d'un", "word": "d'un", "translation": "of a", "note": ""}
 {"key": "sort", "word": "sort", "translation": "spell", "note": ""}
 {"key": "amis", "word": "amis", "translation": "friends", "note": "plural form; the final -s is usually silent in French"}
-{"key": "base", "word": "base", "translation": "camp", "note": ""}
+{"key": "base", "word": "base", "translation": "base; camp", "note": ""}
 {"key": "récupérez", "word": "récupérez", "translation": "collect", "note": ""}
 {"key": "preuve", "word": "preuve", "translation": "proof", "note": ""}
 {"key": "confiance", "word": "confiance", "translation": "trust", "note": ""}
-{"key": "malheureusement", "word": "Malheureusement", "translation": "Unfortunately", "note": ""}
+{"key": "malheureusement", "word": "Malheureusement", "translation": "unfortunately", "note": ""}
 {"key": "éléments", "word": "éléments", "translation": "elements", "note": "plural form; the final -s is usually silent in French"}
 {"key": "davantage", "word": "davantage", "translation": "more", "note": ""}
 {"key": "terme", "word": "terme", "translation": "term", "note": ""}
@@ -515,7 +515,7 @@
 {"key": "prix", "word": "prix", "translation": "price", "note": "plural form; the final -s is usually silent in French"}
 {"key": "m’en", "word": "m’en", "translation": "some to me; me some", "note": "m’ is me elided before a vowel; en means “of it” or “some”"}
 {"key": "petits", "word": "petits", "translation": "small", "note": "plural form; the final -s is usually silent in French"}
-{"key": "parlez", "word": "Parlez", "translation": "Speak", "note": ""}
+{"key": "parlez", "word": "Parlez", "translation": "speak", "note": "vous command of parler"}
 {"key": "premier", "word": "premier", "translation": "first", "note": ""}
 {"key": "propre", "word": "propre", "translation": "own", "note": ""}
 {"key": "étaient", "word": "étaient", "translation": "were", "note": "étaient is the imperfect plural of être"}
@@ -533,17 +533,17 @@
 {"key": "qu'ils", "word": "qu'ils", "translation": "that they", "note": "plural form; the final -s is usually silent in French"}
 {"key": "repos", "word": "repos", "translation": "rest", "note": "plural form; the final -s is usually silent in French"}
 {"key": "efforts", "word": "efforts", "translation": "efforts", "note": "plural form; the final -s is usually silent in French"}
-{"key": "oh", "word": "Oh", "translation": "Oh", "note": ""}
+{"key": "oh", "word": "Oh", "translation": "oh", "note": ""}
 {"key": "simple", "word": "simple", "translation": "simple", "note": "cognate: French and English share this form through a common historical root"}
 {"key": "forme", "word": "forme", "translation": "shape", "note": ""}
-{"key": "long", "word": "long", "translation": "along", "note": ""}
+{"key": "long", "word": "long", "translation": "long", "note": "adjective “long”; not “along”"}
 {"key": "trésor", "word": "trésor", "translation": "treasure", "note": ""}
 {"key": "genre", "word": "genre", "translation": "kind", "note": ""}
 {"key": "histoire", "word": "histoire", "translation": "story", "note": "histoire is feminine and can mean either “story” or “history”"}
 {"key": "bout", "word": "bout", "translation": "end", "note": ""}
 {"key": "n’ont", "word": "n’ont", "translation": "don’t have", "note": ""}
 {"key": "ombres", "word": "ombres", "translation": "shadows", "note": "plural form; the final -s is usually silent in French"}
-{"key": "oui", "word": "Oui", "translation": "Yes", "note": ""}
+{"key": "oui", "word": "Oui", "translation": "yes", "note": ""}
 {"key": "appris", "word": "appris", "translation": "learned", "note": "past participle; it can also agree in gender and number when used adjectivally"}
 {"key": "presque", "word": "presque", "translation": "almost", "note": ""}
 {"key": "partout", "word": "partout", "translation": "everywhere", "note": ""}
@@ -561,7 +561,7 @@
 {"key": "conseil", "word": "conseil", "translation": "council", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "l’intérieur", "word": "l’intérieur", "translation": "the interior", "note": ""}
 {"key": "nouveaux", "word": "nouveaux", "translation": "new", "note": "plural form; the final -s is usually silent in French"}
-{"key": "terrain", "word": "terrain", "translation": "field", "note": ""}
+{"key": "terrain", "word": "terrain", "translation": "terrain; ground", "note": ""}
 {"key": "battre", "word": "battre", "translation": "beat", "note": "infinitive; French dictionaries list verbs in this re form"}
 {"key": "croire", "word": "croire", "translation": "believe", "note": "infinitive; French dictionaries list verbs in this re form"}
 {"key": "nature", "word": "nature", "translation": "nature", "note": "cognate: this English word shares a Latin root with the French form"}
@@ -570,15 +570,15 @@
 {"key": "d’abord", "word": "d’abord", "translation": "first", "note": "d’ + abord; the fixed adverb means “first”"}
 {"key": "lors", "word": "lors", "translation": "during", "note": "plural form; the final -s is usually silent in French"}
 {"key": "suffisamment", "word": "suffisamment", "translation": "enough", "note": ""}
-{"key": "ah", "word": "Ah", "translation": "Oh", "note": ""}
+{"key": "ah", "word": "Ah", "translation": "ah; oh", "note": ""}
 {"key": "coin", "word": "coin", "translation": "corner", "note": ""}
 {"key": "voulons", "word": "voulons", "translation": "want", "note": "plural form; the final -s is usually silent in French"}
 {"key": "armée", "word": "armée", "translation": "army", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "sol", "word": "sol", "translation": "ground", "note": ""}
 {"key": "question", "word": "question", "translation": "question", "note": "cognate: French and English share this form through a common historical root"}
 {"key": "champ", "word": "champ", "translation": "field", "note": ""}
-{"key": "prie", "word": "prie", "translation": "ask", "note": ""}
-{"key": "chez", "word": "chez", "translation": "at", "note": ""}
+{"key": "prie", "word": "prie", "translation": "pray; ask", "note": "prier = to pray, or to ask politely: je vous prie = I beg you"}
+{"key": "chez", "word": "chez", "translation": "at the home of; with", "note": "chez moi = at my place; chez les nains = among the dwarves"}
 {"key": "idée", "word": "idée", "translation": "idea", "note": ""}
 {"key": "n’avons", "word": "n’avons", "translation": "don’t have", "note": "plural form; the final -s is usually silent in French"}
 {"key": "puissants", "word": "puissants", "translation": "powerful", "note": "plural form; the final -s is usually silent in French"}
@@ -594,7 +594,7 @@
 {"key": "ordre", "word": "ordre", "translation": "order", "note": ""}
 {"key": "corruption", "word": "corruption", "translation": "corruption", "note": "cognate: this English word shares a Latin root with the French form"}
 {"key": "fabriquer", "word": "fabriquer", "translation": "make", "note": "infinitive; French dictionaries list verbs in this er form"}
-{"key": "suffit", "word": "suffit", "translation": "enough", "note": ""}
+{"key": "suffit", "word": "suffit", "translation": "suffices; is enough", "note": "il suffit de = all that is needed is"}
 {"key": "présenter", "word": "présenter", "translation": "to present", "note": "infinitive; French dictionaries list verbs in this er form"}
 {"key": "s’y", "word": "s’y", "translation": "in it", "note": ""}
 {"key": "combattre", "word": "combattre", "translation": "fight", "note": "infinitive; French dictionaries list verbs in this re form"}
@@ -3231,7 +3231,7 @@
 {"key": "princesse", "word": "princesse", "translation": "princess", "note": ""}
 {"key": "qu'à", "word": "qu'à", "translation": "but to; than to; only to", "note": "qu’ is que elided before a vowel; it often means “that”"}
 {"key": "regagner", "word": "regagner", "translation": "return to", "note": ""}
-{"key": "relâche", "word": "relâche", "translation": "without pause", "note": "sans relâche is a fixed phrase meaning “without pause”"}
+{"key": "relâche", "word": "relâche", "translation": "respite; break", "note": "sans relâche = without respite; the word itself is the pause"}
 {"key": "renom", "word": "renom", "translation": "reputation", "note": ""}
 {"key": "roués", "word": "Roués", "translation": "Broken", "note": "the established WoW people-name is the Broken, not a literal “twisted” label"}
 {"key": "ruine", "word": "ruine", "translation": "ruin; destruction; collapse", "note": ""}
@@ -26697,7 +26697,7 @@
 {"key": "recruteuse", "word": "recruteuse", "translation": "recruiter", "note": "recruteuse = female recruiter; feminine form"}
 {"key": "rectifier", "word": "rectifier", "translation": "rectify", "note": "rectify, correct, fix; put things right"}
 {"key": "recueillent", "word": "recueillent", "translation": "collect; gather", "note": "recueillir = gather; scouts collect information"}
-{"key": "reculons", "word": "reculons", "translation": "we never retreat", "note": "reculer = to back down; we don't back down"}
+{"key": "reculons", "word": "reculons", "translation": "we retreat; we back down", "note": "ne reculons jamais = we never back down; the negation sits outside this word. À reculons = backwards"}
 {"key": "reculées", "word": "reculées", "translation": "remote; distant", "note": "reculée = remote, far removed; distant lands"}
 {"key": "recyclant", "word": "recyclant", "translation": "by recycling", "note": "recyclant = by recycling; the queen decrees it"}
 {"key": "recyclera", "word": "recyclera", "translation": "will recycle", "note": "will recycle, will dismantle for parts"}
@@ -27829,7 +27829,7 @@
 {"key": "zhao", "word": "Zhao", "translation": "Zhao", "note": "proper name (spirit name)"}
 {"key": "zhar", "word": "Zhar", "translation": "Zhar", "note": "proper name (location)"}
 {"key": "zhusadormu", "word": "Zhusadormu", "translation": "Zhusadormu", "note": "proper name (character)"}
-{"key": "zhévras", "word": "zhévras", "translation": "zhévras", "note": "creature type (herd animal)"}
+{"key": "zhévras", "word": "zhévras", "translation": "zhevras", "note": "creature type (herd animal)"}
 {"key": "zim'bo", "word": "Zim'bo", "translation": "Zim'bo", "note": "proper name (character)"}
 {"key": "zim'torga", "word": "Zim'Torga", "translation": "Zim'Torga", "note": "proper name (faction/location)"}
 {"key": "zin’jun", "word": "Zin’jun", "translation": "Zin’jun", "note": ""}
@@ -27852,7 +27852,7 @@
 {"key": "z’en", "word": "z’en", "translation": "Zen", "note": ""}
 {"key": "z’herbes", "word": "z’herbes", "translation": "z’herbes", "note": ""}
 {"key": "ánima", "word": "ánima", "translation": "anima", "note": "this is Spanish, not French"}
-{"key": "ès", "word": "ès", "translation": "ès", "note": "archaic: en + les; used in academic titles"}
+{"key": "ès", "word": "ès", "translation": "in the; in (as in docteur ès lettres)", "note": "archaic en + les; used in academic titles"}
 {"key": "ébranle", "word": "ébranle", "translation": "shaken", "note": "shakes; disturbs; unsettles"}
 {"key": "ébruitée", "word": "ébruitée", "translation": "rumored", "note": "spread (news); publicized"}
 {"key": "ébréchée", "word": "ébréchée", "translation": "chipped", "note": "notched; broken edge"}
@@ -28382,7 +28382,7 @@
 {"key": "arrivistes", "word": "arrivistes", "translation": "upstarts", "note": "plural of arriviste; ambitious schemers"}
 {"key": "arrivèrent", "word": "arrivèrent", "translation": "arrived", "note": "simple past; multiple subjects ‘they came’"}
 {"key": "arrondir", "word": "arrondir", "translation": "smooth over", "note": "idiom arrondir les angles means to smooth things over diplomatically"}
-{"key": "arrêtait", "word": "arrêtait", "translation": "would not stop; kept going", "note": "imperfect tense; continuous past action"}
+{"key": "arrêtait", "word": "arrêtait", "translation": "stopped; was stopping", "note": "imperfect of arrêter; il arrêtait pas de + infinitive = he kept on doing"}
 {"key": "arrêterai", "word": "arrêterai", "translation": "will stop", "note": "future tense first person; decisive action ahead"}
 {"key": "arrêtez-le", "word": "Arrêtez-le", "translation": "Stop him", "note": "imperative with pronoun; direct command"}
 {"key": "arrêtées", "word": "arrêtées", "translation": "stopped; halted", "note": "feminine plural past participle; can mean arrested in legal context"}
@@ -29601,7 +29601,7 @@
 {"key": "cécité", "word": "cécité", "translation": "blindness", "note": "medical condition; from cécus (blind in Latin)"}
 {"key": "cédera", "word": "cédera", "translation": "will give in; will yield", "note": "future tense of céder; surrender"}
 {"key": "céderai", "word": "céderai", "translation": "will give in", "note": "future tense of céder; I will yield"}
-{"key": "céderons", "word": "céderons", "translation": "will not give in; won't surrender", "note": "negated future; we won't yield"}
+{"key": "céderons", "word": "céderons", "translation": "we will yield; we will give in", "note": "future of céder; the “not” came from ne … pas around it"}
 {"key": "cédraptor", "word": "cédraptor", "translation": "cedraptor", "note": "WoW creature name; cèdre (cedar) + raptor"}
 {"key": "cédric", "word": "Cédric", "translation": "Cédric", "note": "French personal name; equiv. to Cedric"}
 {"key": "célestine", "word": "Célestine", "translation": "Célestine", "note": ""}
@@ -34857,7 +34857,7 @@
 {"key": "recréée", "word": "recréée", "translation": "recreated; remade", "note": "feminine form; made again from scratch"}
 {"key": "recueillons", "word": "recueillons", "translation": "we gather; we collect", "note": "first person plural; also means 'let's collect or welcome'"}
 {"key": "reculera", "word": "reculera", "translation": "will retreat; will back down", "note": "future tense; will not shrink from"}
-{"key": "reculeront", "word": "reculeront", "translation": "will retreat; will not flinch", "note": "third person plural future; will not give ground"}
+{"key": "reculeront", "word": "reculeront", "translation": "will retreat; will back down", "note": "future of reculer; ne reculeront devant rien = will stop at nothing"}
 {"key": "recyclables", "word": "recyclables", "translation": "recyclables; recyclable materials", "note": "plural; materials that can be recycled"}
 {"key": "recyclerie", "word": "Recyclerie", "translation": "recycling center; scrapyard", "note": "proper noun or location name"}
 {"key": "red", "word": "red", "translation": "red", "note": "foreign language text (not French) in quest dialog; Vrykul language"}
@@ -34882,8 +34882,8 @@
 {"key": "refroidit", "word": "refroidit", "translation": "cools; chills", "note": "becomes cold or loses heat"}
 {"key": "reftis", "word": "reftis", "translation": "reftis", "note": "appears to be WoW-specific creature or being type; keep as is"}
 {"key": "refusait", "word": "refusait", "translation": "refused; would not", "note": "imperfect tense; habitually refused"}
-{"key": "refuseraient", "word": "refuseraient", "translation": "would not refuse; would welcome", "note": "conditional; allies would accept aid"}
-{"key": "refuserait", "word": "refuserait", "translation": "would refuse; would not condemn", "note": "conditional; the prophet would not damn them"}
+{"key": "refuseraient", "word": "refuseraient", "translation": "would refuse; would turn down", "note": "conditional of refuser; ne refuseraient pas = would not turn down"}
+{"key": "refuserait", "word": "refuserait", "translation": "would refuse; would decline", "note": "conditional of refuser; se refuser à = to refuse to"}
 {"key": "refusés", "word": "refusés", "translation": "refused; denied", "note": "past participle; reinforcements were denied"}
 {"key": "regagniez", "word": "regagniez", "translation": "return to; regain", "note": "make your way back to Zuldazar"}
 {"key": "regarderai", "word": "regarderai", "translation": "will watch; will observe", "note": "future tense; I'll keep an eye on things"}
@@ -38665,7 +38665,7 @@
 {"key": "bert", "word": "Bert", "translation": "Bert", "note": "proper name (NPC)"}
 {"key": "beruun", "word": "Beruun", "translation": "Beruun", "note": "proper name (NPC)"}
 {"key": "berçais", "word": "berçais", "translation": "was rocking; was cradling", "note": "imperfect; idiom: was deluding"}
-{"key": "berçons", "word": "berçons", "translation": "let's not fool ourselves", "note": "imperative: don't cradle illusions"}
+{"key": "berçons", "word": "berçons", "translation": "we lull; we delude", "note": "bercer = to rock or lull; se bercer d’illusions = to delude oneself"}
 {"key": "beside", "word": "Beside", "translation": "Beside", "note": "English: next to"}
 {"key": "beska", "word": "Beska", "translation": "Beska", "note": "proper name (NPC innkeeper)"}
 {"key": "bestia", "word": "bestia", "translation": "bestia", "note": "Spanish/Latin: beast"}
@@ -38839,7 +38839,7 @@
 {"key": "borgulla", "word": "Borgulla", "translation": "Borgulla", "note": ""}
 {"key": "born", "word": "Born", "translation": "Born", "note": ""}
 {"key": "bornehiver", "word": "Bornehiver", "translation": "Winterborne", "note": "official English name; literal: winter-born"}
-{"key": "borneront", "word": "borneront", "translation": "will not limit themselves; will extend beyond", "note": "future tense of se borner (to confine oneself); often negated"}
+{"key": "borneront", "word": "borneront", "translation": "will limit themselves; will confine themselves", "note": "future of se borner à; ne se borneront pas = will not stop at"}
 {"key": "bornés", "word": "bornés", "translation": "narrow-minded; limited", "note": "stubborn or unimaginative; from borne (boundary)"}
 {"key": "borobois", "word": "Borobois", "translation": "Borobois", "note": ""}
 {"key": "borogahn", "word": "Borogahn", "translation": "Borogahn", "note": ""}
@@ -42237,7 +42237,7 @@
 {"key": "démembrements", "word": "démembrements", "translation": "dismemberments; severances", "note": "plural noun; the act of separating body parts"}
 {"key": "démembrent", "word": "démembrent", "translation": "dismember; tear apart", "note": "present tense; they tear things into pieces"}
 {"key": "démembré", "word": "démembré", "translation": "dismembered", "note": "past participle; a body torn apart"}
-{"key": "démenti", "word": "démenti", "translation": "disproved; never failed", "note": "past participle; a principle that never faltered or proved wrong"}
+{"key": "démenti", "word": "démenti", "translation": "belied; denied; contradicted", "note": "past participle of démentir; ne s’est jamais démenti = has never been contradicted"}
 {"key": "démentie", "word": "démentie", "translation": "wavered; faltered", "note": "past participle feminine; loyalty never wavered"}
 {"key": "démentielle", "word": "démentielle", "translation": "maddening; unbearable", "note": "feminine; insane or extremely intense"}
 {"key": "démesurées", "word": "démesurées", "translation": "excessive; disproportionate", "note": "feminine plural; efforts going beyond reason"}
@@ -43630,7 +43630,7 @@
 {"key": "emmêlage", "word": "Emmêlage", "translation": "Tangling", "note": "tangling up, matting"}
 {"key": "emmêlée", "word": "emmêlée", "translation": "tangled", "note": "matted, disheveled; feminine"}
 {"key": "emmêlés", "word": "emmêlés", "translation": "tangled", "note": "matted, snarled; masculine plural"}
-{"key": "emm’né", "word": "emm’né", "translation": "emm’né", "note": ""}
+{"key": "emm’né", "word": "emm’né", "translation": "taken away", "note": "spoken clipping of emmené"}
 {"key": "empaffé", "word": "empaffé", "translation": "chubby", "note": "fat, bloated; colloquial"}
 {"key": "empaffés", "word": "empaffés", "translation": "fat", "note": "chubby, hefty; masculine plural"}
 {"key": "empaleurs", "word": "empaleurs", "translation": "impalers", "note": "those who impale; pike users"}
@@ -44303,7 +44303,7 @@
 {"key": "faiblards", "word": "faiblards", "translation": "weaklings", "note": "weak persons"}
 {"key": "faibli", "word": "faibli", "translation": "weakened", "note": "became weak"}
 {"key": "faiblira", "word": "faiblira", "translation": "will weaken", "note": "future of faiblir"}
-{"key": "faiblissons", "word": "faiblissons", "translation": "let us not weaken", "note": "imperative"}
+{"key": "faiblissons", "word": "faiblissons", "translation": "we weaken; we falter", "note": "imperative"}
 {"key": "faila", "word": "Faila", "translation": "Faila", "note": "proper name"}
 {"key": "faille-ouest", "word": "Faille-Ouest", "translation": "West Rift", "note": "zone name in game"}
 {"key": "faillira", "word": "faillira", "translation": "will fail", "note": "future of faillir"}
@@ -44498,7 +44498,7 @@
 {"key": "fido", "word": "Fido", "translation": "Fido", "note": "NPC name; creature feeding"}
 {"key": "fidélisation", "word": "fidélisation", "translation": "loyalty", "note": "from fidele (loyal); retention strategy"}
 {"key": "fidéliser", "word": "fidéliser", "translation": "retain", "note": "to build loyalty"}
-{"key": "fieffées", "word": "fieffées", "translation": "fieffées", "note": "from fief; feminine plural - sworn to a lord"}
+{"key": "fieffées", "word": "fieffées", "translation": "arrant; out-and-out", "note": "fieffé intensifies a flaw: une fieffée menteuse = an out-and-out liar"}
 {"key": "fielaile", "word": "Fielaile", "translation": "Fielawing", "note": "NPC name; contrast with input spelling"}
 {"key": "fielleuse", "word": "Fielleuse", "translation": "fiendish; wicked", "note": "from fiel (gall, bile)"}
 {"key": "fient", "word": "fient", "translation": "trusting; arrogant", "note": "from se fier (to trust) or fier (proud)"}
@@ -48821,7 +48821,7 @@
 {"key": "l’innervation", "word": "l’innervation", "translation": "innervation", "note": "supply of nerves to body"}
 {"key": "l’inquisition", "word": "l’inquisition", "translation": "the inquisition", "note": "judicial inquiry or investigation"}
 {"key": "l’inquiéter", "word": "l’inquiéter", "translation": "to worry it", "note": "from inquiéter, to trouble"}
-{"key": "l’inquiétons", "word": "l’inquiétons", "translation": "let's not worry it", "note": "negative command form"}
+{"key": "l’inquiétons", "word": "l’inquiétons", "translation": "we worry him; we worry her; we worry it", "note": "negative command form"}
 {"key": "l’insatiable", "word": "l’Insatiable", "translation": "the Insatiable", "note": "unable to be satisfied"}
 {"key": "l’insectifuge", "word": "L’insectifuge", "translation": "insect repellent", "note": ""}
 {"key": "l’insertion", "word": "l’insertion", "translation": "the insertion", "note": "act of putting in"}
@@ -49345,7 +49345,7 @@
 {"key": "manquais", "word": "manquais", "translation": "was missing; was failing; would neglect", "note": "imperfect past; describes failing to send or deliver"}
 {"key": "manquement", "word": "manquement", "translation": "breach; failure; lapse; neglect", "note": "noun; violation of duty or failure to fulfill responsibility"}
 {"key": "manquements", "word": "manquements", "translation": "breaches; failures; lapses; offenses", "note": "plural noun; multiple failures or violations of duty"}
-{"key": "manquiez", "word": "manquiez", "translation": "missed; failed; would not miss", "note": "imperfect second person; describes potentially missing an important event"}
+{"key": "manquiez", "word": "manquiez", "translation": "you miss; you fail", "note": "subjunctive of manquer"}
 {"key": "manquée", "word": "manquée", "translation": "missed; failed; misdirected", "note": "feminine past participle; describes a path that was followed before"}
 {"key": "mansuétude", "word": "mansuétude", "translation": "gentleness; leniency; mercy; clemency", "note": "noun; describes merciful or mild treatment"}
 {"key": "mantepierre", "word": "Mantepierre", "translation": "Stonemantle", "note": "proper name; appears as location or establishment"}
@@ -52908,7 +52908,7 @@
 {"key": "m’orienter", "word": "m’orienter", "translation": "guide me", "note": "direct/orient"}
 {"key": "m’oubliait", "word": "m’oubliait", "translation": "forgot me", "note": "failed to remember"}
 {"key": "m’oublier", "word": "m’oublier", "translation": "forget me", "note": "cease remembering"}
-{"key": "m’oubliera", "word": "m’oubliera", "translation": "won’t forget me", "note": "will remember kindness"}
+{"key": "m’oubliera", "word": "m’oubliera", "translation": "will forget me", "note": "future of oublier with m’ = me"}
 {"key": "m’ramener", "word": "m’ramener", "translation": "bring me back", "note": "carry back (colloquial)"}
 {"key": "m’rapporter", "word": "m’rapporter", "translation": "return to me", "note": "bring news (colloquial)"}
 {"key": "m’remplir", "word": "m’remplir", "translation": "provision me", "note": "supply with rations/weapons"}
@@ -53897,7 +53897,7 @@
 {"key": "rimer", "word": "rimer", "translation": "rhyme", "note": "to make or create rhymes"}
 {"key": "rincer", "word": "rincer", "translation": "rinse", "note": "to rinse or wash out; 'se rincer la gorge' = wet one's whistle (have a drink)"}
 {"key": "rio", "word": "Rio", "translation": "Rio", "note": "NPC name or potion reference"}
-{"key": "ripostait", "word": "ripostait", "translation": "was not counterattacking; was not retaliating", "note": "imperfect; the abomination would not retaliate"}
+{"key": "ripostait", "word": "ripostait", "translation": "was retaliating; was hitting back", "note": "imperfect of riposter; the “not” came from ne … pas around it"}
 {"key": "ripostent", "word": "ripostent", "translation": "fight back; retaliate", "note": "present tense third person plural of riposter"}
 {"key": "riposteront", "word": "riposteront", "translation": "will retaliate", "note": "future tense; a proud people will strike back"}
 {"key": "riraient", "word": "riraient", "translation": "would laugh", "note": "conditional; mages could manipulate time, so powerful rulers would laugh at us"}
@@ -62866,7 +62866,7 @@
 {"key": "ouaiiiis", "word": "Ouaiiiis", "translation": "Yeah", "note": "emphatic colloquial exclamation with repeated i's for exaggerated enthusiasm"}
 {"key": "oublieux", "word": "oublieux", "translation": "forgetful", "note": "adjective describing a character trait"}
 {"key": "oublierez", "word": "oublierez", "translation": "will forget", "note": "2nd person plural future tense"}
-{"key": "oublierons", "word": "oublierons", "translation": "will not forget", "note": "1st person plural future; context includes negation \"n'oublierons pas\""}
+{"key": "oublierons", "word": "oublierons", "translation": "we will forget", "note": "future of oublier; the “not” came from ne … pas around it"}
 {"key": "ouvrefaille", "word": "Ouvrefaille", "translation": "Riftopener", "note": "surname from ouvre (opens) + faille (rift); NPC epithet"}
 {"key": "ouvrirez", "word": "ouvrirez", "translation": "will open", "note": "2nd person plural future tense"}
 {"key": "overspark", "word": "Overspark", "translation": "Overspark", "note": ""}
@@ -63337,7 +63337,7 @@
 {"key": "zelanis", "word": "Zelanis", "translation": "Zelanis", "note": ""}
 {"key": "zen'tabra", "word": "Zen'Tabra", "translation": "Zen'Tabra", "note": ""}
 {"key": "zig", "word": "Zig", "translation": "Zig", "note": ""}
-{"key": "zhévra", "word": "zhévra", "translation": "zhévra", "note": "WoW creature type; preserve accent"}
+{"key": "zhévra", "word": "zhévra", "translation": "zhevra", "note": "WoW creature type; preserve accent"}
 {"key": "zil", "word": "Zil", "translation": "Zil", "note": ""}
 {"key": "zivlix", "word": "Zivlix", "translation": "Zivlix", "note": ""}
 {"key": "zor'be", "word": "Zor'be", "translation": "Zor'be", "note": ""}
@@ -68032,7 +68032,7 @@
 {"key": "mécréant", "word": "mécréant", "translation": "scoundrel; brigand", "note": "unbeliever or wicked person; thief harassing"}
 {"key": "mécènes", "word": "mécènes", "translation": "patrons", "note": "benefactors; supporting Pozzik's work"}
 {"key": "mécano-seigneur", "word": "Mécano-seigneur", "translation": "Mechano-Lord", "note": "mécano (mechanical) + seigneur (lord); being"}
-{"key": "mégoté", "word": "mégoté", "translation": "didn't skimp; held back nothing", "note": "false friend: to skimp; here means generous quantity"}
+{"key": "mégoté", "word": "mégoté", "translation": "skimped; haggled", "note": "mégoter = to skimp; pas mégoté = did not skimp"}
 {"key": "méli-mélo", "word": "méli-mélo", "translation": "jumble; hodgepodge", "note": "messy collection; mix of lost knowledge"}
 {"key": "mélodieux", "word": "mélodieux", "translation": "melodious", "note": "beautiful and musical; Naaru telepathy"}
 {"key": "mélodramatique", "word": "mélodramatique", "translation": "melodramatic", "note": "theatrical tone; engineer's passionate plea"}
@@ -69679,7 +69679,7 @@
 {"key": "turquoise", "word": "turquoise", "translation": "turquoise", "note": "color/gem type beetle; one of four to slay"}
 {"key": "turyen", "word": "Turyen", "translation": "Turyan", "note": "fallen warrior name; Flintrush holds insignia of dead companions"}
 {"key": "twiggy", "word": "Twiggy", "translation": "Twiggy", "note": "NPC proper name; master of warriors on Dispute Isle"}
-{"key": "twouvé", "word": "twouvé", "translation": "twouvé", "note": "corrupted text; likely 'trouvé' (found) with speech impediment"}
+{"key": "twouvé", "word": "twouvé", "translation": "found (baby talk)", "note": "baby-talk spelling of trouvé"}
 {"key": "typos", "word": "typos", "translation": "typos", "note": "English word; quest text deliberately has spelling errors"}
 {"key": "tyrygosa", "word": "Tyrygosa", "translation": "Tyrygosa", "note": "dragon proper name; Malygos's kin, companion of Jorad"}
 {"key": "tyrsdottar", "word": "Tyrsdottar", "translation": "Tyrsdottar", "note": "NPC proper name; challenge to save Zeev Fuse-Spark"}
