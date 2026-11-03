@@ -31179,7 +31179,7 @@ WordHunterWoW_Dictionary_FR["intenses"] = { word = "intenses", translation = "in
 WordHunterWoW_Dictionary_FR["intensif"] = { word = "intensif", translation = "intensive", note = "concentrated or thorough" }
 WordHunterWoW_Dictionary_FR["intensifiant"] = { word = "intensifiant", translation = "intensifying", note = "strengthening or increasing in force" }
 WordHunterWoW_Dictionary_FR["intensifient"] = { word = "intensifient", translation = "intensify", note = "3rd person plural: strengthen or heighten" }
-WordHunterWoW_Dictionary_FR["intensifier"] = { word = "Intensifier", translation = "Intensify", note = "increase in strength or effect (title-cased)" }
+WordHunterWoW_Dictionary_FR["intensifier"] = { word = "Intensifier", translation = "intensify", note = "increase in strength or effect (title-cased)" }
 WordHunterWoW_Dictionary_FR["intensifié"] = { word = "intensifié", translation = "intensified", note = "masculine past participle; made stronger" }
 WordHunterWoW_Dictionary_FR["intensifiée"] = { word = "intensifiée", translation = "intensified", note = "feminine past participle; made more intense" }
 WordHunterWoW_Dictionary_FR["intensifiés"] = { word = "intensifiés", translation = "intensified", note = "past participle: made stronger or more intense" }
@@ -31195,7 +31195,7 @@ WordHunterWoW_Dictionary_FR["intentions"] = { word = "intentions", translation =
 WordHunterWoW_Dictionary_FR["interactif"] = { word = "interactif", translation = "interactive", note = "involving mutual action or influence" }
 WordHunterWoW_Dictionary_FR["interaction"] = { word = "interaction", translation = "interaction", note = "Latin cognate: mutual influence or action" }
 WordHunterWoW_Dictionary_FR["interactions"] = { word = "interactions", translation = "interactions", note = "mutual or reciprocal actions" }
-WordHunterWoW_Dictionary_FR["interagir"] = { word = "Interagir", translation = "Interact", note = "act upon each other; communicate or cooperate" }
+WordHunterWoW_Dictionary_FR["interagir"] = { word = "Interagir", translation = "interact", note = "act upon each other; communicate or cooperate" }
 WordHunterWoW_Dictionary_FR["interagiraient"] = { word = "interagiraient", translation = "they would interact", note = "conditional plural; hypothetical about how these creatures might interact" }
 WordHunterWoW_Dictionary_FR["interagissent"] = { word = "interagissent", translation = "interact", note = "present, third-person plural of « interagir »" }
 WordHunterWoW_Dictionary_FR["interagissez"] = { word = "Interagissez", translation = "Interact", note = "imperative: you should interact with this object" }
@@ -31270,7 +31270,7 @@ WordHunterWoW_Dictionary_FR["interroger"] = { word = "interroger", translation =
 WordHunterWoW_Dictionary_FR["interrogerez"] = { word = "interrogerez", translation = "you will question", note = "future 2nd person: you will interrogate" }
 WordHunterWoW_Dictionary_FR["interrogez"] = { word = "Interrogez", translation = "question; interrogate", note = "the -ez ending marks a plural/formal command or a vous-form verb" }
 WordHunterWoW_Dictionary_FR["interrogez-le"] = { word = "interrogez-le", translation = "interrogate him", note = "imperative with direct object; question him" }
-WordHunterWoW_Dictionary_FR["interrogez-les"] = { word = "Interrogez-les", translation = "Ask them", note = "command — question or query (plural)" }
+WordHunterWoW_Dictionary_FR["interrogez-les"] = { word = "Interrogez-les", translation = "ask them", note = "command — question or query (plural)" }
 WordHunterWoW_Dictionary_FR["interrogiez"] = { word = "interrogiez", translation = "question; interrogate", note = "conditional: Magistrix wants you to interrogate the Magister" }
 WordHunterWoW_Dictionary_FR["interrogé"] = { word = "interrogé", translation = "interrogated", note = "" }
 WordHunterWoW_Dictionary_FR["interrogée"] = { word = "interrogée", translation = "interrogated", note = "feminine past participle: questioned or examined" }
@@ -31543,7 +31543,7 @@ WordHunterWoW_Dictionary_FR["invoquerions"] = { word = "invoquerions", translati
 WordHunterWoW_Dictionary_FR["invoquerons"] = { word = "invoquerons", translation = "we will invoke", note = "future tense; we shall summon or appeal to" }
 WordHunterWoW_Dictionary_FR["invoqueront"] = { word = "invoqueront", translation = "they will invoke", note = "they will summon or call upon" }
 WordHunterWoW_Dictionary_FR["invoquez"] = { word = "invoquez", translation = "invoke", note = "the -ez is a vous command; invoquer means to invoke or call upon" }
-WordHunterWoW_Dictionary_FR["invoquez-la"] = { word = "Invoquez-la", translation = "Summon her", note = "command form — call upon her presence or power" }
+WordHunterWoW_Dictionary_FR["invoquez-la"] = { word = "Invoquez-la", translation = "summon her", note = "command form — call upon her presence or power" }
 WordHunterWoW_Dictionary_FR["invoquiez"] = { word = "invoquiez", translation = "invoke; summon", note = "conditional: summon a Dark Messenger at Aldur'thar" }
 WordHunterWoW_Dictionary_FR["invoquèrent"] = { word = "invoquèrent", translation = "invoked", note = "past tense — they summoned or called upon" }
 WordHunterWoW_Dictionary_FR["invoqué"] = { word = "invoqué", translation = "invoked", note = "past participle or adjective; its ending may agree in gender and number" }
@@ -32159,7 +32159,7 @@ WordHunterWoW_Dictionary_FR["jardiner"] = { word = "jardiner", translation = "ga
 WordHunterWoW_Dictionary_FR["jardinet"] = { word = "jardinet", translation = "small garden", note = "jardinet: diminutive of jardin (garden)" }
 WordHunterWoW_Dictionary_FR["jardinier"] = { word = "jardinier", translation = "gardener", note = "masculine singular; one who tends plants" }
 WordHunterWoW_Dictionary_FR["jardiniers"] = { word = "jardiniers", translation = "gardeners", note = "masculine plural; plant tenders" }
-WordHunterWoW_Dictionary_FR["jardinière"] = { word = "jardinière", translation = "gardener; gardening woman", note = "female gardener; not a planter pot (that would be différent context)" }
+WordHunterWoW_Dictionary_FR["jardinière"] = { word = "jardinière", translation = "gardener; flower box; planter", note = "female gardener; not a planter pot (that would be différent context)" }
 WordHunterWoW_Dictionary_FR["jardinières"] = { word = "jardinières", translation = "planters", note = "feminine plural; garden planters or planters boxes" }
 WordHunterWoW_Dictionary_FR["jardins"] = { word = "jardins", translation = "gardens", note = "plural form; the final -s is usually silent in French" }
 WordHunterWoW_Dictionary_FR["jared"] = { word = "Jared", translation = "Jared", note = "" }
@@ -32483,7 +32483,7 @@ WordHunterWoW_Dictionary_FR["jouer"] = { word = "jouer", translation = "play", n
 WordHunterWoW_Dictionary_FR["jouera"] = { word = "jouera", translation = "he/she will play", note = "third person singular future" }
 WordHunterWoW_Dictionary_FR["jouerai"] = { word = "jouerai", translation = "I will play", note = "future: will play" }
 WordHunterWoW_Dictionary_FR["jouerait"] = { word = "jouerait", translation = "he/she would play", note = "conditional third person; might play" }
-WordHunterWoW_Dictionary_FR["jouerez"] = { word = "jouerez", translation = "you will you play; you will play", note = "future tense; formal or plural address" }
+WordHunterWoW_Dictionary_FR["jouerez"] = { word = "jouerez", translation = "you will play", note = "future tense; formal or plural address" }
 WordHunterWoW_Dictionary_FR["joueriez"] = { word = "joueriez", translation = "you would play", note = "conditional 2nd person: would play" }
 WordHunterWoW_Dictionary_FR["jouerons"] = { word = "jouerons", translation = "we will play", note = "" }
 WordHunterWoW_Dictionary_FR["joueront"] = { word = "joueront", translation = "they will play", note = "future of jouer" }
@@ -32582,7 +32582,7 @@ WordHunterWoW_Dictionary_FR["juger"] = { word = "juger", translation = "judge", 
 WordHunterWoW_Dictionary_FR["jugera"] = { word = "jugera", translation = "he/she will judge", note = "future tense; will evaluate or assess; single subject" }
 WordHunterWoW_Dictionary_FR["jugerai"] = { word = "jugerai", translation = "I will judge", note = "future tense, first person; I will evaluate or assess" }
 WordHunterWoW_Dictionary_FR["jugerez"] = { word = "jugerez", translation = "you will judge", note = "future of juger" }
-WordHunterWoW_Dictionary_FR["jugeront"] = { word = "jugeront", translation = "they will judge; they will judge", note = "future tense, third person plural; they will evaluate" }
+WordHunterWoW_Dictionary_FR["jugeront"] = { word = "jugeront", translation = "they will judge", note = "future tense, third person plural; they will evaluate" }
 WordHunterWoW_Dictionary_FR["juges"] = { word = "juges", translation = "judges", note = "judges (plural) or present 2nd person verb" }
 WordHunterWoW_Dictionary_FR["jugez"] = { word = "jugez", translation = "judge; you judge", note = "imperative or present tense; evaluate or form an opinion" }
 WordHunterWoW_Dictionary_FR["jugez-en"] = { word = "jugez-en", translation = "judge it", note = "imperative + pronoun: you judge it" }
@@ -32640,7 +32640,7 @@ WordHunterWoW_Dictionary_FR["jurerez"] = { word = "jurerez", translation = "you 
 WordHunterWoW_Dictionary_FR["jureriez"] = { word = "jureriez", translation = "you would swear", note = "conditional 2nd person: would swear" }
 WordHunterWoW_Dictionary_FR["jurez"] = { word = "jurez", translation = "swear", note = "present 2nd person: you swear" }
 WordHunterWoW_Dictionary_FR["jurez-le"] = { word = "Jurez-le", translation = "Swear it", note = "" }
-WordHunterWoW_Dictionary_FR["jurez-moi"] = { word = "Jurez-moi", translation = "Swear to me; Vow to me", note = "command form; demand a solemn promise" }
+WordHunterWoW_Dictionary_FR["jurez-moi"] = { word = "Jurez-moi", translation = "swear to me; vow to me", note = "command form; demand a solemn promise" }
 WordHunterWoW_Dictionary_FR["jurez-vous"] = { word = "Jurez-vous", translation = "Do you swear", note = "imperative interrogative: will you take an oath?" }
 WordHunterWoW_Dictionary_FR["juridiction"] = { word = "juridiction", translation = "jurisdiction", note = "jurisdiction; legal authority" }
 WordHunterWoW_Dictionary_FR["juridique"] = { word = "juridique", translation = "legal", note = "legal; relating to law" }
@@ -32888,14 +32888,14 @@ WordHunterWoW_Dictionary_FR["j’hésite"] = { word = "J’hésite", translation
 WordHunterWoW_Dictionary_FR["j’ignorais"] = { word = "J’ignorais", translation = "I did not know; I was unaware of", note = "imperfect of ignorer, which usually means not to know: j’ignorais qu’elle viendrait = I did not know she would come" }
 WordHunterWoW_Dictionary_FR["j’ignore"] = { word = "J’ignore", translation = "I don't know", note = "j’ is je elided before a vowel" }
 WordHunterWoW_Dictionary_FR["j’illuminerai"] = { word = "j’illuminerai", translation = "I will illuminate", note = "from indiquer" }
-WordHunterWoW_Dictionary_FR["j’imaginais"] = { word = "j’imaginais", translation = "I imagined", note = "j' (I) + imaginais (imagined); imperfect tense, repeated or ongoing past action" }
+WordHunterWoW_Dictionary_FR["j’imaginais"] = { word = "j’imaginais", translation = "I was imagining; I imagined", note = "j' (I) + imaginais (imagined); imperfect tense, repeated or ongoing past action" }
 WordHunterWoW_Dictionary_FR["j’imagine"] = { word = "J’imagine", translation = "I imagine; I suppose", note = "j’imagine que = I suppose that; not “so” or “extremely”" }
 WordHunterWoW_Dictionary_FR["j’imprègne"] = { word = "j’imprègne", translation = "I impregnate", note = "" }
 WordHunterWoW_Dictionary_FR["j’indiquerai"] = { word = "J’indiquerai", translation = "I will indicate", note = "from initier" }
 WordHunterWoW_Dictionary_FR["j’informerai"] = { word = "J’informerai", translation = "I will inform", note = "elision je; future tense; notify or tell" }
 WordHunterWoW_Dictionary_FR["j’initierai"] = { word = "j’initierai", translation = "I will initiate", note = "from interpreter" }
 WordHunterWoW_Dictionary_FR["j’insiste"] = { word = "J’insiste", translation = "I insist", note = "present tense of insister; I insist" }
-WordHunterWoW_Dictionary_FR["j’inspectais"] = { word = "j’inspectais", translation = "I inspected", note = "j' (I) + inspectais (inspected); imperfect tense, was inspecting" }
+WordHunterWoW_Dictionary_FR["j’inspectais"] = { word = "j’inspectais", translation = "I was inspecting; I inspected", note = "j' (I) + inspectais (inspected); imperfect tense, was inspecting" }
 WordHunterWoW_Dictionary_FR["j’inspecte"] = { word = "j’inspecte", translation = "I inspect", note = "j' (I) + inspecte (inspect); present tense" }
 WordHunterWoW_Dictionary_FR["j’interprète"] = { word = "j’interprète", translation = "I interpret", note = "from interrompre" }
 WordHunterWoW_Dictionary_FR["j’interromps"] = { word = "j’interromps", translation = "I interrupt", note = "from invoquer" }
@@ -32960,7 +32960,7 @@ WordHunterWoW_Dictionary_FR["j’pourrai"] = { word = "j’pourrai", translation
 WordHunterWoW_Dictionary_FR["j’pourrais"] = { word = "j’pourrais", translation = "I could", note = "colloquial je pourrais; conditional first person" }
 WordHunterWoW_Dictionary_FR["j’prends"] = { word = "J’prends", translation = "I take", note = "from sentir" }
 WordHunterWoW_Dictionary_FR["j’propose"] = { word = "J’propose", translation = "I propose", note = "from etre" }
-WordHunterWoW_Dictionary_FR["j’puisse"] = { word = "j’puisse", translation = "I can; I may", note = "j' (I) + puisse (can); subjunctive mood, to be able or permitted" }
+WordHunterWoW_Dictionary_FR["j’puisse"] = { word = "j’puisse", translation = "that I can; I may be able to", note = "j' (I) + puisse (can); subjunctive mood, to be able or permitted" }
 WordHunterWoW_Dictionary_FR["j’ramasse"] = { word = "J’ramasse", translation = "I pick up", note = "from supposer" }
 WordHunterWoW_Dictionary_FR["j’rappliquerais"] = { word = "j’rappliquerais", translation = "I would come back", note = "j' (I) + rappliquerais (would come back); slang form of rapliquer, to return quickly" }
 WordHunterWoW_Dictionary_FR["j’regrette"] = { word = "J’regrette", translation = "I regret", note = "from travailler" }
@@ -33961,7 +33961,7 @@ WordHunterWoW_Dictionary_FR["l'a"] = { word = "l'a", translation = "have it", no
 WordHunterWoW_Dictionary_FR["l'a-t-elle"] = { word = "l'a-t-elle", translation = "does she have it", note = "auxiliary inversion: a (has) + t (euphonic) + elle (she)" }
 WordHunterWoW_Dictionary_FR["l'abandonner"] = { word = "l'abandonner", translation = "abandon it", note = "to leave behind" }
 WordHunterWoW_Dictionary_FR["l'abattoir"] = { word = "l'abattoir", translation = "the slaughterhouse", note = "abattoir: place where livestock is slaughtered" }
-WordHunterWoW_Dictionary_FR["l'abattre"] = { word = "l'abattre", translation = "fell; bring down; slay", note = "abattre: to fell (like a tree); to strike down; in combat, to defeat or slay" }
+WordHunterWoW_Dictionary_FR["l'abattre"] = { word = "l'abattre", translation = "fell it; bring it down; slay it", note = "abattre: to fell (like a tree); to strike down; in combat, to defeat or slay" }
 WordHunterWoW_Dictionary_FR["l'abattrez"] = { word = "l'abattrez", translation = "you will kill it", note = "future tense of abattre (to kill/slaughter), though machine gave 'knock down'; 'l'' is the object pronoun 'it'" }
 WordHunterWoW_Dictionary_FR["l'abbaye"] = { word = "l'abbaye", translation = "the abbey", note = "abbaye: a monastery or convent ruled by an abbot or abbess" }
 WordHunterWoW_Dictionary_FR["l'abbé"] = { word = "l'abbé", translation = "the abbot", note = "abbé: the head of a monastery, or a priest" }
@@ -33990,7 +33990,7 @@ WordHunterWoW_Dictionary_FR["l'accepter"] = { word = "l'accepter", translation =
 WordHunterWoW_Dictionary_FR["l'accepterons"] = { word = "l'accepterons", translation = "we will accept it", note = "accepter (to accept)" }
 WordHunterWoW_Dictionary_FR["l'acceptez"] = { word = "l'acceptez", translation = "accept", note = "2nd person plural present of accepter" }
 WordHunterWoW_Dictionary_FR["l'accident"] = { word = "l'accident", translation = "accident", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
-WordHunterWoW_Dictionary_FR["l'accompagne"] = { word = "l'accompagne", translation = "accompanies; goes with", note = "accompagner: to go with someone; to escort; to travel together" }
+WordHunterWoW_Dictionary_FR["l'accompagne"] = { word = "l'accompagne", translation = "accompanies him/her/it; goes with it", note = "accompagner: to go with someone; to escort; to travel together" }
 WordHunterWoW_Dictionary_FR["l'accompagner"] = { word = "l'accompagner", translation = "accompany it", note = "to accompany" }
 WordHunterWoW_Dictionary_FR["l'accompagniez"] = { word = "l'accompagniez", translation = "accompany him", note = "verb: conditional/imperfect form; 'accompagner' = to accompany; 'l'' = object pronoun 'him'" }
 WordHunterWoW_Dictionary_FR["l'accomplir"] = { word = "l'accomplir", translation = "accomplish it", note = "to accomplish; complete" }
@@ -33998,7 +33998,7 @@ WordHunterWoW_Dictionary_FR["l'accompliront"] = { word = "l'accompliront", trans
 WordHunterWoW_Dictionary_FR["l'accomplissement"] = { word = "L'accomplissement", translation = "the accomplishment", note = "accomplissement is the noun from accomplir, “to accomplish”; l’ supplies the definite article" }
 WordHunterWoW_Dictionary_FR["l'accomplissez"] = { word = "l'accomplissez", translation = "accomplish", note = "2nd person plural present of accomplir" }
 WordHunterWoW_Dictionary_FR["l'accord"] = { word = "l'accord", translation = "the agreement", note = "l' = the; accord = agreement" }
-WordHunterWoW_Dictionary_FR["l'accorde"] = { word = "l'accorde", translation = "grant; admit", note = "accorder: to grant; to admit; 'je vous l'accorde' = I admit it to you" }
+WordHunterWoW_Dictionary_FR["l'accorde"] = { word = "l'accorde", translation = "grants it; admits it", note = "accorder: to grant; to admit; 'je vous l'accorde' = I admit it to you" }
 WordHunterWoW_Dictionary_FR["l'accostage"] = { word = "l'accostage", translation = "landing", note = "official WoW location Vengeance Landing is called accostage de la Vengeance in French" }
 WordHunterWoW_Dictionary_FR["l'accoutrement"] = { word = "l'accoutrement", translation = "the outfit", note = "noun; outfit or attire; appears in context of wearing a medallion" }
 WordHunterWoW_Dictionary_FR["l'accroissement"] = { word = "l'accroissement", translation = "the increase; the growth", note = "accroissement: growth, expansion; an increase in size or quantity" }
@@ -34056,7 +34056,7 @@ WordHunterWoW_Dictionary_FR["l'affirme"] = { word = "l'affirme", translation = "
 WordHunterWoW_Dictionary_FR["l'affluent"] = { word = "l'affluent", translation = "tributary", note = "stream feeding a larger river" }
 WordHunterWoW_Dictionary_FR["l'afflux"] = { word = "l'afflux", translation = "influx", note = "elision of le; inflow" }
 WordHunterWoW_Dictionary_FR["l'affolé"] = { word = "l'Affolé", translation = "distraught", note = "l’ is le or la shortened before a vowel; the noun’s gender is unchanged" }
-WordHunterWoW_Dictionary_FR["l'affront'rez"] = { word = "l'affront'rez", translation = "the confrontation; the affront", note = "unclear word form; affront = insult/affront; possibly affrontement (confrontation)" }
+WordHunterWoW_Dictionary_FR["l'affront'rez"] = { word = "l'affront'rez", translation = "you will face it; you will confront it", note = "unclear word form; affront = insult/affront; possibly affrontement (confrontation)" }
 WordHunterWoW_Dictionary_FR["l'affrontant"] = { word = "l'affrontant", translation = "confronting it", note = "present participle of affronter" }
 WordHunterWoW_Dictionary_FR["l'affronte"] = { word = "l'affronte", translation = "confronts it", note = "3rd person singular" }
 WordHunterWoW_Dictionary_FR["l'affrontement"] = { word = "l'affrontement", translation = "confrontation", note = "elision of le; clash or battle" }
@@ -34114,7 +34114,7 @@ WordHunterWoW_Dictionary_FR["l'alerte"] = { word = "l'alerte", translation = "th
 WordHunterWoW_Dictionary_FR["l'aliment"] = { word = "l'aliment", translation = "the food", note = "noun; horse food; 'l'' is the article 'the'" }
 WordHunterWoW_Dictionary_FR["l'alimentation"] = { word = "l'alimentation", translation = "power supply; power", note = "literally food/fuel; here means power source" }
 WordHunterWoW_Dictionary_FR["l'alimente"] = { word = "l'alimente", translation = "feeds it", note = "verb: third person singular; 'alimenter' = to feed/supply; context is soldiers receiving orders" }
-WordHunterWoW_Dictionary_FR["l'alimenter"] = { word = "l'alimenter", translation = "feed; supply; provide for", note = "alimenter: to feed; to supply; to provide sustenance" }
+WordHunterWoW_Dictionary_FR["l'alimenter"] = { word = "l'alimenter", translation = "feed it; supply it; provide for it", note = "alimenter: to feed; to supply; to provide sustenance" }
 WordHunterWoW_Dictionary_FR["l'alliance"] = { word = "l'Alliance", translation = "the Alliance", note = "l’ replaces le or la before a vowel; the article is separate from the noun" }
 WordHunterWoW_Dictionary_FR["l'alliances"] = { word = "l'Alliances", translation = "Alliance", note = "player faction; elided article" }
 WordHunterWoW_Dictionary_FR["l'allianfe"] = { word = "l'Allianfe", translation = "the Alliance", note = "typo in French: 'Allianfe' instead of 'Alliance'; clearly refers to the Alliance faction" }
@@ -34239,7 +34239,7 @@ WordHunterWoW_Dictionary_FR["l'apprivoiser"] = { word = "l'apprivoiser", transla
 WordHunterWoW_Dictionary_FR["l'approbation"] = { word = "l'approbation", translation = "approval", note = "" }
 WordHunterWoW_Dictionary_FR["l'approchait"] = { word = "l'approchait", translation = "approached him", note = "verb: imperfect tense third person singular; 'approcher' = to approach; 'l'' = object pronoun 'him' (the dog)" }
 WordHunterWoW_Dictionary_FR["l'approche"] = { word = "L'approche", translation = "approach", note = "elision of le" }
-WordHunterWoW_Dictionary_FR["l'approcher"] = { word = "l'approcher", translation = "approach; draw near to", note = "approcher: to come near; to approach someone or something" }
+WordHunterWoW_Dictionary_FR["l'approcher"] = { word = "l'approcher", translation = "approach it; approach him", note = "approcher: to come near; to approach someone or something" }
 WordHunterWoW_Dictionary_FR["l'approchez"] = { word = "l'approchez", translation = "approach", note = "second person present; you approach him/it, direct object pronoun l'" }
 WordHunterWoW_Dictionary_FR["l'approvisionnement"] = { word = "l'approvisionnement", translation = "supply; supplies; provisions", note = "approvisionner: to supply with provisions; to stock" }
 WordHunterWoW_Dictionary_FR["l'approvisionnent"] = { word = "l'approvisionnent", translation = "supply it", note = "verb: third person plural; 'approvisionner' = to supply/stock; 'l'' = object pronoun 'it' (Ambermill)" }
@@ -34345,7 +34345,7 @@ WordHunterWoW_Dictionary_FR["l'assombrisseur"] = { word = "l'Assombrisseur", tra
 WordHunterWoW_Dictionary_FR["l'assommoir"] = { word = "l'assommoir", translation = "the knockout; the stunning blow", note = "assommoir: something that strikes down or stuns; a tavern in slang" }
 WordHunterWoW_Dictionary_FR["l'assurance"] = { word = "l'assurance", translation = "insurance", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'assure"] = { word = "l'assure", translation = "assure it; ensure it", note = "l’ is the object pronoun “it,” attached before a vowel-starting verb" }
-WordHunterWoW_Dictionary_FR["l'assurer"] = { word = "l'assurer", translation = "assure; ensure; deliver on", note = "assurer: to make sure; to guarantee; to provide security" }
+WordHunterWoW_Dictionary_FR["l'assurer"] = { word = "l'assurer", translation = "assure him; ensure it", note = "assurer: to make sure; to guarantee; to provide security" }
 WordHunterWoW_Dictionary_FR["l'assèchement"] = { word = "L'assèchement", translation = "The Drying", note = "noun; capitalized as beginning of quest text; from 'assécher' = to dry out; 'l'' is the article 'the'" }
 WordHunterWoW_Dictionary_FR["l'astromancien"] = { word = "L'astromancien", translation = "Astromancer", note = "one who divines by stars; elided article" }
 WordHunterWoW_Dictionary_FR["l'astuce"] = { word = "L'astuce", translation = "trick; technique", note = "clever method or practical knack" }
@@ -34361,8 +34361,8 @@ WordHunterWoW_Dictionary_FR["l'attaquions"] = { word = "l'attaquions", translati
 WordHunterWoW_Dictionary_FR["l'atteindre"] = { word = "l'atteindre", translation = "reach", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l'atteint"] = { word = "l'atteint", translation = "reaches it", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'attend"] = { word = "l'attend", translation = "waiting for him", note = "l' = le/la before vowel" }
-WordHunterWoW_Dictionary_FR["l'attendait"] = { word = "l'attendait", translation = "was waiting for; awaited", note = "attendre (past imperfect): was waiting for someone; expected" }
-WordHunterWoW_Dictionary_FR["l'attends"] = { word = "l'attends", translation = "wait for; expect", note = "attendre (present): to wait for; to anticipate" }
+WordHunterWoW_Dictionary_FR["l'attendait"] = { word = "l'attendait", translation = "was waiting for him/her/it", note = "attendre (past imperfect): was waiting for someone; expected" }
+WordHunterWoW_Dictionary_FR["l'attends"] = { word = "l'attends", translation = "wait for him/her/it; expect it", note = "attendre (present): to wait for; to anticipate" }
 WordHunterWoW_Dictionary_FR["l'attente"] = { word = "l'attente", translation = "wait; expectation", note = "what one waits for" }
 WordHunterWoW_Dictionary_FR["l'attention"] = { word = "l'attention", translation = "attention", note = "l’ is the elided French article “the”; it stays attached to the following word" }
 WordHunterWoW_Dictionary_FR["l'attirer"] = { word = "l'attirer", translation = "attract him", note = "elision of le; to draw toward" }
@@ -34381,9 +34381,9 @@ WordHunterWoW_Dictionary_FR["l'augmentation"] = { word = "L'augmentation", trans
 WordHunterWoW_Dictionary_FR["l'augure"] = { word = "l'augure", translation = "the omen", note = "noun; sign or portent; also refers to a tribal seer/prophet; 'l'' is the article 'the'" }
 WordHunterWoW_Dictionary_FR["l'aune"] = { word = "l'aune", translation = "the yardstick", note = "noun; measurement standard or basis for comparison; 'l'' is the article 'the'; context refers to character's disappearance" }
 WordHunterWoW_Dictionary_FR["l'aura"] = { word = "l'aura", translation = "he/she will have", note = "aura = future of avoir" }
-WordHunterWoW_Dictionary_FR["l'aurai"] = { word = "l'aurai", translation = "I will have; shall have", note = "avoir (future tense): will possess or will have experienced" }
+WordHunterWoW_Dictionary_FR["l'aurai"] = { word = "l'aurai", translation = "I will have it", note = "avoir (future tense): will possess or will have experienced" }
 WordHunterWoW_Dictionary_FR["l'auraient"] = { word = "l'auraient", translation = "they would have", note = "l' = le/la before vowel" }
-WordHunterWoW_Dictionary_FR["l'aurais"] = { word = "l'aurais", translation = "I/you would have; I/you would possess", note = "avoir (conditional): would have; expressing hypothetical possession" }
+WordHunterWoW_Dictionary_FR["l'aurais"] = { word = "l'aurais", translation = "I/you would have it", note = "avoir (conditional): would have; expressing hypothetical possession" }
 WordHunterWoW_Dictionary_FR["l'aurait"] = { word = "l'aurait", translation = "he/she would have", note = "elision of le; conditional perfect" }
 WordHunterWoW_Dictionary_FR["l'aurait-il"] = { word = "l'aurait-il", translation = "would he have it", note = "verb: conditional with interrogative inversion; 'avoir' = to have; 'l'' = object pronoun 'it'; 'aurait-il' = would he have" }
 WordHunterWoW_Dictionary_FR["l'aurez"] = { word = "l'aurez", translation = "you will have it", note = "l’ = it + future of avoir" }
@@ -34402,7 +34402,7 @@ WordHunterWoW_Dictionary_FR["l'autorisation"] = { word = "l'autorisation", trans
 WordHunterWoW_Dictionary_FR["l'autorise"] = { word = "l'autorise", translation = "authorizes it", note = "verb: third person singular; 'autoriser' = to authorize; 'l'' = object pronoun 'it'" }
 WordHunterWoW_Dictionary_FR["l'autorité"] = { word = "l'autorité", translation = "authority", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'autre"] = { word = "l'autre", translation = "the other", note = "l’ replaces le or la before a vowel; the article is separate from the noun" }
-WordHunterWoW_Dictionary_FR["l'avaient"] = { word = "l'avaient", translation = "had; they had", note = "avoir (past imperfect third person): they possessed or had experienced" }
+WordHunterWoW_Dictionary_FR["l'avaient"] = { word = "l'avaient", translation = "they had it", note = "avoir (past imperfect third person): they possessed or had experienced" }
 WordHunterWoW_Dictionary_FR["l'avais"] = { word = "l'avais", translation = "had it", note = "past tense; l'avais = I had it" }
 WordHunterWoW_Dictionary_FR["l'avait"] = { word = "l'avait", translation = "had it", note = "l’ is the definite article “the,” elided before a vowel" }
 WordHunterWoW_Dictionary_FR["l'avait-il"] = { word = "l'avait-il", translation = "did he have it", note = "verb: past tense with interrogative inversion; 'avoir' = to have; 'l'' = object pronoun 'it'" }
@@ -34430,7 +34430,7 @@ WordHunterWoW_Dictionary_FR["l'avez"] = { word = "l'avez", translation = "have i
 WordHunterWoW_Dictionary_FR["l'avez-vous"] = { word = "l'avez-vous", translation = "do you have it; have you got it", note = "avez-vous: polite present question form; do you have?" }
 WordHunterWoW_Dictionary_FR["l'avidité"] = { word = "L'avidité", translation = "Greed", note = "noun; capitalized as quest title; excessive desire; 'l'' is the article 'the'" }
 WordHunterWoW_Dictionary_FR["l'aviez"] = { word = "l'aviez", translation = "had it", note = "elision of le; second person plural past" }
-WordHunterWoW_Dictionary_FR["l'avions"] = { word = "l'avions", translation = "we had thought; we believed", note = "avoir (past imperfect first person plural): 'que nous ne l'avions pensé' = than we thought" }
+WordHunterWoW_Dictionary_FR["l'avions"] = { word = "l'avions", translation = "we had it; we had thought it", note = "avoir (past imperfect first person plural): 'que nous ne l'avions pensé' = than we thought" }
 WordHunterWoW_Dictionary_FR["l'avis"] = { word = "l'avis", translation = "the opinion", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'avoine"] = { word = "l'avoine", translation = "oats", note = "horse feed; grain" }
 WordHunterWoW_Dictionary_FR["l'avoir"] = { word = "l'avoir", translation = "have it", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
@@ -34601,7 +34601,7 @@ WordHunterWoW_Dictionary_FR["l'enterrer"] = { word = "l'enterrer", translation =
 WordHunterWoW_Dictionary_FR["l'entité"] = { word = "l'entité", translation = "the entity", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'entière"] = { word = "l'entière", translation = "the entire; complete", note = "feminine adjective; to full satisfaction" }
 WordHunterWoW_Dictionary_FR["l'entoure"] = { word = "l'entoure", translation = "surrounds it", note = "l' = le/la before vowel" }
-WordHunterWoW_Dictionary_FR["l'entourent"] = { word = "l'entourent", translation = "surround; encircle", note = "entourer (present third person plural): to surround; to go around" }
+WordHunterWoW_Dictionary_FR["l'entourent"] = { word = "l'entourent", translation = "surround him/it; encircle it", note = "entourer (present third person plural): to surround; to go around" }
 WordHunterWoW_Dictionary_FR["l'entraînement"] = { word = "L'entraînement", translation = "the training", note = "the -ment ending often forms a noun from a verb" }
 WordHunterWoW_Dictionary_FR["l'entraîner"] = { word = "l'entraîner", translation = "train", note = "infinitive; to teach or condition (an animal/familiar)" }
 WordHunterWoW_Dictionary_FR["l'entraîneur"] = { word = "l'entraîneur", translation = "the coach; the trainer", note = "entraîneur: one who coaches or trains; a sports coach or military trainer" }
@@ -34645,7 +34645,7 @@ WordHunterWoW_Dictionary_FR["l'esclavage"] = { word = "l'esclavage", translation
 WordHunterWoW_Dictionary_FR["l'esclavagiste"] = { word = "l'esclavagiste", translation = "slaver", note = "one who enslaves" }
 WordHunterWoW_Dictionary_FR["l'esclave"] = { word = "L'esclave", translation = "The slave", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'escorter"] = { word = "l'escorter", translation = "escort", note = "infinitive; to accompany" }
-WordHunterWoW_Dictionary_FR["l'escortiez"] = { word = "l'escortiez", translation = "you were escorting; you escorted", note = "escorter (past imperfect second person): you were accompanying as escort" }
+WordHunterWoW_Dictionary_FR["l'escortiez"] = { word = "l'escortiez", translation = "you were escorting him/it", note = "escorter (past imperfect second person): you were accompanying as escort" }
 WordHunterWoW_Dictionary_FR["l'escouade"] = { word = "l'escouade", translation = "the squad", note = "escouade = squad/team" }
 WordHunterWoW_Dictionary_FR["l'espace"] = { word = "l'espace", translation = "space", note = "elision of le; void or expanse" }
 WordHunterWoW_Dictionary_FR["l'espadon"] = { word = "l'espadon", translation = "swordfish", note = "large predatory fish; literal meaning holds in quest context" }
@@ -34655,7 +34655,7 @@ WordHunterWoW_Dictionary_FR["l'espionner"] = { word = "l'espionner", translation
 WordHunterWoW_Dictionary_FR["l'espoir"] = { word = "l'espoir", translation = "hope", note = "l’ replaces le or la before a vowel; its gender comes from the noun" }
 WordHunterWoW_Dictionary_FR["l'esprit"] = { word = "l'esprit", translation = "the spirit; the mind", note = "l’ replaces le or la before a vowel" }
 WordHunterWoW_Dictionary_FR["l'espèce"] = { word = "l'Espèce", translation = "the species", note = "creature or item name; elided article" }
-WordHunterWoW_Dictionary_FR["l'espère"] = { word = "l'espère", translation = "hope; I hope", note = "espérer (present first person): to hope for; to expect with hope" }
+WordHunterWoW_Dictionary_FR["l'espère"] = { word = "l'espère", translation = "I hope so; I hope it", note = "espérer (present first person): to hope for; to expect with hope" }
 WordHunterWoW_Dictionary_FR["l'espérais"] = { word = "l'espérais", translation = "I hoped it; I was hoping for it", note = "l’ = it + imperfect of espérer" }
 WordHunterWoW_Dictionary_FR["l'espérer"] = { word = "l'espérer", translation = "hope it", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'espérions"] = { word = "l'espérions", translation = "we hoped", note = "l' = le/la before vowel" }
@@ -34705,7 +34705,7 @@ WordHunterWoW_Dictionary_FR["l'exemplaire"] = { word = "l'exemplaire", translati
 WordHunterWoW_Dictionary_FR["l'exemple"] = { word = "l'exemple", translation = "the example", note = "exemple = example" }
 WordHunterWoW_Dictionary_FR["l'exercer"] = { word = "l'exercer", translation = "exercise", note = "to exert" }
 WordHunterWoW_Dictionary_FR["l'exercice"] = { word = "l'exercice", translation = "exercise", note = "l' = le/la before vowel" }
-WordHunterWoW_Dictionary_FR["l'exige"] = { word = "l'exige", translation = "requires; demands; needs", note = "exiger (present third person): to demand; to require; to insist upon" }
+WordHunterWoW_Dictionary_FR["l'exige"] = { word = "l'exige", translation = "requires it; demands it", note = "exiger (present third person): to demand; to require; to insist upon" }
 WordHunterWoW_Dictionary_FR["l'exil"] = { word = "l'exil", translation = "exile", note = "exil = exile" }
 WordHunterWoW_Dictionary_FR["l'exilé"] = { word = "l'Exilé", translation = "the Exile", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'existence"] = { word = "l'existence", translation = "existence", note = "l’ is the definite article “the,” elided before a vowel" }
@@ -34724,7 +34724,7 @@ WordHunterWoW_Dictionary_FR["l'expliquer"] = { word = "l'expliquer", translation
 WordHunterWoW_Dictionary_FR["l'explogénieur"] = { word = "L'explogénieur", translation = "The explogieur", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'exploit"] = { word = "l'exploit", translation = "the feat", note = "elision; grand deed or accomplishment when hope is lost" }
 WordHunterWoW_Dictionary_FR["l'exploitation"] = { word = "l'exploitation", translation = "exploitation", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
-WordHunterWoW_Dictionary_FR["l'exploiter"] = { word = "l'exploiter", translation = "exploit; utilize; make use of", note = "exploiter: to use to advantage; to work (a mine); to harness resources" }
+WordHunterWoW_Dictionary_FR["l'exploiter"] = { word = "l'exploiter", translation = "exploit it; make use of it", note = "exploiter: to use to advantage; to work (a mine); to harness resources" }
 WordHunterWoW_Dictionary_FR["l'explorateur"] = { word = "l'explorateur", translation = "the explorer; the scout", note = "explorateur: one who explores; a discoverer of new lands" }
 WordHunterWoW_Dictionary_FR["l'exploration"] = { word = "l'exploration", translation = "exploration", note = "l’ is le or la shortened before a vowel; it is not part of the noun" }
 WordHunterWoW_Dictionary_FR["l'exploratrice"] = { word = "l'Exploratrice", translation = "the explorer", note = "NPC title (feminine); one who explores" }
@@ -34759,7 +34759,7 @@ WordHunterWoW_Dictionary_FR["l'extérieur"] = { word = "l'extérieur", translati
 WordHunterWoW_Dictionary_FR["l'exécuter"] = { word = "l'exécuter", translation = "execute it", note = "l' = le/la before vowel" }
 WordHunterWoW_Dictionary_FR["l'exécuteur"] = { word = "l'exécuteur", translation = "the executor", note = "exécuteur = executor/executioner" }
 WordHunterWoW_Dictionary_FR["l'exécution"] = { word = "l'exécution", translation = "execution; implementation; performance", note = "exécution: carrying out a plan; completing a task; in context can mean slaughter" }
-WordHunterWoW_Dictionary_FR["l'eût"] = { word = "l'eût", translation = "would have; would possess (archaic)", note = "avoir (conditional past, archaic): would have had; who would have thought" }
+WordHunterWoW_Dictionary_FR["l'eût"] = { word = "l'eût", translation = "would have it (archaic)", note = "avoir (conditional past, archaic): would have had; who would have thought" }
 WordHunterWoW_Dictionary_FR["l'faire"] = { word = "l'faire", translation = "do it", note = "dialectal French; contraction of le faire" }
 WordHunterWoW_Dictionary_FR["l'gantelet"] = { word = "l'gantelet", translation = "the gauntlet", note = "colloquial French (should be le gantelet); missing h in pronunciation (l'gantelet not l'hantelet)" }
 WordHunterWoW_Dictionary_FR["l'gosier"] = { word = "l'gosier", translation = "the throat; the gullet", note = "colloquial French; casual speech pattern in quest text" }
@@ -34934,7 +34934,7 @@ WordHunterWoW_Dictionary_FR["l'infirmerie"] = { word = "l'infirmerie", translati
 WordHunterWoW_Dictionary_FR["l'infirmière"] = { word = "l'infirmière", translation = "nurse", note = "feminine form of infirmier" }
 WordHunterWoW_Dictionary_FR["l'influence"] = { word = "l'influence", translation = "the influence", note = "influence = influence" }
 WordHunterWoW_Dictionary_FR["l'information"] = { word = "l'information", translation = "information", note = "elision of le" }
-WordHunterWoW_Dictionary_FR["l'informer"] = { word = "l'informer", translation = "inform; tell; notify", note = "informer: to give information to someone; to make aware" }
+WordHunterWoW_Dictionary_FR["l'informer"] = { word = "l'informer", translation = "inform him/her; notify him", note = "informer: to give information to someone; to make aware" }
 WordHunterWoW_Dictionary_FR["l'infortunée"] = { word = "l'infortunée", translation = "ill-fated", note = "feminine adjective used as noun; infortunée (unfortunate) + fleet context" }
 WordHunterWoW_Dictionary_FR["l'infrastructure"] = { word = "l'infrastructure", translation = "the infrastructure", note = "système or structure; infrastructure required article" }
 WordHunterWoW_Dictionary_FR["l'infravert"] = { word = "l'infravert", translation = "infrared; infragreen", note = "made-up goblin term (infra + vert); new energy" }
@@ -34997,7 +34997,7 @@ WordHunterWoW_Dictionary_FR["l'intention"] = { word = "l'intention", translation
 WordHunterWoW_Dictionary_FR["l'intercepterais"] = { word = "l'intercepterais", translation = "I/you would intercept", note = "1st person singular conditional; would cut off/block" }
 WordHunterWoW_Dictionary_FR["l'interceptiez"] = { word = "l'interceptiez", translation = "intercepted", note = "2nd person plural past; capturing messages" }
 WordHunterWoW_Dictionary_FR["l'interception"] = { word = "L'interception", translation = "the interception", note = "act of stopping or blocking messages" }
-WordHunterWoW_Dictionary_FR["l'interceptons"] = { word = "l'interceptons", translation = "let's intercept; we intercept", note = "intercepter (present first person plural): to intercept; to cut off" }
+WordHunterWoW_Dictionary_FR["l'interceptons"] = { word = "l'interceptons", translation = "let's intercept it; we intercept it", note = "intercepter (present first person plural): to intercept; to cut off" }
 WordHunterWoW_Dictionary_FR["l'interdiction"] = { word = "l'interdiction", translation = "ban; prohibition", note = "state of being forbidden" }
 WordHunterWoW_Dictionary_FR["l'interférence"] = { word = "L'interférence", translation = "the Interference", note = "disturbance or disruption; interference has faded" }
 WordHunterWoW_Dictionary_FR["l'intermédiaire"] = { word = "l'intermédiaire", translation = "intermediary", note = "an intermédiaire acts between two sides" }
@@ -35041,7 +35041,7 @@ WordHunterWoW_Dictionary_FR["l'invitation"] = { word = "l'invitation", translati
 WordHunterWoW_Dictionary_FR["l'invité"] = { word = "l'invité", translation = "the guest", note = "invited visitor; will be guest of honor" }
 WordHunterWoW_Dictionary_FR["l'invocateur"] = { word = "l'Invocateur", translation = "summoner", note = "" }
 WordHunterWoW_Dictionary_FR["l'invocation"] = { word = "l'invocation", translation = "invocation", note = "l’ is le or la shortened before a vowel; the noun’s gender is unchanged" }
-WordHunterWoW_Dictionary_FR["l'invoquer"] = { word = "l'invoquer", translation = "invoke; call upon; summon", note = "invoquer: to call upon (a god, spirit); to appeal to; to cite as evidence" }
+WordHunterWoW_Dictionary_FR["l'invoquer"] = { word = "l'invoquer", translation = "invoke it; summon it", note = "invoquer: to call upon (a god, spirit); to appeal to; to cite as evidence" }
 WordHunterWoW_Dictionary_FR["l'inévitable"] = { word = "l'inévitable", translation = "the inevitable; the unavoidable; the inescapable", note = "inévitable: unable to be avoided or prevented; certain to happen" }
 WordHunterWoW_Dictionary_FR["l'ire"] = { word = "L'ire", translation = "wrath; anger; rage", note = "ire: intense anger; fury; divine wrath (archaic/poetic)" }
 WordHunterWoW_Dictionary_FR["l'iris"] = { word = "l'iris", translation = "the iris", note = "iris = iris (eye part or flower)" }
@@ -35053,7 +35053,7 @@ WordHunterWoW_Dictionary_FR["l'isolement"] = { word = "l'isolement", translation
 WordHunterWoW_Dictionary_FR["l'isoler"] = { word = "l'isoler", translation = "isolate it", note = "isolate or separate; verb infinitive" }
 WordHunterWoW_Dictionary_FR["l'issue"] = { word = "L'issue", translation = "the outcome", note = "issue = outcome/way out" }
 WordHunterWoW_Dictionary_FR["l'ivoire"] = { word = "l'ivoire", translation = "the ivory", note = "material from tusks; also title metaphor" }
-WordHunterWoW_Dictionary_FR["l'laisser"] = { word = "l'laisser", translation = "leave; let; allow", note = "laisser (dialectal/colloquial l'laisser = le laisser): to allow; to permit" }
+WordHunterWoW_Dictionary_FR["l'laisser"] = { word = "l'laisser", translation = "leave it; let him", note = "laisser (dialectal/colloquial l'laisser = le laisser): to allow; to permit" }
 WordHunterWoW_Dictionary_FR["l'livre"] = { word = "l'livre", translation = "the book", note = "colloquial French; Master uses the book to kill" }
 WordHunterWoW_Dictionary_FR["l'match"] = { word = "l'match", translation = "the match", note = "colloquial/slang for 'le match' (the match/game); dialect" }
 WordHunterWoW_Dictionary_FR["l'meilleur"] = { word = "L'meilleur", translation = "the best", note = "colloquial French for 'le meilleur'; dialectal or informal speech" }
@@ -35149,7 +35149,7 @@ WordHunterWoW_Dictionary_FR["l'orc"] = { word = "l'orc", translation = "orc", no
 WordHunterWoW_Dictionary_FR["l'ordinaire"] = { word = "l'ordinaire", translation = "the everyday; the ordinary", note = "elision: l' + ordinaire; often appears in the phrase 'à l'ordinaire' (as usual)" }
 WordHunterWoW_Dictionary_FR["l'ordonnance"] = { word = "l'ordonnance", translation = "order; prescription", note = "formal order or medical prescription" }
 WordHunterWoW_Dictionary_FR["l'ordonne"] = { word = "l'ordonne", translation = "orders it", note = "orders (he/she); commands; verb" }
-WordHunterWoW_Dictionary_FR["l'ordonnent"] = { word = "l'ordonnent", translation = "they order; command it", note = "elision: l' (direct object) + ordonnent (they order); 3rd person plural of ordonner" }
+WordHunterWoW_Dictionary_FR["l'ordonnent"] = { word = "l'ordonnent", translation = "they order it; they command it", note = "elision: l' (direct object) + ordonnent (they order); 3rd person plural of ordonner" }
 WordHunterWoW_Dictionary_FR["l'ordre"] = { word = "l'ordre", translation = "order", note = "l’ replaces le or la before a vowel; its gender comes from the noun" }
 WordHunterWoW_Dictionary_FR["l'ordure"] = { word = "l'ordure", translation = "the wretch", note = "garbage/filth; used insultingly of Loken the titan" }
 WordHunterWoW_Dictionary_FR["l'oreille"] = { word = "l'oreille", translation = "the ear", note = "oreille = ear" }
@@ -35386,7 +35386,7 @@ WordHunterWoW_Dictionary_FR["l'équipement"] = { word = "l'équipement", transla
 WordHunterWoW_Dictionary_FR["l'équivalent"] = { word = "l'équivalent", translation = "equivalent; amount", note = "one month's supplies as equal exchange" }
 WordHunterWoW_Dictionary_FR["l'éradicateur"] = { word = "L'Éradicateur", translation = "The Eradicator", note = "NPC or creature name (Eradicator Ignited)" }
 WordHunterWoW_Dictionary_FR["l'éradication"] = { word = "l'éradication", translation = "eradication", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
-WordHunterWoW_Dictionary_FR["l'éradiquer"] = { word = "l'éradiquer", translation = "eradicate", note = "elision: l' (direct object) + éradiquer (infinitive); to uproot, destroy entirely" }
+WordHunterWoW_Dictionary_FR["l'éradiquer"] = { word = "l'éradiquer", translation = "eradicate it", note = "elision: l' (direct object) + éradiquer (infinitive); to uproot, destroy entirely" }
 WordHunterWoW_Dictionary_FR["l'érection"] = { word = "l'érection", translation = "the erection", note = "construction or building (architectural); not anatomical" }
 WordHunterWoW_Dictionary_FR["l'érosion"] = { word = "l'érosion", translation = "erosion", note = "wear from weather; erased characters on ancient text" }
 WordHunterWoW_Dictionary_FR["l'éruption"] = { word = "l'éruption", translation = "the eruption", note = "volcanic explosion or burst; not a rash (urticaire); completely different from current" }
@@ -35440,7 +35440,7 @@ WordHunterWoW_Dictionary_FR["l'éveil"] = { word = "L'éveil", translation = "th
 WordHunterWoW_Dictionary_FR["l'éveiller"] = { word = "l'éveiller", translation = "wake him up", note = "wake up or awaken; rouse from sleep" }
 WordHunterWoW_Dictionary_FR["l'éveillé"] = { word = "l'Éveillé", translation = "the Awakened", note = "l’ is the elided French article “the”; it stays attached to the following word" }
 WordHunterWoW_Dictionary_FR["l'éventualité"] = { word = "l'éventualité", translation = "the possibility", note = "possibility or eventuality; thing that might happen" }
-WordHunterWoW_Dictionary_FR["l'évier"] = { word = "l'évier", translation = "sink", note = "elision: l' + évier; kitchen sink; 'Tout sauf l'évier de la cuisine' = the common English expression 'anything but the kitchen sink'" }
+WordHunterWoW_Dictionary_FR["l'évier"] = { word = "l'évier", translation = "the sink", note = "elision: l' + évier; kitchen sink; 'Tout sauf l'évier de la cuisine' = the common English expression 'anything but the kitchen sink'" }
 WordHunterWoW_Dictionary_FR["l'éviscération"] = { word = "l'Éviscération", translation = "evisceration", note = "removal of internal organs; disembowelment" }
 WordHunterWoW_Dictionary_FR["l'éviter"] = { word = "l'éviter", translation = "avoid it", note = "avoid or keep away from; elude or dodge" }
 WordHunterWoW_Dictionary_FR["l'évolution"] = { word = "l'évolution", translation = "evolution", note = "development or adaptation; gangrenous fish marvel" }
@@ -35524,7 +35524,7 @@ WordHunterWoW_Dictionary_FR["lai"] = { word = "Lai", translation = "Lai", note =
 WordHunterWoW_Dictionary_FR["laid"] = { word = "laid", translation = "ugly", note = "masculine singular adjective; the feminine form is laide" }
 WordHunterWoW_Dictionary_FR["laides"] = { word = "laides", translation = "ugly", note = "feminine plural of laid (ugly)" }
 WordHunterWoW_Dictionary_FR["laideur"] = { word = "laideur", translation = "ugliness", note = "from laid (ugly) + -eur (noun suffix)" }
-WordHunterWoW_Dictionary_FR["laie"] = { word = "laie", translation = "sow", note = "female wild boar or pig; from Latin 'laius'" }
+WordHunterWoW_Dictionary_FR["laie"] = { word = "laie", translation = "wild sow", note = "female wild boar or pig; from Latin 'laius'" }
 WordHunterWoW_Dictionary_FR["laina"] = { word = "Laina", translation = "Laina", note = "proper name" }
 WordHunterWoW_Dictionary_FR["laine"] = { word = "laine", translation = "wool", note = "wool is used here as the material for bandages" }
 WordHunterWoW_Dictionary_FR["laineuse"] = { word = "laineuse", translation = "woolly", note = "adjective: woolly, fluffy; describing something covered in wool or wool-like material" }
@@ -36525,11 +36525,11 @@ WordHunterWoW_Dictionary_FR["longards"] = { word = "Longards", translation = "Lo
 WordHunterWoW_Dictionary_FR["longbeard"] = { word = "Longbeard", translation = "Longbeard", note = "" }
 WordHunterWoW_Dictionary_FR["longbraid"] = { word = "Longbraid", translation = "Longbraid", note = "proper name; creature or NPC name (no space in compound)" }
 WordHunterWoW_Dictionary_FR["longdrink"] = { word = "Longdrink", translation = "Longdrink", note = "" }
-WordHunterWoW_Dictionary_FR["longe"] = { word = "longe", translation = "goes along", note = "third person singular of longer; to skirt or travel alongside" }
+WordHunterWoW_Dictionary_FR["longe"] = { word = "longe", translation = "goes along; runs alongside", note = "third person singular of longer; to skirt or travel alongside" }
 WordHunterWoW_Dictionary_FR["longeant"] = { word = "longeant", translation = "along; skirting", note = "present participle of longer: to go along or skirt" }
 WordHunterWoW_Dictionary_FR["longears"] = { word = "Longears", translation = "Longears", note = "" }
 WordHunterWoW_Dictionary_FR["longent"] = { word = "longent", translation = "line; skirt", note = "third person plural of longer; borders or skirts" }
-WordHunterWoW_Dictionary_FR["longer"] = { word = "longer", translation = "go along", note = "to skirt; to travel alongside or border" }
+WordHunterWoW_Dictionary_FR["longer"] = { word = "longer", translation = "go along; skirt", note = "to skirt; to travel alongside or border" }
 WordHunterWoW_Dictionary_FR["longez"] = { word = "Longez", translation = "follow", note = "go along; follow the length" }
 WordHunterWoW_Dictionary_FR["longhorn"] = { word = "Longhorn", translation = "Longhorn", note = "" }
 WordHunterWoW_Dictionary_FR["longpair"] = { word = "Longpair", translation = "Longpair", note = "proper name, untranslated" }
@@ -36615,7 +36615,7 @@ WordHunterWoW_Dictionary_FR["lorsqu'elle"] = { word = "lorsqu'elle", translation
 WordHunterWoW_Dictionary_FR["lorsqu'elles"] = { word = "lorsqu'elles", translation = "when they", note = "the written ending marks a plural; final -s is usually silent in French" }
 WordHunterWoW_Dictionary_FR["lorsqu'il"] = { word = "lorsqu'il", translation = "when he", note = "" }
 WordHunterWoW_Dictionary_FR["lorsqu'ils"] = { word = "Lorsqu'ils", translation = "when they", note = "" }
-WordHunterWoW_Dictionary_FR["lorsqu'on"] = { word = "Lorsqu'on", translation = "When we", note = "generic when plus object pronoun" }
+WordHunterWoW_Dictionary_FR["lorsqu'on"] = { word = "Lorsqu'on", translation = "when we", note = "generic when plus object pronoun" }
 WordHunterWoW_Dictionary_FR["lorsqu'un"] = { word = "Lorsqu'un", translation = "When a", note = "when a; lorsque (when) + un (a), elided" }
 WordHunterWoW_Dictionary_FR["lorsque"] = { word = "lorsque", translation = "when", note = "" }
 WordHunterWoW_Dictionary_FR["lorsqu’archimonde"] = { word = "lorsqu’Archimonde", translation = "when Archimonde", note = "when + proper name; referring to the destruction caused by Archimonde" }
@@ -36708,7 +36708,7 @@ WordHunterWoW_Dictionary_FR["louveteaux"] = { word = "louveteaux", translation =
 WordHunterWoW_Dictionary_FR["louvoyer"] = { word = "louvoyer", translation = "to zigzag; to maneuver", note = "nautical term: to tack; used figuratively for indirect movement" }
 WordHunterWoW_Dictionary_FR["loué"] = { word = "loué", translation = "praised", note = "past participle of louer; in “soit loué” it means praised" }
 WordHunterWoW_Dictionary_FR["louée"] = { word = "louée", translation = "praised; rented", note = "feminine past participle of « louer »; it can mean praised or rented" }
-WordHunterWoW_Dictionary_FR["louées"] = { word = "louées", translation = "praised", note = "feminine plural past participle of louer; stars be praised" }
+WordHunterWoW_Dictionary_FR["louées"] = { word = "louées", translation = "praised; rented", note = "feminine plural past participle of louer; stars be praised" }
 WordHunterWoW_Dictionary_FR["loués"] = { word = "Loués", translation = "praised", note = "loué is from louer, which can mean praise as well as rent" }
 WordHunterWoW_Dictionary_FR["loyal"] = { word = "loyal", translation = "loyal", note = "a close French-English cognate; the shared Latin root makes the meaning recognizable" }
 WordHunterWoW_Dictionary_FR["loyale"] = { word = "loyale", translation = "fair", note = "feminine form of loyal; in “à la loyale”, it means fairly" }
@@ -37167,7 +37167,7 @@ WordHunterWoW_Dictionary_FR["l’adamantite"] = { word = "l’adamantite", trans
 WordHunterWoW_Dictionary_FR["l’adaptation"] = { word = "l’adaptation", translation = "adaptation", note = "adjustment or modification" }
 WordHunterWoW_Dictionary_FR["l’adapter"] = { word = "l’adapter", translation = "adapt it", note = "infinitive verb form" }
 WordHunterWoW_Dictionary_FR["l’addition"] = { word = "l’addition", translation = "the bill", note = "restaurant bill or sum" }
-WordHunterWoW_Dictionary_FR["l’adhésion"] = { word = "L’adhésion", translation = "Membership", note = "past participle" }
+WordHunterWoW_Dictionary_FR["l’adhésion"] = { word = "L’adhésion", translation = "membership", note = "past participle" }
 WordHunterWoW_Dictionary_FR["l’adieu"] = { word = "L’adieu", translation = "farewell", note = "l’ is the definite article “the,” elided before a vowel" }
 WordHunterWoW_Dictionary_FR["l’adjoint"] = { word = "l’adjoint", translation = "the deputy", note = "" }
 WordHunterWoW_Dictionary_FR["l’adjudant"] = { word = "l’adjudant", translation = "the adjutant", note = "military assistant" }
@@ -37234,7 +37234,7 @@ WordHunterWoW_Dictionary_FR["l’affûtage"] = { word = "l’affûtage", transla
 WordHunterWoW_Dictionary_FR["l’affûter"] = { word = "l’affûter", translation = "sharpen", note = "to make sharp" }
 WordHunterWoW_Dictionary_FR["l’agate"] = { word = "l’Agate", translation = "the Agate", note = "item name; part of Trelane's artifacts in the treasure quest" }
 WordHunterWoW_Dictionary_FR["l’agence"] = { word = "L’Agence", translation = "The Agency", note = "l’ is the definite article; agence means agency" }
-WordHunterWoW_Dictionary_FR["l’agencement"] = { word = "L’agencement", translation = "The layout", note = "third person plural" }
+WordHunterWoW_Dictionary_FR["l’agencement"] = { word = "L’agencement", translation = "the layout", note = "third person plural" }
 WordHunterWoW_Dictionary_FR["l’agent"] = { word = "l’agent", translation = "agent; spy", note = "l’ replaces le or la before a vowel; its gender comes from the noun" }
 WordHunterWoW_Dictionary_FR["l’aggravation"] = { word = "l’aggravation", translation = "the aggravation", note = "worsening" }
 WordHunterWoW_Dictionary_FR["l’agile"] = { word = "l’agile", translation = "the agile", note = "NPC name" }
@@ -37260,7 +37260,7 @@ WordHunterWoW_Dictionary_FR["l’aidera"] = { word = "l’aidera", translation =
 WordHunterWoW_Dictionary_FR["l’aiderai"] = { word = "l’aiderai", translation = "I will help", note = "future 1st singular" }
 WordHunterWoW_Dictionary_FR["l’aiderais"] = { word = "l’aiderais", translation = "I/you would help", note = "conditional 1st singular" }
 WordHunterWoW_Dictionary_FR["l’aiderait"] = { word = "l’aiderait", translation = "he/she would help", note = "conditional 3rd singular" }
-WordHunterWoW_Dictionary_FR["l’aiderez-vous"] = { word = "L’aiderez-vous", translation = "Will you help him", note = "second person formal; you will" }
+WordHunterWoW_Dictionary_FR["l’aiderez-vous"] = { word = "L’aiderez-vous", translation = "will you help him", note = "second person formal; you will" }
 WordHunterWoW_Dictionary_FR["l’aiderons"] = { word = "l’aiderons", translation = "we will help", note = "future 1st plural" }
 WordHunterWoW_Dictionary_FR["l’aideront"] = { word = "l’aideront", translation = "they will help him", note = "third person plural" }
 WordHunterWoW_Dictionary_FR["l’aidez"] = { word = "l’aidez", translation = "help him", note = "" }
@@ -37310,11 +37310,11 @@ WordHunterWoW_Dictionary_FR["l’alimentant"] = { word = "l’alimentant", trans
 WordHunterWoW_Dictionary_FR["l’alimentation"] = { word = "L’alimentation", translation = "power supply", note = "l’ is the elided French article “the”; it stays attached to the following word" }
 WordHunterWoW_Dictionary_FR["l’alimente"] = { word = "l’alimente", translation = "feeds it", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’alimenter"] = { word = "l’alimenter", translation = "power; supply", note = "for a machine, alimenter can mean to power or supply it, not feed it" }
-WordHunterWoW_Dictionary_FR["l’aller"] = { word = "l’aller", translation = "going", note = "infinitive verb form" }
+WordHunterWoW_Dictionary_FR["l’aller"] = { word = "l’aller", translation = "the outward leg; going", note = "infinitive verb form" }
 WordHunterWoW_Dictionary_FR["l’alliage"] = { word = "l’alliage", translation = "the alloy", note = "metal mixture" }
 WordHunterWoW_Dictionary_FR["l’alliance"] = { word = "l’Alliance", translation = "the Alliance", note = "" }
 WordHunterWoW_Dictionary_FR["l’allié"] = { word = "l’allié", translation = "the ally", note = "" }
-WordHunterWoW_Dictionary_FR["l’alliée"] = { word = "L’alliée", translation = "The ally", note = "past participle" }
+WordHunterWoW_Dictionary_FR["l’alliée"] = { word = "L’alliée", translation = "the ally", note = "past participle" }
 WordHunterWoW_Dictionary_FR["l’allume"] = { word = "l’allume", translation = "light it; ignite it", note = "the apostrophe marks an attached pronoun; the verb gloss should not inherit the sentence’s tense or subject" }
 WordHunterWoW_Dictionary_FR["l’allumer"] = { word = "l’allumer", translation = "turn it on", note = "infinitive verb form" }
 WordHunterWoW_Dictionary_FR["l’allumons"] = { word = "l’allumons", translation = "let's light", note = "hortative" }
@@ -37326,7 +37326,7 @@ WordHunterWoW_Dictionary_FR["l’alpaga"] = { word = "l’alpaga", translation =
 WordHunterWoW_Dictionary_FR["l’alpha"] = { word = "l’alpha", translation = "alpha", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’altercation"] = { word = "l’altercation", translation = "the altercation", note = "quarrel" }
 WordHunterWoW_Dictionary_FR["l’alternative"] = { word = "l’alternative", translation = "the alternative", note = "other choice" }
-WordHunterWoW_Dictionary_FR["l’altesse-ailée"] = { word = "l’altesse-ailée", translation = "winged highness", note = "past participle" }
+WordHunterWoW_Dictionary_FR["l’altesse-ailée"] = { word = "l’altesse-ailée", translation = "the winged highness", note = "past participle" }
 WordHunterWoW_Dictionary_FR["l’altitude"] = { word = "l’altitude", translation = "altitude", note = "" }
 WordHunterWoW_Dictionary_FR["l’altruisme"] = { word = "l’altruisme", translation = "altruism; selflessness", note = "noun; kindness and concern for others without self-interest" }
 WordHunterWoW_Dictionary_FR["l’amabilité"] = { word = "l’amabilité", translation = "kindness", note = "elision marks a dropped vowel; keep the apostrophe in the lookup form" }
@@ -37422,7 +37422,7 @@ WordHunterWoW_Dictionary_FR["l’antrelige"] = { word = "l’antrelige", transla
 WordHunterWoW_Dictionary_FR["l’anxiété"] = { word = "l’anxiété", translation = "anxiety", note = "worry" }
 WordHunterWoW_Dictionary_FR["l’anéantir"] = { word = "l’anéantir", translation = "destroy it", note = "present participle" }
 WordHunterWoW_Dictionary_FR["l’anéantira"] = { word = "l’anéantira", translation = "he/she will destroy", note = "future" }
-WordHunterWoW_Dictionary_FR["l’anéantissement"] = { word = "L’anéantissement", translation = "Annihilation", note = "third person plural" }
+WordHunterWoW_Dictionary_FR["l’anéantissement"] = { word = "L’anéantissement", translation = "annihilation", note = "third person plural" }
 WordHunterWoW_Dictionary_FR["l’anéantissions"] = { word = "l’anéantissions", translation = "annihilate", note = "subjunctive" }
 WordHunterWoW_Dictionary_FR["l’apaiser"] = { word = "l’apaiser", translation = "soothe", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’apaisez"] = { word = "l’apaisez", translation = "soothe", note = "2nd person plural" }
@@ -37441,7 +37441,7 @@ WordHunterWoW_Dictionary_FR["l’apothicarium"] = { word = "l’Apothicarium", t
 WordHunterWoW_Dictionary_FR["l’appareil"] = { word = "l’appareil", translation = "the device", note = "l’ replaces le or la before a vowel" }
 WordHunterWoW_Dictionary_FR["l’apparence"] = { word = "l’apparence", translation = "appearance", note = "l’ replaces le or la before a vowel; its gender comes from the noun" }
 WordHunterWoW_Dictionary_FR["l’apparition"] = { word = "l’apparition", translation = "appearance", note = "l’ is the elided article; apparition means appearance or manifestation" }
-WordHunterWoW_Dictionary_FR["l’appeau"] = { word = "L’appeau", translation = "The call", note = "elided word with object pronoun" }
+WordHunterWoW_Dictionary_FR["l’appeau"] = { word = "L’appeau", translation = "the bird call", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’appel"] = { word = "L’appel", translation = "the call", note = "" }
 WordHunterWoW_Dictionary_FR["l’appelaient"] = { word = "l’appelaient", translation = "called him", note = "third person plural" }
 WordHunterWoW_Dictionary_FR["l’appelait"] = { word = "l’appelait", translation = "called him", note = "verb form; conditional or imperfect" }
@@ -37461,7 +37461,7 @@ WordHunterWoW_Dictionary_FR["l’apporterez"] = { word = "l’apporterez", trans
 WordHunterWoW_Dictionary_FR["l’apporteront"] = { word = "l’apporteront", translation = "they will bring", note = "future plural" }
 WordHunterWoW_Dictionary_FR["l’apportez"] = { word = "l’apportez", translation = "bring it", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’apportiez"] = { word = "l’apportiez", translation = "bring it", note = "l’ is the definite article “the,” elided before a vowel" }
-WordHunterWoW_Dictionary_FR["l’apprenait"] = { word = "l’apprenait", translation = "learned it", note = "verb form; conditional or imperfect" }
+WordHunterWoW_Dictionary_FR["l’apprenait"] = { word = "l’apprenait", translation = "was learning it", note = "verb form; conditional or imperfect" }
 WordHunterWoW_Dictionary_FR["l’apprendre"] = { word = "l’apprendre", translation = "learn", note = "l’ is le or la shortened before a vowel; the noun’s gender is unchanged" }
 WordHunterWoW_Dictionary_FR["l’apprendrez"] = { word = "l’apprendrez", translation = "you will learn", note = "future 2nd plural" }
 WordHunterWoW_Dictionary_FR["l’apprendront"] = { word = "l’apprendront", translation = "they will learn", note = "future 3rd plural" }
@@ -37494,7 +37494,7 @@ WordHunterWoW_Dictionary_FR["l’aquilon"] = { word = "l’Aquilon", translation
 WordHunterWoW_Dictionary_FR["l’araignée"] = { word = "l’araignée", translation = "spider", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’arakkoa"] = { word = "l’arakkoa", translation = "arakkoa", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’aranéicine"] = { word = "l’aranéicine", translation = "araneicin", note = "neologism from French aranéa (spider); leave untranslated as a potion ingredient" }
-WordHunterWoW_Dictionary_FR["l’arbalète"] = { word = "L’arbalète", translation = "The crossbow", note = "elided word with object pronoun" }
+WordHunterWoW_Dictionary_FR["l’arbalète"] = { word = "L’arbalète", translation = "the crossbow", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’arbitre"] = { word = "l’Arbitre", translation = "Arbiter", note = "in Shadowlands lore, the Arbiter is a title/name, not a sports referee" }
 WordHunterWoW_Dictionary_FR["l’arbitum"] = { word = "l’Arbitum", translation = "the Arbitum", note = "proper name: a crocodile dominated by a female of its kind" }
 WordHunterWoW_Dictionary_FR["l’arboretum"] = { word = "l’Arboretum", translation = "the Arboretum", note = "l’ is le elided; an arboretum is a collection of trees" }
@@ -37554,10 +37554,10 @@ WordHunterWoW_Dictionary_FR["l’arpenter"] = { word = "l’arpenter", translati
 WordHunterWoW_Dictionary_FR["l’arpenteur"] = { word = "l’Arpenteur", translation = "the surveyor", note = "the article is elided before a masculine noun for a surveyor" }
 WordHunterWoW_Dictionary_FR["l’arquevin"] = { word = "l’arquevin", translation = "arquevin", note = "WoW potion unique to night elves; no English equivalent needed" }
 WordHunterWoW_Dictionary_FR["l’arrachant"] = { word = "l’arrachant", translation = "tearing it away", note = "present participle of arracher (to tear/rip off); the Reaper's effect on resistance" }
-WordHunterWoW_Dictionary_FR["l’arrache"] = { word = "l’arrache", translation = "snatch it", note = "elided word with object pronoun" }
+WordHunterWoW_Dictionary_FR["l’arrache"] = { word = "l’arrache", translation = "snatches him/it; tears him/it away", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’arracher"] = { word = "l’arracher", translation = "tear it off; rip it out", note = "the apostrophe marks an attached pronoun; the verb gloss should not inherit the sentence’s tense or subject" }
 WordHunterWoW_Dictionary_FR["l’arraché"] = { word = "l’arraché", translation = "snatched victory", note = "noun: a sudden violent pull or grab; 'victoire à l'arraché' = victory against the odds" }
-WordHunterWoW_Dictionary_FR["l’arriviste"] = { word = "L’arriviste", translation = "The upstart", note = "elided word with object pronoun" }
+WordHunterWoW_Dictionary_FR["l’arriviste"] = { word = "L’arriviste", translation = "the upstart", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’arrivée"] = { word = "l’arrivée", translation = "arrival", note = "l’ is the elided feminine article; arrivée is feminine in French" }
 WordHunterWoW_Dictionary_FR["l’arrière"] = { word = "l’arrière", translation = "rear", note = "l’ is l’ elided before a vowel" }
 WordHunterWoW_Dictionary_FR["l’arrière-cour"] = { word = "l’arrière-cour", translation = "backyard", note = "arrière = back, cour = yard; Chii Chii's personal territory not to be intruded upon" }
@@ -37593,7 +37593,7 @@ WordHunterWoW_Dictionary_FR["l’arène"] = { word = "l’arène", translation =
 WordHunterWoW_Dictionary_FR["l’arête"] = { word = "l’arête", translation = "the edge", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’arôme"] = { word = "L’arôme", translation = "The Aroma", note = "L'arôme de Kota = Kota's Aroma (proper name/title of something fragrant)" }
 WordHunterWoW_Dictionary_FR["l’as"] = { word = "L’as", translation = "The Ace", note = "card game; L'as des cartes = the Ace of cards (card game reference or title)" }
-WordHunterWoW_Dictionary_FR["l’ascendance"] = { word = "L’ascendance", translation = "The ancestry", note = "elided word with object pronoun" }
+WordHunterWoW_Dictionary_FR["l’ascendance"] = { word = "L’ascendance", translation = "the ancestry", note = "elided word with object pronoun" }
 WordHunterWoW_Dictionary_FR["l’ascendant"] = { word = "l’Ascendant", translation = "the Ascendant", note = "l’ is le/la shortened before a vowel; it is separate from the noun or adjective" }
 WordHunterWoW_Dictionary_FR["l’ascenseur"] = { word = "l’ascenseur", translation = "the elevator", note = "l’ is le or la shortened before a vowel; it is not part of the noun" }
 WordHunterWoW_Dictionary_FR["l’ascension"] = { word = "l’Ascension", translation = "the ascent", note = "l’ replaces le or la before a vowel; the article is separate from the noun" }
@@ -38196,7 +38196,7 @@ WordHunterWoW_Dictionary_FR["l’exécuter"] = { word = "l’exécuter", transla
 WordHunterWoW_Dictionary_FR["l’exécuteur"] = { word = "L’exécuteur", translation = "executor", note = "Executor is also a formal military title in WoW" }
 WordHunterWoW_Dictionary_FR["l’exécution"] = { word = "l’exécution", translation = "execution", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’exécutrice"] = { word = "l’Exécutrice", translation = "the Executrix", note = "WoW lore; the female executor of rituals" }
-WordHunterWoW_Dictionary_FR["l’eût"] = { word = "l’eût", translation = "would have", note = "archaic conditional perfect of avoir; qui l'eût cru = who would have believed it" }
+WordHunterWoW_Dictionary_FR["l’eût"] = { word = "l’eût", translation = "would have it (archaic)", note = "archaic conditional perfect of avoir; qui l'eût cru = who would have believed it" }
 WordHunterWoW_Dictionary_FR["l’faire"] = { word = "l’faire", translation = "do it", note = "dialectal for le faire; faire = to do, make" }
 WordHunterWoW_Dictionary_FR["l’fantôme"] = { word = "l’fantôme", translation = "the ghost", note = "non-standard French (should be le fantôme); refers to a spirit named Tony" }
 WordHunterWoW_Dictionary_FR["l’fief"] = { word = "l’fief", translation = "stronghold", note = "poetic for fief; domain" }
@@ -38309,7 +38309,7 @@ WordHunterWoW_Dictionary_FR["l’ignorait"] = { word = "l’ignorait", translati
 WordHunterWoW_Dictionary_FR["l’ignore"] = { word = "l’ignore", translation = "I do not know it; I am unaware of it", note = "je l’ignore = I do not know" }
 WordHunterWoW_Dictionary_FR["l’ignorer"] = { word = "l’ignorer", translation = "ignore it", note = "ignorer infinitive; disregard or pay no attention" }
 WordHunterWoW_Dictionary_FR["l’ignorez"] = { word = "l’ignorez", translation = "ignore it", note = "ignorer = to ignore, not know; vous ignorez = you ignore/don't know" }
-WordHunterWoW_Dictionary_FR["l’ignoriez"] = { word = "l’ignoriez", translation = "ignored it", note = "imperfect tense: you were ignoring/didn't know" }
+WordHunterWoW_Dictionary_FR["l’ignoriez"] = { word = "l’ignoriez", translation = "you were ignoring it; you ignored it", note = "imperfect tense: you were ignoring/didn't know" }
 WordHunterWoW_Dictionary_FR["l’ignorons"] = { word = "l’ignorons", translation = "ignore", note = "from ignorer; let us ignore" }
 WordHunterWoW_Dictionary_FR["l’illidari"] = { word = "L’Illidari", translation = "Illidari", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’illumination"] = { word = "l’illumination", translation = "enlightenment; illumination", note = "l’ is the definite article “the,” elided before a vowel" }
@@ -38321,7 +38321,7 @@ WordHunterWoW_Dictionary_FR["l’image"] = { word = "l’image", translation = "
 WordHunterWoW_Dictionary_FR["l’imaginaire"] = { word = "l’imaginaire", translation = "imagination", note = "from imaginaire; imaginary realm" }
 WordHunterWoW_Dictionary_FR["l’imaginais"] = { word = "l’imaginais", translation = "I imagined it", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’imagination"] = { word = "l’imagination", translation = "imagination", note = "l’ is le or la shortened before a vowel; the noun’s gender is unchanged" }
-WordHunterWoW_Dictionary_FR["l’imagine"] = { word = "l’imagine", translation = "imagine him", note = "imaginer = to imagine; je l'imagine = I imagine him" }
+WordHunterWoW_Dictionary_FR["l’imagine"] = { word = "l’imagine", translation = "I imagine him/it; imagines it", note = "imaginer = to imagine; je l'imagine = I imagine him" }
 WordHunterWoW_Dictionary_FR["l’imaginer"] = { word = "l’imaginer", translation = "imagine it", note = "l’ is le/la shortened before a vowel; it is separate from the noun or adjective" }
 WordHunterWoW_Dictionary_FR["l’imaginez"] = { word = "l’imaginez", translation = "imagine", note = "from imaginer; you formal" }
 WordHunterWoW_Dictionary_FR["l’imaginiez"] = { word = "l’imaginiez", translation = "imagined", note = "from imaginer; past imperfect" }
@@ -38425,7 +38425,7 @@ WordHunterWoW_Dictionary_FR["l’indignation"] = { word = "l’indignation", tra
 WordHunterWoW_Dictionary_FR["l’indiquait"] = { word = "l’indiquait", translation = "indicated", note = "from indiquer, to show or point" }
 WordHunterWoW_Dictionary_FR["l’indique"] = { word = "l’indique", translation = "indicates it", note = "l’ is the definite article “the,” elided before a vowel" }
 WordHunterWoW_Dictionary_FR["l’indiquer"] = { word = "l’indiquer", translation = "to indicate it", note = "to show or point out" }
-WordHunterWoW_Dictionary_FR["l’indiquerons"] = { word = "l’indiquerons", translation = "we will show", note = "indiquer = to show, indicate, point out" }
+WordHunterWoW_Dictionary_FR["l’indiquerons"] = { word = "l’indiquerons", translation = "we will show it; we will indicate it", note = "indiquer = to show, indicate, point out" }
 WordHunterWoW_Dictionary_FR["l’individu"] = { word = "l’individu", translation = "individual", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’indomptable"] = { word = "l’Indomptable", translation = "indomitable", note = "l’ is le or la shortened before a vowel; the noun’s gender is unchanged" }
 WordHunterWoW_Dictionary_FR["l’indompté"] = { word = "l’Indompté", translation = "the untamed one", note = "dompté = tamed; indompté = untamed; epithet for creature/NPC" }
@@ -38834,7 +38834,7 @@ WordHunterWoW_Dictionary_FR["l’trouve"] = { word = "l’trouve", translation =
 WordHunterWoW_Dictionary_FR["l’trouverez"] = { word = "l’trouverez", translation = "you will find it", note = "colloquial future tense; vous le trouverez = you will find it" }
 WordHunterWoW_Dictionary_FR["l’trouv’rez"] = { word = "l’trouv’rez", translation = "you will find it", note = "very colloquial contraction of trouverez" }
 WordHunterWoW_Dictionary_FR["l’truc"] = { word = "l’truc", translation = "the thing", note = "" }
-WordHunterWoW_Dictionary_FR["l’tuer"] = { word = "l’tuer", translation = "to kill him", note = "l' + tuer (to kill) + object pronoun him" }
+WordHunterWoW_Dictionary_FR["l’tuer"] = { word = "l’tuer", translation = "kill him", note = "l' + tuer (to kill) + object pronoun him" }
 WordHunterWoW_Dictionary_FR["l’tuez"] = { word = "l’tuez", translation = "kill him; you kill", note = "colloquial; vous le tuez = you kill it/him" }
 WordHunterWoW_Dictionary_FR["l’ultime"] = { word = "l’ultime", translation = "ultimate", note = "l’ replaces le or la before a vowel; its gender comes from the noun" }
 WordHunterWoW_Dictionary_FR["l’ultra-canon"] = { word = "l’ultra-canon", translation = "ultra-cannon", note = "machine name Explonheimer 5000; remove article for proper names" }
@@ -38847,9 +38847,9 @@ WordHunterWoW_Dictionary_FR["l’uniformité"] = { word = "l’uniformité", tra
 WordHunterWoW_Dictionary_FR["l’union"] = { word = "L’union", translation = "union", note = "l’ is l’ elided; union may mean a joining or alliance" }
 WordHunterWoW_Dictionary_FR["l’unique"] = { word = "l’unique", translation = "only; sole", note = "unique means “only” here, not “unusual”" }
 WordHunterWoW_Dictionary_FR["l’unir"] = { word = "l’unir", translation = "unite it; combine", note = "unir = to unite/to combine; join two halves of a dream spark" }
-WordHunterWoW_Dictionary_FR["l’unissaient"] = { word = "l’unissaient", translation = "united", note = "past tense; plural subjects united together" }
+WordHunterWoW_Dictionary_FR["l’unissaient"] = { word = "l’unissaient", translation = "united them/it", note = "past tense; plural subjects united together" }
 WordHunterWoW_Dictionary_FR["l’unissait"] = { word = "l’unissait", translation = "united him; bound him", note = "imparfait; from unir (unite); context suggests magical binding or alliance (truncated context)" }
-WordHunterWoW_Dictionary_FR["l’unissent"] = { word = "l’unissent", translation = "unite", note = "3rd person plural; bonds that hold together" }
+WordHunterWoW_Dictionary_FR["l’unissent"] = { word = "l’unissent", translation = "unite them/it", note = "3rd person plural; bonds that hold together" }
 WordHunterWoW_Dictionary_FR["l’unité"] = { word = "l’unité", translation = "unit", note = "l’ is the elided article; unité can mean a unit or unity" }
 WordHunterWoW_Dictionary_FR["l’univers"] = { word = "l’univers", translation = "universe", note = "l’ is le shortened before a vowel; univers is masculine" }
 WordHunterWoW_Dictionary_FR["l’université"] = { word = "l’université", translation = "university", note = "Quel'Thalas university; proper institution" }
@@ -38966,7 +38966,7 @@ WordHunterWoW_Dictionary_FR["l’édit"] = { word = "l’Édit", translation = "
 WordHunterWoW_Dictionary_FR["l’édition"] = { word = "l’édition", translation = "edition", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’éducation"] = { word = "L’éducation", translation = "education", note = "from Latin educatio; teaching or upbringing" }
 WordHunterWoW_Dictionary_FR["l’éduquer"] = { word = "l’éduquer", translation = "educate it; train", note = "éduquer = to educate/to train; the Ettin will be trained as a beast" }
-WordHunterWoW_Dictionary_FR["l’égal"] = { word = "l’égal", translation = "equal", note = "égal not légal; means same rank or peer" }
+WordHunterWoW_Dictionary_FR["l’égal"] = { word = "l’égal", translation = "the equal", note = "égal not légal; means same rank or peer" }
 WordHunterWoW_Dictionary_FR["l’égale"] = { word = "l’égale", translation = "the equal; as great as", note = "adjective as noun feminine; refers to someone of equal power or status" }
 WordHunterWoW_Dictionary_FR["l’égaliseur"] = { word = "l’Égaliseur", translation = "the Equalizer", note = "tool name; designed to balance or level something across recipients" }
 WordHunterWoW_Dictionary_FR["l’égard"] = { word = "l’égard", translation = "regard; respect", note = "in à l’égard de, it means “with regard to”" }
@@ -38984,14 +38984,14 @@ WordHunterWoW_Dictionary_FR["l’électrocuteur"] = { word = "l’électrocuteur
 WordHunterWoW_Dictionary_FR["l’élevage"] = { word = "l’élevage", translation = "breeding; rearing", note = "élever means raise or rear; élevage names the breeding/rearing activity" }
 WordHunterWoW_Dictionary_FR["l’élevation"] = { word = "l’élevation", translation = "the elevation; the rise", note = "élevation = elevation/raised area; the chief is at a western rise" }
 WordHunterWoW_Dictionary_FR["l’éleveur"] = { word = "l’éleveur", translation = "breeder", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
-WordHunterWoW_Dictionary_FR["l’éleveuse"] = { word = "l’éleveuse", translation = "breeder", note = "feminine; woman who raises creatures" }
+WordHunterWoW_Dictionary_FR["l’éleveuse"] = { word = "l’éleveuse", translation = "the breeder", note = "feminine; woman who raises creatures" }
 WordHunterWoW_Dictionary_FR["l’élevé"] = { word = "L’ÉLEVÉ", translation = "the exalted; the high one", note = "élevé = exalted/high/raised; proper name Hallazèle the Exalted" }
 WordHunterWoW_Dictionary_FR["l’éliminafeu"] = { word = "l’éliminafeu", translation = "the fire extinguisher; coolant", note = "untranslated item; made-up name suggesting fire suppression or coolant" }
 WordHunterWoW_Dictionary_FR["l’élimination"] = { word = "L’élimination", translation = "the elimination", note = "l’ is the elided French article “the”; it stays attached to the following word" }
 WordHunterWoW_Dictionary_FR["l’élimine"] = { word = "l’élimine", translation = "eliminate it", note = "present tense of éliminer; to remove or dispatch" }
 WordHunterWoW_Dictionary_FR["l’éliminer"] = { word = "l’éliminer", translation = "kill it", note = "l’ is le or la elided before a vowel; the apostrophe marks the article" }
 WordHunterWoW_Dictionary_FR["l’éliminez"] = { word = "l’éliminez", translation = "eliminate it; you eliminate", note = "imperative or polite form; remove the ogre commander" }
-WordHunterWoW_Dictionary_FR["l’éliminons"] = { word = "l’éliminons", translation = "eliminate", note = "subjunctive; let's get rid of it" }
+WordHunterWoW_Dictionary_FR["l’éliminons"] = { word = "l’éliminons", translation = "let's eliminate it; we eliminate it", note = "subjunctive; let's get rid of it" }
 WordHunterWoW_Dictionary_FR["l’élite"] = { word = "l’élite", translation = "elite", note = "l’ is la elided before a vowel" }
 WordHunterWoW_Dictionary_FR["l’élixir"] = { word = "l’élixir", translation = "the elixir", note = "l’ is l’ elided before a vowel" }
 WordHunterWoW_Dictionary_FR["l’éloge"] = { word = "l’éloge", translation = "praise; tribute", note = "éloge = praise/eulogy/tribute; pay tribute to each clan symbol" }
@@ -39023,11 +39023,11 @@ WordHunterWoW_Dictionary_FR["l’épais"] = { word = "L’épais", translation =
 WordHunterWoW_Dictionary_FR["l’épaisseur"] = { word = "l’épaisseur", translation = "the thickness; the depth", note = "épaisseur = thickness/depth; supplies dwindling due to hardship" }
 WordHunterWoW_Dictionary_FR["l’épaulard"] = { word = "l’épaulard", translation = "the killer whale", note = "" }
 WordHunterWoW_Dictionary_FR["l’épaule"] = { word = "l’épaule", translation = "the shoulder", note = "shoulder of body; from spatula Latin" }
-WordHunterWoW_Dictionary_FR["l’épaulerez"] = { word = "l’épaulerez", translation = "you will support", note = "épauler means to shoulder/back up" }
+WordHunterWoW_Dictionary_FR["l’épaulerez"] = { word = "l’épaulerez", translation = "you will support him", note = "épauler means to shoulder/back up" }
 WordHunterWoW_Dictionary_FR["l’épave"] = { word = "l’épave", translation = "the wreck", note = "l’ is le/la elided before a vowel; it means “the”" }
 WordHunterWoW_Dictionary_FR["l’épelle"] = { word = "l’épelle", translation = "spell it; name it", note = "épeler = to spell; spell out the name correctly" }
 WordHunterWoW_Dictionary_FR["l’éperlan"] = { word = "L’éperlan", translation = "the smelt; smelt fish", note = "éperlan = smelt; small fish found in cold waters" }
-WordHunterWoW_Dictionary_FR["l’éperon"] = { word = "l’éperon", translation = "spur", note = "horse spur or rocky outcrop" }
+WordHunterWoW_Dictionary_FR["l’éperon"] = { word = "l’éperon", translation = "the spur", note = "horse spur or rocky outcrop" }
 WordHunterWoW_Dictionary_FR["l’épervier"] = { word = "l’épervier", translation = "hawk", note = "épervier names a hawk, often a sparrowhawk" }
 WordHunterWoW_Dictionary_FR["l’éphémère"] = { word = "l’éphémère", translation = "the ephemeral; the fleeting", note = "éphémère = ephemeral/temporary/short-lived" }
 WordHunterWoW_Dictionary_FR["l’épicentre"] = { word = "l’épicentre", translation = "epicenter; center", note = "l’ is the object pronoun “it,” attached before a vowel-starting verb" }
@@ -39039,14 +39039,14 @@ WordHunterWoW_Dictionary_FR["l’épine-de-dragon"] = { word = "l’épine-de-dr
 WordHunterWoW_Dictionary_FR["l’épitaphe"] = { word = "l’épitaphe", translation = "the epitaph", note = "from epi + taphe; inscription on tomb" }
 WordHunterWoW_Dictionary_FR["l’éponge"] = { word = "l’éponge", translation = "the sponge", note = "sponge from spongos Greek; porous material" }
 WordHunterWoW_Dictionary_FR["l’époque"] = { word = "l’époque", translation = "the era; the time", note = "l’ is la elided before a vowel; epoque is feminine" }
-WordHunterWoW_Dictionary_FR["l’épouser"] = { word = "l’épouser", translation = "marry", note = "take as spouse; forced marriage context" }
+WordHunterWoW_Dictionary_FR["l’épouser"] = { word = "l’épouser", translation = "marry him/her", note = "take as spouse; forced marriage context" }
 WordHunterWoW_Dictionary_FR["l’époussetant"] = { word = "l’époussetant", translation = "dusting it", note = "present participle of épousséter; brushing off the platinum disk" }
 WordHunterWoW_Dictionary_FR["l’épouvante"] = { word = "l’épouvante", translation = "the terror", note = "" }
 WordHunterWoW_Dictionary_FR["l’époux"] = { word = "l’époux", translation = "the husband; spouse", note = "époux = husband/spouse; about to become a chief" }
 WordHunterWoW_Dictionary_FR["l’épreuve"] = { word = "l’épreuve", translation = "the trial", note = "" }
 WordHunterWoW_Dictionary_FR["l’éprouver"] = { word = "l’éprouver", translation = "test it; put it to the test", note = "éprouver = to test/to try out; ideal time to test your weapon" }
 WordHunterWoW_Dictionary_FR["l’épuisement"] = { word = "l’épuisement", translation = "exhaustion", note = "fatigue" }
-WordHunterWoW_Dictionary_FR["l’épuiser"] = { word = "l’épuiser", translation = "exhaust", note = "wear out; tire the opponent completely" }
+WordHunterWoW_Dictionary_FR["l’épuiser"] = { word = "l’épuiser", translation = "exhaust him/it", note = "wear out; tire the opponent completely" }
 WordHunterWoW_Dictionary_FR["l’épée"] = { word = "l’épée", translation = "sword", note = "l’ is le or la elided before a vowel; the apostrophe marks the article" }
 WordHunterWoW_Dictionary_FR["l’épître"] = { word = "l’Épître", translation = "the Epistle", note = "quest item name; epistle = formal letter" }
 WordHunterWoW_Dictionary_FR["l’équation"] = { word = "l’équation", translation = "equation", note = "l’ is le or la shortened before a vowel; the noun’s gender is unchanged" }
@@ -39056,7 +39056,7 @@ WordHunterWoW_Dictionary_FR["l’équipage"] = { word = "l’équipage", transla
 WordHunterWoW_Dictionary_FR["l’équipe"] = { word = "l’équipe", translation = "the team", note = "l’ is le/la elided before a vowel; it means “the”" }
 WordHunterWoW_Dictionary_FR["l’équipement"] = { word = "l’équipement", translation = "the equipment", note = "l’ is le/la elided before a vowel; it means “the”" }
 WordHunterWoW_Dictionary_FR["l’équiper"] = { word = "l’équiper", translation = "equip it; arm", note = "équiper = to equip/to arm; outfit the captured Gronns" }
-WordHunterWoW_Dictionary_FR["l’équipée"] = { word = "L’équipée", translation = "expedition", note = "organized adventure or group journey" }
+WordHunterWoW_Dictionary_FR["l’équipée"] = { word = "L’équipée", translation = "the expedition", note = "organized adventure or group journey" }
 WordHunterWoW_Dictionary_FR["l’équitation"] = { word = "L’équitation", translation = "horsemanship", note = "art and practice of horse riding" }
 WordHunterWoW_Dictionary_FR["l’équivalent"] = { word = "l’équivalent", translation = "the equivalent; the counterpart", note = "équivalent = equivalent; silithides like an anthill" }
 WordHunterWoW_Dictionary_FR["l’éradication"] = { word = "l’éradication", translation = "eradication; extermination", note = "l’ is the definite article “the,” elided before a vowel" }
@@ -39071,7 +39071,7 @@ WordHunterWoW_Dictionary_FR["l’érédun"] = { word = "l’érédun", translati
 WordHunterWoW_Dictionary_FR["l’étable"] = { word = "l’étable", translation = "the stable; the barn", note = "étable = stable/barn; livestock shelter around the farm" }
 WordHunterWoW_Dictionary_FR["l’établissement"] = { word = "l’établissement", translation = "the establishment", note = "l' = elision of le (the); a place or institution" }
 WordHunterWoW_Dictionary_FR["l’étage"] = { word = "l’étage", translation = "floor", note = "l’ replaces le before a vowel; étage is a building floor, or a storey" }
-WordHunterWoW_Dictionary_FR["l’étaient"] = { word = "l’étaient", translation = "were", note = "past tense; druids before feral reversion" }
+WordHunterWoW_Dictionary_FR["l’étaient"] = { word = "l’étaient", translation = "were (so); were it", note = "past tense; druids before feral reversion" }
 WordHunterWoW_Dictionary_FR["l’étain"] = { word = "l’étain", translation = "tin", note = "étain = tin; soft metal used in training weapons" }
 WordHunterWoW_Dictionary_FR["l’était"] = { word = "l’était", translation = "was it", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’étal"] = { word = "l’étal", translation = "lethal", note = "" }
@@ -39111,8 +39111,8 @@ WordHunterWoW_Dictionary_FR["l’étreinte"] = { word = "l’étreinte", transla
 WordHunterWoW_Dictionary_FR["l’étrier"] = { word = "l’étrier", translation = "stirrup", note = "étrier literally a stirrup; idiom 'remettre à l'étrier' means to give someone a fresh start" }
 WordHunterWoW_Dictionary_FR["l’étriper"] = { word = "l’étriper", translation = "disembowel; eviscerate", note = "étriper = to gut or disembowel; violent action word" }
 WordHunterWoW_Dictionary_FR["l’étripeur"] = { word = "l’Étripeur", translation = "the Ripper", note = "one who eviscerates; criminal title" }
-WordHunterWoW_Dictionary_FR["l’étroit"] = { word = "l’étroit", translation = "crowded", note = "cramped; Trolls lack living space" }
-WordHunterWoW_Dictionary_FR["l’étroite"] = { word = "l’étroite", translation = "close", note = "tight; under close guard or supervision" }
+WordHunterWoW_Dictionary_FR["l’étroit"] = { word = "l’étroit", translation = "cramped; the narrow", note = "cramped; Trolls lack living space" }
+WordHunterWoW_Dictionary_FR["l’étroite"] = { word = "l’étroite", translation = "the narrow", note = "tight; under close guard or supervision" }
 WordHunterWoW_Dictionary_FR["l’étude"] = { word = "l’étude", translation = "study", note = "l’ is le or la elided before a vowel; French uses both for “the”" }
 WordHunterWoW_Dictionary_FR["l’étudia"] = { word = "l’étudia", translation = "studied it", note = "past tense of étudier; l' = the object (it)" }
 WordHunterWoW_Dictionary_FR["l’étudiant"] = { word = "l’étudiant", translation = "the student", note = "present participle of étudier; while examining it, not the noun student" }
@@ -39130,7 +39130,7 @@ WordHunterWoW_Dictionary_FR["l’éveil"] = { word = "l’Éveil", translation =
 WordHunterWoW_Dictionary_FR["l’éventail"] = { word = "l’éventail", translation = "fan", note = "éventail = fan (tool for cooling); also means range or spectrum of options" }
 WordHunterWoW_Dictionary_FR["l’éventration"] = { word = "l’éventration", translation = "disembowelment", note = "from éventrer (to disembowel); noun form" }
 WordHunterWoW_Dictionary_FR["l’éventualité"] = { word = "l’éventualité", translation = "the possibility", note = "l' = elision of le (the); possibility or eventuality" }
-WordHunterWoW_Dictionary_FR["l’éventuelle"] = { word = "l’éventuelle", translation = "possible", note = "potential; war prevented by sacrifice" }
+WordHunterWoW_Dictionary_FR["l’éventuelle"] = { word = "l’éventuelle", translation = "the possible", note = "potential; war prevented by sacrifice" }
 WordHunterWoW_Dictionary_FR["l’évidence"] = { word = "l’évidence", translation = "evidence; obviousness", note = "a noun here; it is not the English adjective “evident”" }
 WordHunterWoW_Dictionary_FR["l’éviscération"] = { word = "l’Éviscération", translation = "evisceration", note = "l’ is the elided definite article; English dictionary glosses normally omit it" }
 WordHunterWoW_Dictionary_FR["l’éviter"] = { word = "l’éviter", translation = "avoid it", note = "pass by or sidestep the obstacle" }
@@ -39182,7 +39182,7 @@ WordHunterWoW_Dictionary_FR["m'aider"] = { word = "m'aider", translation = "help
 WordHunterWoW_Dictionary_FR["m'aidera"] = { word = "m'aidera", translation = "help me", note = "aider means help; -a is the future ending, not part of the standalone gloss" }
 WordHunterWoW_Dictionary_FR["m'aiderait"] = { word = "m'aiderait", translation = "he/she would help me", note = "conditional of aider; request for assistance" }
 WordHunterWoW_Dictionary_FR["m'aiderez"] = { word = "m'aiderez", translation = "you will help me", note = "future tense of aider" }
-WordHunterWoW_Dictionary_FR["m'aiderez-vous"] = { word = "M'aiderez-vous", translation = "Will you help me", note = "" }
+WordHunterWoW_Dictionary_FR["m'aiderez-vous"] = { word = "M'aiderez-vous", translation = "will you help me", note = "" }
 WordHunterWoW_Dictionary_FR["m'aideriez-vous"] = { word = "M'aideriez-vous", translation = "Will you help me; Would you aid me", note = "conditional polite question; m' = me, -vous = formal you" }
 WordHunterWoW_Dictionary_FR["m'aidez"] = { word = "m'aidez", translation = "help me", note = "m’ is me shortened before a vowel; the pronoun stays attached to the verb" }
 WordHunterWoW_Dictionary_FR["m'aidiez"] = { word = "m'aidiez", translation = "would help me", note = "conditional of aider" }
@@ -39237,7 +39237,7 @@ WordHunterWoW_Dictionary_FR["m'arnaque"] = { word = "m'arnaque", translation = "
 WordHunterWoW_Dictionary_FR["m'arnaquer"] = { word = "m'arnaquer", translation = "scam me; cheat me", note = "from arnaquer (to swindle); slang/informal" }
 WordHunterWoW_Dictionary_FR["m'arracher"] = { word = "m'arracher", translation = "tear me away; rip from me", note = "arracher = to tear away, uproot, or snatch from" }
 WordHunterWoW_Dictionary_FR["m'arranger"] = { word = "m'arranger", translation = "arrange for me", note = "arranger infinitive; put in order or make suitable" }
-WordHunterWoW_Dictionary_FR["m'arrangerai"] = { word = "m'arrangerai", translation = "I will arrange", note = "" }
+WordHunterWoW_Dictionary_FR["m'arrangerai"] = { word = "m'arrangerai", translation = "I will manage; I will arrange it", note = "" }
 WordHunterWoW_Dictionary_FR["m'arrive"] = { word = "m'arrive", translation = "happens to me; occurs to me", note = "present of arriver (to happen); colloquial 'it happens all the time to me'" }
 WordHunterWoW_Dictionary_FR["m'arrivera"] = { word = "m'arrivera", translation = "he/she will happen to me; he/she will befall me", note = "future of arriver" }
 WordHunterWoW_Dictionary_FR["m'arrêter"] = { word = "m'arrêter", translation = "stop me; halt me", note = "arrêter = to stop, arrest, or halt movement" }
@@ -39285,7 +39285,7 @@ WordHunterWoW_Dictionary_FR["m'efforcer"] = { word = "m'efforcer", translation =
 WordHunterWoW_Dictionary_FR["m'emmener"] = { word = "m'emmener", translation = "take me; lead me away", note = "emmener = to take away or lead elsewhere" }
 WordHunterWoW_Dictionary_FR["m'emmènent"] = { word = "m'emmènent", translation = "are taking me; are leading me away", note = "present of emmener (to take away); passive sense" }
 WordHunterWoW_Dictionary_FR["m'emmènera"] = { word = "m'emmènera", translation = "he/she will take me; he/she will bring me", note = "future of emmener" }
-WordHunterWoW_Dictionary_FR["m'emparer"] = { word = "m'emparer", translation = "grab me", note = "" }
+WordHunterWoW_Dictionary_FR["m'emparer"] = { word = "m'emparer", translation = "seize; take hold of", note = "" }
 WordHunterWoW_Dictionary_FR["m'emparerai"] = { word = "m'emparerai", translation = "I will seize; I will take hold of", note = "future reflexive of s'emparer (to seize); wizard casting spell" }
 WordHunterWoW_Dictionary_FR["m'emplit"] = { word = "m'emplit", translation = "fills me", note = "present of emplir (to fill); 'pride fills me'" }
 WordHunterWoW_Dictionary_FR["m'emploierai"] = { word = "m'emploierai", translation = "I will apply myself; I will set myself to", note = "future reflexive of s'employer (to apply oneself)" }
@@ -40047,11 +40047,11 @@ WordHunterWoW_Dictionary_FR["mangeable"] = { word = "mangeable", translation = "
 WordHunterWoW_Dictionary_FR["mangeables"] = { word = "mangeables", translation = "edible; eatable; fit to eat", note = "adjective; describes things safe or suitable for consumption" }
 WordHunterWoW_Dictionary_FR["mangeaient"] = { word = "mangeaient", translation = "were eating; ate", note = "imperfect past; describes continuous eating in past" }
 WordHunterWoW_Dictionary_FR["mangeaille"] = { word = "mangeaille", translation = "eating; feast; food; eating contest", note = "noun; 'concours de mangeaille' = eating competitions or feasting events" }
-WordHunterWoW_Dictionary_FR["mangeais"] = { word = "mangeais", translation = "ate", note = "past imperfect; would eat for info" }
+WordHunterWoW_Dictionary_FR["mangeais"] = { word = "mangeais", translation = "I/you were eating; I/you used to eat", note = "past imperfect; would eat for info" }
 WordHunterWoW_Dictionary_FR["mangeait"] = { word = "mangeait", translation = "ate; was eating", note = "imperfect past; describes insatiable hunger even after death" }
 WordHunterWoW_Dictionary_FR["mangeant"] = { word = "mangeant", translation = "eating", note = "present participle of manger" }
 WordHunterWoW_Dictionary_FR["mangent"] = { word = "mangent", translation = "eat", note = "french word-final consonants are often silent unless liaison links them to the next word" }
-WordHunterWoW_Dictionary_FR["mangeons"] = { word = "mangeons", translation = "eat", note = "we eat; blood elves don't drink blood" }
+WordHunterWoW_Dictionary_FR["mangeons"] = { word = "mangeons", translation = "we eat; let's eat", note = "we eat; blood elves don't drink blood" }
 WordHunterWoW_Dictionary_FR["manger"] = { word = "manger", translation = "eat", note = "the e keeps g soft in nous mangeons" }
 WordHunterWoW_Dictionary_FR["mangera"] = { word = "mangera", translation = "he/she will eat; shall eat", note = "future tense; describes spiders with hunger and appetite" }
 WordHunterWoW_Dictionary_FR["mangerai"] = { word = "mangerai", translation = "I will eat", note = "future; but no frog legs available" }
@@ -40222,7 +40222,7 @@ WordHunterWoW_Dictionary_FR["manœuvre"] = { word = "manœuvre", translation = "
 WordHunterWoW_Dictionary_FR["manœuvrent"] = { word = "manœuvrent", translation = "maneuver", note = "3rd person plural; tactical movements" }
 WordHunterWoW_Dictionary_FR["manœuvrer"] = { word = "manœuvrer", translation = "maneuver", note = "infinitive; move strategically" }
 WordHunterWoW_Dictionary_FR["manœuvres"] = { word = "manœuvres", translation = "maneuvers; tactics", note = "plural form; the final -s is usually silent in French" }
-WordHunterWoW_Dictionary_FR["manœuvrez"] = { word = "Manœuvrez", translation = "Maneuver", note = "imperative; to move, steer, or act" }
+WordHunterWoW_Dictionary_FR["manœuvrez"] = { word = "Manœuvrez", translation = "maneuver", note = "imperative; to move, steer, or act" }
 WordHunterWoW_Dictionary_FR["manœuvré"] = { word = "manœuvré", translation = "maneuvered", note = "past participle, masculine form; tactical military movement" }
 WordHunterWoW_Dictionary_FR["man’ari"] = { word = "Man’ari", translation = "Man’ari", note = "Man’ari is a WoW people-name; retain the apostrophe" }
 WordHunterWoW_Dictionary_FR["man’zul"] = { word = "Man’zul", translation = "Man'zul", note = "proper name with typographic apostrophe (U+2019), not to be changed" }
@@ -40975,7 +40975,7 @@ WordHunterWoW_Dictionary_FR["mensuel"] = { word = "mensuel", translation = "mont
 WordHunterWoW_Dictionary_FR["mensuelle"] = { word = "mensuelle", translation = "monthly", note = "adjective; monthly export of tiger fangs" }
 WordHunterWoW_Dictionary_FR["mensurations"] = { word = "mensurations", translation = "measurements", note = "the -ions ending marks a first-person plural imperfect or subjunctive form" }
 WordHunterWoW_Dictionary_FR["ment"] = { word = "ment", translation = "lies", note = "3rd person singular of mentir; deceives" }
-WordHunterWoW_Dictionary_FR["mentais"] = { word = "mentais", translation = "was lying; lied", note = "past imperfect first person; was telling lies" }
+WordHunterWoW_Dictionary_FR["mentais"] = { word = "mentais", translation = "I/you were lying; I/you lied", note = "past imperfect first person; was telling lies" }
 WordHunterWoW_Dictionary_FR["mentait"] = { word = "mentait", translation = "was lying", note = "imperfect of mentir (to lie); continuous past action" }
 WordHunterWoW_Dictionary_FR["mental"] = { word = "mental", translation = "mental", note = "a close French-English cognate; the shared Latin root makes the meaning recognizable" }
 WordHunterWoW_Dictionary_FR["mentale"] = { word = "mentale", translation = "mental; of the mind", note = "feminine form of mental; French adjectives agree with the noun" }
@@ -41030,7 +41030,7 @@ WordHunterWoW_Dictionary_FR["mercantiles"] = { word = "mercantiles", translation
 WordHunterWoW_Dictionary_FR["mercantilisme"] = { word = "mercantilisme", translation = "mercantilism", note = "economic system; focus on trade and profits" }
 WordHunterWoW_Dictionary_FR["mercenaire"] = { word = "mercenaire", translation = "mercenary", note = "the ending marks an infinitive; English uses the bare verb" }
 WordHunterWoW_Dictionary_FR["mercenaires"] = { word = "mercenaires", translation = "mercenaries", note = "the final -s marks the plural and is usually silent in French" }
-WordHunterWoW_Dictionary_FR["mercenariat"] = { word = "Mercenariat", translation = "Mercenary work", note = "mercenary service or profession" }
+WordHunterWoW_Dictionary_FR["mercenariat"] = { word = "Mercenariat", translation = "mercenary work", note = "mercenary service or profession" }
 WordHunterWoW_Dictionary_FR["mercer"] = { word = "Mercer", translation = "Mercer", note = "NPC name; military commander" }
 WordHunterWoW_Dictionary_FR["merci"] = { word = "Merci", translation = "thanks", note = "" }
 WordHunterWoW_Dictionary_FR["mercis"] = { word = "mercis", translation = "thanks", note = "plural of merci; mille mercis is an emphatic thank-you" }
@@ -41072,7 +41072,7 @@ WordHunterWoW_Dictionary_FR["mesquins"] = { word = "mesquins", translation = "pe
 WordHunterWoW_Dictionary_FR["messache"] = { word = "messache", translation = "whisper", note = "dialect word; murmured gossip or rumor (Goblin accent)" }
 WordHunterWoW_Dictionary_FR["message"] = { word = "message", translation = "message", note = "cognate: this English word shares a Latin root with the French form" }
 WordHunterWoW_Dictionary_FR["messager"] = { word = "messager", translation = "messenger", note = "" }
-WordHunterWoW_Dictionary_FR["messagerie"] = { word = "Messagerie", translation = "Messaging", note = "system of sending messages; mail service" }
+WordHunterWoW_Dictionary_FR["messagerie"] = { word = "Messagerie", translation = "messaging; message service", note = "system of sending messages; mail service" }
 WordHunterWoW_Dictionary_FR["messageries"] = { word = "Messageries", translation = "Courier Service", note = "noun plural; delivery or express mail business" }
 WordHunterWoW_Dictionary_FR["messagers"] = { word = "messagers", translation = "messengers", note = "the final -s marks the plural and is usually silent in French" }
 WordHunterWoW_Dictionary_FR["messages"] = { word = "messages", translation = "messages", note = "the final -s marks the plural and is usually silent in French" }
@@ -41109,7 +41109,7 @@ WordHunterWoW_Dictionary_FR["mettent"] = { word = "mettent", translation = "put;
 WordHunterWoW_Dictionary_FR["mettent-ils"] = { word = "mettent-ils", translation = "do they put", note = "present tense question; do they wear/put on guild rings" }
 WordHunterWoW_Dictionary_FR["metteuse"] = { word = "metteuse", translation = "director", note = "noun feminine; 'metteuse en scène' = stage director (not putter)" }
 WordHunterWoW_Dictionary_FR["mettez"] = { word = "mettez", translation = "place", note = "french conjugation carries tense or subject information; English often uses a separate subject pronoun" }
-WordHunterWoW_Dictionary_FR["mettez-la"] = { word = "Mettez-la", translation = "put her on; wear her", note = "imperative with pronoun; command to wear or apply" }
+WordHunterWoW_Dictionary_FR["mettez-la"] = { word = "Mettez-la", translation = "put it on; put her on", note = "imperative with pronoun; command to wear or apply" }
 WordHunterWoW_Dictionary_FR["mettez-le"] = { word = "mettez-le", translation = "put it on", note = "the -ez ending marks a formal/plural command or verb form" }
 WordHunterWoW_Dictionary_FR["mettez-le-moi"] = { word = "Mettez-le-moi", translation = "Put it in my hand", note = "imperative; give me/put it where I can hold it" }
 WordHunterWoW_Dictionary_FR["mettez-les"] = { word = "Mettez-les", translation = "put them on", note = "the -ez ending marks a formal/plural command or verb form" }
@@ -41137,7 +41137,7 @@ WordHunterWoW_Dictionary_FR["mettrons"] = { word = "mettrons", translation = "we
 WordHunterWoW_Dictionary_FR["mettront"] = { word = "mettront", translation = "they will put", note = "future plural of mettre; it means they will put" }
 WordHunterWoW_Dictionary_FR["metz"] = { word = "Metz", translation = "Metz", note = "" }
 WordHunterWoW_Dictionary_FR["metzen"] = { word = "Metzen", translation = "Metzen", note = "" }
-WordHunterWoW_Dictionary_FR["meuble"] = { word = "meuble", translation = "loose; soft earth", note = "loose soil or crumbly ground" }
+WordHunterWoW_Dictionary_FR["meuble"] = { word = "meuble", translation = "loose (of soil); piece of furniture", note = "loose soil or crumbly ground" }
 WordHunterWoW_Dictionary_FR["meubles"] = { word = "meubles", translation = "furniture; goods", note = "the final -s marks a French plural, even when English does not show the same ending" }
 WordHunterWoW_Dictionary_FR["meublée"] = { word = "meublée", translation = "furnished", note = "adjective feminine; outfitted with furniture" }
 WordHunterWoW_Dictionary_FR["meuglent"] = { word = "meuglent", translation = "moo", note = "verb third person plural; cattle cry" }
@@ -41813,7 +41813,7 @@ WordHunterWoW_Dictionary_FR["montagneuses"] = { word = "montagneuses", translati
 WordHunterWoW_Dictionary_FR["montagneux"] = { word = "montagneux", translation = "mountainous", note = "from montagneux (hilly, high-altitude)" }
 WordHunterWoW_Dictionary_FR["montague"] = { word = "Montague", translation = "Montague", note = "" }
 WordHunterWoW_Dictionary_FR["montaient"] = { word = "montaient", translation = "were going up; were climbing", note = "past tense; cultists establishing camp" }
-WordHunterWoW_Dictionary_FR["montais"] = { word = "montais", translation = "I was going up", note = "imperfect tense" }
+WordHunterWoW_Dictionary_FR["montais"] = { word = "montais", translation = "I/you were going up", note = "imperfect tense" }
 WordHunterWoW_Dictionary_FR["montait"] = { word = "montait", translation = "was mounting", note = "imperfect: was fitting/attaching; montait sur = mounting on" }
 WordHunterWoW_Dictionary_FR["montant"] = { word = "montant", translation = "rising; amount; sum", note = "present participle of monter (to rise); upward movement" }
 WordHunterWoW_Dictionary_FR["montante"] = { word = "montante", translation = "rising", note = "feminine form of montant; upward or crescendoing" }
@@ -42093,7 +42093,7 @@ WordHunterWoW_Dictionary_FR["morthis"] = { word = "Morthis", translation = "Mort
 WordHunterWoW_Dictionary_FR["mortholme"] = { word = "Mortholme", translation = "Mortholme", note = "" }
 WordHunterWoW_Dictionary_FR["mortie"] = { word = "Mortie", translation = "Mortie", note = "" }
 WordHunterWoW_Dictionary_FR["mortier"] = { word = "mortier", translation = "mortar", note = "the ending marks an infinitive; English uses the bare verb" }
-WordHunterWoW_Dictionary_FR["mortierisez-les"] = { word = "Mortierisez-les", translation = "Mortarize them", note = "" }
+WordHunterWoW_Dictionary_FR["mortierisez-les"] = { word = "Mortierisez-les", translation = "mortarize them", note = "" }
 WordHunterWoW_Dictionary_FR["mortiers"] = { word = "mortiers", translation = "mortars", note = "the written plural ending is normally silent in French" }
 WordHunterWoW_Dictionary_FR["mortifié"] = { word = "mortifié", translation = "mortified", note = "embarrassed; humiliated; ashamed; subdued" }
 WordHunterWoW_Dictionary_FR["mortifère"] = { word = "mortifère", translation = "deadly", note = "death-bearing; lethal; mortis + ferre (to carry)" }
@@ -42188,7 +42188,7 @@ WordHunterWoW_Dictionary_FR["mouillage"] = { word = "mouillage", translation = "
 WordHunterWoW_Dictionary_FR["mouillant"] = { word = "mouillant", translation = "soaking", note = "wetting; dampening; causing to be wet" }
 WordHunterWoW_Dictionary_FR["mouille"] = { word = "mouille", translation = "get wet", note = "mouiller means make wet; se mouiller means get wet" }
 WordHunterWoW_Dictionary_FR["mouillebière"] = { word = "Mouillebière", translation = "Mouillebière", note = "" }
-WordHunterWoW_Dictionary_FR["mouillent"] = { word = "mouillent", translation = "are moored", note = "anchored" }
+WordHunterWoW_Dictionary_FR["mouillent"] = { word = "mouillent", translation = "wet; drop anchor; moor", note = "anchored" }
 WordHunterWoW_Dictionary_FR["mouiller"] = { word = "mouiller", translation = "get wet; wade", note = "mouiller means make wet; the reflexive sense can mean get involved" }
 WordHunterWoW_Dictionary_FR["mouillez"] = { word = "mouillez", translation = "wet", note = "imperative: make wet; get wet; soak" }
 WordHunterWoW_Dictionary_FR["mouillé"] = { word = "mouillé", translation = "wet", note = "soaked with moisture or liquid" }
@@ -42542,7 +42542,7 @@ WordHunterWoW_Dictionary_FR["mutilé"] = { word = "mutilé", translation = "muti
 WordHunterWoW_Dictionary_FR["mutilée"] = { word = "mutilée", translation = "mutilated", note = "past participle feminine; wounded or severed" }
 WordHunterWoW_Dictionary_FR["mutilées"] = { word = "mutilées", translation = "mutilated", note = "past participle feminine plural; severed body parts" }
 WordHunterWoW_Dictionary_FR["mutilés"] = { word = "mutilés", translation = "mutilated", note = "plural masculine; multiple disfigured or damaged things" }
-WordHunterWoW_Dictionary_FR["mutin"] = { word = "Mutin", translation = "Mutineer", note = "rebel or insurrectionist; quest title" }
+WordHunterWoW_Dictionary_FR["mutin"] = { word = "Mutin", translation = "mutineer", note = "rebel or insurrectionist; quest title" }
 WordHunterWoW_Dictionary_FR["mutiner"] = { word = "mutiner", translation = "mutiny", note = "verb; to mutiny or rebel against authority" }
 WordHunterWoW_Dictionary_FR["mutinerie"] = { word = "mutinerie", translation = "mutiny", note = "a close French-English cognate; the shared Latin root makes the meaning recognizable" }
 WordHunterWoW_Dictionary_FR["mutins"] = { word = "mutins", translation = "mutineers", note = "the written plural ending is normally silent in French" }
@@ -42638,7 +42638,7 @@ WordHunterWoW_Dictionary_FR["mâchés"] = { word = "mâchés", translation = "ch
 WordHunterWoW_Dictionary_FR["mâle"] = { word = "mâle", translation = "male", note = "" }
 WordHunterWoW_Dictionary_FR["mâles"] = { word = "mâles", translation = "males", note = "plural form; the final -s is usually silent in French" }
 WordHunterWoW_Dictionary_FR["mât"] = { word = "mât", translation = "mast", note = "a mast on a ship; the circumflex marks the lost s in older spelling" }
-WordHunterWoW_Dictionary_FR["mâtiné"] = { word = "mâtiné", translation = "tempered", note = "tempered with; half-mixed or tinged with" }
+WordHunterWoW_Dictionary_FR["mâtiné"] = { word = "mâtiné", translation = "crossbred; mixed with", note = "tempered with; half-mixed or tinged with" }
 WordHunterWoW_Dictionary_FR["mâtinée"] = { word = "mâtinée", translation = "tinged", note = "adjective; mingled with or marked by a quality" }
 WordHunterWoW_Dictionary_FR["mâts"] = { word = "mâts", translation = "masts", note = "tall poles that support sails on ships" }
 WordHunterWoW_Dictionary_FR["mâté"] = { word = "mâté", translation = "mastered; subdued", note = "past participle; controlling pirates" }
@@ -42962,7 +42962,7 @@ WordHunterWoW_Dictionary_FR["mêlent"] = { word = "mêlent", translation = "inte
 WordHunterWoW_Dictionary_FR["mêler"] = { word = "mêler", translation = "interfere", note = "in “se mêler de”, it means interfere; alone, it means mix" }
 WordHunterWoW_Dictionary_FR["mêlera"] = { word = "mêlera", translation = "he/she will meddle; he/she will interfere", note = "future; keeping Alliance out of affairs" }
 WordHunterWoW_Dictionary_FR["mêleraient"] = { word = "mêleraient", translation = "they would mix; if they mixed", note = "conditional tense of mêler" }
-WordHunterWoW_Dictionary_FR["mêlez-vous"] = { word = "mêlez-vous", translation = "meddle", note = "get involved or interfere; imperative" }
+WordHunterWoW_Dictionary_FR["mêlez-vous"] = { word = "mêlez-vous", translation = "meddle; mingle", note = "get involved or interfere; imperative" }
 WordHunterWoW_Dictionary_FR["mêliez"] = { word = "mêliez", translation = "you mixed; you mingled", note = "imperfect of mêler (you were mixing)" }
 WordHunterWoW_Dictionary_FR["mêlé"] = { word = "mêlé", translation = "tangled", note = "trapped" }
 WordHunterWoW_Dictionary_FR["mêlée"] = { word = "mêlée", translation = "melee", note = "feminine noun; French uses la/l’, while English nouns have no grammatical gender" }
@@ -42991,7 +42991,7 @@ WordHunterWoW_Dictionary_FR["mûs"] = { word = "mûs", translation = "driven; mo
 WordHunterWoW_Dictionary_FR["mœurs"] = { word = "mœurs", translation = "customs", note = "traditions" }
 WordHunterWoW_Dictionary_FR["m’a"] = { word = "m’a", translation = "has me; has … to me", note = "me elided + a (has): il m’a dit = he told me; not the possessive “my”, which is mon / ma" }
 WordHunterWoW_Dictionary_FR["m’a-t-elle"] = { word = "m’a-t-elle", translation = "did she tell me", note = "" }
-WordHunterWoW_Dictionary_FR["m’a-t-il"] = { word = "m’a-t-il", translation = "has he imposed on me", note = "m'a-t-il = did/has he [verb] me; context-dependent" }
+WordHunterWoW_Dictionary_FR["m’a-t-il"] = { word = "m’a-t-il", translation = "has he … me; did he … me", note = "m'a-t-il = did/has he [verb] me; context-dependent" }
 WordHunterWoW_Dictionary_FR["m’a-t-on"] = { word = "m’a-t-on", translation = "have they told me; was I told", note = "m’ is me elided before a vowel-starting verb; it marks the speaker as the object" }
 WordHunterWoW_Dictionary_FR["m’abaisser"] = { word = "m’abaisser", translation = "lower myself", note = "to demean myself or debase" }
 WordHunterWoW_Dictionary_FR["m’abandonner"] = { word = "m’abandonner", translation = "abandon me", note = "to desert or leave me defenseless" }
@@ -43002,7 +43002,7 @@ WordHunterWoW_Dictionary_FR["m’abreuve"] = { word = "m’abreuve", translation
 WordHunterWoW_Dictionary_FR["m’absenter"] = { word = "m’absenter", translation = "leave; be away", note = "m’ is me elided before a vowel-starting verb; it marks the speaker as the object" }
 WordHunterWoW_Dictionary_FR["m’abstenir"] = { word = "m’abstenir", translation = "abstain", note = "" }
 WordHunterWoW_Dictionary_FR["m’abstiendrai"] = { word = "m’abstiendrai", translation = "I will abstain", note = "" }
-WordHunterWoW_Dictionary_FR["m’abuse"] = { word = "m’abuse", translation = "deceive me", note = "if I am mistaken; false friend from abuse" }
+WordHunterWoW_Dictionary_FR["m’abuse"] = { word = "m’abuse", translation = "deceives me; fools me", note = "if I am mistaken; false friend from abuse" }
 WordHunterWoW_Dictionary_FR["m’accaparer"] = { word = "m’accaparer", translation = "grab me", note = "" }
 WordHunterWoW_Dictionary_FR["m’accepte"] = { word = "m’accepte", translation = "accept me", note = "" }
 WordHunterWoW_Dictionary_FR["m’accepter"] = { word = "m’accepter", translation = "accept me", note = "" }
@@ -43029,7 +43029,7 @@ WordHunterWoW_Dictionary_FR["m’admirer"] = { word = "m’admirer", translation
 WordHunterWoW_Dictionary_FR["m’adonner"] = { word = "m’adonner", translation = "indulge myself", note = "" }
 WordHunterWoW_Dictionary_FR["m’adresse"] = { word = "m’adresse", translation = "address me", note = "" }
 WordHunterWoW_Dictionary_FR["m’adresser"] = { word = "m’adresser", translation = "speak to", note = "m’ is me shortened before a vowel" }
-WordHunterWoW_Dictionary_FR["m’adresserai"] = { word = "m’adresserai", translation = "I will address", note = "future tense; will speak or nominate" }
+WordHunterWoW_Dictionary_FR["m’adresserai"] = { word = "m’adresserai", translation = "I will address myself; I will speak to", note = "future tense; will speak or nominate" }
 WordHunterWoW_Dictionary_FR["m’affaiblir"] = { word = "m’affaiblir", translation = "weaken me", note = "" }
 WordHunterWoW_Dictionary_FR["m’affament"] = { word = "m’affament", translation = "starve me", note = "" }
 WordHunterWoW_Dictionary_FR["m’affamer"] = { word = "m’affamer", translation = "starve myself", note = "" }
@@ -43052,7 +43052,7 @@ WordHunterWoW_Dictionary_FR["m’aideront"] = { word = "m’aideront", translati
 WordHunterWoW_Dictionary_FR["m’aidez"] = { word = "m’aidez", translation = "help me", note = "french verb endings encode tense and subject; English normally makes the subject explicit" }
 WordHunterWoW_Dictionary_FR["m’aidiez"] = { word = "m’aidiez", translation = "help me", note = "m’ is me elided before a vowel" }
 WordHunterWoW_Dictionary_FR["m’aient"] = { word = "m’aient", translation = "have me", note = "" }
-WordHunterWoW_Dictionary_FR["m’aille"] = { word = "m’aille", translation = "suits me", note = "fits or pleases me; subjunctive present" }
+WordHunterWoW_Dictionary_FR["m’aille"] = { word = "m’aille", translation = "suits me; may suit me", note = "fits or pleases me; subjunctive present" }
 WordHunterWoW_Dictionary_FR["m’aillent"] = { word = "m’aillent", translation = "fit me", note = "" }
 WordHunterWoW_Dictionary_FR["m’aime"] = { word = "m’aime", translation = "love me", note = "" }
 WordHunterWoW_Dictionary_FR["m’ait"] = { word = "m’ait", translation = "may have me; has me", note = "m’ = me + subjunctive of avoir" }
@@ -43298,7 +43298,7 @@ WordHunterWoW_Dictionary_FR["m’honore"] = { word = "m’honore", translation =
 WordHunterWoW_Dictionary_FR["m’honorent"] = { word = "m’honorent", translation = "honor me", note = "honor the Horde through these bars" }
 WordHunterWoW_Dictionary_FR["m’honorez"] = { word = "m’honorez", translation = "honor me", note = "imperative; help elders, honor speaker" }
 WordHunterWoW_Dictionary_FR["m’humilier"] = { word = "m’humilier", translation = "humiliate myself", note = "shame; Blackrock attempt" }
-WordHunterWoW_Dictionary_FR["m’imaginais"] = { word = "m’imaginais", translation = "imagined myself", note = "fancied or pictured myself" }
+WordHunterWoW_Dictionary_FR["m’imaginais"] = { word = "m’imaginais", translation = "I was imagining; I imagined to myself", note = "fancied or pictured myself" }
 WordHunterWoW_Dictionary_FR["m’imaginait"] = { word = "m’imaginait", translation = "imagined me", note = "imagined me" }
 WordHunterWoW_Dictionary_FR["m’immobiliser"] = { word = "m’immobiliser", translation = "immobilize myself", note = "immobilize myself" }
 WordHunterWoW_Dictionary_FR["m’impliquer"] = { word = "m’impliquer", translation = "get involved", note = "get involved" }
@@ -43366,11 +43366,11 @@ WordHunterWoW_Dictionary_FR["m’obligez"] = { word = "m’obligez", translation
 WordHunterWoW_Dictionary_FR["m’obsède"] = { word = "m’obsède", translation = "obsesses me", note = "haunts/preoccupies" }
 WordHunterWoW_Dictionary_FR["m’obtiendrez"] = { word = "m’obtiendrez", translation = "you will secure me", note = "obtain/get for me" }
 WordHunterWoW_Dictionary_FR["m’occire"] = { word = "m’occire", translation = "slay me", note = "kill (archaic/poetic)" }
-WordHunterWoW_Dictionary_FR["m’occupais"] = { word = "m’occupais", translation = "took care", note = "looked after; imperfect tense" }
+WordHunterWoW_Dictionary_FR["m’occupais"] = { word = "m’occupais", translation = "I took care (of)", note = "looked after; imperfect tense" }
 WordHunterWoW_Dictionary_FR["m’occupe"] = { word = "m’occupe", translation = "keeps me busy; concerns me", note = "elision marks a dropped vowel; keep the apostrophe in the lookup form" }
 WordHunterWoW_Dictionary_FR["m’occuper"] = { word = "m’occuper", translation = "take care of; deal with", note = "m’ is me before a vowel; s’occuper de means take care of or deal with" }
 WordHunterWoW_Dictionary_FR["m’occuperai"] = { word = "m’occuperai", translation = "I will take care of", note = "m’ is me shortened before a vowel; the object pronoun is part of the token" }
-WordHunterWoW_Dictionary_FR["m’occuperais"] = { word = "m’occuperais", translation = "I/you would take care", note = "conditional; would handle or manage" }
+WordHunterWoW_Dictionary_FR["m’occuperais"] = { word = "m’occuperais", translation = "I/you would take care (of)", note = "conditional; would handle or manage" }
 WordHunterWoW_Dictionary_FR["m’offre"] = { word = "m’offre", translation = "offers me", note = "presents/gives to" }
 WordHunterWoW_Dictionary_FR["m’offrez"] = { word = "m’offrez", translation = "offer me", note = "provide keys to troll shamanism" }
 WordHunterWoW_Dictionary_FR["m’offrir"] = { word = "m’offrir", translation = "offer me", note = "" }
@@ -44080,7 +44080,7 @@ WordHunterWoW_Dictionary_FR["nebulor"] = { word = "Nebulor", translation = "Nebu
 WordHunterWoW_Dictionary_FR["nec"] = { word = "nec", translation = "nec", note = "Latin: nec plus ultra = no more beyond; the ultimate" }
 WordHunterWoW_Dictionary_FR["necesarios"] = { word = "necesarios", translation = "necessary", note = "Spanish word; French: nécessaire" }
 WordHunterWoW_Dictionary_FR["necesitamos"] = { word = "necesitamos", translation = "we need", note = "Spanish word in French text" }
-WordHunterWoW_Dictionary_FR["necesitar"] = { word = "necesitar", translation = "will be necessary", note = "Spanish infinitive; future form in context (necesitaremos = will be necessary)" }
+WordHunterWoW_Dictionary_FR["necesitar"] = { word = "necesitar", translation = "to need (Spanish)", note = "Spanish infinitive; future form in context (necesitaremos = will be necessary)" }
 WordHunterWoW_Dictionary_FR["necrotic"] = { word = "Necrotic", translation = "Necrotics", note = "" }
 WordHunterWoW_Dictionary_FR["nectar"] = { word = "nectar", translation = "nectar", note = "" }
 WordHunterWoW_Dictionary_FR["ned"] = { word = "Ned", translation = "Ned", note = "NPC name" }
@@ -44702,7 +44702,7 @@ WordHunterWoW_Dictionary_FR["nuire"] = { word = "nuire", translation = "harm; in
 WordHunterWoW_Dictionary_FR["nuisait"] = { word = "nuisait", translation = "was harming", note = "imperfect tense" }
 WordHunterWoW_Dictionary_FR["nuisance"] = { word = "nuisance", translation = "nuisance", note = "close cognate: the French and English forms share a recognizable Latin root" }
 WordHunterWoW_Dictionary_FR["nuisances"] = { word = "nuisances", translation = "nuisances", note = "things that are troublesome or annoying" }
-WordHunterWoW_Dictionary_FR["nuise"] = { word = "nuise", translation = "harm; damage", note = "to harm or injure; archaic or poetic form" }
+WordHunterWoW_Dictionary_FR["nuise"] = { word = "nuise", translation = "harm; may harm", note = "to harm or injure; archaic or poetic form" }
 WordHunterWoW_Dictionary_FR["nuisent"] = { word = "nuisent", translation = "harm", note = "the -ent ending marks a plural subject; the verb nuire means harm" }
 WordHunterWoW_Dictionary_FR["nuisible"] = { word = "nuisible", translation = "harmful", note = "nuisible means harmful or damaging" }
 WordHunterWoW_Dictionary_FR["nuisibles"] = { word = "nuisibles", translation = "pests", note = "" }
@@ -44722,7 +44722,7 @@ WordHunterWoW_Dictionary_FR["numia"] = { word = "Numia", translation = "Numia", 
 WordHunterWoW_Dictionary_FR["numérique"] = { word = "numérique", translation = "digital", note = "feminine form; French adjective endings agree with the noun, unlike English" }
 WordHunterWoW_Dictionary_FR["numérisation"] = { word = "numérisation", translation = "digitization", note = "conversion to digital format" }
 WordHunterWoW_Dictionary_FR["numéro"] = { word = "numéro", translation = "number", note = "keep the accent or ligature; it is part of the French spelling" }
-WordHunterWoW_Dictionary_FR["numéros"] = { word = "numéros", translation = "serial numbers", note = "identification numbers, often for mechanical items" }
+WordHunterWoW_Dictionary_FR["numéros"] = { word = "numéros", translation = "numbers; serial numbers", note = "identification numbers, often for mechanical items" }
 WordHunterWoW_Dictionary_FR["numéroter"] = { word = "numéroter", translation = "count", note = "lich king counts the dead; number/count his ranks" }
 WordHunterWoW_Dictionary_FR["nunvuq"] = { word = "Nunvuq", translation = "Nunvuq", note = "proper name; NPC in Iskaara" }
 WordHunterWoW_Dictionary_FR["nuque"] = { word = "nuque", translation = "nape", note = "back of the neck; the nape" }
@@ -44837,7 +44837,7 @@ WordHunterWoW_Dictionary_FR["néfastes"] = { word = "néfastes", translation = "
 WordHunterWoW_Dictionary_FR["négatif"] = { word = "négatif", translation = "negative", note = "bad or harmful; opposite of positive" }
 WordHunterWoW_Dictionary_FR["négatifs"] = { word = "négatifs", translation = "negative; adverse", note = "harmful or detrimental effects" }
 WordHunterWoW_Dictionary_FR["négation"] = { word = "Négation", translation = "Negation", note = "proper noun" }
-WordHunterWoW_Dictionary_FR["négative"] = { word = "négative", translation = "denied", note = "authorization denied; refusal" }
+WordHunterWoW_Dictionary_FR["négative"] = { word = "négative", translation = "negative", note = "authorization denied; refusal" }
 WordHunterWoW_Dictionary_FR["négatives"] = { word = "négatives", translation = "negative", note = "unfavorable; not good" }
 WordHunterWoW_Dictionary_FR["négativité"] = { word = "négativité", translation = "negativity", note = "state of being negative" }
 WordHunterWoW_Dictionary_FR["négatronique"] = { word = "négatronique", translation = "negatronic", note = "invented WoW goblin tech term; not a real English word" }
@@ -44849,7 +44849,7 @@ WordHunterWoW_Dictionary_FR["négligence"] = { word = "négligence", translation
 WordHunterWoW_Dictionary_FR["négligent"] = { word = "négligent", translation = "negligent; careless", note = "showing lack of care or attention" }
 WordHunterWoW_Dictionary_FR["négligente"] = { word = "négligente", translation = "careless", note = "not paying attention" }
 WordHunterWoW_Dictionary_FR["négligentes"] = { word = "négligentes", translation = "careless", note = "plural form" }
-WordHunterWoW_Dictionary_FR["négligents"] = { word = "négligents", translation = "reckless", note = "showing lack of regard or caution" }
+WordHunterWoW_Dictionary_FR["négligents"] = { word = "négligents", translation = "negligent; careless", note = "showing lack of regard or caution" }
 WordHunterWoW_Dictionary_FR["négligeons"] = { word = "négligeons", translation = "overlook; neglect", note = "we often disregard or fail to notice" }
 WordHunterWoW_Dictionary_FR["négliger"] = { word = "négliger", translation = "neglect", note = "négliger means to fail to give proper attention to something" }
 WordHunterWoW_Dictionary_FR["négligeraient"] = { word = "négligeraient", translation = "they would neglect", note = "conditional plural" }
@@ -44934,7 +44934,7 @@ WordHunterWoW_Dictionary_FR["n’accepteront"] = { word = "n’accepteront", tra
 WordHunterWoW_Dictionary_FR["n’acceptez"] = { word = "N’ACCEPTEZ", translation = "DO NOT ACCEPT", note = "" }
 WordHunterWoW_Dictionary_FR["n’accorde"] = { word = "n’accorde", translation = "does not grant", note = "" }
 WordHunterWoW_Dictionary_FR["n’accorde-t-on"] = { word = "N’accorde-t-on", translation = "Do we not grant", note = "" }
-WordHunterWoW_Dictionary_FR["n’accordez"] = { word = "n’accordez", translation = "grant no", note = "don't bestow or allow; spare no mercy" }
+WordHunterWoW_Dictionary_FR["n’accordez"] = { word = "n’accordez", translation = "do not grant; grant no", note = "don't bestow or allow; spare no mercy" }
 WordHunterWoW_Dictionary_FR["n’accéderait"] = { word = "n’accéderait", translation = "he/she would not access", note = "" }
 WordHunterWoW_Dictionary_FR["n’achète"] = { word = "n’achète", translation = "don't buy", note = "" }
 WordHunterWoW_Dictionary_FR["n’achève"] = { word = "n’achève", translation = "does not finish", note = "elision; fails to complete" }
@@ -45208,7 +45208,7 @@ WordHunterWoW_Dictionary_FR["n’introduisez"] = { word = "N’introduisez", tra
 WordHunterWoW_Dictionary_FR["n’intégrions"] = { word = "n’intégrions", translation = "let's not integrate", note = "hortative: before official taunka acceptance" }
 WordHunterWoW_Dictionary_FR["n’intéressait"] = { word = "n’intéressait", translation = "didn't interest", note = "imperfect tense; cargo didn't interest them" }
 WordHunterWoW_Dictionary_FR["n’ira"] = { word = "n’ira", translation = "he/she will not go", note = "" }
-WordHunterWoW_Dictionary_FR["n’irai"] = { word = "n’irai", translation = "won't shout; won't broadcast", note = "won't announce or proclaim loudly; elision of ne" }
+WordHunterWoW_Dictionary_FR["n’irai"] = { word = "n’irai", translation = "I won't go", note = "won't announce or proclaim loudly; elision of ne" }
 WordHunterWoW_Dictionary_FR["n’irais"] = { word = "n’irais", translation = "I/you would not go; wouldn't go", note = "n’ is ne elided before a vowel; whether it is negative depends on the construction" }
 WordHunterWoW_Dictionary_FR["n’iriez"] = { word = "n’iriez", translation = "you would not go", note = "ne elided + conditional of aller" }
 WordHunterWoW_Dictionary_FR["n’iriez-vous"] = { word = "n’iriez-vous", translation = "would you not go", note = "ne elided + conditional of aller, inverted" }
@@ -45263,8 +45263,8 @@ WordHunterWoW_Dictionary_FR["n’utiliser"] = { word = "n’utiliser", translati
 WordHunterWoW_Dictionary_FR["n’utiliserai"] = { word = "n’utiliserai", translation = "won't use", note = "future: drenite ore has other purposes" }
 WordHunterWoW_Dictionary_FR["n’utilisez"] = { word = "N’utilisez", translation = "Don't use", note = "imperative negation" }
 WordHunterWoW_Dictionary_FR["n’vais"] = { word = "n’vais", translation = "I'm not going", note = "colloquial elision of (ne) vais" }
-WordHunterWoW_Dictionary_FR["n’vont"] = { word = "n’vont", translation = "won't have", note = "informal/dialectal contraction of ne vont; won't go" }
-WordHunterWoW_Dictionary_FR["n’vous"] = { word = "n’vous", translation = "doesn't", note = "informal contraction of ne vous; negation particle" }
+WordHunterWoW_Dictionary_FR["n’vont"] = { word = "n’vont", translation = "aren't going to; won't", note = "informal/dialectal contraction of ne vont; won't go" }
+WordHunterWoW_Dictionary_FR["n’vous"] = { word = "n’vous", translation = "doesn't … you", note = "informal contraction of ne vous; negation particle" }
 WordHunterWoW_Dictionary_FR["n’y"] = { word = "n’y", translation = "there; in it", note = "" }
 WordHunterWoW_Dictionary_FR["n’zoth"] = { word = "N’Zoth", translation = "N'Zoth", note = "n’ is ne elided before a vowel; a later pas or other negative may complete it" }
 WordHunterWoW_Dictionary_FR["n’ébranlera"] = { word = "n’ébranlera", translation = "won't shake", note = "future: failure won't weaken determination" }
@@ -45627,7 +45627,7 @@ WordHunterWoW_Dictionary_FR["offrez-le"] = { word = "Offrez-le", translation = "
 WordHunterWoW_Dictionary_FR["offrez-leur"] = { word = "offrez-leur", translation = "offer them", note = "the -ez ending marks a formal/plural command or verb form" }
 WordHunterWoW_Dictionary_FR["offrez-lui"] = { word = "offrez-lui", translation = "offer", note = "imperative of offrir; -lui is an indirect-object pronoun, not part of the verb gloss" }
 WordHunterWoW_Dictionary_FR["offrez-vous"] = { word = "Offrez-vous", translation = "Treat yourself", note = "reflexive imperative; treat yourself" }
-WordHunterWoW_Dictionary_FR["offriez"] = { word = "offriez", translation = "offered; would offer", note = "past conditional; if you were to give or grant" }
+WordHunterWoW_Dictionary_FR["offriez"] = { word = "offriez", translation = "you offered; you would offer", note = "past conditional; if you were to give or grant" }
 WordHunterWoW_Dictionary_FR["offrir"] = { word = "offrir", translation = "offer; give", note = "the infinitive names an action without specifying its subject" }
 WordHunterWoW_Dictionary_FR["offrira"] = { word = "offrira", translation = "he/she will offer", note = "french nouns have grammatical gender, which their English equivalents do not show" }
 WordHunterWoW_Dictionary_FR["offrirai"] = { word = "offrirai", translation = "I will offer", note = "future first-person form of offrir; it means i will offer" }
@@ -45638,7 +45638,7 @@ WordHunterWoW_Dictionary_FR["offrirez"] = { word = "offrirez", translation = "yo
 WordHunterWoW_Dictionary_FR["offrirons"] = { word = "offrirons", translation = "we will offer", note = "future plural; will provide" }
 WordHunterWoW_Dictionary_FR["offriront"] = { word = "offriront", translation = "they will offer", note = "shall provide or present; will give" }
 WordHunterWoW_Dictionary_FR["offrit"] = { word = "offrit", translation = "offered", note = "past tense; gave as a gift" }
-WordHunterWoW_Dictionary_FR["offrons"] = { word = "offrons", translation = "offer; propose", note = "we present or give; we propose service" }
+WordHunterWoW_Dictionary_FR["offrons"] = { word = "offrons", translation = "we offer; let's offer", note = "we present or give; we propose service" }
 WordHunterWoW_Dictionary_FR["offusquée"] = { word = "offusquée", translation = "scandalized; offended", note = "past participle feminine; matriarch was scandalized" }
 WordHunterWoW_Dictionary_FR["ogar"] = { word = "ogar", translation = "glory; victory", note = "" }
 WordHunterWoW_Dictionary_FR["ogath"] = { word = "Ogath", translation = "Ogath", note = "" }
@@ -46233,7 +46233,7 @@ WordHunterWoW_Dictionary_FR["oser"] = { word = "oser", translation = "dare", not
 WordHunterWoW_Dictionary_FR["osera"] = { word = "osera", translation = "he/she will dare", note = "future tense; will have courage" }
 WordHunterWoW_Dictionary_FR["oserai-je"] = { word = "Oserai-je", translation = "Would I dare", note = "inverted question; would I have the nerve" }
 WordHunterWoW_Dictionary_FR["oseraient"] = { word = "oseraient", translation = "they would dare", note = "conditional; would have courage to" }
-WordHunterWoW_Dictionary_FR["oserais-je"] = { word = "Oserais-je", translation = "Would I dare", note = "conditional" }
+WordHunterWoW_Dictionary_FR["oserais-je"] = { word = "Oserais-je", translation = "would I dare", note = "conditional" }
 WordHunterWoW_Dictionary_FR["oserait"] = { word = "oserait", translation = "he/she would dare", note = "conditional" }
 WordHunterWoW_Dictionary_FR["oserez"] = { word = "oserez", translation = "you will dare", note = "future of oser" }
 WordHunterWoW_Dictionary_FR["oserez-vous"] = { word = "Oserez-vous", translation = "do you dare", note = "interrogative with formal inversion" }
@@ -46406,7 +46406,7 @@ WordHunterWoW_Dictionary_FR["ouvrez-lui"] = { word = "Ouvrez-lui", translation =
 WordHunterWoW_Dictionary_FR["ouvrez-vous"] = { word = "ouvrez-vous", translation = "open up", note = "open self" }
 WordHunterWoW_Dictionary_FR["ouvrier"] = { word = "ouvrier", translation = "worker", note = "worker" }
 WordHunterWoW_Dictionary_FR["ouvriers"] = { word = "ouvriers", translation = "workers; laborers", note = "plural form; the written French ending is usually silent" }
-WordHunterWoW_Dictionary_FR["ouvriez"] = { word = "ouvriez", translation = "you would open", note = "conditional" }
+WordHunterWoW_Dictionary_FR["ouvriez"] = { word = "ouvriez", translation = "you were opening; you used to open", note = "conditional" }
 WordHunterWoW_Dictionary_FR["ouvrions"] = { word = "ouvrions", translation = "let's open", note = "subjunctive" }
 WordHunterWoW_Dictionary_FR["ouvrir"] = { word = "ouvrir", translation = "open", note = "the infinitive names an action without specifying its subject" }
 WordHunterWoW_Dictionary_FR["ouvrira"] = { word = "ouvrira", translation = "he/she will open", note = "future of ouvrir" }
@@ -46555,7 +46555,7 @@ WordHunterWoW_Dictionary_FR["palier"] = { word = "palier", translation = "landin
 WordHunterWoW_Dictionary_FR["palissade"] = { word = "palissade", translation = "palisade", note = "wooden fence" }
 WordHunterWoW_Dictionary_FR["pallessa"] = { word = "Pallessa", translation = "Pallessa", note = "NPC" }
 WordHunterWoW_Dictionary_FR["palliatifs"] = { word = "palliatifs", translation = "palliatives", note = "relief" }
-WordHunterWoW_Dictionary_FR["pallier"] = { word = "pallier", translation = "to compensate", note = "make up for" }
+WordHunterWoW_Dictionary_FR["pallier"] = { word = "pallier", translation = "to compensate for; to alleviate", note = "make up for" }
 WordHunterWoW_Dictionary_FR["pallin"] = { word = "Pallin", translation = "Pallin", note = "" }
 WordHunterWoW_Dictionary_FR["palliter"] = { word = "Palliter", translation = "Palliter", note = "" }
 WordHunterWoW_Dictionary_FR["palmarès"] = { word = "palmarès", translation = "achievements", note = "trophy list" }
@@ -46833,7 +46833,7 @@ WordHunterWoW_Dictionary_FR["parjures"] = { word = "parjures", translation = "oa
 WordHunterWoW_Dictionary_FR["parkat"] = { word = "Parkat", translation = "Parkat", note = "" }
 WordHunterWoW_Dictionary_FR["parker"] = { word = "Parker", translation = "Parker", note = "" }
 WordHunterWoW_Dictionary_FR["parlaient"] = { word = "parlaient", translation = "were talking; were speaking", note = "3rd person plural imparfait of parler" }
-WordHunterWoW_Dictionary_FR["parlais"] = { word = "parlais", translation = "was speaking", note = "imperfect" }
+WordHunterWoW_Dictionary_FR["parlais"] = { word = "parlais", translation = "I/you were speaking", note = "imperfect" }
 WordHunterWoW_Dictionary_FR["parlait"] = { word = "parlait", translation = "was speaking; spoke", note = "imperfect tense; it often describes a past state or ongoing action" }
 WordHunterWoW_Dictionary_FR["parlan"] = { word = "Parlan", translation = "Parlan", note = "" }
 WordHunterWoW_Dictionary_FR["parlant"] = { word = "parlant", translation = "speaking", note = "french word-final consonants are often silent unless liaison links them to the next word" }
@@ -46865,7 +46865,7 @@ WordHunterWoW_Dictionary_FR["parlerez"] = { word = "parlerez", translation = "yo
 WordHunterWoW_Dictionary_FR["parlerions"] = { word = "parlerions", translation = "we would talk", note = "conditional" }
 WordHunterWoW_Dictionary_FR["parlerons"] = { word = "parlerons", translation = "we will speak", note = "future of parler" }
 WordHunterWoW_Dictionary_FR["parleront"] = { word = "parleront", translation = "they will speak", note = "future tense" }
-WordHunterWoW_Dictionary_FR["parles"] = { word = "parles", translation = "speak", note = "2nd person singular of parler; used as command or statement about someone speaking" }
+WordHunterWoW_Dictionary_FR["parles"] = { word = "parles", translation = "you speak", note = "2nd person singular of parler; used as command or statement about someone speaking" }
 WordHunterWoW_Dictionary_FR["parlesoleil"] = { word = "Parlesoleil", translation = "Speak-Sun", note = "parle (speak) + soleil (sun); literal formation of creature/NPC name" }
 WordHunterWoW_Dictionary_FR["parleterre"] = { word = "Parleterre", translation = "Parleterre", note = "location/zone name in WoW" }
 WordHunterWoW_Dictionary_FR["parleur"] = { word = "Parleur", translation = "speaker", note = "one who speaks; often part of title (Speaker of the Marshes)" }
@@ -47071,7 +47071,7 @@ WordHunterWoW_Dictionary_FR["passager"] = { word = "passager", translation = "pa
 WordHunterWoW_Dictionary_FR["passagers"] = { word = "passagers", translation = "passengers", note = "plural noun; people traveling" }
 WordHunterWoW_Dictionary_FR["passages"] = { word = "passages", translation = "passages; corridors", note = "" }
 WordHunterWoW_Dictionary_FR["passaient"] = { word = "passaient", translation = "were passing", note = "imperfect tense: they were going by or crossing" }
-WordHunterWoW_Dictionary_FR["passais"] = { word = "passais", translation = "I was passing; I was going by", note = "imperfect tense of passer; describing a past habitual or ongoing action" }
+WordHunterWoW_Dictionary_FR["passais"] = { word = "passais", translation = "I/you were passing; I/you were spending", note = "imperfect tense of passer; describing a past habitual or ongoing action" }
 WordHunterWoW_Dictionary_FR["passait"] = { word = "passait", translation = "was passing; passed", note = "the ending marks the imperfect, often translated as “was/were …ing”" }
 WordHunterWoW_Dictionary_FR["passant"] = { word = "passant", translation = "passing", note = "french word-final consonants are often silent unless liaison links them to the next word" }
 WordHunterWoW_Dictionary_FR["passants"] = { word = "passants", translation = "passers-by", note = "plural noun: people passing through" }
@@ -47385,7 +47385,7 @@ WordHunterWoW_Dictionary_FR["pencherons"] = { word = "pencherons", translation =
 WordHunterWoW_Dictionary_FR["penchez"] = { word = "penchez", translation = "lean; bend; incline", note = "imperative plural of pencher" }
 WordHunterWoW_Dictionary_FR["penchez-vous"] = { word = "Penchez-vous", translation = "Listen carefully", note = "lean in to hear" }
 WordHunterWoW_Dictionary_FR["penchons"] = { word = "penchons", translation = "let's consider", note = "examining thread" }
-WordHunterWoW_Dictionary_FR["penchons-nous"] = { word = "Penchons-nous", translation = "Let’s lean; let’s look closer", note = "imperative reflexive; often used to mean ’let’s examine more closely’" }
+WordHunterWoW_Dictionary_FR["penchons-nous"] = { word = "Penchons-nous", translation = "let’s lean; let’s look closer", note = "imperative reflexive; often used to mean ’let’s examine more closely’" }
 WordHunterWoW_Dictionary_FR["penché"] = { word = "penché", translation = "studied", note = "examined key" }
 WordHunterWoW_Dictionary_FR["penchés"] = { word = "penchés", translation = "leaning; inclined; bent over", note = "past participle plural masculine of pencher" }
 WordHunterWoW_Dictionary_FR["pend"] = { word = "pend", translation = "hang", note = "pendre means hang; the English base form is also hang" }
@@ -47520,9 +47520,9 @@ WordHunterWoW_Dictionary_FR["perdants"] = { word = "perdants", translation = "lo
 WordHunterWoW_Dictionary_FR["perde"] = { word = "perde", translation = "lose", note = "subjunctive form of « perdre »" }
 WordHunterWoW_Dictionary_FR["perdent"] = { word = "perdent", translation = "lose", note = "the -ent ending often marks a plural verb and is silent" }
 WordHunterWoW_Dictionary_FR["perdez"] = { word = "perdez", translation = "lose; are losing", note = "vous-form: present tense or a command addressed politely or to several people" }
-WordHunterWoW_Dictionary_FR["perdiez"] = { word = "perdiez", translation = "lost; were losing", note = "imperfect of perdre with vous" }
+WordHunterWoW_Dictionary_FR["perdiez"] = { word = "perdiez", translation = "you lost; you were losing", note = "imperfect of perdre with vous" }
 WordHunterWoW_Dictionary_FR["perdions"] = { word = "perdions", translation = "would lose; we were losing", note = "imparfait conditional; context shows a hypothetical of capturing the prince" }
-WordHunterWoW_Dictionary_FR["perdirent"] = { word = "perdirent", translation = "lost", note = "simple past of perdre" }
+WordHunterWoW_Dictionary_FR["perdirent"] = { word = "perdirent", translation = "they lost", note = "simple past of perdre" }
 WordHunterWoW_Dictionary_FR["perdit"] = { word = "perdit", translation = "lost", note = "past tense of perdre; Krik'thir lost his life" }
 WordHunterWoW_Dictionary_FR["perdition"] = { word = "perdition", translation = "distress", note = "en perdition describes a vessel in distress, not a moral downfall" }
 WordHunterWoW_Dictionary_FR["perdons"] = { word = "perdons", translation = "lose", note = "the written final -s marks a plural here and is normally silent" }
@@ -47648,7 +47648,7 @@ WordHunterWoW_Dictionary_FR["perr-ok"] = { word = "Perr-OK", translation = "Perr
 WordHunterWoW_Dictionary_FR["perrepont"] = { word = "Perrepont", translation = "Perrepont", note = "" }
 WordHunterWoW_Dictionary_FR["perrine"] = { word = "Perrine", translation = "Perrine", note = "proper name (not Perrin); feminine French name" }
 WordHunterWoW_Dictionary_FR["perron"] = { word = "perron", translation = "porch; doorstep; steps", note = "entrance steps or porch of building" }
-WordHunterWoW_Dictionary_FR["perroquet"] = { word = "Perroquet", translation = "Parrot", note = "noun; the bird" }
+WordHunterWoW_Dictionary_FR["perroquet"] = { word = "Perroquet", translation = "parrot", note = "noun; the bird" }
 WordHunterWoW_Dictionary_FR["perroquets"] = { word = "perroquets", translation = "parrots", note = "plural; message carriers in quest" }
 WordHunterWoW_Dictionary_FR["perseguían"] = { word = "perseguían", translation = "perseguían", note = "Spanish past tense; were pursuing; keep as is" }
 WordHunterWoW_Dictionary_FR["persii"] = { word = "Persii", translation = "Persii", note = "" }
@@ -48275,7 +48275,7 @@ WordHunterWoW_Dictionary_FR["pièves"] = { word = "pièves", translation = "trap
 WordHunterWoW_Dictionary_FR["pièze"] = { word = "pièze", translation = "piece; part", note = "component of machine or puzzle" }
 WordHunterWoW_Dictionary_FR["pièzes"] = { word = "pièzes", translation = "pieces; parts", note = "plural: components or fragments" }
 WordHunterWoW_Dictionary_FR["pié"] = { word = "Pié", translation = "Pie", note = "" }
-WordHunterWoW_Dictionary_FR["piécette"] = { word = "piécette", translation = "plot; lot", note = "small piece or parcel of land in real estate context" }
+WordHunterWoW_Dictionary_FR["piécette"] = { word = "piécette", translation = "small coin; little piece", note = "small piece or parcel of land in real estate context" }
 WordHunterWoW_Dictionary_FR["piécettes"] = { word = "piécettes", translation = "coins", note = "plural diminutive: small coins or money" }
 WordHunterWoW_Dictionary_FR["piédestal"] = { word = "piédestal", translation = "pedestal", note = "close cognate of the English gloss; French spelling preserves the shared root" }
 WordHunterWoW_Dictionary_FR["piédestaux"] = { word = "piédestaux", translation = "pedestals; bases", note = "platforms or elevated supports" }
@@ -48298,7 +48298,7 @@ WordHunterWoW_Dictionary_FR["piétiner"] = { word = "piétiner", translation = "
 WordHunterWoW_Dictionary_FR["piétinera"] = { word = "piétinera", translation = "he/she will trample", note = "future of piétiner" }
 WordHunterWoW_Dictionary_FR["piétineront"] = { word = "piétineront", translation = "they will trample", note = "future: will stamp/crush with hooves" }
 WordHunterWoW_Dictionary_FR["piétinez-la"] = { word = "piétinez-la", translation = "trample her", note = "command: crush with feet/hooves" }
-WordHunterWoW_Dictionary_FR["piétinez-les"] = { word = "Piétinez-les", translation = "Trample them", note = "imperative command; crush underfoot" }
+WordHunterWoW_Dictionary_FR["piétinez-les"] = { word = "Piétinez-les", translation = "trample them", note = "imperative command; crush underfoot" }
 WordHunterWoW_Dictionary_FR["piétiné"] = { word = "piétiné", translation = "trampled; trodden upon", note = "past participle of piétiner (to trample)" }
 WordHunterWoW_Dictionary_FR["piétinées"] = { word = "piétinées", translation = "trampled", note = "feminine plural past participle" }
 WordHunterWoW_Dictionary_FR["piétinés"] = { word = "Piétinés", translation = "Trampled", note = "past participle: crushed underfoot" }
@@ -48328,7 +48328,7 @@ WordHunterWoW_Dictionary_FR["placez-en"] = { word = "Placez-en", translation = "
 WordHunterWoW_Dictionary_FR["placez-la"] = { word = "placez-la", translation = "place it", note = "the hyphen binds the parts into one compound lookup term" }
 WordHunterWoW_Dictionary_FR["placez-le"] = { word = "placez-le", translation = "place it; put it", note = "the hyphen joins the parts of this compound or verb form" }
 WordHunterWoW_Dictionary_FR["placez-les"] = { word = "placez-les", translation = "place them", note = "the hyphen joins an imperative to its object pronoun; English usually puts the pronoun before the verb" }
-WordHunterWoW_Dictionary_FR["placez-moi"] = { word = "Placez-moi", translation = "Place me; put me", note = "imperative; set me in a position or location" }
+WordHunterWoW_Dictionary_FR["placez-moi"] = { word = "Placez-moi", translation = "place me; put me", note = "imperative; set me in a position or location" }
 WordHunterWoW_Dictionary_FR["placez-vous"] = { word = "Placez-vous", translation = "Place yourself", note = "imperative reflexive: position yourself" }
 WordHunterWoW_Dictionary_FR["placez-y"] = { word = "placez-y", translation = "put there", note = "y is a pronoun meaning “there” attached to placer" }
 WordHunterWoW_Dictionary_FR["placide"] = { word = "Placide", translation = "placid", note = "placid describes someone calm and undisturbed" }
@@ -48593,10 +48593,10 @@ WordHunterWoW_Dictionary_FR["plongé"] = { word = "plongé", translation = "plun
 WordHunterWoW_Dictionary_FR["plongée"] = { word = "plongée", translation = "diving", note = "feminine form; French adjective endings agree with the noun, unlike English" }
 WordHunterWoW_Dictionary_FR["plongées"] = { word = "plongées", translation = "dives; dips; immersions", note = "plural feminine; acts of diving or submerging" }
 WordHunterWoW_Dictionary_FR["plongés"] = { word = "plongés", translation = "plunged", note = "past participle; French agreement may mark gender and number with -e or -s" }
-WordHunterWoW_Dictionary_FR["plouf"] = { word = "Plouf", translation = "Splash", note = "onomatopoeia; the sound of something falling in water" }
+WordHunterWoW_Dictionary_FR["plouf"] = { word = "Plouf", translation = "splash", note = "onomatopoeia; the sound of something falling in water" }
 WordHunterWoW_Dictionary_FR["ployer"] = { word = "ployer", translation = "bend; bow; flex", note = "to curve or flex; from ployer (to bend)" }
 WordHunterWoW_Dictionary_FR["ployé"] = { word = "ployé", translation = "bent; bowed; curved", note = "past participle; in a bent or curved position" }
-WordHunterWoW_Dictionary_FR["plu"] = { word = "plu", translation = "pleased; was pleasing to", note = "past participle of plaire (to please); not 'more'" }
+WordHunterWoW_Dictionary_FR["plu"] = { word = "plu", translation = "pleased; rained", note = "past participle of plaire (to please); not 'more'" }
 WordHunterWoW_Dictionary_FR["pluie"] = { word = "pluie", translation = "rain", note = "feminine noun; French uses la/l’, while English nouns have no grammatical gender" }
 WordHunterWoW_Dictionary_FR["pluie-d'etoiles"] = { word = "Pluie-d'Etoiles", translation = "Rain of Stars", note = "plural form; the final -s is usually silent in French" }
 WordHunterWoW_Dictionary_FR["pluie-d'étoiles"] = { word = "Pluie-d'Étoiles", translation = "Starfall Village", note = "" }
@@ -48805,7 +48805,7 @@ WordHunterWoW_Dictionary_FR["polarisation"] = { word = "polarisation", translati
 WordHunterWoW_Dictionary_FR["polarisé"] = { word = "polarisé", translation = "polarized", note = "past participle adjective; correct technical sense" }
 WordHunterWoW_Dictionary_FR["poli"] = { word = "poli", translation = "polite; to stay polite", note = "poli = polite or polished; euphemism for the annoyance of theft" }
 WordHunterWoW_Dictionary_FR["poli'lukluk"] = { word = "Poli'lukluk", translation = "Poli'lukluk", note = "NPC name; no translation available" }
-WordHunterWoW_Dictionary_FR["police"] = { word = "police", translation = "policy; insurance policy", note = "false friend: French police = insurance or regulation; not police officers" }
+WordHunterWoW_Dictionary_FR["police"] = { word = "police", translation = "police; insurance policy", note = "false friend: French police = insurance or regulation; not police officers" }
 WordHunterWoW_Dictionary_FR["policier"] = { word = "policier", translation = "detective", note = "adjective meaning detective-related; un roman policier = a detective novel" }
 WordHunterWoW_Dictionary_FR["polie"] = { word = "polie", translation = "polished", note = "past participle; smoothed and shined" }
 WordHunterWoW_Dictionary_FR["polies"] = { word = "polies", translation = "polished", note = "feminine plural past participle of polir (to polish)" }
@@ -49163,7 +49163,7 @@ WordHunterWoW_Dictionary_FR["poudrozieu"] = { word = "Poudrozieu", translation =
 WordHunterWoW_Dictionary_FR["pouf"] = { word = "Pouf", translation = "ottoman", note = "cushioned seat; or possibly an NPC name; context unclear" }
 WordHunterWoW_Dictionary_FR["poufant"] = { word = "poufant", translation = "poof", note = "onomatopoeia or slang; context shows person transformed into turkey" }
 WordHunterWoW_Dictionary_FR["poufez"] = { word = "poufez", translation = "can do; are able to", note = "dialectal second person plural of pouvoir (can); misspelled speech pattern" }
-WordHunterWoW_Dictionary_FR["pouffe"] = { word = "pouffe", translation = "laughs", note = "third-person singular of pouffer; 'Chronicler Cho laughs'" }
+WordHunterWoW_Dictionary_FR["pouffe"] = { word = "pouffe", translation = "bursts out laughing", note = "third-person singular of pouffer; 'Chronicler Cho laughs'" }
 WordHunterWoW_Dictionary_FR["pouffera"] = { word = "pouffera", translation = "he/she will shriek; he/she will cry out", note = "future tense in dialectal speech; describing a trapping device's sound" }
 WordHunterWoW_Dictionary_FR["poufoir"] = { word = "poufoir", translation = "power; ability", note = "dialectal form suggesting pouvoir (power); context unclear but implies dangerous capability" }
 WordHunterWoW_Dictionary_FR["pouic-pouic"] = { word = "Pouic-pouic", translation = "temporal squeak", note = "onomatopoeia; spatio-temporal effect sounds like squeaking" }
@@ -49404,7 +49404,7 @@ WordHunterWoW_Dictionary_FR["première"] = { word = "première", translation = "
 WordHunterWoW_Dictionary_FR["premièrement"] = { word = "Premièrement", translation = "first of all", note = "adverb: firstly, to begin with" }
 WordHunterWoW_Dictionary_FR["premières"] = { word = "premières", translation = "first; earliest", note = "" }
 WordHunterWoW_Dictionary_FR["prenaient"] = { word = "prenaient", translation = "they were taking", note = "the -ait/-aient ending marks the imperfect, describing an ongoing or repeated past action" }
-WordHunterWoW_Dictionary_FR["prenais"] = { word = "prenais", translation = "took; was taking", note = "imperfect tense of prendre" }
+WordHunterWoW_Dictionary_FR["prenais"] = { word = "prenais", translation = "I/you took; I/you were taking", note = "imperfect tense of prendre" }
 WordHunterWoW_Dictionary_FR["prenait"] = { word = "prenait", translation = "he/she was taking", note = "imperfect of prendre" }
 WordHunterWoW_Dictionary_FR["prenait-il"] = { word = "prenait-il", translation = "did he take; was he taking", note = "imperfect interrogative; asking about Dar'Khan's defection to the Scourge" }
 WordHunterWoW_Dictionary_FR["prenant"] = { word = "prenant", translation = "taking; engaging", note = "the context chooses between “taking” and “engaging”" }
@@ -49432,7 +49432,7 @@ WordHunterWoW_Dictionary_FR["preneuse"] = { word = "preneuse", translation = "ta
 WordHunterWoW_Dictionary_FR["prenez"] = { word = "Prenez", translation = "take", note = "" }
 WordHunterWoW_Dictionary_FR["prenez-en"] = { word = "prenez-en", translation = "take some", note = "close cognate: the French and English forms share a recognizable Latin root" }
 WordHunterWoW_Dictionary_FR["prenez-la"] = { word = "Prenez-la", translation = "take it; take her", note = "the hyphen joins an imperative to its object pronoun; English usually puts the pronoun before the verb" }
-WordHunterWoW_Dictionary_FR["prenez-la-lui"] = { word = "Prenez-la-lui", translation = "Take it from him", note = "imperative with pronouns; seize it" }
+WordHunterWoW_Dictionary_FR["prenez-la-lui"] = { word = "Prenez-la-lui", translation = "take it from him", note = "imperative with pronouns; seize it" }
 WordHunterWoW_Dictionary_FR["prenez-le"] = { word = "Prenez-le", translation = "take it", note = "the hyphen joins an imperative to its object pronoun; English usually puts the pronoun before the verb" }
 WordHunterWoW_Dictionary_FR["prenez-le-lui"] = { word = "Prenez-le-lui", translation = "take it from him", note = "double pronoun construction; seize the item from him in combat" }
 WordHunterWoW_Dictionary_FR["prenez-les"] = { word = "Prenez-les", translation = "take them", note = "imperative « prenez » with the plural object pronoun « les »" }
@@ -49599,7 +49599,7 @@ WordHunterWoW_Dictionary_FR["prisées"] = { word = "prisées", translation = "pr
 WordHunterWoW_Dictionary_FR["prisés"] = { word = "prisés", translation = "prized", note = "valued/prized/esteemed (red-feathered birds)" }
 WordHunterWoW_Dictionary_FR["prit"] = { word = "prit", translation = "took", note = "past tense of prendre; 'took up the defense'" }
 WordHunterWoW_Dictionary_FR["privant"] = { word = "privant", translation = "deprive", note = "adjective form; French adjectives agree with the noun they describe" }
-WordHunterWoW_Dictionary_FR["privation"] = { word = "Privation", translation = "Deprivation", note = "lack or absence; title or concept name" }
+WordHunterWoW_Dictionary_FR["privation"] = { word = "Privation", translation = "deprivation", note = "lack or absence; title or concept name" }
 WordHunterWoW_Dictionary_FR["privations"] = { word = "privations", translation = "hardships; deprivations", note = "sufferings or deprivations endured" }
 WordHunterWoW_Dictionary_FR["prive"] = { word = "prive", translation = "deprives; private", note = "without an accent, prive is a form of priver; privé means private" }
 WordHunterWoW_Dictionary_FR["privent"] = { word = "privent", translation = "deprive", note = "they deprive" }
@@ -49676,7 +49676,7 @@ WordHunterWoW_Dictionary_FR["procurerait"] = { word = "procurerait", translation
 WordHunterWoW_Dictionary_FR["procurerez"] = { word = "procurerez", translation = "you will procure", note = "-erez marks the future; the dictionary verb is procurer" }
 WordHunterWoW_Dictionary_FR["procurez"] = { word = "procurez", translation = "procure", note = "imperative: provide/obtain/secure provisions" }
 WordHunterWoW_Dictionary_FR["procurez-le-vous"] = { word = "Procurez-le-vous", translation = "Get it", note = "get for yourself" }
-WordHunterWoW_Dictionary_FR["procurez-les-vous"] = { word = "Procurez-les-vous", translation = "Get them; Obtain them", note = "imperative reflexive; acquire for yourselves" }
+WordHunterWoW_Dictionary_FR["procurez-les-vous"] = { word = "Procurez-les-vous", translation = "get them; obtain them", note = "imperative reflexive; acquire for yourselves" }
 WordHunterWoW_Dictionary_FR["procurez-moi"] = { word = "Procurez-moi", translation = "get me", note = "procure for me; get me what I need" }
 WordHunterWoW_Dictionary_FR["procurez-nous"] = { word = "Procurez-nous", translation = "Get us", note = "get for us" }
 WordHunterWoW_Dictionary_FR["procurez-vous"] = { word = "procurez-vous", translation = "get yourself", note = "se procurer means obtain or get for oneself; the hyphen marks the imperative pronoun" }
@@ -49734,12 +49734,12 @@ WordHunterWoW_Dictionary_FR["produirez"] = { word = "produirez", translation = "
 WordHunterWoW_Dictionary_FR["produirons"] = { word = "produirons", translation = "we will produce", note = "produce liquor" }
 WordHunterWoW_Dictionary_FR["produiront"] = { word = "produiront", translation = "they will produce", note = "research produces fruit" }
 WordHunterWoW_Dictionary_FR["produisaient"] = { word = "produisaient", translation = "produced; yielded", note = "imperfect tense; what wyverns and elementals produce" }
-WordHunterWoW_Dictionary_FR["produisait"] = { word = "produisait", translation = "produced", note = "imperfect tense; was producing" }
+WordHunterWoW_Dictionary_FR["produisait"] = { word = "produisait", translation = "was producing", note = "imperfect tense; was producing" }
 WordHunterWoW_Dictionary_FR["produisant"] = { word = "produisant", translation = "producing", note = "producing sparks" }
 WordHunterWoW_Dictionary_FR["produise"] = { word = "produise", translation = "produce", note = "subjunctive form of produire; the infinitive means produce" }
 WordHunterWoW_Dictionary_FR["produisent"] = { word = "produisent", translation = "produce", note = "" }
 WordHunterWoW_Dictionary_FR["produisez"] = { word = "produisez", translation = "produce", note = "magical writings" }
-WordHunterWoW_Dictionary_FR["produisons"] = { word = "produisons", translation = "produce", note = "first-person plural present; we produce such volume" }
+WordHunterWoW_Dictionary_FR["produisons"] = { word = "produisons", translation = "we produce; let's produce", note = "first-person plural present; we produce such volume" }
 WordHunterWoW_Dictionary_FR["produit"] = { word = "produit", translation = "product; yield", note = "" }
 WordHunterWoW_Dictionary_FR["produite"] = { word = "produite", translation = "produced", note = "feminine past participle of produire" }
 WordHunterWoW_Dictionary_FR["produites"] = { word = "produites", translation = "produced", note = "manufactured/forged (ancient weapons from Northrend)" }
@@ -49782,7 +49782,7 @@ WordHunterWoW_Dictionary_FR["profita"] = { word = "profita", translation = "took
 WordHunterWoW_Dictionary_FR["profitable"] = { word = "profitable", translation = "beneficial; profitable", note = "" }
 WordHunterWoW_Dictionary_FR["profitables"] = { word = "profitables", translation = "beneficial", note = "would be beneficial/profitable to you (training and discipline)" }
 WordHunterWoW_Dictionary_FR["profitaient"] = { word = "profitaient", translation = "were taking advantage", note = "enjoying facilities" }
-WordHunterWoW_Dictionary_FR["profitais"] = { word = "profitais", translation = "took advantage", note = "imperfect; I was exploiting your exhaustion" }
+WordHunterWoW_Dictionary_FR["profitais"] = { word = "profitais", translation = "I/you took advantage", note = "imperfect; I was exploiting your exhaustion" }
 WordHunterWoW_Dictionary_FR["profitant"] = { word = "profitant", translation = "taking advantage", note = "profiting from/exploiting circumstances" }
 WordHunterWoW_Dictionary_FR["profite"] = { word = "profite", translation = "take advantage", note = "the -ité ending commonly forms an abstract noun, much like English -ity" }
 WordHunterWoW_Dictionary_FR["profitent"] = { word = "profitent", translation = "take advantage (of)", note = "profiter de means to take advantage of an opportunity" }
@@ -49917,7 +49917,7 @@ WordHunterWoW_Dictionary_FR["prometteuse"] = { word = "prometteuse", translation
 WordHunterWoW_Dictionary_FR["prometteuses"] = { word = "prometteuses", translation = "promising; hopeful", note = "prometteuses = showing promise or giving hope (feminine plural)" }
 WordHunterWoW_Dictionary_FR["promettez"] = { word = "promettez", translation = "promise", note = "imperative: you promise me this" }
 WordHunterWoW_Dictionary_FR["promettez-leur"] = { word = "promettez-leur", translation = "promise them", note = "promise protection" }
-WordHunterWoW_Dictionary_FR["promettez-moi"] = { word = "Promettez-moi", translation = "Promise me", note = "imperative; formal or plural" }
+WordHunterWoW_Dictionary_FR["promettez-moi"] = { word = "Promettez-moi", translation = "promise me", note = "imperative; formal or plural" }
 WordHunterWoW_Dictionary_FR["promettiez"] = { word = "promettiez", translation = "promise; would promise", note = "imperfect or conditional; \"if you promise that your friend will help\"" }
 WordHunterWoW_Dictionary_FR["promettra"] = { word = "promettra", translation = "he/she will promise", note = "empty promises" }
 WordHunterWoW_Dictionary_FR["promettre"] = { word = "promettre", translation = "promise", note = "the infinitive; promised is the past participle promis" }
@@ -49991,7 +49991,7 @@ WordHunterWoW_Dictionary_FR["proportion"] = { word = "proportion", translation =
 WordHunterWoW_Dictionary_FR["proportionnelle"] = { word = "proportionnelle", translation = "proportional", note = "power granted" }
 WordHunterWoW_Dictionary_FR["proportions"] = { word = "proportions", translation = "proportions", note = "the -ions ending marks a first-person plural imperfect or subjunctive form" }
 WordHunterWoW_Dictionary_FR["propos"] = { word = "propos", translation = "remarks; subject", note = "à propos = by the way; à propos de = about" }
-WordHunterWoW_Dictionary_FR["proposais"] = { word = "proposais", translation = "proposed", note = "imperfect; I was proposing" }
+WordHunterWoW_Dictionary_FR["proposais"] = { word = "proposais", translation = "I/you were proposing", note = "imperfect; I was proposing" }
 WordHunterWoW_Dictionary_FR["proposant"] = { word = "proposant", translation = "proposing", note = "present participle; putting forward an idea" }
 WordHunterWoW_Dictionary_FR["propose"] = { word = "propose", translation = "offers", note = "transparent cognate: French and English share a root, though pronunciation differs" }
 WordHunterWoW_Dictionary_FR["proposent"] = { word = "proposent", translation = "propose; offer", note = "proposent = they propose or suggest (third-person plural)" }
@@ -50160,12 +50160,12 @@ WordHunterWoW_Dictionary_FR["prouvez"] = { word = "Prouvez", translation = "prov
 WordHunterWoW_Dictionary_FR["prouvez-le"] = { word = "prouvez-le", translation = "prove it", note = "imperative; demonstrate it to me" }
 WordHunterWoW_Dictionary_FR["prouvez-le-moi"] = { word = "Prouvez-le-moi", translation = "Prove it to me", note = "imperative with indirect object; challenge to demonstrate championship potential" }
 WordHunterWoW_Dictionary_FR["prouvez-leur"] = { word = "Prouvez-leur", translation = "prove to them", note = "the -ez ending marks a formal/plural command or verb form" }
-WordHunterWoW_Dictionary_FR["prouvez-lui"] = { word = "Prouvez-lui", translation = "Prove it to him", note = "imperative; show him your strength" }
+WordHunterWoW_Dictionary_FR["prouvez-lui"] = { word = "Prouvez-lui", translation = "prove it to him", note = "imperative; show him your strength" }
 WordHunterWoW_Dictionary_FR["prouvez-moi"] = { word = "Prouvez-moi", translation = "prove to me", note = "the hyphen joins an imperative to its object pronoun; English usually puts the pronoun before the verb" }
 WordHunterWoW_Dictionary_FR["prouvez-nous"] = { word = "Prouvez-nous", translation = "prove to us", note = "imperative; demonstrate your worth" }
 WordHunterWoW_Dictionary_FR["prouvez-vous"] = { word = "prouvez-vous", translation = "prove yourself; show what you're worth", note = "imperative reflexive; \"why don't you prove yourself\"" }
 WordHunterWoW_Dictionary_FR["prouviez"] = { word = "prouviez", translation = "proved", note = "second person imperfect; demonstrated or showed" }
-WordHunterWoW_Dictionary_FR["prouvons-leur"] = { word = "Prouvons-leur", translation = "Let's prove to them", note = "first-person plural imperative" }
+WordHunterWoW_Dictionary_FR["prouvons-leur"] = { word = "Prouvons-leur", translation = "let's prove to them", note = "first-person plural imperative" }
 WordHunterWoW_Dictionary_FR["prouvé"] = { word = "prouvé", translation = "proved", note = "past participle of prouver" }
 WordHunterWoW_Dictionary_FR["prouvée"] = { word = "prouvée", translation = "proven", note = "feminine past participle; demonstrated/established fact or method" }
 WordHunterWoW_Dictionary_FR["provenaient"] = { word = "provenaient", translation = "came from", note = "imperfect of provenir; these essences came from" }
