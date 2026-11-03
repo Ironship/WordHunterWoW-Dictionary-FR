@@ -4740,7 +4740,7 @@
 {"key": "léger", "word": "léger", "translation": "light", "note": "keep the accent: it affects the vowel sound and lookup key"}
 {"key": "l’avant-garde", "word": "l’avant-garde", "translation": "vanguard", "note": "elision marks a dropped vowel; keep the apostrophe in the lookup form"}
 {"key": "l’oubli", "word": "l’oubli", "translation": "oblivion; forgetting", "note": "l’ is the elided article; oubli is related to oublier, “to forget”"}
-{"key": "l’éternel", "word": "l’Éternel", "translation": "Eternal", "note": "adjective in the proper name Vale of Eternal Blossoms"}
+{"key": "l’éternel", "word": "l’Éternel", "translation": "the eternal one", "note": "adjective in the proper name Vale of Eternal Blossoms"}
 {"key": "malades", "word": "malades", "translation": "sick", "note": "plural form; final -s is usually silent in French"}
 {"key": "mettons", "word": "mettons", "translation": "we put; let us put", "note": "nous form of mettre"}
 {"key": "modifier", "word": "modifier", "translation": "modify", "note": "french word-final consonants are often silent unless liaison links them to the next word"}
@@ -5778,7 +5778,7 @@
 {"key": "l’entraînement", "word": "l’entraînement", "translation": "training", "note": "l’ is le or la elided before a vowel; French uses both for “the”"}
 {"key": "l’herbe", "word": "l’herbe", "translation": "grass", "note": "l’ is le or la elided before a vowel; French uses both for “the”"}
 {"key": "l’horizon", "word": "l’horizon", "translation": "horizon", "note": "l’ is le or la elided before a vowel; French uses both for “the”"}
-{"key": "l’ost", "word": "l’Ost", "translation": "Host; army", "note": "ost is an old French word for an army or host, not “west”"}
+{"key": "l’ost", "word": "l’Ost", "translation": "the host; the army", "note": "ost is an old French word for an army or host, not “west”"}
 {"key": "l’écodôme", "word": "l’écodôme", "translation": "ecodome", "note": "l’ is le or la elided before a vowel; French uses both for “the”"}
 {"key": "l’étincelle", "word": "l’étincelle", "translation": "spark", "note": "l’ is le or la elided before a vowel; French uses both for “the”"}
 {"key": "marine", "word": "marine", "translation": "navy", "note": "as a noun, marine can mean navy; before a noun, it can mean naval"}
@@ -30795,7 +30795,7 @@
 {"key": "ensanglantés", "word": "ensanglantés", "translation": "bloodied; blood-stained", "note": "covered in blood; masculine plural past participle"}
 {"key": "enseignant", "word": "enseignant", "translation": "teacher; teaching", "note": "one who teaches or the act of teaching"}
 {"key": "enseignent", "word": "enseignent", "translation": "teach", "note": "they teach; third-person plural present"}
-{"key": "enseignez-leur", "word": "enseignez-leur", "translation": "Teach them; show them", "note": "imperative with indirect object — instruct them"}
+{"key": "enseignez-leur", "word": "enseignez-leur", "translation": "teach them; show them", "note": "imperative with indirect object — instruct them"}
 {"key": "enseignez-lui", "word": "Enseignez-lui", "translation": "Teach him; show him", "note": "imperative — instruct or demonstrate to him"}
 {"key": "ensevelies", "word": "ensevelies", "translation": "buried; entombed", "note": "laid to rest; feminine plural past participle"}
 {"key": "ensorcelée", "word": "ensorcelée", "translation": "bewitched; enchanted", "note": "under a spell or magical control; feminine past participle"}
@@ -42303,7 +42303,7 @@
 {"key": "dépaysement", "word": "Dépaysement", "translation": "Change of scenery; Escapade", "note": "quest name; exotic adventure or new surroundings"}
 {"key": "dépeceuse", "word": "dépeceuse", "translation": "skinner; flayer", "note": "one who skins creatures; a professing or NPC occupation"}
 {"key": "dépecez-les", "word": "Dépecez-les", "translation": "Butcher them", "note": "dépecer: to butcher or butcher skins from a carcass; imperative form"}
-{"key": "dépecez-vous", "word": "dépecez-vous", "translation": "Butcher yourselves", "note": "reflexive verb; go butcher (your own materials); in context of preparing hides"}
+{"key": "dépecez-vous", "word": "dépecez-vous", "translation": "butcher yourselves", "note": "reflexive verb; go butcher (your own materials); in context of preparing hides"}
 {"key": "dépeint", "word": "dépeint", "translation": "portrayed; described", "note": "dépeindre: to depict or portray; past participle; here describing how conditions are portrayed in a letter"}
 {"key": "dépendaient", "word": "dépendaient", "translation": "depended", "note": "dépendre: to depend on; imparfait tense"}
 {"key": "dépendants", "word": "dépendants", "translation": "dependent; dependents", "note": "adjective or noun; those who depend; can also mean financial dependents"}
@@ -48557,7 +48557,7 @@
 {"key": "l’cristal", "word": "l’cristal", "translation": "the crystal; the arkonite crystal", "note": "casual/dialectal: the shield's crystal within Alpha Kargora must be destroyed"}
 {"key": "l’croire", "word": "l’croire", "translation": "believe it", "note": "casual: not a drop of beer in this cursed tavern, so inexplicably impossible"}
 {"key": "l’croyais", "word": "l’croyais", "translation": "I believed", "note": "casual past: amazed that Bloodsail Reavers would attack Booty Bay garrison"}
-{"key": "l’crépuscule", "word": "l’Crépuscule", "translation": "Twilight", "note": "proper name: Twilight faction already targeted by the Blackwater Raiders"}
+{"key": "l’crépuscule", "word": "l’Crépuscule", "translation": "the twilight", "note": "proper name: Twilight faction already targeted by the Blackwater Raiders"}
 {"key": "l’côté", "word": "l’côté", "translation": "the side", "note": "casual: dying won't stop me, I'll come back and pursue vendetta without mercy"}
 {"key": "l’demande", "word": "l’demande", "translation": "the request", "note": "casual: qualities you seek are good bottle and fine quality pipe tobacco"}
 {"key": "l’dernier", "word": "l’dernier", "translation": "the last", "note": "casual: not the worst cook, should fetch food to survive in this region"}
@@ -59653,7 +59653,7 @@
 {"key": "l'arcanum", "word": "l'arcanum", "translation": "arcanum; secret; mystery", "note": "l’ is the definite article “the,” elided before a vowel"}
 {"key": "l'assure", "word": "l'assure", "translation": "assure it; ensure it", "note": "l’ is the object pronoun “it,” attached before a vowel-starting verb"}
 {"key": "l'emprunter", "word": "l'emprunter", "translation": "borrow it; take it", "note": "l’ is the object pronoun “it,” attached before a vowel-starting verb"}
-{"key": "l'eveillé", "word": "l'Eveillé", "translation": "Awakened", "note": "l’ is the definite article “the,” elided before a vowel"}
+{"key": "l'eveillé", "word": "l'Eveillé", "translation": "the awakened one", "note": "l’ is the definite article “the,” elided before a vowel"}
 {"key": "l'evêque", "word": "L'Evêque", "translation": "bishop", "note": "l’ is the definite article “the,” elided before a vowel"}
 {"key": "l'explosif", "word": "l'explosif", "translation": "explosive; blast powder", "note": "l’ is the definite article “the,” elided before a vowel"}
 {"key": "l'harmonie", "word": "l'harmonie", "translation": "harmony; balance", "note": "l’ is the definite article “the,” elided before a vowel"}
@@ -62459,19 +62459,19 @@
 {"key": "l'cœur", "word": "l'cœur", "translation": "heart", "note": "colloquial form; core or essence"}
 {"key": "l'demanderai", "word": "l'demanderai", "translation": "I'll ask for", "note": "1st person future; colloquial pirate speech"}
 {"key": "l'eko", "word": "l'Eko", "translation": "Eko", "note": "item name; elided article"}
-{"key": "l'elunite", "word": "l'Elunite", "translation": "Elunite", "note": "magical material; elided article"}
+{"key": "l'elunite", "word": "l'Elunite", "translation": "the elunite", "note": "magical material; elided article"}
 {"key": "l'embrasser", "word": "l'embrasser", "translation": "kiss; embrace", "note": "infinitive"}
 {"key": "l'embrasure", "word": "l'embrasure", "translation": "embrasure", "note": "opening in wall or tower for passage"}
 {"key": "l'enclos", "word": "l'enclos", "translation": "enclosure; pen", "note": "fenced area or cage"}
 {"key": "l'enlever", "word": "l'enlever", "translation": "remove", "note": "infinitive"}
 {"key": "l'entendez", "word": "l'entendez", "translation": "hear", "note": "2nd person plural present; also means understand"}
 {"key": "l'envoie", "word": "l'envoie", "translation": "send", "note": "3rd person singular present"}
-{"key": "l'erudit", "word": "l'Erudit", "translation": "Scholar", "note": "NPC title; one who is learned"}
+{"key": "l'erudit", "word": "l'Erudit", "translation": "the scholar", "note": "NPC title; one who is learned"}
 {"key": "l'esclavagiste", "word": "l'esclavagiste", "translation": "slaver", "note": "one who enslaves"}
 {"key": "l'escorter", "word": "l'escorter", "translation": "escort", "note": "infinitive; to accompany"}
-{"key": "l'espèce", "word": "l'Espèce", "translation": "Species", "note": "creature or item name; elided article"}
+{"key": "l'espèce", "word": "l'Espèce", "translation": "the species", "note": "creature or item name; elided article"}
 {"key": "l'essaie", "word": "l'essaie", "translation": "try; test", "note": "3rd person singular present"}
-{"key": "l'etonnante", "word": "l'Etonnante", "translation": "Astonishing", "note": "proper location name; menagerie"}
+{"key": "l'etonnante", "word": "l'Etonnante", "translation": "the astonishing one", "note": "proper location name; menagerie"}
 {"key": "l'estrade", "word": "l'estrade", "translation": "stage; platform", "note": "raised dais or speaking platform"}
 {"key": "l'euphorie", "word": "l'euphorie", "translation": "euphoria", "note": "state of joy or elation"}
 {"key": "l'evoroot", "word": "l'Evoroot", "translation": "Evoroot", "note": "herb ingredient; elided article"}
@@ -62479,7 +62479,7 @@
 {"key": "l'examinant", "word": "l'examinant", "translation": "examining", "note": "present participle of examiner"}
 {"key": "l'expiration", "word": "l'expiration", "translation": "expiration; ending", "note": "not exhalation; the end or termination"}
 {"key": "l'expliquer", "word": "l'expliquer", "translation": "explain", "note": "infinitive"}
-{"key": "l'exploratrice", "word": "l'Exploratrice", "translation": "Explorer", "note": "NPC title (feminine); one who explores"}
+{"key": "l'exploratrice", "word": "l'Exploratrice", "translation": "the explorer", "note": "NPC title (feminine); one who explores"}
 {"key": "l'exposition", "word": "l'exposition", "translation": "exhibition; exposure", "note": "display or exposure to something"}
 {"key": "l'exquis", "word": "l'exquis", "translation": "exquisite", "note": "refined or precious quality"}
 {"key": "l'extraire", "word": "l'extraire", "translation": "extract", "note": "infinitive; to draw out"}
@@ -62487,7 +62487,7 @@
 {"key": "l'grand", "word": "l'grand", "translation": "big one", "note": "colloquial pirate speech (le grand)"}
 {"key": "l'haruspice", "word": "L'haruspice", "translation": "haruspex", "note": "diviner who reads entrails for omens"}
 {"key": "l'hederine", "word": "l'Hederine", "translation": "Hederine", "note": "demon type; elided article"}
-{"key": "l'historienne", "word": "l'Historienne", "translation": "Historian", "note": "NPC title (feminine); keeper of history"}
+{"key": "l'historienne", "word": "l'Historienne", "translation": "the historian", "note": "NPC title (feminine); keeper of history"}
 {"key": "l'humain", "word": "L'humain", "translation": "human", "note": "elided article; the human"}
 {"key": "l'héritière", "word": "l'héritière", "translation": "heiress", "note": "female heir; feminine form"}
 {"key": "l'héroïsme", "word": "l'héroïsme", "translation": "heroism", "note": "quality of heroic deeds"}
@@ -62499,7 +62499,7 @@
 {"key": "l'indicateur", "word": "l'Indicateur", "translation": "Indicator", "note": "item/device name"}
 {"key": "l'infirmière", "word": "l'infirmière", "translation": "nurse", "note": "feminine form of infirmier"}
 {"key": "l'infravert", "word": "l'infravert", "translation": "infrared; infragreen", "note": "made-up goblin term (infra + vert); new energy"}
-{"key": "l'intemporel", "word": "l'Intemporel", "translation": "Timeless", "note": "proper name; not bound by time"}
+{"key": "l'intemporel", "word": "l'Intemporel", "translation": "the timeless one", "note": "proper name; not bound by time"}
 {"key": "l'intendante", "word": "l'intendante", "translation": "steward; stewardess", "note": "one who manages affairs or household"}
 {"key": "l'interceptiez", "word": "l'interceptiez", "translation": "intercepted", "note": "2nd person plural past; capturing messages"}
 {"key": "l'interdiction", "word": "l'interdiction", "translation": "ban; prohibition", "note": "state of being forbidden"}
@@ -62513,9 +62513,9 @@
 {"key": "l'ombremage", "word": "l'ombremage", "translation": "shadowmage", "note": "practitioner of shadow magic"}
 {"key": "l'opinion", "word": "l'opinion", "translation": "opinion; view", "note": "someone's belief or judgment"}
 {"key": "l'ont-ils", "word": "l'ont-ils", "translation": "do they have; have they", "note": "elided pronoun + avoir; question inversion"}
-{"key": "l'opérateur", "word": "l'Opérateur", "translation": "Operator", "note": "NPC title; one who operates"}
+{"key": "l'opérateur", "word": "l'Opérateur", "translation": "the operator", "note": "NPC title; one who operates"}
 {"key": "l'oratoire", "word": "l'oratoire", "translation": "oratory; chapel", "note": "small private prayer room"}
-{"key": "l'organisateur", "word": "l'Organisateur", "translation": "Organizer", "note": "one who arranges or orchestrates"}
+{"key": "l'organisateur", "word": "l'Organisateur", "translation": "the organizer", "note": "one who arranges or orchestrates"}
 {"key": "l'orientation", "word": "l'orientation", "translation": "orientation; direction", "note": "sense of direction or bearing"}
 {"key": "l'original", "word": "l'original", "translation": "original; the original", "note": "first version or prototype"}
 {"key": "l'orque", "word": "l'orque", "translation": "ogre; orc", "note": "could be female ogre or orc; boat wreck context"}
@@ -67210,11 +67210,11 @@
 {"key": "l'omelette", "word": "l'omelette", "translation": "omelette", "note": ""}
 {"key": "l'ongle", "word": "l'ongle", "translation": "nail", "note": "fingernail or claw"}
 {"key": "l'ologiste", "word": "l'Ologiste", "translation": "the Ologist", "note": "NPC name (Mamdy the Ologist); stay as is"}
-{"key": "l'onguent", "word": "l'Onguent", "translation": "Ointment", "note": "item name; healing salve"}
+{"key": "l'onguent", "word": "l'Onguent", "translation": "the ointment", "note": "item name; healing salve"}
 {"key": "l'oox", "word": "l'OOX", "translation": "OOX", "note": "robot designation; stays unchanged"}
 {"key": "l'orange", "word": "l'orange", "translation": "orange", "note": "the color orange"}
 {"key": "l'ordonnance", "word": "l'ordonnance", "translation": "order; prescription", "note": "formal order or medical prescription"}
-{"key": "l'orbite", "word": "l'Orbite", "translation": "Orbit", "note": "zone name (Bloodmyst Isle/Orbite-sanglante)"}
+{"key": "l'orbite", "word": "l'Orbite", "translation": "the orbit", "note": "zone name (Bloodmyst Isle/Orbite-sanglante)"}
 {"key": "l'organisme", "word": "l'organisme", "translation": "organism", "note": "living creature or growth"}
 {"key": "l'osez", "word": "l'osez", "translation": "dare", "note": "from oser (to dare); 'if you dare' imperative-style"}
 {"key": "l'oublie", "word": "l'oublie", "translation": "forget; forgotten", "note": "from oublier; context needs verb form check"}
@@ -67246,7 +67246,7 @@
 {"key": "l'écoutiez", "word": "l'écoutiez", "translation": "heeded; listened", "note": "must listen; heed the spirit's call"}
 {"key": "l'écrasement", "word": "l'écrasement", "translation": "crushing", "note": "total defeat or destruction of enemies"}
 {"key": "l'écraser", "word": "l'écraser", "translation": "crush", "note": "verb; to crush or destroy"}
-{"key": "l'écritoire", "word": "l'Écritoire", "translation": "Desk; Writing Desk", "note": "item; Vibrofang's writing furniture"}
+{"key": "l'écritoire", "word": "l'Écritoire", "translation": "the desk; the writing desk", "note": "item; Vibrofang's writing furniture"}
 {"key": "l'écrire", "word": "l'écrire", "translation": "write it", "note": "infinitive; who wrote the pterror warning"}
 {"key": "l'égarement", "word": "l'égarement", "translation": "bewilderment; confusion", "note": "state of being lost; visible on someone's face"}
 {"key": "l'égale", "word": "l'égale", "translation": "equal; match", "note": "feminine form; equal to Malygos in power"}
@@ -67255,11 +67255,11 @@
 {"key": "l'égoïsme", "word": "l'égoïsme", "translation": "selfishness", "note": "false friend: egoism or self-centeredness; contrast with altruism"}
 {"key": "l'électrogomme", "word": "l'électrogomme", "translation": "electrogum", "note": "technical term; gnomish component for recombobulator"}
 {"key": "l'éleveur", "word": "l'éleveur", "translation": "breeder", "note": "one who raises or breeds creatures"}
-{"key": "l'éleveuse", "word": "l'Éleveuse", "translation": "Breeder", "note": "NPC title; female breeder of bats"}
+{"key": "l'éleveuse", "word": "l'Éleveuse", "translation": "the breeder", "note": "NPC title; female breeder of bats"}
 {"key": "l'élève", "word": "l'élève", "translation": "student; pupil", "note": "disciple or learner"}
-{"key": "l'émergence", "word": "l'Émergence", "translation": "Emergence", "note": "zone name; Beryl Emergence (Winterspring)"}
+{"key": "l'émergence", "word": "l'Émergence", "translation": "the emergence", "note": "zone name; Beryl Emergence (Winterspring)"}
 {"key": "l'énervez", "word": "l'énervez", "translation": "annoy; irritate", "note": "you annoy/irritate him"}
-{"key": "l'épandeur", "word": "l'Épandeur", "translation": "Spreader", "note": "item or title; plague spreader; bomb component"}
+{"key": "l'épandeur", "word": "l'Épandeur", "translation": "the spreader", "note": "item or title; plague spreader; bomb component"}
 {"key": "l'épisode", "word": "l'épisode", "translation": "episode; incident", "note": "the occasion; Nat Pagle fishing adventure"}
 {"key": "l'épiderme", "word": "L'épiderme", "translation": "Epidermis", "note": "outer skin layer; describing ancient powerful leaf"}
 {"key": "l'épouvante", "word": "l'épouvante", "translation": "terror; dread", "note": "fear and horror; spread terror to enemies"}
@@ -67746,7 +67746,7 @@
 {"key": "l’ali", "word": "l’ali", "translation": "the al-", "note": "stuttered fragment; character attempting to say alchimie (alchemy) but stopping at ali-"}
 {"key": "l’altruisme", "word": "l’altruisme", "translation": "altruism; selflessness", "note": "noun; kindness and concern for others without self-interest"}
 {"key": "l’ampoule", "word": "l’Ampoule", "translation": "the Lightbulb; the Lamp", "note": "tool or item name; ampoule means bulb/vial in French, but here translated as lightbulb"}
-{"key": "l’arcanite", "word": "l’arcanite", "translation": "Arcanite", "note": "material name; magical ore used in crafting"}
+{"key": "l’arcanite", "word": "l’arcanite", "translation": "the arcanite", "note": "material name; magical ore used in crafting"}
 {"key": "l’apprenti-ferrailleur", "word": "l’apprenti-ferrailleur", "translation": "the apprentice ironworker", "note": "title or designation; ferrailleur means scrap metal worker or blacksmith"}
 {"key": "l’appliquerai", "word": "l’appliquerai", "translation": "I will apply it; I will place it", "note": "future tense; about adding an enhancement to an object"}
 {"key": "l’archi-liche", "word": "l’archi-liche", "translation": "the arch-lich", "note": "title or rank; archi- (arch/chief) + liche (lich); a powerful undead mage"}
@@ -68781,7 +68781,7 @@
 {"key": "remettait", "word": "remettait", "translation": "handed over; gave; entrusted", "note": "imperfect tense; was giving or transferring something"}
 {"key": "remettrais", "word": "remettrais", "translation": "I/you would put back; I/you would restore", "note": "conditional; would return to working order or place"}
 {"key": "remettez-le-lui", "word": "Remettez-le-lui", "translation": "Give it to him; Hand it to him", "note": "imperative with pronouns; deliver or pass something directly"}
-{"key": "remettez-les-lui", "word": "remettez-les-lui", "translation": "Give them to him; Hand them to him", "note": "imperative plural with pronouns; deliver multiple items"}
+{"key": "remettez-les-lui", "word": "remettez-les-lui", "translation": "give them to him; hand them to him", "note": "imperative plural with pronouns; deliver multiple items"}
 {"key": "remettrez", "word": "remettrez", "translation": "you will hand over; you will give; you will deliver", "note": "future; will pass something to another person"}
 {"key": "remnants", "word": "remnants", "translation": "remnants", "note": "English word; leftover pieces or traces"}
 {"key": "remontrance", "word": "remontrance", "translation": "remonstrance; reproof", "note": "noun; formal objection or expression of disapproval"}
@@ -68888,7 +68888,7 @@
 {"key": "revenge", "word": "revenge", "translation": "revenge", "note": "English word"}
 {"key": "revenions", "word": "revenions", "translation": "let us come back", "note": "subjunctive-imperfect"}
 {"key": "reverrions", "word": "reverrions", "translation": "we would see again", "note": "conditional of revoir"}
-{"key": "reverrez-vous", "word": "reverrez-vous", "translation": "Will you see it again", "note": "future with inversion"}
+{"key": "reverrez-vous", "word": "reverrez-vous", "translation": "will you see it again", "note": "future with inversion"}
 {"key": "reviandicateur", "word": "Reviandicateur", "translation": "Revengeant", "note": ""}
 {"key": "reviandiquer", "word": "reviandiquer", "translation": "reclaim; restore", "note": "regain what was lost"}
 {"key": "reviendriez-vous", "word": "reviendriez-vous", "translation": "would you come back", "note": "conditional with inversion"}
