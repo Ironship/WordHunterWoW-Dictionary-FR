@@ -7721,7 +7721,7 @@
 {"key": "banquet", "word": "banquet", "translation": "banquet", "note": "a close French-English cognate; the shared Latin root makes the meaning recognizable"}
 {"key": "boivent", "word": "boivent", "translation": "drink", "note": "the -ent ending often marks a plural verb and is silent"}
 {"key": "bolvar", "word": "Bolvar", "translation": "Bolvar", "note": ""}
-{"key": "bourse", "word": "bourse", "translation": "stock exchange", "note": "ordinary french bourse can mean purse or stock exchange"}
+{"key": "bourse", "word": "bourse", "translation": "purse; scholarship; stock exchange", "note": "ordinary french bourse can mean purse or stock exchange"}
 {"key": "bouteilles", "word": "bouteilles", "translation": "bottles", "note": "plural form; the final -s is usually silent in French"}
 {"key": "bribes", "word": "bribes", "translation": "fragments", "note": "plural form; the final -s is usually silent in French"}
 {"key": "brillante", "word": "brillante", "translation": "shining", "note": "feminine form of brillant; it can mean shining or brilliant"}
@@ -7751,18 +7751,18 @@
 {"key": "convent", "word": "convent", "translation": "coven", "note": "the -ent ending often marks a plural verb and is silent"}
 {"key": "coopérer", "word": "coopérer", "translation": "cooperate", "note": "infinitive form; French lists verbs without English “to”"}
 {"key": "corrompt", "word": "corrompt", "translation": "corrupt", "note": "a close French-English cognate; the shared Latin root makes the meaning recognizable"}
-{"key": "corrupteur", "word": "Corrupteur", "translation": "Corruptor", "note": "the -eur ending often names a person or thing that acts"}
+{"key": "corrupteur", "word": "Corrupteur", "translation": "corruptor", "note": "the -eur ending often names a person or thing that acts"}
 {"key": "coude", "word": "coude", "translation": "elbow", "note": "the joint between upper and lower arm; also an elbow bend"}
 {"key": "coupables", "word": "coupables", "translation": "guilty", "note": "plural form; the final -s is usually silent in French"}
 {"key": "cousins", "word": "cousins", "translation": "cousins", "note": "plural form; the final -s is usually silent in French"}
 {"key": "cran", "word": "cran", "translation": "notch", "note": "a notch or small step; “un cran au-dessus” means one notch above"}
 {"key": "cruelles", "word": "cruelles", "translation": "cruel", "note": "plural form; the final -s is usually silent in French"}
-{"key": "créateur", "word": "créateur", "translation": "Creator", "note": "the -eur ending often names a person or thing that acts"}
+{"key": "créateur", "word": "créateur", "translation": "creator", "note": "the -eur ending often names a person or thing that acts"}
 {"key": "d'aldur'thar", "word": "d'Aldur'thar", "translation": "of Aldur'thar", "note": ""}
 {"key": "d'attaquer", "word": "d'attaquer", "translation": "to attack", "note": "infinitive form; French lists verbs without English “to”"}
 {"key": "d'atterrissage", "word": "d'atterrissage", "translation": "landing", "note": "d’ is de elided before a vowel; atterrissage means landing"}
 {"key": "dard", "word": "dard", "translation": "dart", "note": "a close French-English cognate; the shared Latin root makes the meaning recognizable"}
-{"key": "devions", "word": "devions", "translation": "have to", "note": "the -ons ending marks first-person plural, “we”"}
+{"key": "devions", "word": "devions", "translation": "we had to; we should", "note": "imperfect or conditional of devoir"}
 {"key": "docks", "word": "docks", "translation": "docks", "note": "plural form; the final -s is usually silent in French"}
 {"key": "dolanaar", "word": "Dolanaar", "translation": "Dolanaar", "note": ""}
 {"key": "dragonnet", "word": "dragonnet", "translation": "hatchling", "note": "a young dragon; -et is a diminutive ending"}
@@ -7804,7 +7804,7 @@
 {"key": "forcés", "word": "forcés", "translation": "forced", "note": "plural form; the final -s is usually silent in French"}
 {"key": "frappes", "word": "frappes", "translation": "strikes", "note": "plural form; the final -s is usually silent in French"}
 {"key": "friandise", "word": "friandise", "translation": "treat", "note": ""}
-{"key": "fronce", "word": "fronce", "translation": "scrunch", "note": "in “fronce le nez”, it means scrunches the nose"}
+{"key": "fronce", "word": "fronce", "translation": "wrinkles; furrows", "note": "in “fronce le nez”, it means scrunches the nose"}
 {"key": "fût", "word": "fût", "translation": "barrel; cask", "note": "a large barrel, especially for wine or oil"}
 {"key": "gardeterre", "word": "Gardeterre", "translation": "Earthguard", "note": ""}
 {"key": "garn", "word": "garn", "translation": "garn", "note": "a close French-English cognate; the shared Latin root makes the meaning recognizable"}
@@ -7830,7 +7830,7 @@
 {"key": "indésirables", "word": "indésirables", "translation": "undesirables", "note": "plural form; the final -s is usually silent in French"}
 {"key": "initiés", "word": "initiés", "translation": "initiated", "note": "plural form; the final -s is usually silent in French"}
 {"key": "inquisiteur", "word": "inquisiteur", "translation": "inquisitor", "note": "the -eur ending often names a person or thing that acts"}
-{"key": "irons", "word": "irons", "translation": "go", "note": "the -ons ending marks first-person plural, “we”"}
+{"key": "irons", "word": "irons", "translation": "we will go", "note": "future of aller"}
 {"key": "iskaara", "word": "Iskaara", "translation": "Iskaara", "note": ""}
 {"key": "jormungars", "word": "jormungars", "translation": "jormungars", "note": "plural form; the final -s is usually silent in French"}
 {"key": "jotunheim", "word": "Jotunheim", "translation": "Jotunheim", "note": ""}
@@ -7867,9 +7867,9 @@
 {"key": "menacé", "word": "menacé", "translation": "threatened", "note": "keep the accent or ligature; it is part of the French spelling"}
 {"key": "menaçant", "word": "menaçant", "translation": "menacing", "note": "keep the accent or ligature; it is part of the French spelling"}
 {"key": "mention", "word": "mention", "translation": "mention", "note": "the -tion ending often matches English -tion"}
-{"key": "mettions", "word": "mettions", "translation": "put", "note": "the -ons ending marks first-person plural, “we”"}
+{"key": "mettions", "word": "mettions", "translation": "we put", "note": "imperfect of mettre"}
 {"key": "minuscule", "word": "minuscule", "translation": "tiny", "note": "can mean extremely small; the english cognate has the same spelling"}
-{"key": "montent", "word": "montent", "translation": "stand guard", "note": "the -ent ending often marks a plural verb and is silent"}
+{"key": "montent", "word": "montent", "translation": "go up; climb; mount", "note": "present of monter; monter la garde = to stand guard"}
 {"key": "mort-vivant", "word": "mort-vivant", "translation": "undead", "note": "the hyphen joins the parts of this compound or verb form"}
 {"key": "moteurs", "word": "moteurs", "translation": "engines", "note": "plural form; the final -s is usually silent in French"}
 {"key": "méca", "word": "méca", "translation": "mechanical", "note": "keep the accent or ligature; it is part of the French spelling"}
@@ -7878,7 +7878,7 @@
 {"key": "mérithra", "word": "Mérithra", "translation": "Merithra", "note": "keep the accent or ligature; it is part of the French spelling"}
 {"key": "mêler", "word": "mêler", "translation": "interfere", "note": "in “se mêler de”, it means interfere; alone, it means mix"}
 {"key": "n'est-ce", "word": "n'est-ce", "translation": "is it not", "note": "the hyphen joins the parts of this compound or verb form"}
-{"key": "naine", "word": "naine", "translation": "dwarven", "note": "feminine form of nain; it can mean dwarf or dwarven"}
+{"key": "naine", "word": "naine", "translation": "female dwarf; dwarven", "note": "feminine form of nain; it can mean dwarf or dwarven"}
 {"key": "naturels", "word": "naturels", "translation": "natural", "note": "plural form; the final -s is usually silent in French"}
 {"key": "naturelles", "word": "naturelles", "translation": "natural", "note": "plural form; the final -s is usually silent in French"}
 {"key": "not", "word": "not", "translation": "our", "note": "in murloc speech, not’ represents notre, “our”"}
@@ -7891,12 +7891,12 @@
 {"key": "offrirai", "word": "offrirai", "translation": "I will offer", "note": "future first-person form of offrir; it means i will offer"}
 {"key": "ogrons", "word": "ogrons", "translation": "ogrons", "note": "the -ons ending marks first-person plural, “we”"}
 {"key": "ok", "word": "OK", "translation": "okay", "note": "a close French-English cognate; the shared Latin root makes the meaning recognizable"}
-{"key": "orque", "word": "orque", "translation": "orcish", "note": ""}
+{"key": "orque", "word": "orque", "translation": "orc; orcish", "note": ""}
 {"key": "parcouru", "word": "parcouru", "translation": "traveled", "note": "past participle of parcourir; it can mean traveled or covered"}
 {"key": "pardonnez-moi", "word": "Pardonnez-moi", "translation": "forgive me", "note": "the hyphen joins the command to moi, “me”"}
 {"key": "parle-loa", "word": "parle-loa", "translation": "loa-speaker", "note": "the hyphen joins the parts of this compound or verb form"}
-{"key": "partent", "word": "partent", "translation": "leave", "note": "the -ent ending often marks a plural verb and is silent"}
-{"key": "participez", "word": "Participez", "translation": "Participate", "note": "the -ez ending addresses vous; English does not mark that distinction"}
+{"key": "partent", "word": "partent", "translation": "they leave", "note": "present of partir"}
+{"key": "participez", "word": "Participez", "translation": "participate", "note": "the -ez ending addresses vous; English does not mark that distinction"}
 {"key": "patates", "word": "patates", "translation": "potatoes", "note": "plural form; the final -s is usually silent in French"}
 {"key": "penche", "word": "penche", "translation": "lean", "note": "present form of pencher; it can mean lean or bend"}
 {"key": "pennelune", "word": "Pennelune", "translation": "Quillmoon", "note": ""}
@@ -7909,7 +7909,7 @@
 {"key": "poings", "word": "poings", "translation": "fists", "note": "plural form; the final -s is usually silent in French"}
 {"key": "pointer", "word": "pointer", "translation": "show up; arrive", "note": "colloquial « se pointer » means to turn up or show up"}
 {"key": "poisons", "word": "poisons", "translation": "poisons", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "pourrons-nous", "word": "pourrons-nous", "translation": "be able to", "note": "future first-person plural with subject–verb inversion for a question"}
+{"key": "pourrons-nous", "word": "pourrons-nous", "translation": "will we be able to", "note": "inverted question: future of pouvoir"}
 {"key": "poursuivrons", "word": "poursuivrons", "translation": "we will continue", "note": "future, first-person plural of « poursuivre »"}
 {"key": "procédé", "word": "procédé", "translation": "process; method", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "prononcer", "word": "prononcer", "translation": "pronounce; utter", "note": "infinitive form; French infinitives often follow another verb or preposition"}
@@ -7924,16 +7924,16 @@
 {"key": "recevez", "word": "recevez", "translation": "receive", "note": "present, second-person plural of « recevoir »"}
 {"key": "recréer", "word": "recréer", "translation": "recreate; reproduce", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "recycler", "word": "recycler", "translation": "recycle", "note": "infinitive form; French infinitives often follow another verb or preposition"}
-{"key": "relevé", "word": "relevé", "translation": "challenging; elevated", "note": "close cognate: the French and English forms share a recognizable Latin root"}
+{"key": "relevé", "word": "relevé", "translation": "raised; picked up; statement", "note": "past participle of relever; also the noun “statement / reading”"}
 {"key": "remplit", "word": "remplit", "translation": "fills", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "rends", "word": "rends", "translation": "realize", "note": "in « se rendre compte », the verb means to realize"}
+{"key": "rends", "word": "rends", "translation": "I give back; I make; I render", "note": "je / tu form of rendre"}
 {"key": "ren’dorei", "word": "Ren’dorei", "translation": "Ren'dorei", "note": ""}
 {"key": "représailles", "word": "représailles", "translation": "reprisals", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "ressort", "word": "ressort", "translation": "spring; resilience", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "resterai", "word": "resterai", "translation": "stay", "note": "future, first-person singular of « rester »"}
+{"key": "resterai", "word": "resterai", "translation": "I will stay", "note": "future of rester"}
 {"key": "resteront", "word": "resteront", "translation": "they will remain", "note": "future, third-person plural of « rester »"}
 {"key": "retenue", "word": "retenue", "translation": "restraint; retention", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "retrouvons", "word": "retrouvons", "translation": "find ourselves", "note": "present, first-person plural of « retrouver »"}
+{"key": "retrouvons", "word": "retrouvons", "translation": "we find; we meet again", "note": "nous form of retrouver"}
 {"key": "rukhmar", "word": "Rukhmar", "translation": "Rukhmar", "note": ""}
 {"key": "rusée", "word": "rusée", "translation": "cunning; clever", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "ruuan", "word": "Ruuan", "translation": "Ruuan", "note": ""}
@@ -7949,7 +7949,7 @@
 {"key": "scarabées", "word": "scarabées", "translation": "beetles", "note": "feminine plural form; French marks gender and number in the ending"}
 {"key": "servis", "word": "servis", "translation": "served", "note": "past participle of « servir »"}
 {"key": "shal’dorei", "word": "Shal’dorei", "translation": "Shal’dorei", "note": ""}
-{"key": "situe", "word": "situe", "translation": "locate; be located", "note": "present, third-person singular of « situer »"}
+{"key": "situe", "word": "situe", "translation": "is located; locates", "note": "present of situer"}
 {"key": "sombrer", "word": "sombrer", "translation": "sink; fall into darkness", "note": "infinitive of « sombrer »"}
 {"key": "somnifuge", "word": "Somnifuge", "translation": "Sleeping pill; Slumber", "note": "the common noun describes something that induces sleep"}
 {"key": "sous-chef", "word": "sous-chef", "translation": "deputy; second-in-command", "note": "in a hierarchy, this is a deputy or subordinate leader"}
@@ -7972,12 +7972,12 @@
 {"key": "vagabonde", "word": "Vagabonde", "translation": "vagrant", "note": "feminine form of « vagabond »"}
 {"key": "val’kyrs", "word": "val’kyrs", "translation": "val’kyr", "note": "a French plural form of the fantasy term « val’kyr »"}
 {"key": "vanthir", "word": "Vanthir", "translation": "Vanthir", "note": ""}
-{"key": "vaudra", "word": "vaudra", "translation": "be worth", "note": "future, third-person singular of « valoir »"}
+{"key": "vaudra", "word": "vaudra", "translation": "will be worth", "note": "future of valoir"}
 {"key": "velhan", "word": "Velhan", "translation": "Velhan", "note": ""}
 {"key": "vengez", "word": "Vengez", "translation": "avenge", "note": "imperative or present, second-person plural of « venger »"}
 {"key": "viendrai", "word": "viendrai", "translation": "I will come", "note": "future of viendre"}
 {"key": "vilains", "word": "vilains", "translation": "wicked; mean", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "virée", "word": "Virée", "translation": "fired", "note": "in « vous êtes virée », the feminine ending agrees with the person dismissed"}
+{"key": "virée", "word": "Virée", "translation": "trip; outing; fired", "note": "in « vous êtes virée », the feminine ending agrees with the person dismissed"}
 {"key": "voûte", "word": "voûte", "translation": "vault", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "vraies", "word": "vraies", "translation": "real; true", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "végétal", "word": "végétal", "translation": "plant-based", "note": "close cognate: the French and English forms share a recognizable Latin root"}
@@ -8120,7 +8120,7 @@
 {"key": "flancs", "word": "flancs", "translation": "flanks", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "flynn", "word": "Flynn", "translation": "Flynn", "note": ""}
 {"key": "for", "word": "for", "translation": "for", "note": ""}
-{"key": "foudroyés", "word": "Foudroyés", "translation": "Thunderstruck", "note": "past participle/adjective of « foudroyer »; also used in a place name"}
+{"key": "foudroyés", "word": "Foudroyés", "translation": "thunderstruck; struck by lightning", "note": "past participle/adjective of « foudroyer »; also used in a place name"}
 {"key": "franchissez", "word": "Franchissez", "translation": "cross", "note": "imperative or present, second-person plural of « franchir »"}
 {"key": "fraîches", "word": "fraîches", "translation": "fresh", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "fumebois", "word": "Fumebois", "translation": "Smokewood", "note": ""}
@@ -8152,7 +8152,7 @@
 {"key": "incroyables", "word": "incroyables", "translation": "incredible", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "indéfiniment", "word": "indéfiniment", "translation": "indefinitely", "note": "adverbial « -ment » ending corresponds roughly to English « -ly »"}
 {"key": "inerte", "word": "inerte", "translation": "inert", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "infiltration", "word": "Infiltration", "translation": "Infiltration", "note": "the act of entering a place or group secretly"}
+{"key": "infiltration", "word": "Infiltration", "translation": "infiltration", "note": "the act of entering a place or group secretly"}
 {"key": "inscrire", "word": "inscrire", "translation": "register", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "insecte", "word": "insecte", "translation": "insect", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "inspectez", "word": "inspectez", "translation": "inspect", "note": "imperative or present, second-person plural of « inspecter »"}
@@ -8197,7 +8197,7 @@
 {"key": "mauti", "word": "Mauti", "translation": "Mauti", "note": ""}
 {"key": "mayla", "word": "Mayla", "translation": "Mayla", "note": ""}
 {"key": "menu", "word": "menu", "translation": "menu", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "menés", "word": "menés", "translation": "lead", "note": "plural participle or adjective; French agreement endings are often silent"}
+{"key": "menés", "word": "menés", "translation": "led; carried out", "note": "past participle of mener"}
 {"key": "monstrueuse", "word": "monstrueuse", "translation": "monstrous", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "monstrueux", "word": "monstrueux", "translation": "monstrous", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "mordragons", "word": "mordragons", "translation": "Mordragons", "note": "preserve the game creature term instead of translating it as “bitragons”"}
@@ -8215,7 +8215,7 @@
 {"key": "numérique", "word": "numérique", "translation": "digital", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "nuée", "word": "nuée", "translation": "swarm; cloud", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "née", "word": "née", "translation": "born", "note": "feminine past participle of « naître »; not English “née” for a maiden name"}
-{"key": "n’iriez-vous", "word": "n’iriez-vous", "translation": "go", "note": "conditional inversion of « vous iriez »; the question adds no tense"}
+{"key": "n’iriez-vous", "word": "n’iriez-vous", "translation": "would you not go", "note": "ne elided + conditional of aller, inverted"}
 {"key": "observations", "word": "observations", "translation": "observations", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "obélisques", "word": "obélisques", "translation": "obelisks", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "ordonne", "word": "ordonne", "translation": "order", "note": "present, third-person singular of « ordonner »"}
@@ -8224,7 +8224,7 @@
 {"key": "oubliées", "word": "oubliées", "translation": "forgotten", "note": "feminine plural form; French marks gender and number in the ending"}
 {"key": "parcourt", "word": "parcourt", "translation": "travel; traverse", "note": "present, third-person singular of « parcourir »"}
 {"key": "partisans", "word": "partisans", "translation": "supporters", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "passerons", "word": "passerons", "translation": "do without", "note": "future, first-person plural of « passer »; « se passer de » means do without"}
+{"key": "passerons", "word": "passerons", "translation": "we will pass; we will go through", "note": "future of passer"}
 {"key": "patrouillent", "word": "patrouillent", "translation": "patrol", "note": "present, third-person plural of « patrouiller »"}
 {"key": "peau-de-venin", "word": "peau-de-venin", "translation": "venomskin", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "percé", "word": "percé", "translation": "pierced", "note": "close cognate: the French and English forms share a recognizable Latin root"}
@@ -8236,10 +8236,10 @@
 {"key": "poigne", "word": "poigne", "translation": "grip", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "pommes", "word": "pommes", "translation": "apples", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "poudrière", "word": "poudrière", "translation": "powder magazine", "note": "a powder magazine is a storehouse for gunpowder"}
-{"key": "poursuivez", "word": "Poursuivez", "translation": "Continue", "note": "imperative or present, second-person plural of « poursuivre »"}
+{"key": "poursuivez", "word": "Poursuivez", "translation": "continue", "note": "imperative or present, second-person plural of « poursuivre »"}
 {"key": "prendrait", "word": "prendrait", "translation": "he/she would take", "note": "conditional, third-person singular of « prendre »"}
 {"key": "prendront", "word": "prendront", "translation": "they will take", "note": "future, third-person plural of « prendre »"}
-{"key": "prenez-les", "word": "Prenez-les", "translation": "Take them", "note": "imperative « prenez » with the plural object pronoun « les »"}
+{"key": "prenez-les", "word": "Prenez-les", "translation": "take them", "note": "imperative « prenez » with the plural object pronoun « les »"}
 {"key": "primaliste", "word": "primaliste", "translation": "primalist", "note": "the suffix « -iste » names a follower or member"}
 {"key": "pro", "word": "pro", "translation": "pro", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "profane", "word": "profane", "translation": "profane", "note": "close cognate: the French and English forms share a recognizable Latin root"}
@@ -8257,7 +8257,7 @@
 {"key": "recherchée", "word": "recherchée", "translation": "sought-after", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "redonner", "word": "redonner", "translation": "give back; restore", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "remettra", "word": "remettra", "translation": "he/she will hand over", "note": "future, third-person singular of « remettre »"}
-{"key": "rendrez", "word": "rendrez", "translation": "realize", "note": "future, second-person plural of « rendre »; « se rendre compte » means realize"}
+{"key": "rendrez", "word": "rendrez", "translation": "you will return; you will give back; you will make", "note": "future of rendre; se rendre compte = to realize"}
 {"key": "ressenti", "word": "ressenti", "translation": "felt", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "ressuscité", "word": "ressuscité", "translation": "resurrected", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "retiré", "word": "retiré", "translation": "withdrawn", "note": "close cognate: the French and English forms share a recognizable Latin root"}
@@ -8294,7 +8294,7 @@
 {"key": "superbe", "word": "superbe", "translation": "superb", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "supporte", "word": "supporte", "translation": "support", "note": "present, third-person singular of « supporter »; context gives the sense"}
 {"key": "surekis", "word": "Surekis", "translation": "Surekis", "note": ""}
-{"key": "surnommé", "word": "surnommé", "translation": "nickname", "note": "past participle of « surnommer », to give someone a nickname"}
+{"key": "surnommé", "word": "surnommé", "translation": "nicknamed", "note": "past participle of surnommer"}
 {"key": "sérieuse", "word": "sérieuse", "translation": "serious", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "s’agite", "word": "s’agite", "translation": "agitate; shake", "note": "reflexive present, third-person singular of « agiter »"}
 {"key": "tarderont", "word": "tarderont", "translation": "they will delay; they will take time", "note": "future, third-person plural of « tarder »"}
@@ -8319,7 +8319,7 @@
 {"key": "valoir", "word": "valoir", "translation": "be worth", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "varzok", "word": "Varzok", "translation": "Varzok", "note": ""}
 {"key": "vivons", "word": "vivons", "translation": "live", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "vues", "word": "vues", "translation": "see; view", "note": "feminine plural of « vu »; it can also be the noun “views”"}
+{"key": "vues", "word": "vues", "translation": "views; seen", "note": "feminine plural of « vu »; it can also be the noun “views”"}
 {"key": "vénérable", "word": "vénérable", "translation": "venerable", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "vérifiez", "word": "vérifiez", "translation": "check", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "vérités", "word": "vérités", "translation": "truths", "note": "plural participle or adjective; French agreement endings are often silent"}
@@ -8404,7 +8404,7 @@
 {"key": "dagran", "word": "Dagran", "translation": "Dagran", "note": ""}
 {"key": "dar’khan", "word": "Dar’Khan", "translation": "Dar’Khan", "note": ""}
 {"key": "diront", "word": "diront", "translation": "they will say", "note": "future, third-person plural of « dire »"}
-{"key": "dise", "word": "dise", "translation": "say", "note": "subjunctive form of « dire »"}
+{"key": "dise", "word": "dise", "translation": "may say; says", "note": "subjunctive of dire"}
 {"key": "distinction", "word": "distinction", "translation": "distinction", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "distraire", "word": "distraire", "translation": "distract", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "dompteur", "word": "dompteur", "translation": "tamer", "note": "close cognate: the French and English forms share a recognizable Latin root"}
@@ -8461,7 +8461,7 @@
 {"key": "ferté-d’arom", "word": "Ferté-d’Arom", "translation": "Ferté-d’Arom", "note": ""}
 {"key": "fiona", "word": "Fiona", "translation": "Fiona", "note": ""}
 {"key": "follet", "word": "follet", "translation": "will-o'-the-wisp", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "forgée", "word": "forgée", "translation": "forge", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
+{"key": "forgée", "word": "forgée", "translation": "forged", "note": "feminine past participle of forger"}
 {"key": "formidables", "word": "formidables", "translation": "formidable", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "formules", "word": "formules", "translation": "incantations", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "fouiner", "word": "fouiner", "translation": "snoop; rummage", "note": "infinitive form; French infinitives often follow another verb or preposition"}
@@ -8477,7 +8477,7 @@
 {"key": "glaces", "word": "glaces", "translation": "ice", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "gobelines", "word": "gobelines", "translation": "goblin", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "gravures", "word": "gravures", "translation": "engravings", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "gravés", "word": "gravés", "translation": "engrave", "note": "plural participle or adjective; French agreement endings are often silent"}
+{"key": "gravés", "word": "gravés", "translation": "engraved", "note": "past participle of graver"}
 {"key": "grog", "word": "grog", "translation": "grog", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "grossir", "word": "grossir", "translation": "swell; grow", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "guidé", "word": "guidé", "translation": "guided", "note": "past participle of « guider »"}
@@ -8505,7 +8505,7 @@
 {"key": "inférieure", "word": "inférieure", "translation": "lower", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "ingénierie", "word": "ingénierie", "translation": "engineering", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "inquisiteurs", "word": "inquisiteurs", "translation": "inquisitors", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "inspection", "word": "Inspection", "translation": "Inspection", "note": "a formal check or examination of something"}
+{"key": "inspection", "word": "Inspection", "translation": "inspection", "note": "a formal check or examination of something"}
 {"key": "interagissent", "word": "interagissent", "translation": "interact", "note": "present, third-person plural of « interagir »"}
 {"key": "interdite", "word": "interdite", "translation": "forbidden", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "inébranlable", "word": "inébranlable", "translation": "unshakable", "note": "close cognate: the French and English forms share a recognizable Latin root"}
@@ -8532,19 +8532,19 @@
 {"key": "l’activité", "word": "l’activité", "translation": "the activity", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’acuité", "word": "l’acuité", "translation": "acuity", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’admettre", "word": "l’admettre", "translation": "admit it", "note": "elided French article « le » or « la » before a vowel"}
-{"key": "l’affiche", "word": "L’affiche", "translation": "The poster", "note": "elided French article « le » or « la » before a vowel"}
+{"key": "l’affiche", "word": "L’affiche", "translation": "the poster", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’année", "word": "l’année", "translation": "the year", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’antique", "word": "l’antique", "translation": "the antique", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’arcaniste", "word": "l’arcaniste", "translation": "the arcanist", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’arsenal", "word": "l’arsenal", "translation": "the arsenal", "note": "elided French article « le » or « la » before a vowel"}
-{"key": "l’aura", "word": "l’aura", "translation": "have it", "note": "distinguish « aura » (will have) from « l’aura » (the aura)"}
+{"key": "l’aura", "word": "l’aura", "translation": "will have it", "note": "l’ = it + future of avoir"}
 {"key": "l’auteur", "word": "l’auteur", "translation": "the author", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’coin", "word": "l’coin", "translation": "the corner", "note": "colloquial elision of « le coin »; the apostrophe replaces the dropped vowel"}
 {"key": "l’espère", "word": "l’espère", "translation": "hope so", "note": "the elided pronoun « l’ » stands for « le/la » before a vowel"}
 {"key": "l’essayer", "word": "l’essayer", "translation": "try it", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’explosion", "word": "l’explosion", "translation": "the explosion", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’identité", "word": "l’identité", "translation": "identity", "note": "elided French article « le » or « la » before a vowel"}
-{"key": "l’imperator", "word": "L’imperator", "translation": "The imperator", "note": "elided French article « le » or « la » before a vowel"}
+{"key": "l’imperator", "word": "L’imperator", "translation": "the imperator", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’insigne", "word": "l’insigne", "translation": "the badge", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’instrument", "word": "l’instrument", "translation": "the instrument", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’objectif", "word": "l’objectif", "translation": "the objective", "note": "elided French article « le » or « la » before a vowel"}
@@ -8553,7 +8553,7 @@
 {"key": "l’écosystème", "word": "l’écosystème", "translation": "the ecosystem", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "l’énorme", "word": "l’énorme", "translation": "the enormous", "note": "elided French article « le » or « la » before a vowel"}
 {"key": "maintenance", "word": "maintenance", "translation": "maintenance", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "mamie", "word": "Mamie", "translation": "Granny", "note": "informal, affectionate word for grandmother"}
+{"key": "mamie", "word": "Mamie", "translation": "granny", "note": "informal, affectionate word for grandmother"}
 {"key": "massacrés", "word": "massacrés", "translation": "slaughtered", "note": "plural participle or adjective; French agreement endings are often silent"}
 {"key": "mastodontes", "word": "mastodontes", "translation": "mastodons", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "menacée", "word": "menacée", "translation": "threatened", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
@@ -8575,11 +8575,11 @@
 {"key": "nifflevar", "word": "Nifflevar", "translation": "Nifflevar", "note": ""}
 {"key": "nisha", "word": "Nisha", "translation": "Nisha", "note": ""}
 {"key": "nues", "word": "nues", "translation": "naked; bare", "note": "feminine plural of « nu »; French marks agreement in writing"}
-{"key": "némésis", "word": "Némésis", "translation": "Nemesis", "note": ""}
+{"key": "némésis", "word": "Némésis", "translation": "nemesis", "note": ""}
 {"key": "nérubienne", "word": "nérubienne", "translation": "nerubian", "note": "feminine form related to the Nerubian people"}
-{"key": "n’arriverons", "word": "n’arriverons", "translation": "arrive", "note": "future first-person plural; the surrounding « ne…pas » supplies negation"}
-{"key": "n’arrêtent", "word": "n’arrêtent", "translation": "stop", "note": "present third-person plural; final « -ent » is silent"}
-{"key": "n’ayons", "word": "n’ayons", "translation": "have", "note": "first-person plural subjunctive of « avoir »; negation is separate"}
+{"key": "n’arriverons", "word": "n’arriverons", "translation": "we will not manage; we will not arrive", "note": "ne elided + future of arriver"}
+{"key": "n’arrêtent", "word": "n’arrêtent", "translation": "they do not stop", "note": "ne elided + present of arrêter"}
+{"key": "n’ayons", "word": "n’ayons", "translation": "we do not have; let us not have", "note": "ne elided + subjunctive of avoir"}
 {"key": "occultes", "word": "occultes", "translation": "occult; hidden", "note": "plural adjective meaning hidden or secret; not a verb"}
 {"key": "occupons", "word": "occupons", "translation": "take care of; deal with", "note": "in « s’occuper de », the verb means take care of, not occupy"}
 {"key": "offerte", "word": "offerte", "translation": "offered", "note": "feminine past participle of « offrir »"}
@@ -8618,7 +8618,7 @@
 {"key": "précipiter", "word": "précipiter", "translation": "rush; precipitate", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "préférerais", "word": "préférerais", "translation": "I/you would prefer", "note": "conditional, first-person singular of « préférer »"}
 {"key": "préparerai", "word": "préparerai", "translation": "I will prepare", "note": "future, first-person singular of « préparer »"}
-{"key": "préparée", "word": "préparée", "translation": "prepare", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
+{"key": "préparée", "word": "préparée", "translation": "prepared", "note": "feminine past participle of préparer"}
 {"key": "publicité", "word": "publicité", "translation": "advertisement", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "purifié", "word": "purifié", "translation": "purified", "note": "past participle of « purifier »"}
 {"key": "pylône", "word": "pylône", "translation": "pylon", "note": "close cognate: the French and English forms share a recognizable Latin root"}
@@ -8717,11 +8717,11 @@
 {"key": "trêve", "word": "trêve", "translation": "truce", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "tubbins", "word": "Tubbins", "translation": "Tubbins", "note": ""}
 {"key": "tuyau", "word": "tuyau", "translation": "tip; pipe", "note": "informal « un tuyau » means a useful tip as well as a pipe"}
-{"key": "tâchons", "word": "Tâchons", "translation": "try", "note": "imperative or present, first-person plural of « tâcher »"}
+{"key": "tâchons", "word": "Tâchons", "translation": "let us try; we try", "note": "nous form of tâcher"}
 {"key": "téméraire", "word": "téméraire", "translation": "reckless", "note": "implies reckless daring, not just ordinary boldness"}
 {"key": "têtards", "word": "têtards", "translation": "tadpoles", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "valentine", "word": "Valentine", "translation": "Valentine", "note": ""}
-{"key": "valez", "word": "valez", "translation": "be worth", "note": "second-person plural of « valoir »; its subject is « vous »"}
+{"key": "valez", "word": "valez", "translation": "you are worth", "note": "vous form of valoir"}
 {"key": "veniez", "word": "veniez", "translation": "come", "note": "imperfect or subjunctive second-person plural of « venir »"}
 {"key": "venimeuse", "word": "venimeuse", "translation": "venomous", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "verger", "word": "verger", "translation": "orchard", "note": "infinitive form; French infinitives often follow another verb or preposition"}
@@ -8765,8 +8765,8 @@
 {"key": "assurée", "word": "assurée", "translation": "assured", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "atal’dazar", "word": "Atal’Dazar", "translation": "Atal’Dazar", "note": ""}
 {"key": "attaché", "word": "attaché", "translation": "attached", "note": "close cognate: the French and English forms share a recognizable Latin root"}
-{"key": "attaquant", "word": "attaquant", "translation": "attack", "note": "present participle or agent noun from « attaquer »"}
-{"key": "attaquons", "word": "attaquons", "translation": "attack", "note": "present, first-person plural of « attaquer »"}
+{"key": "attaquant", "word": "attaquant", "translation": "attacking; attacker", "note": "present participle of attaquer, or a noun"}
+{"key": "attaquons", "word": "attaquons", "translation": "we attack", "note": "nous form of attaquer"}
 {"key": "aube", "word": "Aube", "translation": "dawn", "note": "the common noun means dawn; distinguish it from the faction name « l’Aube »"}
 {"key": "audacieux", "word": "audacieux", "translation": "bold", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "baa'ri", "word": "Baa'ri", "translation": "Baa'ri", "note": ""}
@@ -8800,7 +8800,7 @@
 {"key": "chasseresses", "word": "chasseresses", "translation": "huntresses", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "che", "word": "che", "translation": "che", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "chef-d’œuvre", "word": "chef-d’œuvre", "translation": "masterpiece", "note": "infinitive form; French infinitives often follow another verb or preposition"}
-{"key": "cherchaient", "word": "cherchaient", "translation": "look for", "note": "imperfect, third-person plural of « chercher »"}
+{"key": "cherchaient", "word": "cherchaient", "translation": "they looked for; they sought", "note": "imperfect of chercher"}
 {"key": "chope", "word": "chope", "translation": "mug", "note": "colloquial noun for a beer mug"}
 {"key": "choper", "word": "choper", "translation": "grab; catch", "note": "colloquial verb meaning grab or catch"}
 {"key": "cidre", "word": "cidre", "translation": "cider", "note": "infinitive form; French infinitives often follow another verb or preposition"}
@@ -8811,7 +8811,7 @@
 {"key": "combinées", "word": "combinées", "translation": "combined", "note": "feminine plural agreement is visible in the participle ending"}
 {"key": "commençant", "word": "commençant", "translation": "starting", "note": "present participle of « commencer »"}
 {"key": "confronter", "word": "confronter", "translation": "confront", "note": "infinitive form; French infinitives often follow another verb or preposition"}
-{"key": "constituera", "word": "constituera", "translation": "constitute", "note": "future, third-person singular of « constituer »"}
+{"key": "constituera", "word": "constituera", "translation": "will constitute; will form", "note": "future of constituer"}
 {"key": "contaminé", "word": "contaminé", "translation": "contaminated", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "conteneurs", "word": "conteneurs", "translation": "containers", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "contre-attaquer", "word": "contre-attaquer", "translation": "counterattack", "note": "infinitive form; French infinitives often follow another verb or preposition"}
@@ -8819,7 +8819,7 @@
 {"key": "couloirs", "word": "couloirs", "translation": "corridors", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "cracher", "word": "cracher", "translation": "spit", "note": "infinitive form; French infinitives often follow another verb or preposition"}
 {"key": "creusez", "word": "Creusez", "translation": "dig", "note": "imperative or present, second-person plural of « creuser »"}
-{"key": "croyait", "word": "croyait", "translation": "believe", "note": "imperfect, third-person singular of « croire »"}
+{"key": "croyait", "word": "croyait", "translation": "he/she believed", "note": "imperfect of croire"}
 {"key": "crânes-ricanants", "word": "Crânes-Ricanants", "translation": "Laughing Skulls", "note": ""}
 {"key": "crétin", "word": "crétin", "translation": "cretin", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "cultiver", "word": "cultiver", "translation": "cultivate", "note": "infinitive form; French infinitives often follow another verb or preposition"}
@@ -8866,7 +8866,7 @@
 {"key": "enrayer", "word": "enrayer", "translation": "stop; halt", "note": "means stop or halt a process, not “put rails on”"}
 {"key": "enseignement", "word": "enseignement", "translation": "education", "note": "adverbial « -ment » ending corresponds roughly to English « -ly »"}
 {"key": "enterrés", "word": "enterrés", "translation": "bury", "note": "plural participle or adjective; French agreement endings are often silent"}
-{"key": "entraves", "word": "entraves", "translation": "obstacles", "note": "figuratively, obstacles that hold someone back"}
+{"key": "entraves", "word": "entraves", "translation": "shackles; hindrances", "note": "figuratively, obstacles that hold someone back"}
 {"key": "envahissante", "word": "envahissante", "translation": "invasive", "note": "feminine form; French adjective endings agree with the noun, unlike English"}
 {"key": "environ", "word": "environ", "translation": "approximately", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "erunak", "word": "Erunak", "translation": "Erunak", "note": ""}
@@ -8878,7 +8878,7 @@
 {"key": "exil", "word": "exil", "translation": "exile", "note": ""}
 {"key": "experts", "word": "experts", "translation": "experts", "note": ""}
 {"key": "expérimentale", "word": "expérimentale", "translation": "experimental", "note": "close cognate of the English gloss; French spelling preserves the shared root"}
-{"key": "extinction", "word": "Extinction", "translation": "Extinction", "note": ""}
+{"key": "extinction", "word": "Extinction", "translation": "extinction", "note": ""}
 {"key": "extrait", "word": "extrait", "translation": "extract", "note": "close cognate of the English gloss; French spelling preserves the shared root"}
 {"key": "extrême", "word": "extrême", "translation": "extreme", "note": "close cognate of the English gloss; French spelling preserves the shared root"}
 {"key": "familiariser", "word": "familiariser", "translation": "familiarize", "note": "close cognate of the English gloss; French spelling preserves the shared root"}
@@ -8888,7 +8888,7 @@
 {"key": "farouche", "word": "farouche", "translation": "fierce", "note": ""}
 {"key": "favoris", "word": "favoris", "translation": "favorite", "note": "the final -s marks a French plural and is usually silent"}
 {"key": "fermez", "word": "fermez", "translation": "close", "note": "formal/plural “you” form; -ez is also used for commands"}
-{"key": "finissons-en", "word": "Finissons-en", "translation": "Let's end it", "note": "a hyphenated compound; its parts combine into one lexical item"}
+{"key": "finissons-en", "word": "Finissons-en", "translation": "let us end it", "note": "a hyphenated compound; its parts combine into one lexical item"}
 {"key": "flacons", "word": "flacons", "translation": "vials", "note": ""}
 {"key": "flagellant", "word": "flagellant", "translation": "lasher", "note": "in Warcraft botany, a flagellant is a lash-like plant creature"}
 {"key": "flottent", "word": "flottent", "translation": "float", "note": "third-person plural present; the final -ent is silent"}
@@ -9019,7 +9019,7 @@
 {"key": "para", "word": "para", "translation": "for; by way of", "note": ""}
 {"key": "parasites", "word": "parasites", "translation": "parasites", "note": ""}
 {"key": "parfaire", "word": "parfaire", "translation": "perfect; complete", "note": "infinitive form; French -er/-ir/-re corresponds to the English bare verb"}
-{"key": "partira", "word": "partira", "translation": "depart", "note": ""}
+{"key": "partira", "word": "partira", "translation": "he/she will depart; he/she will leave", "note": "future of partir"}
 {"key": "personnalité", "word": "personnalité", "translation": "personality", "note": "close cognate of the English gloss; French spelling preserves the shared root"}
 {"key": "ph", "word": "PH", "translation": "Ph.", "note": ""}
 {"key": "phalynx", "word": "phalynx", "translation": "Phalynx", "note": ""}
@@ -9033,7 +9033,7 @@
 {"key": "potes", "word": "potes", "translation": "buddies; pals", "note": ""}
 {"key": "pots", "word": "pots", "translation": "pots; containers", "note": ""}
 {"key": "pousses", "word": "pousses", "translation": "shoots; sprouts", "note": ""}
-{"key": "prendrai", "word": "prendrai", "translation": "will take", "note": "future tense; the French ending marks the subject"}
+{"key": "prendrai", "word": "prendrai", "translation": "I will take", "note": "future of prendre"}
 {"key": "prendrons", "word": "prendrons", "translation": "we will take", "note": "the ending -ons marks “we” in the present or a collective command"}
 {"key": "primordial", "word": "primordial", "translation": "primordial", "note": ""}
 {"key": "primordiales", "word": "primordiales", "translation": "primordial", "note": "the final -s marks a French plural and is usually silent"}
@@ -9050,7 +9050,7 @@
 {"key": "pullulent", "word": "pullulent", "translation": "teem; swarm", "note": "third-person plural present; the final -ent is silent"}
 {"key": "purge", "word": "purge", "translation": "purge", "note": ""}
 {"key": "pénible", "word": "pénible", "translation": "painful; difficult", "note": "the accent is part of the French spelling and can distinguish related words"}
-{"key": "périront", "word": "périront", "translation": "will perish", "note": "future tense; the French ending marks the subject"}
+{"key": "périront", "word": "périront", "translation": "they will perish", "note": "future of périr"}
 {"key": "pétrin", "word": "pétrin", "translation": "jam; pickle", "note": "the accent is part of the French spelling and can distinguish related words"}
 {"key": "qu’aux", "word": "qu’aux", "translation": "to which; than to", "note": "qu’ is que elided before a vowel; the apostrophe is part of the lookup"}
 {"key": "rapportés", "word": "rapportés", "translation": "brought; brought back", "note": "the final -s marks a French plural and is usually silent"}
@@ -58774,7 +58774,7 @@
 {"key": "l'artisan", "word": "L'artisan", "translation": "the craftsman", "note": ""}
 {"key": "laurena", "word": "Laurena", "translation": "Laurena", "note": ""}
 {"key": "macdonnell", "word": "MacDonnell", "translation": "MacDonnell", "note": ""}
-{"key": "n'aurai", "word": "n'aurai", "translation": "have", "note": "future, first-person singular of « avoir »; the elided « ne » is a separate negator"}
+{"key": "n'aurai", "word": "n'aurai", "translation": "I will not have", "note": "ne elided + future of avoir"}
 {"key": "neuvième", "word": "neuvième", "translation": "ninth", "note": "close cognate: the French and English forms share a recognizable Latin root"}
 {"key": "nid-de-l'aigle", "word": "Nid-de-l'Aigle", "translation": "Eagle's Nest", "note": ""}
 {"key": "pantalons", "word": "pantalons", "translation": "pants; trousers", "note": "close cognate: the French and English forms share a recognizable Latin root"}
