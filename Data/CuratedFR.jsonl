@@ -42118,29 +42118,29 @@
 {"key": "défocalisation", "word": "Défocalisation", "translation": "defocus", "note": "elemental magic term"}
 {"key": "déformées", "word": "déformées", "translation": "distorted", "note": "feminine plural; twisted claws"}
 {"key": "défoulent", "word": "défoulent", "translation": "let off steam", "note": "present; venting demons"}
-{"key": "défrayent", "word": "défrayent", "translation": "make headlines", "note": "present; famous shaman"}
+{"key": "défrayent", "word": "défrayent", "translation": "cover the costs; make the headlines", "note": "present; famous shaman"}
 {"key": "défrise", "word": "défrise", "translation": "ruffles; frustrates", "note": "child exploitation enrages"}
 {"key": "déférence", "word": "déférence", "translation": "deference", "note": "respect; formal greeting"}
 {"key": "dégageait", "word": "dégageait", "translation": "released; emanated", "note": "past; runes fading"}
 {"key": "dégageront", "word": "dégageront", "translation": "they will release", "note": "future; dragon energy"}
-{"key": "dégagiez", "word": "dégagiez", "translation": "clear", "note": "past; helping scientist"}
+{"key": "dégagiez", "word": "dégagiez", "translation": "you were clearing", "note": "past; helping scientist"}
 {"key": "dégagées", "word": "dégagées", "translation": "cleared", "note": "feminine plural; clearing wreckage"}
-{"key": "dégaine", "word": "Dégaine", "translation": "Quick-draw", "note": "spiky variant; item name"}
-{"key": "dégainez", "word": "Dégainez", "translation": "Draw", "note": "command; draw weapon"}
+{"key": "dégaine", "word": "Dégaine", "translation": "quick-draw", "note": "spiky variant; item name"}
+{"key": "dégainez", "word": "Dégainez", "translation": "draw", "note": "command; draw weapon"}
 {"key": "dégarni", "word": "dégarni", "translation": "bare; bald", "note": "furbolg keeping distance"}
-{"key": "dégazage", "word": "Dégazage", "translation": "Degassing", "note": "forced; mechanical term"}
+{"key": "dégazage", "word": "Dégazage", "translation": "degassing", "note": "forced; mechanical term"}
 {"key": "dégel", "word": "dégel", "translation": "thaw", "note": "mysterious magic melting ice"}
 {"key": "dégeler", "word": "dégeler", "translation": "thaw; unfreeze", "note": "infinitive; thawing wood"}
 {"key": "dégelez", "word": "dégelez", "translation": "thaw", "note": "command; unfreezing artifacts"}
 {"key": "dégelée", "word": "dégelée", "translation": "a good thaw", "note": "pleasant warming event"}
 {"key": "déglinguer", "word": "déglinguer", "translation": "wreck; destroy", "note": "infinitive; sabotaging turrets"}
 {"key": "déglingué", "word": "déglingué", "translation": "wrecked; busted", "note": "adjective; broken engine"}
-{"key": "déglutit", "word": "déglutit", "translation": "swallowed", "note": "past; nervous messenger"}
-{"key": "dégnomez-les", "word": "Dégnomez-les", "translation": "Destroy them all", "note": "command; gnome-specific"}
+{"key": "déglutit", "word": "déglutit", "translation": "swallows", "note": "past; nervous messenger"}
+{"key": "dégnomez-les", "word": "Dégnomez-les", "translation": "destroy them all", "note": "command; gnome-specific"}
 {"key": "dégommais", "word": "dégommais", "translation": "was taking out", "note": "past; defeating villains"}
 {"key": "dégommera", "word": "dégommera", "translation": "he/she will take out", "note": "future; defeating summoned foe"}
-{"key": "dégommez", "word": "Dégommez", "translation": "Take out; destroy", "note": "command; eliminating enemies"}
-{"key": "dégommez-le", "word": "Dégommez-le", "translation": "Take it out", "note": "command singular; destroy it"}
+{"key": "dégommez", "word": "Dégommez", "translation": "take out; destroy", "note": "command; eliminating enemies"}
+{"key": "dégommez-le", "word": "Dégommez-le", "translation": "take it out", "note": "command singular; destroy it"}
 {"key": "dégommez-les", "word": "dégommez-les", "translation": "knock them out", "note": "command plural; eliminate"}
 {"key": "dégommé", "word": "dégommé", "translation": "taken out; beaten", "note": "past; owl meat good"}
 {"key": "dégonfler", "word": "dégonfler", "translation": "chicken out; back down", "note": "infinitive; cowardice"}
@@ -42148,7 +42148,7 @@
 {"key": "dégonflés", "word": "dégonflés", "translation": "deflated; whimpering", "note": "masculine plural; insulting"}
 {"key": "dégorger", "word": "dégorger", "translation": "disgorge; spew", "note": "infinitive; machine powered"}
 {"key": "dégotera", "word": "dégotera", "translation": "he/she will dig up", "note": "future; finding loot"}
-{"key": "dégotez-nous", "word": "Dégotez-nous", "translation": "Find us", "note": "command; evidence hunting"}
+{"key": "dégotez-nous", "word": "Dégotez-nous", "translation": "find us", "note": "command; evidence hunting"}
 {"key": "dégotiez", "word": "dégotiez", "translation": "dig up", "note": "past; better than stereotype"}
 {"key": "dégoté", "word": "dégoté", "translation": "dug up; found", "note": "past; community supplies"}
 {"key": "dégotés", "word": "dégotés", "translation": "unearthed", "note": "masculine plural; trenches loot"}
@@ -42161,7 +42161,7 @@
 {"key": "dégrader", "word": "dégrader", "translation": "damage; degrade", "note": "in WoW: to damage ancient architecture; general: to demean or degrade"}
 {"key": "dégradé", "word": "dégradé", "translation": "gradient; shade", "note": "in context: a spectrum or gradient of colors rather than degraded condition"}
 {"key": "dégradés", "word": "dégradés", "translation": "gradients; gradations", "note": "plural of dégradé; shades or gradations of color"}
-{"key": "dégraissez-moi", "word": "Dégraissez-moi", "translation": "clear out", "note": "dégraisser: literally to degrease; here means to clear out or eliminate those enemies"}
+{"key": "dégraissez-moi", "word": "Dégraissez-moi", "translation": "degrease me; slim me down", "note": "dégraisser: literally to degrease; here means to clear out or eliminate those enemies"}
 {"key": "dégringolade", "word": "Dégringolade", "translation": "tumble; collapse", "note": "temporal tumble: a quest name; dégringolade can also mean a sudden descent or rout"}
 {"key": "dégrisera", "word": "dégrisera", "translation": "he/she will sober up", "note": "future tense; to sober up, to lose one's intoxication or delusion"}
 {"key": "dégrossi", "word": "dégrossi", "translation": "roughed out; bloomed", "note": "past participle; not \"sided\" which is wrong; means roughly shaped or formed"}
@@ -42186,11 +42186,11 @@
 {"key": "délaisser", "word": "délaisser", "translation": "abandon; forsake", "note": "to abandon a pursuit or leave something behind"}
 {"key": "délandra", "word": "Délandra", "translation": "Délandra", "note": "NPC name; do not invent lore"}
 {"key": "délectable", "word": "délectable", "translation": "delicious; delectable", "note": "delightful to taste; exquisite"}
-{"key": "délestage", "word": "Délestage", "translation": "Load shedding", "note": "quest name; literal: load reduction, in WoW context about power management"}
-{"key": "délestiez", "word": "délestiez", "translation": "displayed; adorned", "note": "uncertain context here; but suggests wearing items as decoration"}
+{"key": "délestage", "word": "Délestage", "translation": "load shedding", "note": "quest name; literal: load reduction, in WoW context about power management"}
+{"key": "délestiez", "word": "délestiez", "translation": "you were unloading; you shed", "note": "uncertain context here; but suggests wearing items as decoration"}
 {"key": "délibéré", "word": "délibéré", "translation": "deliberate; willful", "note": "done with intent or purpose; not accidental"}
 {"key": "délicia", "word": "Délicia", "translation": "Délicia", "note": "NPC name (succubus); do not invent lore"}
-{"key": "déliement", "word": "Déliement", "translation": "Unbinding; Release", "note": "quest name or title; the act of freeing something"}
+{"key": "déliement", "word": "Déliement", "translation": "unbinding; release", "note": "quest name or title; the act of freeing something"}
 {"key": "délimitent", "word": "délimitent", "translation": "mark; delimit", "note": "present tense; they form the boundary of a circle"}
 {"key": "déliquescence", "word": "Déliquescence", "translation": "Deliquescence", "note": "NPC name; also a chemistry term (melting or dissolving)"}
 {"key": "délirants", "word": "délirants", "translation": "raving; delirious", "note": "mad or talking wildly; ranting prophetically"}
@@ -42203,19 +42203,19 @@
 {"key": "délivrent", "word": "délivrent", "translation": "deliver; free", "note": "present tense; they free or rescue"}
 {"key": "délivrerez", "word": "délivrerez", "translation": "you will free; you will deliver", "note": "future tense; you will rescue or save"}
 {"key": "délivrerons", "word": "délivrerons", "translation": "we will deliver; we will free", "note": "future tense; first person plural; we will rescue"}
-{"key": "délivrez-nous", "word": "Délivrez-nous", "translation": "Deliver us; Free us", "note": "imperative; save us from evil"}
+{"key": "délivrez-nous", "word": "Délivrez-nous", "translation": "deliver us; free us", "note": "imperative; save us from evil"}
 {"key": "délivrées", "word": "délivrées", "translation": "freed; liberated", "note": "feminine plural; souls freed from captivity"}
 {"key": "délocalisation", "word": "délocalisation", "translation": "relocation; offshoring", "note": "quest name or operation title; moving something elsewhere"}
 {"key": "délogeait", "word": "délogeait", "translation": "dislodged; evicted", "note": "imperfect tense; was forcing out or displacing"}
-{"key": "délogement", "word": "Délogement", "translation": "Forceful eviction; Rough ejection", "note": "quest name; muscular removal or violent displacement"}
+{"key": "délogement", "word": "Délogement", "translation": "forceful eviction; rough ejection", "note": "quest name; muscular removal or violent displacement"}
 {"key": "délogé", "word": "délogé", "translation": "dislodged; ousted", "note": "past participle; forced out of position"}
 {"key": "délogée", "word": "délogée", "translation": "dislodged", "note": "feminine singular; forced out"}
 {"key": "délogées", "word": "délogées", "translation": "dislodged", "note": "feminine plural; displaced or driven out"}
-{"key": "délogés", "word": "Délogés", "translation": "Dislodged; Forced out", "note": "quest name or title; masculine plural; evicted by force"}
+{"key": "délogés", "word": "Délogés", "translation": "dislodged; forced out", "note": "quest name or title; masculine plural; evicted by force"}
 {"key": "déloyal", "word": "déloyal", "translation": "disloyal; unfair", "note": "false friend: means unfair or disloyal, not about loyalty alone"}
-{"key": "déloyale", "word": "déloyale", "translation": "unfair competition; disloyal", "note": "feminine; dishonest or against rules"}
-{"key": "déloyauté", "word": "Déloyauté", "translation": "Disloyalty; Treachery", "note": "quest name; the state of being unfaithful or unfair"}
-{"key": "délégué", "word": "délégué", "translation": "delegated; assigned", "note": "quest name (mining delegated); assigned to someone else"}
+{"key": "déloyale", "word": "déloyale", "translation": "disloyal; unfair", "note": "feminine; dishonest or against rules"}
+{"key": "déloyauté", "word": "Déloyauté", "translation": "disloyalty; treachery", "note": "quest name; the state of being unfaithful or unfair"}
+{"key": "délégué", "word": "délégué", "translation": "delegate; delegated", "note": "quest name (mining delegated); assigned to someone else"}
 {"key": "démagogues", "word": "démagogues", "translation": "demagogues", "note": "politicians who appeal to emotions; false leaders"}
 {"key": "démachiné", "word": "démachiné", "translation": "unmachined; unadjusted", "note": "rare or possibly made-up word; not machine-processed"}
 {"key": "démanteleur", "word": "Démanteleur", "translation": "Dismantler", "note": "NPC name or title; one who breaks things apart"}
@@ -42238,7 +42238,7 @@
 {"key": "démembrent", "word": "démembrent", "translation": "dismember; tear apart", "note": "present tense; they tear things into pieces"}
 {"key": "démembré", "word": "démembré", "translation": "dismembered", "note": "past participle; a body torn apart"}
 {"key": "démenti", "word": "démenti", "translation": "belied; denied; contradicted", "note": "past participle of démentir; ne s’est jamais démenti = has never been contradicted"}
-{"key": "démentie", "word": "démentie", "translation": "wavered; faltered", "note": "past participle feminine; loyalty never wavered"}
+{"key": "démentie", "word": "démentie", "translation": "denied; belied", "note": "past participle feminine; loyalty never wavered"}
 {"key": "démentielle", "word": "démentielle", "translation": "maddening; unbearable", "note": "feminine; insane or extremely intense"}
 {"key": "démesurées", "word": "démesurées", "translation": "excessive; disproportionate", "note": "feminine plural; efforts going beyond reason"}
 {"key": "démina", "word": "Démina", "translation": "Démina", "note": "NPC name (Darkshade Perch location); do not invent lore"}
@@ -42252,7 +42252,7 @@
 {"key": "démodé", "word": "démodé", "translation": "outdated; old-fashioned", "note": "no longer in style; obsolete"}
 {"key": "démodés", "word": "démodés", "translation": "outdated; old-fashioned", "note": "quest name; masculine plural; antiquated jewelry"}
 {"key": "démoli", "word": "démoli", "translation": "demolished; wrecked", "note": "past participle; destroyed or torn down badly"}
-{"key": "démolisse", "word": "démolisse", "translation": "demolished; destroyed", "note": "subjunctive; destroyed a fleet"}
+{"key": "démolisse", "word": "démolisse", "translation": "(that) he/she demolish; may demolish", "note": "subjunctive; destroyed a fleet"}
 {"key": "démolissez-en", "word": "démolissez-en", "translation": "destroy some; tear down some", "note": "imperative; destroy some of those creatures"}
 {"key": "démolissez-la", "word": "démolissez-la", "translation": "tear it down; demolish it", "note": "imperative; destroy that statue"}
 {"key": "démolissez-le", "word": "démolissez-le", "translation": "destroy it; tear it down", "note": "imperative; defeat that elemental opponent"}
@@ -42262,11 +42262,11 @@
 {"key": "démontage", "word": "démontage", "translation": "disassembly; taking apart", "note": "the process of taking something apart piece by piece"}
 {"key": "démontez", "word": "démontez", "translation": "disassemble; take apart", "note": "imperative; take this device apart"}
 {"key": "démontrons", "word": "démontrons", "translation": "let's demonstrate; let's show", "note": "first person plural; let's prove our power"}
-{"key": "démontrez-moi", "word": "Démontrez-moi", "translation": "Show me; Prove it to me", "note": "imperative; demonstrate your worthiness"}
+{"key": "démontrez-moi", "word": "Démontrez-moi", "translation": "show me; prove it to me", "note": "imperative; demonstrate your worthiness"}
 {"key": "démonté", "word": "démonté", "translation": "disassembled; in pieces", "note": "past participle; taken apart or taken aback"}
 {"key": "démoralisera", "word": "démoralisera", "translation": "he/she will demoralize", "note": "future tense; will break the enemy's will to fight"}
-{"key": "démoralisiez", "word": "démoralisiez", "translation": "demoralize", "note": "imperfect tense; you were breaking their spirit"}
-{"key": "démoralisons-les", "word": "Démoralisons-les", "translation": "Let's demoralize them", "note": "imperative; let's break their morale"}
+{"key": "démoralisiez", "word": "démoralisiez", "translation": "you were demoralizing", "note": "imperfect tense; you were breaking their spirit"}
+{"key": "démoralisons-les", "word": "Démoralisons-les", "translation": "let's demoralize them", "note": "imperative; let's break their morale"}
 {"key": "démoralisé", "word": "démoralisé", "translation": "demoralized", "note": "dispirited; having lost the will to fight"}
 {"key": "démoralisées", "word": "démoralisées", "translation": "demoralized", "note": "feminine plural; troops broken in spirit"}
 {"key": "démord", "word": "démord", "translation": "won't let go; clings to", "note": "present tense; won't release his grip on power"}
@@ -42282,7 +42282,7 @@
 {"key": "dénaturée", "word": "dénaturée", "translation": "corrupted; defiled", "note": "feminine singular; corrupted in essence"}
 {"key": "dénaturées", "word": "dénaturées", "translation": "corrupted; perverted", "note": "feminine plural; dryads twisted by counterfeit magic"}
 {"key": "déneiger", "word": "déneiger", "translation": "clear snow", "note": "to remove snow from; a goblin tactic for clearing areas"}
-{"key": "dénichais", "word": "dénichais", "translation": "dug up; found", "note": "imperfect tense; I was uncovering or finding things"}
+{"key": "dénichais", "word": "dénichais", "translation": "I/you were finding; I/you were digging up", "note": "imperfect tense; I was uncovering or finding things"}
 {"key": "déniche", "word": "déniche", "translation": "unearths; finds", "note": "present tense; discovers or uncovers something"}
 {"key": "dénichent", "word": "dénichent", "translation": "dig up; find", "note": "present tense; they discover or uncover things"}
 {"key": "dénicherai", "word": "dénicherai", "translation": "I will find; I will unearth", "note": "future tense; I will discover this person"}
@@ -42290,7 +42290,7 @@
 {"key": "dénicheur", "word": "Dénicheur", "translation": "Finder; Discoverer", "note": "quest name; one who finds mascots or treasures"}
 {"key": "dénichez-moi", "word": "dénichez-moi", "translation": "find me; dig up for me", "note": "imperative; locate those bolts for me"}
 {"key": "dénigrent", "word": "dénigrent", "translation": "disparage; denigrate", "note": "present tense; they insult or belittle true heirs"}
-{"key": "dénigrerais", "word": "dénigrerais", "translation": "disparage", "note": "conditional tense; would badmouth or insult"}
+{"key": "dénigrerais", "word": "dénigrerais", "translation": "I/you would disparage", "note": "conditional tense; would badmouth or insult"}
 {"key": "dénombrables", "word": "dénombrables", "translation": "countable; enumerable", "note": "quest name title; can be counted or listed"}
 {"key": "dénoncé", "word": "dénoncé", "translation": "denounced; condemned", "note": "past participle; their actions were publicly condemned"}
 {"key": "dénuée", "word": "dénuée", "translation": "bereft; void", "note": "feminine singular; lacking or empty of breath; feminine of dénué"}
@@ -42300,9 +42300,9 @@
 {"key": "dépareilleraient", "word": "dépareilleraient", "translation": "they would mismatch; wouldn't clash", "note": "conditional tense; your gems wouldn't look bad with mine"}
 {"key": "dépasserait", "word": "dépasserait", "translation": "he/she would exceed", "note": "conditional tense; would go beyond what's expected"}
 {"key": "dépatouille", "word": "dépatouille", "translation": "muddle through; work out somehow", "note": "colloquial; improvise a solution; manage despite difficulties"}
-{"key": "dépaysement", "word": "Dépaysement", "translation": "Change of scenery; Escapade", "note": "quest name; exotic adventure or new surroundings"}
+{"key": "dépaysement", "word": "Dépaysement", "translation": "change of scenery; escapade", "note": "quest name; exotic adventure or new surroundings"}
 {"key": "dépeceuse", "word": "dépeceuse", "translation": "skinner; flayer", "note": "one who skins creatures; a professing or NPC occupation"}
-{"key": "dépecez-les", "word": "Dépecez-les", "translation": "Butcher them", "note": "dépecer: to butcher or butcher skins from a carcass; imperative form"}
+{"key": "dépecez-les", "word": "Dépecez-les", "translation": "butcher them", "note": "dépecer: to butcher or butcher skins from a carcass; imperative form"}
 {"key": "dépecez-vous", "word": "dépecez-vous", "translation": "butcher yourselves", "note": "reflexive verb; go butcher (your own materials); in context of preparing hides"}
 {"key": "dépeint", "word": "dépeint", "translation": "portrayed; described", "note": "dépeindre: to depict or portray; past participle; here describing how conditions are portrayed in a letter"}
 {"key": "dépendaient", "word": "dépendaient", "translation": "depended", "note": "dépendre: to depend on; imparfait tense"}
@@ -42312,15 +42312,15 @@
 {"key": "dépendront", "word": "dépendront", "translation": "they will depend", "note": "dépendre; future tense; the war effort's success depends on supplies"}
 {"key": "dépensent", "word": "dépensent", "translation": "spend", "note": "dépenser: to spend money; present tense plural"}
 {"key": "dépeupler", "word": "dépeupler", "translation": "depopulate", "note": "dé- (removal) + peupler (populate); to empty of inhabitants or creatures"}
-{"key": "déphasage", "word": "Déphasage", "translation": "temporal distortion", "note": "phase shift is too technical; in WoW this refers to time-bending effects; 'déphasage temporel' = time out of sync"}
+{"key": "déphasage", "word": "Déphasage", "translation": "phase shift; disorientation", "note": "phase shift is too technical; in WoW this refers to time-bending effects; 'déphasage temporel' = time out of sync"}
 {"key": "dépister", "word": "dépister", "translation": "track; catch", "note": "dépister: to track down, detect, or catch; usually used for hunting or detecting someone"}
 {"key": "déplacera", "word": "déplacera", "translation": "he/she will move", "note": "déplacer: to move; future tense; in military context, to relocate or march"}
 {"key": "déplacerez", "word": "déplacerez", "translation": "you will move", "note": "déplacer; future tense; 'you will travel through the aura'"}
 {"key": "déplacez", "word": "déplacez", "translation": "move", "note": "déplacer; imperative second person plural; 'touch the crystal to move/transport'"}
-{"key": "déplacions", "word": "déplacions", "translation": "moved; relocated", "note": "déplacer; we moved it from place to place to hide it"}
+{"key": "déplacions", "word": "déplacions", "translation": "we were moving; we relocated", "note": "déplacer; we moved it from place to place to hide it"}
 {"key": "déplaçable", "word": "déplaçable", "translation": "movable", "note": "capable of being moved; the mogu structures were presumably movable before being built at the lake bottom"}
 {"key": "déplaît", "word": "déplaît", "translation": "displeases; bothers", "note": "déplaire: to displease or annoy; third person singular"}
-{"key": "dépliant", "word": "dépliant", "translation": "unfolding it; folding it open", "note": "déplier: to unfold; present participle; finding and opening a folded map"}
+{"key": "dépliant", "word": "dépliant", "translation": "leaflet; brochure; unfolding", "note": "déplier: to unfold; present participle; finding and opening a folded map"}
 {"key": "dépliez", "word": "dépliez", "translation": "unfold", "note": "déplier: to unfold or open up; imperative; 'you unfold the note'"}
 {"key": "déploiera", "word": "déploiera", "translation": "he/she will deploy", "note": "déployer: to deploy or spread out; future tense; placing beacon devices"}
 {"key": "déploierons", "word": "déploierons", "translation": "we will deploy", "note": "déployer; future first person plural; 'we will deploy the new crystals'"}
@@ -42328,26 +42328,26 @@
 {"key": "déplorer", "word": "déplorer", "translation": "regret; mourn", "note": "déplorer: to regret or mourn losses; infinitive; 'to regret three deaths'"}
 {"key": "déplorons", "word": "déplorons", "translation": "regret", "note": "déplorer; present first person plural; not 'let us deplore'; 'we regret heavy losses'"}
 {"key": "déploré", "word": "déploré", "translation": "mourned; suffered", "note": "déplorer; past participle; 'the number of deaths Tirisfal suffered'"}
-{"key": "déployable", "word": "déployable", "translation": "automatic; deployable", "note": "designed to be deployed; the ammo dispenser deploys and fires continuously"}
+{"key": "déployable", "word": "déployable", "translation": "deployable", "note": "designed to be deployed; the ammo dispenser deploys and fires continuously"}
 {"key": "déployez-la", "word": "déployez-la", "translation": "deploy it", "note": "déployer + la (feminine object); imperative; 'deploy it' (a device or weapon)"}
 {"key": "déployez-le", "word": "déployez-le", "translation": "deploy it", "note": "déployer + le (masculine object); imperative; deploy the crystal or gateway"}
-{"key": "déployons", "word": "Déployons", "translation": "Let us deploy", "note": "déployer; hortative first person plural; 'let us deploy our troops'; imperative suggestion"}
+{"key": "déployons", "word": "Déployons", "translation": "let us deploy", "note": "déployer; hortative first person plural; 'let us deploy our troops'; imperative suggestion"}
 {"key": "déplumage", "word": "Déplumage", "translation": "plucking; stripping", "note": "déplumer: to pluck feathers; or figuratively to strip; this looks like a title or ability name"}
 {"key": "déportent", "word": "déportent", "translation": "carry away; sweep along", "note": "déporter: to carry away or be swept away; can mean exile or banishment; 'carry off' in context of kidnapping"}
 {"key": "déposa", "word": "déposa", "translation": "laid; placed", "note": "déposer: to set down or lay; past simple; 'he laid his offering at the cairn'"}
 {"key": "déposant", "word": "déposant", "translation": "laying; placing", "note": "déposer; present participle; 'by placing the scanners in a geometric pattern'"}
-{"key": "déposais", "word": "déposais", "translation": "was dropping off; was depositing", "note": "déposer; imparfait; 'I was dropping off while listening to the radio'"}
+{"key": "déposais", "word": "déposais", "translation": "I/you were depositing; I/you were dropping off", "note": "déposer; imparfait; 'I was dropping off while listening to the radio'"}
 {"key": "déposerai", "word": "déposerai", "translation": "I will file; I will deposit", "note": "déposer; future; 'once bugs are fixed I can file it'; in context means to submit or place formally"}
 {"key": "déposerais", "word": "déposerais", "translation": "I/you would deposit; I/you would file", "note": "déposer; conditional; 'I would not know what to call such a profession'"}
 {"key": "déposerez", "word": "déposerez", "translation": "you will deposit", "note": "déposer; future; 'you will find prey in their lair'"}
 {"key": "déposeront", "word": "déposeront", "translation": "they will drop; they will leave", "note": "déposer; future plural; 'we will drop enough bodies to look like a battle'; will lay down"}
 {"key": "déposez-le", "word": "déposez-le", "translation": "place it; lay it down", "note": "déposer + le; imperative; 'place it on his tomb'"}
 {"key": "déposez-y", "word": "déposez-y", "translation": "place it there; drop it in", "note": "déposer + y (there); imperative; the answer might be found in the oases"}
-{"key": "déposiez", "word": "déposiez", "translation": "were dropping off; were placing", "note": "déposer; imparfait second person plural; 'were you dropping/placing'"}
+{"key": "déposiez", "word": "déposiez", "translation": "you were depositing; you were placing", "note": "déposer; imparfait second person plural; 'were you dropping/placing'"}
 {"key": "déposons", "word": "déposons", "translation": "let us place; let us put down", "note": "déposer; hortative first person plural; 'let us set down this account'"}
 {"key": "dépossédés", "word": "dépossédés", "translation": "dispossessed", "note": "déposseder: robbed of; stripped of ownership; past participle plural"}
 {"key": "dépouillant", "word": "dépouillant", "translation": "stripping; robbing", "note": "dépouiller: to strip or rob; present participle; 'stripping the island of wealth'"}
-{"key": "dépouille-les", "word": "Dépouille-les", "translation": "Strip them; loot them", "note": "dépouiller + les; imperative; 'strip them for their hides'; also means rob or loot"}
+{"key": "dépouille-les", "word": "Dépouille-les", "translation": "strip them; loot them", "note": "dépouiller + les; imperative; 'strip them for their hides'; also means rob or loot"}
 {"key": "dépouillent", "word": "dépouillent", "translation": "drain; strip", "note": "dépouiller: to rob or strip; present tense; the twilight cultists drain the rochlins of their essence"}
 {"key": "dépouillée", "word": "dépouillée", "translation": "stripped; robbed", "note": "dépouiller; past participle feminine; 'stripped of my possessions'; robbed"}
 {"key": "dépoussiérage", "word": "Dépoussiérage", "translation": "cleaning; restoration", "note": "dépoussier + -age: to remove dust; a task or ability name suggesting restoration work"}
@@ -42366,7 +42366,7 @@
 {"key": "dépérirons", "word": "dépérirons", "translation": "we will wither; we will fade", "note": "dépérir; future first person plural; about the fate of souls in Revendreth"}
 {"key": "dépériront", "word": "dépériront", "translation": "they will wither; they will fade", "note": "dépérir; future plural; vegetables wither if not tended properly"}
 {"key": "dépérissement", "word": "dépérissement", "translation": "decline; withering", "note": "dépérir + -ment; the decay or decline of the winter garden; dieback of plants"}
-{"key": "dépéris", "word": "dépéris", "translation": "wither; am wasting away", "note": "dépérir; present first person singular; 'I waste away in this cage'"}
+{"key": "dépéris", "word": "dépéris", "translation": "I/you waste away; I/you wither", "note": "dépérir; present first person singular; 'I waste away in this cage'"}
 {"key": "dépêchée", "word": "dépêchée", "translation": "sent; dispatched", "note": "dépêcher: to dispatch or send; past participle feminine; an expedition sent long ago"}
 {"key": "dépêchées", "word": "dépêchées", "translation": "sent; dispatched", "note": "dépêcher; past participle feminine plural; all Horde forces sent to counter the Burning Legion"}
 {"key": "déracine", "word": "déracine", "translation": "uproots", "note": "déraciner: to uproot; present tense; 'the sin'dorei uproot each new sprout'"}
@@ -42380,7 +42380,7 @@
 {"key": "dérangeante", "word": "dérangeante", "translation": "troubling; unsettling", "note": "déranger; present participle feminine; 'an unsettling proximity'; title or concept name"}
 {"key": "dérangement", "word": "dérangement", "translation": "disturbance; disruption", "note": "déranger + -ment: a disruption or disturbance; this valley must not be disturbed"}
 {"key": "dérangeront", "word": "dérangeront", "translation": "they will disturb", "note": "déranger; future plural; 'will disturb the ancient sites'"}
-{"key": "dérangions", "word": "dérangions", "translation": "disturbed", "note": "déranger; imparfait first person plural; 'we shouldn't disturb anything before reporting'"}
+{"key": "dérangions", "word": "dérangions", "translation": "we were disturbing", "note": "déranger; imparfait first person plural; 'we shouldn't disturb anything before reporting'"}
 {"key": "dérape", "word": "dérape", "translation": "skids; slips", "note": "déraper: to skid or slip; present tense; things are slipping out of control"}
 {"key": "dératé", "word": "dératé", "translation": "stripped of rails; sabotaged", "note": "dé- + rail; past participle; 'I seem to have jammed one of the bearing fluids into the deregulator gears'"}
 {"key": "dératée", "word": "dératée", "translation": "deranged; off the rails", "note": "dérater or dé- + rate (spleen); can mean crazy or out of control; here likely refers to a creature name"}
@@ -42396,7 +42396,7 @@
 {"key": "dérouleraient", "word": "dérouleraient", "translation": "they would unfold; they would happen", "note": "dérouler; conditional plural; 'we always imagined the battles would unfold this way'"}
 {"key": "déroutants", "word": "déroutants", "translation": "perplexing; baffling", "note": "déroutant: confusing or bewildering; plural adjective; title for strange instruments"}
 {"key": "dérouter", "word": "dérouter", "translation": "divert; confuse", "note": "dérouter: to confuse or change route; 'send squads to confuse the nagas and retrieve the artifact'"}
-{"key": "dérouté", "word": "Dérouté", "translation": "Confused; bewildered", "note": "dérouté: confused or thrown off; interjection or exclamation expressing confusion"}
+{"key": "dérouté", "word": "Dérouté", "translation": "confused; bewildered", "note": "dérouté: confused or thrown off; interjection or exclamation expressing confusion"}
 {"key": "dérunification", "word": "Dérunification", "translation": "de-runification; rune removal", "note": "dé- (removal) + runification; technical or magical term; appears to be a status or condition name"}
 {"key": "dérèglements", "word": "dérèglements", "translation": "disturbances; disruptions", "note": "dérèglement: disruption or malfunction; plural; temporal disturbances caused by dark forces"}
 {"key": "déréglées", "word": "déréglées", "translation": "disturbed; uncontrolled", "note": "dérégulé or déréglé: out of control or unregulated; creatures that were not originally part of this reality"}
@@ -42407,14 +42407,14 @@
 {"key": "désactivera", "word": "désactivera", "translation": "he/she will deactivate", "note": "désactiver; future; 'neutralizing will force Kael back on reserves'"}
 {"key": "désactiverez", "word": "désactiverez", "translation": "you will deactivate; you will neutralize", "note": "désactiver; future plural imperative; stasis pods can be neutralized by energy variation"}
 {"key": "désactivez-la", "word": "désactivez-la", "translation": "deactivate it; shut it down", "note": "désactiver + la; imperative; 'turn off the manaforge'"}
-{"key": "désactivez-le", "word": "Désactivez-le", "translation": "Turn it off", "note": "désactiver + le; imperative; shut down the device or mechanism"}
+{"key": "désactivez-le", "word": "Désactivez-le", "translation": "turn it off", "note": "désactiver + le; imperative; shut down the device or mechanism"}
 {"key": "désactivez-les", "word": "désactivez-les", "translation": "turn them off", "note": "désactiver + les; imperative plural; 'deactivate all the defensive measures'"}
 {"key": "désaffecté", "word": "désaffecté", "translation": "abandoned; disused", "note": "désaffecter: to take out of service; past participle; a defunct robot-spider in the ruins"}
 {"key": "désagrègent", "word": "désagrègent", "translation": "disintegrate", "note": "désagréger: to break apart or disintegrate; present tense; demon armor fragments break down"}
 {"key": "désagrégés", "word": "désagrégés", "translation": "crumbled; fallen into ruin", "note": "désagréger; past participle; 'the walls have crumbled, nothing is left'"}
 {"key": "désamorcez-les", "word": "désamorcez-les", "translation": "defuse them; disarm them", "note": "désamorcer + les; imperative; 'defuse the bombs being smuggled by spies'"}
 {"key": "désapprobation", "word": "désapprobation", "translation": "disapproval", "note": "désapprobation: disapproval or disfavor; others live differently and she does not approve"}
-{"key": "désarmez", "word": "Désarmez", "translation": "Disarm", "note": "désarmer; imperative; 'disarm the bears'; remove weapons or pacify"}
+{"key": "désarmez", "word": "Désarmez", "translation": "disarm", "note": "désarmer; imperative; 'disarm the bears'; remove weapons or pacify"}
 {"key": "désarmée", "word": "désarmée", "translation": "disarmed; unarmed", "note": "désarmer; past participle feminine; 'I wanted to leave disarmed (without weapons)'"}
 {"key": "désarçonnerez", "word": "désarçonnerez", "translation": "you will unhorse; you will unseat", "note": "désarçonner: to unseat from a mount; future; 'once unseated from their flying mounts they are nothing'"}
 {"key": "désarçonné", "word": "désarçonné", "translation": "unseated; displaced", "note": "désarçonner; past participle; 'barely good enough to keep you from being thrown from your mount'"}
@@ -42453,7 +42453,7 @@
 {"key": "désignerai", "word": "désignerai", "translation": "I will designate", "note": "désigner: to designate or select; future; 'I will mark which hunters deserve honors'"}
 {"key": "désignez-moi", "word": "Désignez-moi", "translation": "Appoint me; Choose me", "note": "désigner + moi; imperative; 'recognize me as the best mercenary here'"}
 {"key": "désignées", "word": "désignées", "translation": "designated", "note": "past participle: appointed or selected"}
-{"key": "désillusions", "word": "Désillusions", "translation": "Disillusions", "note": "loss of illusions; disappointed hopes"}
+{"key": "désillusions", "word": "Désillusions", "translation": "disillusions", "note": "loss of illusions; disappointed hopes"}
 {"key": "désinfectant", "word": "désinfectant", "translation": "disinfectant", "note": "substance that kills germs"}
 {"key": "désinfecter", "word": "désinfecter", "translation": "disinfect", "note": "to clean and kill germs"}
 {"key": "désinformation", "word": "désinformation", "translation": "disinformation", "note": "false or misleading information"}
@@ -42477,12 +42477,12 @@
 {"key": "désordonnées", "word": "désordonnées", "translation": "disorderly; chaotic", "note": "messy and unorganized"}
 {"key": "désorganisation", "word": "désorganisation", "translation": "disorganization", "note": "lack of order or structure"}
 {"key": "désorganiseront", "word": "désorganiseront", "translation": "they will become disorganized; they will fall apart", "note": "future: lose their coordination"}
-{"key": "désorganisez", "word": "Désorganisez", "translation": "Disorganize; throw into chaos", "note": "break up or confuse their organization"}
+{"key": "désorganisez", "word": "Désorganisez", "translation": "disorganize; throw into chaos", "note": "break up or confuse their organization"}
 {"key": "désorganisée", "word": "désorganisée", "translation": "disorganized; in disarray", "note": "lacking order or coordination"}
 {"key": "désorganisées", "word": "désorganisées", "translation": "disorganized; in chaos", "note": "thrown into confusion"}
 {"key": "désorientation", "word": "désorientation", "translation": "disorientation; confusion", "note": "loss of sense of direction or awareness"}
 {"key": "désorientées", "word": "désorientées", "translation": "disoriented; confused", "note": "lost or bewildered"}
-{"key": "déstabilisation", "word": "Déstabilisation", "translation": "Destabilization", "note": "making unstable; undermining"}
+{"key": "déstabilisation", "word": "Déstabilisation", "translation": "destabilization", "note": "making unstable; undermining"}
 {"key": "déstabilisent", "word": "déstabilisent", "translation": "destabilize; undermine", "note": "make unstable or weak"}
 {"key": "déstabilisé", "word": "déstabilisé", "translation": "destabilized; thrown off balance", "note": "made unstable"}
 {"key": "désunir", "word": "désunir", "translation": "divide; split apart", "note": "cause disunity or separation"}
@@ -42493,7 +42493,7 @@
 {"key": "déséquilibrions", "word": "déséquilibrions", "translation": "throw off balance; unbalance", "note": "upset the equilibrium"}
 {"key": "déséquilibrée", "word": "déséquilibrée", "translation": "unbalanced; unstable", "note": "lacking equilibrium or mental stability"}
 {"key": "détacherez", "word": "détacherez", "translation": "you will detach; you will separate", "note": "future: remove or unfasten"}
-{"key": "détachez-moi", "word": "Détachez-moi", "translation": "Untie me; Free me", "note": "release me from bonds"}
+{"key": "détachez-moi", "word": "Détachez-moi", "translation": "untie me; free me", "note": "release me from bonds"}
 {"key": "détachée", "word": "détachée", "translation": "detached; separated", "note": "removed or set apart"}
 {"key": "détailler", "word": "détailler", "translation": "detail; describe in detail", "note": "go into specifics about something"}
 {"key": "détalant", "word": "détalant", "translation": "scampering; fleeing", "note": "running away hastily"}
@@ -42501,7 +42501,7 @@
 {"key": "détaleront", "word": "détaleront", "translation": "they will run away; they will flee", "note": "future: take to their heels"}
 {"key": "détectés", "word": "détectés", "translation": "detected; discovered", "note": "found or identified"}
 {"key": "détenant", "word": "détenant", "translation": "holding; possessing", "note": "in the possession of"}
-{"key": "détendais", "word": "détendais", "translation": "was relaxing; used to relax", "note": "imperfect past of détendre"}
+{"key": "détendais", "word": "détendais", "translation": "I/you were relaxing", "note": "imperfect past of détendre"}
 {"key": "détende", "word": "détende", "translation": "relax; ease up", "note": "reduce tension or stress"}
 {"key": "détendons-nous", "word": "détendons-nous", "translation": "let's relax; let's unwind", "note": "take it easy together"}
 {"key": "détendu", "word": "détendu", "translation": "relaxed; at ease", "note": "not tense or anxious"}
@@ -42525,21 +42525,21 @@
 {"key": "détournant", "word": "détournant", "translation": "diverting; turning aside", "note": "redirecting or deflecting"}
 {"key": "détournerai", "word": "détournerai", "translation": "I will divert; I will turn away", "note": "future: redirect or prevent"}
 {"key": "détournerez", "word": "détournerez", "translation": "you will divert; you will redirect", "note": "future: turn aside from course"}
-{"key": "détourniez", "word": "détourniez", "translation": "diverted; turned aside", "note": "past: redirected attention or effort"}
+{"key": "détourniez", "word": "détourniez", "translation": "you were diverting; you turned aside", "note": "past: redirected attention or effort"}
 {"key": "détournons", "word": "détournons", "translation": "let's divert; let's distract", "note": "redirect attention together"}
 {"key": "détraque", "word": "détraque", "translation": "deranges; breaks down", "note": "drives mad or causes to malfunction"}
 {"key": "détraquées", "word": "détraquées", "translation": "broken; deranged; out of order", "note": "ruined or mentally disturbed"}
-{"key": "détricotage", "word": "Détricotage", "translation": "Unraveling; Unstitching", "note": "taking apart what was woven or knit"}
+{"key": "détricotage", "word": "Détricotage", "translation": "unraveling; unstitching", "note": "taking apart what was woven or knit"}
 {"key": "détroits", "word": "détroits", "translation": "straits; narrows", "note": "narrow passages of water between land"}
 {"key": "détrompe", "word": "détrompe", "translation": "disabuse; undeceive", "note": "correct a false belief or impression"}
-{"key": "détrompez-les", "word": "Détrompez-les", "translation": "Disabuse them; Set them straight", "note": "correct their misunderstanding"}
+{"key": "détrompez-les", "word": "Détrompez-les", "translation": "disabuse them; set them straight", "note": "correct their misunderstanding"}
 {"key": "détrompez-vous", "word": "détrompez-vous", "translation": "think again; you're mistaken", "note": "correct your false impression"}
 {"key": "détrousser", "word": "détrousser", "translation": "rob; strip of valuables", "note": "steal from; relieve of possessions"}
 {"key": "détruis", "word": "détruis", "translation": "destroy; ruin", "note": "tear down or annihilate"}
 {"key": "détruisez-moi", "word": "détruisez-moi", "translation": "destroy me; kill me", "note": "obliterate; end my existence"}
 {"key": "détruisit", "word": "détruisit", "translation": "destroyed; ruined", "note": "past: tore down completely"}
 {"key": "détrôné", "word": "détrôné", "translation": "dethroned; deposed", "note": "removed from power or position"}
-{"key": "détrônée", "word": "Détrônée", "translation": "Dethroned; Deposed", "note": "removed from throne or authority"}
+{"key": "détrônée", "word": "Détrônée", "translation": "dethroned; deposed", "note": "removed from throne or authority"}
 {"key": "détwisant", "word": "détwisant", "translation": "perverting; corrupting", "note": "twisting or distorting (note corrupted speech)"}
 {"key": "détérioration", "word": "détérioration", "translation": "deterioration; decay", "note": "gradual decline in condition"}
 {"key": "détériorée", "word": "détériorée", "translation": "deteriorated; degraded", "note": "got worse or fell apart"}
@@ -42557,18 +42557,18 @@
 {"key": "déversait", "word": "déversait", "translation": "poured; was pouring out", "note": "imperfect: flowed in abundance"}
 {"key": "déverseront", "word": "déverseront", "translation": "they will pour out; they will flood", "note": "future: flow or overflow"}
 {"key": "déversez", "word": "déversez", "translation": "pour out; empty", "note": "tip or discharge contents"}
-{"key": "déversions", "word": "déversions", "translation": "overflows; outpourings", "note": "excessive flow or discharge"}
+{"key": "déversions", "word": "déversions", "translation": "we were pouring out", "note": "excessive flow or discharge"}
 {"key": "déversés", "word": "déversés", "translation": "dumped; poured out", "note": "deposited or discharged in large amounts"}
 {"key": "déviance", "word": "déviance", "translation": "deviance; deviation from norm", "note": "departure from standard or expected behavior"}
 {"key": "déversèrent", "word": "déversèrent", "translation": "poured out; discharged", "note": "past: flowed or emptied"}
 {"key": "déviant", "word": "déviant", "translation": "deviant; abnormal", "note": "departing from normal or accepted standards"}
 {"key": "déversée", "word": "déversée", "translation": "spilled; poured out", "note": "discharged or overflowed"}
-{"key": "déviation", "word": "Déviation", "translation": "Detour; Diversion", "note": "alternative route or deviation from main course"}
+{"key": "déviation", "word": "Déviation", "translation": "detour; diversion", "note": "alternative route or deviation from main course"}
 {"key": "dévie", "word": "dévie", "translation": "deviates; veers off", "note": "turns away from a straight course"}
 {"key": "dévier", "word": "dévier", "translation": "deviate; veer off course", "note": "turn aside from a direct path"}
 {"key": "dévié", "word": "dévié", "translation": "deviated; veered off", "note": "changed direction from the planned course"}
 {"key": "dévoilée", "word": "dévoilée", "translation": "revealed; unveiled", "note": "uncovered or made known"}
-{"key": "dévorait", "word": "dévorait", "translation": "devoured; consumed", "note": "imperfect: ate greedily or destroyed"}
+{"key": "dévorait", "word": "dévorait", "translation": "was devouring; was consuming", "note": "imperfect: ate greedily or destroyed"}
 {"key": "dévorerai", "word": "dévorerai", "translation": "I will devour; I will consume", "note": "future: eat or destroy completely"}
 {"key": "dévorerait", "word": "dévorerait", "translation": "he/she would devour; he/she would consume", "note": "conditional: would eat greedily"}
 {"key": "dévoreront", "word": "dévoreront", "translation": "they will devour; they will consume", "note": "future: eat or destroy completely"}
@@ -42583,10 +42583,10 @@
 {"key": "dévoyés", "word": "dévoyés", "translation": "misguided; led astray (plural)", "note": "turned from what they should follow"}
 {"key": "dézinguer", "word": "dézinguer", "translation": "shoot; destroy; finish off", "note": "slang: destroy or kill violently"}
 {"key": "dézingué", "word": "dézingué", "translation": "shot; destroyed; wrecked", "note": "slang: ruined, broken, or killed"}
-{"key": "déçois", "word": "déçois", "translation": "disappoint; let down", "note": "fail to meet expectations"}
-{"key": "déçoive", "word": "déçoive", "translation": "disappoint; let down", "note": "subjunctive: fail to satisfy"}
+{"key": "déçois", "word": "déçois", "translation": "I/you disappoint", "note": "fail to meet expectations"}
+{"key": "déçoive", "word": "déçoive", "translation": "(that) he/she disappoint", "note": "subjunctive: fail to satisfy"}
 {"key": "día", "word": "día", "translation": "day", "note": "note: Spanish word in French context; daily or 24-hour period"}
-{"key": "dîners", "word": "Dîners", "translation": "Dinners; Suppers", "note": "evening meals"}
+{"key": "dîners", "word": "Dîners", "translation": "dinners; suppers", "note": "evening meals"}
 {"key": "dînette", "word": "dînette", "translation": "dinette; toy dinner set", "note": "miniature dishes for play or small informal meals"}
 {"key": "dînons", "word": "dînons", "translation": "let's dine; let's eat dinner", "note": "let's have an evening meal together"}
 {"key": "dûmes", "word": "dûmes", "translation": "had to; were obliged to", "note": "past of devoir; owed or was required to"}
@@ -42866,7 +42866,7 @@
 {"key": "d’automa", "word": "d’Automa", "translation": "from Automa", "note": "proper noun; WoW faction or entity"}
 {"key": "d’automates", "word": "d’automates", "translation": "of automatons", "note": "plural; self-moving mechanical devices"}
 {"key": "d’automatisation", "word": "d’automatisation", "translation": "of automation", "note": "process of making automatic"}
-{"key": "d’automne", "word": "d’Automne", "translation": "Autumn", "note": "proper noun; part of a name (Clair d'Automne)"}
+{"key": "d’automne", "word": "d’Automne", "translation": "autumn", "note": "proper noun; part of a name (Clair d'Automne)"}
 {"key": "d’autonomie", "word": "d’autonomie", "translation": "of autonomy", "note": "self-governance or independence"}
 {"key": "d’autrement", "word": "d’autrement", "translation": "otherwise; something else", "note": "differently; in another way"}
 {"key": "d’auxiliaires", "word": "d’auxiliaires", "translation": "of auxiliaries; helpers", "note": "plural; supporting personnel or forces"}
@@ -43514,10 +43514,10 @@
 {"key": "edwyn", "word": "Edwyn", "translation": "Edwyn", "note": ""}
 {"key": "efecto", "word": "efecto", "translation": "effect", "note": "Spanish word; means effect or result"}
 {"key": "effacerons", "word": "effacerons", "translation": "we will erase", "note": "future tense of effacer; will wipe out"}
-{"key": "effacez-moi", "word": "Effacez-moi", "translation": "Erase me", "note": "command form; from effacer"}
+{"key": "effacez-moi", "word": "Effacez-moi", "translation": "erase me", "note": "command form; from effacer"}
 {"key": "effarant", "word": "effarant", "translation": "astounding", "note": "far-fetched, appalling; shockingly overwhelming"}
 {"key": "effarante", "word": "effarante", "translation": "astounding", "note": "feminine form; overwhelming speed"}
-{"key": "effayez", "word": "Effayez", "translation": "Try", "note": "appears to be essayez (try); command form"}
+{"key": "effayez", "word": "Effayez", "translation": "try", "note": "appears to be essayez (try); command form"}
 {"key": "effectuaient", "word": "effectuaient", "translation": "were conducting", "note": "imparfait tense; to carry out research"}
 {"key": "effectueront", "word": "effectueront", "translation": "they will conduct", "note": "future tense; to carry out operations"}
 {"key": "effilochée", "word": "effilochée", "translation": "frayed", "note": "worn out, threadbare"}
@@ -43529,7 +43529,7 @@
 {"key": "effondrés", "word": "effondrés", "translation": "collapsed", "note": "caved in, fallen; masculine plural"}
 {"key": "efforcer", "word": "efforcer", "translation": "strive", "note": "to make an effort; s'efforcer = to strive"}
 {"key": "efforcée", "word": "efforcée", "translation": "strove", "note": "past participle feminine; struggled to gather"}
-{"key": "effritement", "word": "Effritement", "translation": "Crumbling", "note": "deterioration, wearing away"}
+{"key": "effritement", "word": "Effritement", "translation": "crumbling", "note": "deterioration, wearing away"}
 {"key": "effronterie", "word": "effronterie", "translation": "effrontery", "note": "impudence, cheek; shameless behavior"}
 {"key": "effrontés", "word": "effrontés", "translation": "impudent", "note": "cheeky, shameless; masculine plural"}
 {"key": "effroyablement", "word": "effroyablement", "translation": "terribly", "note": "frightfully, awfully; adverb"}
@@ -43571,7 +43571,7 @@
 {"key": "elysia", "word": "Elysia", "translation": "Elysia", "note": ""}
 {"key": "embaari", "word": "Embaari", "translation": "Embaari", "note": ""}
 {"key": "embacardère", "word": "embacardère", "translation": "wharf", "note": "landing place; dock or pier"}
-{"key": "emballage", "word": "Emballage", "translation": "Packaging", "note": "packing, wrapping; noun"}
+{"key": "emballage", "word": "Emballage", "translation": "packaging", "note": "packing, wrapping; noun"}
 {"key": "emballant", "word": "emballant", "translation": "exciting", "note": "thrilling; present participle"}
 {"key": "emballent", "word": "emballent", "translation": "pack", "note": "to package, wrap up; verb"}
 {"key": "embarcation", "word": "embarcation", "translation": "boat", "note": "vessel, craft"}
@@ -43583,14 +43583,14 @@
 {"key": "embauchant", "word": "embauchant", "translation": "hiring", "note": "recruiting, taking on workers"}
 {"key": "embauchent", "word": "embauchent", "translation": "hire", "note": "recruit, take on; third person plural"}
 {"key": "embaumer", "word": "embaumer", "translation": "embalm", "note": "preserve a body; also to perfume"}
-{"key": "embellissement", "word": "Embellissement", "translation": "Embellishment", "note": "beautification, ornament; noun"}
-{"key": "emblématique", "word": "Emblématique", "translation": "Emblematic", "note": "typical, representative; adjective"}
+{"key": "embellissement", "word": "Embellissement", "translation": "embellishment", "note": "beautification, ornament; noun"}
+{"key": "emblématique", "word": "Emblématique", "translation": "emblematic", "note": "typical, representative; adjective"}
 {"key": "embobiné", "word": "embobiné", "translation": "fooled", "note": "duped, tricked; past participle"}
 {"key": "embouchée", "word": "embouchée", "translation": "foul-mouthed", "note": "ill-spoken, abusive; feminine"}
 {"key": "embourbées", "word": "embourbées", "translation": "bogged down", "note": "stuck in mud; feminine plural"}
 {"key": "embourbés", "word": "embourbés", "translation": "bogged down", "note": "stuck in mud; masculine plural"}
 {"key": "embouti", "word": "embouti", "translation": "dented", "note": "stamped, pressed into shape"}
-{"key": "emboîtez-lui", "word": "Emboîtez-lui", "translation": "Follow him", "note": "fit it in; context suggests follow"}
+{"key": "emboîtez-lui", "word": "Emboîtez-lui", "translation": "follow him", "note": "fit it in; context suggests follow"}
 {"key": "embranchements", "word": "embranchements", "translation": "branches", "note": "forks, divisions; plural noun"}
 {"key": "embrassait", "word": "embrassait", "translation": "embraced", "note": "kissed, hugged; imparfait tense"}
 {"key": "embrassant", "word": "embrassant", "translation": "embracing", "note": "kissing, hugging; present participle"}
@@ -43599,7 +43599,7 @@
 {"key": "embrassées", "word": "embrassées", "translation": "embraced", "note": "kissed, hugged; feminine plural"}
 {"key": "embrasées", "word": "embrasées", "translation": "ablaze", "note": "set on fire; feminine plural"}
 {"key": "embrochez-les", "word": "embrochez-les", "translation": "skewer them", "note": "run through with a spit; command form"}
-{"key": "embrouillez", "word": "Embrouillez", "translation": "Confuse", "note": "muddle, tangle up; command form"}
+{"key": "embrouillez", "word": "Embrouillez", "translation": "confuse", "note": "muddle, tangle up; command form"}
 {"key": "embrouillée", "word": "embrouillée", "translation": "tangled", "note": "confused, complicated; feminine"}
 {"key": "embrouillés", "word": "embrouillés", "translation": "scrambled", "note": "confused, tangled; masculine plural"}
 {"key": "embullé", "word": "embullé", "translation": "bubble-packed", "note": "encased, wrapped tight"}
@@ -43610,7 +43610,7 @@
 {"key": "embêterais", "word": "embêterais", "translation": "I/you would bother", "note": "conditional tense"}
 {"key": "embêteront", "word": "embêteront", "translation": "they will annoy", "note": "future tense"}
 {"key": "embêté", "word": "embêté", "translation": "annoyed", "note": "bothered, worried"}
-{"key": "embûches", "word": "Embûches", "translation": "Pitfalls", "note": "traps, snares; obstacles"}
+{"key": "embûches", "word": "Embûches", "translation": "pitfalls", "note": "traps, snares; obstacles"}
 {"key": "emeriss", "word": "Emeriss", "translation": "Emeriss", "note": ""}
 {"key": "emi", "word": "Emi", "translation": "Emi", "note": ""}
 {"key": "emilune", "word": "Emilune", "translation": "Emilune", "note": ""}
@@ -43620,14 +43620,14 @@
 {"key": "emmagasiné", "word": "emmagasiné", "translation": "stored up", "note": "accumulated, hoarded"}
 {"key": "emmaillotés", "word": "emmaillotés", "translation": "swaddled", "note": "wrapped up, confined; masculine plural"}
 {"key": "emmara", "word": "Emmara", "translation": "Emmara", "note": ""}
-{"key": "emmenez-nous", "word": "Emmenez-nous", "translation": "Take us", "note": "lead us; command form"}
-{"key": "emmenez-y", "word": "Emmenez-y", "translation": "Take it there", "note": "bring it; command form"}
-{"key": "emmeniez", "word": "emmeniez", "translation": "take away", "note": "conditional form"}
-{"key": "emmenions", "word": "emmenions", "translation": "let's take", "note": "subjunctive form"}
+{"key": "emmenez-nous", "word": "Emmenez-nous", "translation": "take us", "note": "lead us; command form"}
+{"key": "emmenez-y", "word": "Emmenez-y", "translation": "take it there", "note": "bring it; command form"}
+{"key": "emmeniez", "word": "emmeniez", "translation": "you were taking away", "note": "conditional form"}
+{"key": "emmenions", "word": "emmenions", "translation": "we were taking", "note": "subjunctive form"}
 {"key": "emmery", "word": "Emmery", "translation": "Emmery", "note": ""}
 {"key": "emmèneront", "word": "emmèneront", "translation": "they will take", "note": "future tense"}
-{"key": "emménagement", "word": "Emménagement", "translation": "Moving in", "note": "moving, relocation; noun"}
-{"key": "emmêlage", "word": "Emmêlage", "translation": "Tangling", "note": "tangling up, matting"}
+{"key": "emménagement", "word": "Emménagement", "translation": "moving in", "note": "moving, relocation; noun"}
+{"key": "emmêlage", "word": "Emmêlage", "translation": "tangling", "note": "tangling up, matting"}
 {"key": "emmêlée", "word": "emmêlée", "translation": "tangled", "note": "matted, disheveled; feminine"}
 {"key": "emmêlés", "word": "emmêlés", "translation": "tangled", "note": "matted, snarled; masculine plural"}
 {"key": "emm’né", "word": "emm’né", "translation": "taken away", "note": "spoken clipping of emmené"}
@@ -43642,7 +43642,7 @@
 {"key": "emparerez", "word": "emparerez", "translation": "you will seize", "note": "future of emparer"}
 {"key": "empareront", "word": "empareront", "translation": "they will seize", "note": "future tense; will take"}
 {"key": "empariez", "word": "empariez", "translation": "seize", "note": "conditional form"}
-{"key": "emparons-nous", "word": "Emparons-nous", "translation": "Let's take hold", "note": "command form; let's seize"}
+{"key": "emparons-nous", "word": "Emparons-nous", "translation": "let's take hold", "note": "command form; let's seize"}
 {"key": "emparèrent", "word": "emparèrent", "translation": "seized", "note": "past tense; took hold"}
 {"key": "empathique", "word": "empathique", "translation": "empathetic", "note": "able to empathize; adjective"}
 {"key": "empennage", "word": "empennage", "translation": "tail feathers", "note": "tail assembly; from penne (feather)"}
@@ -43654,7 +43654,7 @@
 {"key": "emphase", "word": "emphase", "translation": "emphasis", "note": "stress, force; from Greek"}
 {"key": "empilent", "word": "empilent", "translation": "pile up", "note": "pile, stack; regular -er verb"}
 {"key": "empiler", "word": "empiler", "translation": "stack", "note": "pile, stack; regular -er verb"}
-{"key": "empilez", "word": "Empilez", "translation": "Stack", "note": "pile, stack; regular -er verb"}
+{"key": "empilez", "word": "Empilez", "translation": "stack", "note": "pile, stack; regular -er verb"}
 {"key": "empirait", "word": "empirait", "translation": "was getting worse", "note": "getting worse (imparfait); from empirer"}
 {"key": "empiècements", "word": "empiècements", "translation": "inserts", "note": "sewing term: pieces sewn into a garment"}
 {"key": "empiètements", "word": "empiètements", "translation": "encroachments", "note": "encroachments; from empiéter (encroach)"}
@@ -43663,11 +43663,11 @@
 {"key": "empliront", "word": "empliront", "translation": "they will fill", "note": "fill; from emplir (to fill)"}
 {"key": "emplissant", "word": "emplissant", "translation": "filling", "note": "fill; from emplir (to fill)"}
 {"key": "emplissent", "word": "emplissent", "translation": "fill", "note": "fill; from emplir (to fill)"}
-{"key": "emplissez-la", "word": "Emplissez-la", "translation": "Fill it", "note": "fill; from emplir (to fill)"}
-{"key": "employaient", "word": "employaient", "translation": "employed", "note": "use, employ; regular -er verb"}
-{"key": "employait", "word": "employait", "translation": "employed", "note": "use, employ; regular -er verb"}
+{"key": "emplissez-la", "word": "Emplissez-la", "translation": "fill it", "note": "fill; from emplir (to fill)"}
+{"key": "employaient", "word": "employaient", "translation": "were employing", "note": "use, employ; regular -er verb"}
+{"key": "employait", "word": "employait", "translation": "was employing", "note": "use, employ; regular -er verb"}
 {"key": "employez-la", "word": "employez-la", "translation": "use it", "note": "use, employ; regular -er verb"}
-{"key": "employiez", "word": "employiez", "translation": "employed", "note": "use, employ; regular -er verb"}
+{"key": "employiez", "word": "employiez", "translation": "you were employing", "note": "use, employ; regular -er verb"}
 {"key": "employons", "word": "employons", "translation": "let's use", "note": "use, employ; regular -er verb"}
 {"key": "employèrent", "word": "employèrent", "translation": "employed", "note": "use, employ; regular -er verb"}
 {"key": "emplumées", "word": "emplumées", "translation": "feathered", "note": "feathered, adorned with feathers"}
@@ -43679,20 +43679,20 @@
 {"key": "empoisonnaient", "word": "empoisonnaient", "translation": "poisoned", "note": "were poisoning; imparfait of empoisonner"}
 {"key": "empoisonnant", "word": "empoisonnant", "translation": "poisoning", "note": "poisoning (present participle); from empoisonner"}
 {"key": "empoisonneurs", "word": "empoisonneurs", "translation": "poisoners", "note": "poisoners (plural noun)"}
-{"key": "empoisonnez", "word": "Empoisonnez", "translation": "Poison", "note": "poison (imperative); from empoisonner"}
-{"key": "empoissonner", "word": "Empoissonner", "translation": "Poison", "note": "appears in quest objective (Poison the pond)"}
+{"key": "empoisonnez", "word": "Empoisonnez", "translation": "poison", "note": "poison (imperative); from empoisonner"}
+{"key": "empoissonner", "word": "Empoissonner", "translation": "to stock with fish", "note": "appears in quest objective (Poison the pond)"}
 {"key": "emportera", "word": "emportera", "translation": "he/she will take away", "note": "carry away, take away; from emporter"}
 {"key": "emporterons", "word": "emporterons", "translation": "we will take away", "note": "carry away, take away; from emporter"}
-{"key": "emportez-en", "word": "Emportez-en", "translation": "Take some away", "note": "carry away, take away; from emporter"}
-{"key": "emportons-les", "word": "Emportons-les", "translation": "Let's take them away", "note": "carry away, take away; from emporter"}
+{"key": "emportez-en", "word": "Emportez-en", "translation": "take some away", "note": "carry away, take away; from emporter"}
+{"key": "emportons-les", "word": "Emportons-les", "translation": "let's take them away", "note": "carry away, take away; from emporter"}
 {"key": "emportèrent", "word": "emportèrent", "translation": "took away", "note": "carry away, take away; from emporter"}
 {"key": "empressement", "word": "empressement", "translation": "eagerness", "note": "eagerness, haste; from empresser"}
 {"key": "empresser", "word": "empresser", "translation": "hurry", "note": "to hurry, to hasten"}
 {"key": "emprisonnez", "word": "emprisonnez", "translation": "imprison", "note": "imprison (imperative)"}
 {"key": "emprunterons", "word": "emprunterons", "translation": "we will borrow", "note": "borrow, loan; from emprunter"}
 {"key": "empruntez-lui", "word": "empruntez-lui", "translation": "borrow from him", "note": "borrow, loan; from emprunter"}
-{"key": "empruntiez", "word": "empruntiez", "translation": "borrowed", "note": "borrow, loan; from emprunter"}
-{"key": "emprunts", "word": "Emprunts", "translation": "Loans", "note": "borrow, loan; from emprunter"}
+{"key": "empruntiez", "word": "empruntiez", "translation": "you were borrowing", "note": "borrow, loan; from emprunter"}
+{"key": "emprunts", "word": "Emprunts", "translation": "loans", "note": "borrow, loan; from emprunter"}
 {"key": "empruntées", "word": "empruntées", "translation": "borrowed", "note": "borrow, loan; from emprunter"}
 {"key": "empty", "word": "empty", "translation": "empty", "note": "English word in test quest; do not translate"}
 {"key": "empuantissent", "word": "empuantissent", "translation": "stink", "note": "stink, reek; from empuantir"}
@@ -43721,7 +43721,7 @@
 {"key": "encaissent", "word": "encaissent", "translation": "cash", "note": "cash, pocket (money); from encaisser"}
 {"key": "encapuchonnées", "word": "encapuchonnées", "translation": "hooded", "note": "hooded, wearing hoods"}
 {"key": "encastrée", "word": "encastrée", "translation": "recessed", "note": "recessed, embedded, set into"}
-{"key": "encensement", "word": "Encensement", "translation": "Censing", "note": "WoW quest name; gerund of censer (to cense/burn incense)"}
+{"key": "encensement", "word": "Encensement", "translation": "censing", "note": "WoW quest name; gerund of censer (to cense/burn incense)"}
 {"key": "encercle", "word": "encercle", "translation": "surrounds", "note": "present tense: the forest encircles/surrounds the tower"}
 {"key": "encerclerons", "word": "encerclerons", "translation": "we will encircle", "note": "will encircle; future tense"}
 {"key": "encerclées", "word": "encerclées", "translation": "surrounded", "note": "surrounded, encircled (feminine plural)"}
@@ -43743,7 +43743,7 @@
 {"key": "enclins", "word": "enclins", "translation": "inclined", "note": "inclined, prone to (adjective plural)"}
 {"key": "encodent", "word": "encodent", "translation": "encode", "note": "encode; they encode"}
 {"key": "encodé", "word": "encodé", "translation": "encoded", "note": "encoded (past participle)"}
-{"key": "encole", "word": "encole", "translation": "still", "note": "dialect spelling of encore (still/yet); found in playful speech"}
+{"key": "encole", "word": "encole", "translation": "glues; sizes", "note": "dialect spelling of encore (still/yet); found in playful speech"}
 {"key": "encombrant", "word": "encombrant", "translation": "bulky", "note": "bulky, cumbersome (adjective)"}
 {"key": "encombrantes", "word": "encombrantes", "translation": "bulky", "note": "bulky, cumbersome (feminine plural)"}
 {"key": "encombré", "word": "encombré", "translation": "cluttered", "note": "cluttered, encumbered (adjective)"}
@@ -43767,7 +43767,7 @@
 {"key": "endiablés", "word": "endiablés", "translation": "frenzied", "note": "wild, frenzied (masculine plural)"}
 {"key": "endoloris", "word": "endoloris", "translation": "sore", "note": "sore, aching; a treat for weary/sore eyes"}
 {"key": "endommage", "word": "endommage", "translation": "damages", "note": "damages; 3rd person singular present"}
-{"key": "endommagions", "word": "endommagions", "translation": "would damage", "note": "would damage; 1st person plural conditional"}
+{"key": "endommagions", "word": "endommagions", "translation": "we were damaging", "note": "would damage; 1st person plural conditional"}
 {"key": "endormira", "word": "endormira", "translation": "he/she will lull", "note": "will lull/put to sleep; metaphor for allaying suspicion"}
 {"key": "endossez", "word": "Endossez", "translation": "put on", "note": "put on (clothing); from endosser (to put on)"}
 {"key": "endroit-même", "word": "endroit-même", "translation": "same place", "note": "the very same place; endroit (place/right side)"}
@@ -43776,7 +43776,7 @@
 {"key": "enduits", "word": "enduits", "translation": "coatings", "note": "coatings, plasters (noun plural)"}
 {"key": "endurant", "word": "endurant", "translation": "enduring", "note": "enduring, hardy, resilient"}
 {"key": "endurcie", "word": "endurcie", "translation": "hardened", "note": "hardened, toughened (feminine)"}
-{"key": "endurcissez-vous", "word": "Endurcissez-vous", "translation": "Harden yourself", "note": "harden yourself, toughen up; reflexive imperative"}
+{"key": "endurcissez-vous", "word": "Endurcissez-vous", "translation": "harden yourself", "note": "harden yourself, toughen up; reflexive imperative"}
 {"key": "endure", "word": "endure", "translation": "endure", "note": "endure, suffer; infinitive"}
 {"key": "endurcit", "word": "endurcit", "translation": "hardens", "note": "hardens, toughens; 3rd person singular present"}
 {"key": "endurent", "word": "endurent", "translation": "endure", "note": "endure; 3rd person plural"}
@@ -43788,11 +43788,11 @@
 {"key": "enfantine", "word": "enfantine", "translation": "childish", "note": "childish, childlike (adjective feminine)"}
 {"key": "enfantines", "word": "enfantines", "translation": "childish", "note": "childish (feminine plural)"}
 {"key": "enfantés", "word": "enfantés", "translation": "begotten", "note": "past participle of enfanter (to give birth to/beget); not the noun children"}
-{"key": "enfermait", "word": "enfermait", "translation": "locked up", "note": "locked up; imparfait of enfermer"}
+{"key": "enfermait", "word": "enfermait", "translation": "was locking up", "note": "locked up; imparfait of enfermer"}
 {"key": "enferme", "word": "enferme", "translation": "locks up", "note": "locks up; 3rd person singular"}
-{"key": "enfermez-la", "word": "Enfermez-la", "translation": "Lock her up", "note": "lock her up; imperative"}
+{"key": "enfermez-la", "word": "Enfermez-la", "translation": "lock her up", "note": "lock her up; imperative"}
 {"key": "enferrés", "word": "enferrés", "translation": "locked up", "note": "locked up, imprisoned (past participle)"}
-{"key": "enfilez-le", "word": "Enfilez-le", "translation": "Put it on", "note": "put it on, thread it; imperative"}
+{"key": "enfilez-le", "word": "Enfilez-le", "translation": "put it on", "note": "put it on, thread it; imperative"}
 {"key": "enfiévrés", "word": "enfiévrés", "translation": "feverish", "note": "feverish, burning with fever (plural)"}
 {"key": "enflammeront", "word": "enflammeront", "translation": "they will ignite", "note": "will ignite, catch fire; future tense"}
 {"key": "enflent", "word": "enflent", "translation": "swell", "note": "swell, puff up; 3rd person plural"}
@@ -43803,16 +43803,16 @@
 {"key": "enfoncerons", "word": "enfoncerons", "translation": "let's sink", "note": "will sink, will drive in; future tense"}
 {"key": "enfoncez-le", "word": "enfoncez-le", "translation": "push it in", "note": "push it in, drive it in; imperative"}
 {"key": "enfoncez-lui", "word": "enfoncez-lui", "translation": "shove him", "note": "enfoncer = to thrust/shove forcefully; often used for violent action"}
-{"key": "enfonciez", "word": "enfonciez", "translation": "drove", "note": "s'enfoncer = to drive deeper; imparfait conveys ongoing action behind enemy lines"}
+{"key": "enfonciez", "word": "enfonciez", "translation": "you were driving in", "note": "s'enfoncer = to drive deeper; imparfait conveys ongoing action behind enemy lines"}
 {"key": "enfoncées", "word": "enfoncées", "translation": "pressed", "note": ""}
 {"key": "enfouit", "word": "enfouit", "translation": "buried", "note": ""}
 {"key": "enfourcher", "word": "enfourcher", "translation": "ride", "note": "enfourcher = to mount/straddle; ride a creature into battle"}
-{"key": "enfourchez-le", "word": "Enfourchez-le", "translation": "Ride it", "note": "imperative: mount this creature"}
+{"key": "enfourchez-le", "word": "Enfourchez-le", "translation": "ride it", "note": "imperative: mount this creature"}
 {"key": "enfourché", "word": "enfourché", "translation": "mounted", "note": "mounted/straddled; creature distorted by demon fire"}
 {"key": "enfoyer", "word": "enfoyer", "translation": "to embed", "note": ""}
 {"key": "enfoyez-lui", "word": "enfoyez-lui", "translation": "shove him", "note": "imperative + dative: action described in grotesque terms"}
 {"key": "enfrentarnos", "word": "enfrentarnos", "translation": "to confront us", "note": "Spanish: confrontar us; mistakenly included with French data"}
-{"key": "enfuite", "word": "Enfuite", "translation": "Then", "note": "Ensuite = next/then; context shows 'then we'll meet at festivities'"}
+{"key": "enfuite", "word": "Enfuite", "translation": "then", "note": "Ensuite = next/then; context shows 'then we'll meet at festivities'"}
 {"key": "enfumées", "word": "enfumées", "translation": "smokey", "note": "enfumé = smoke-shrouded; literal name of mountainous terrain"}
 {"key": "engageants", "word": "engageants", "translation": "engaging", "note": "engageant = attractive/appealing; sketches of Dracthyrs enjoying themselves"}
 {"key": "engagent", "word": "engagent", "translation": "engage", "note": "engager = to engage/commit; enemies enter rage at desolation"}
@@ -43824,7 +43824,7 @@
 {"key": "engorgé", "word": "engorgé", "translation": "engorged", "note": "engorger = to swell with; heart swollen with demonic substance"}
 {"key": "engouffrerons", "word": "engouffrerons", "translation": "we will engulf", "note": "engouffrer = to devour/engulf; we will cleanse our lands"}
 {"key": "engourdissement", "word": "engourdissement", "translation": "numbness", "note": "engourdir = to numb; describes the soothing effect"}
-{"key": "engrais", "word": "Engrais", "translation": "Fertilizer", "note": "engrais = fertilizer; compound word, smelly variant"}
+{"key": "engrais", "word": "Engrais", "translation": "fertilizer", "note": "engrais = fertilizer; compound word, smelly variant"}
 {"key": "engranger", "word": "engranger", "translation": "reap", "note": "engranger = to harvest/reap grain; storage as reward"}
 {"key": "engraissée", "word": "engraissée", "translation": "fattened", "note": "engraisser = to fatten/overfeed; pig ate his vegetables"}
 {"key": "engrenaressort", "word": "Engrenaressort", "translation": "Gearspring", "note": "proper noun: Gearspring (location or device name)"}
@@ -43833,13 +43833,13 @@
 {"key": "enim", "word": "enim", "translation": "indeed", "note": "Latin: enim = for/indeed; appears in corrupted Lorem Ipsum text"}
 {"key": "enivrant", "word": "enivrant", "translation": "intoxicating", "note": "enivrant = intoxicating; fragrant spice with heady aroma"}
 {"key": "enivrent", "word": "enivrent", "translation": "intoxicate", "note": "enivrer = to intoxicate; mermaids' song clouds men's minds"}
-{"key": "enjambant", "word": "Enjambant", "translation": "Spanning", "note": "enjamber = to span/stride over; riddle about a bridge"}
+{"key": "enjambant", "word": "Enjambant", "translation": "spanning", "note": "enjamber = to span/stride over; riddle about a bridge"}
 {"key": "enjamber", "word": "enjamber", "translation": "step over", "note": "enjamber = to stride over/cross; vision of lightning"}
 {"key": "enjeu", "word": "enjeu", "translation": "stake", "note": "enjeu = stake/at-issue; fate of the battle at stake"}
 {"key": "enjoint", "word": "enjoint", "translation": "enjoined", "note": "enjoindre = to enjoin/command (archaic); ritual bound by ancient law"}
 {"key": "enjouée", "word": "enjouée", "translation": "cheerful", "note": "enjoué = cheerful/playful; the soul's disposition toward action"}
 {"key": "enlevant", "word": "enlevant", "translation": "abducting", "note": "enlever = to carry off/abduct; officers taken from their posts"}
-{"key": "enlevez-leur", "word": "Enlevez-leur", "translation": "Take away from them", "note": "imperative: remove armor plates from the beasts"}
+{"key": "enlevez-leur", "word": "Enlevez-leur", "translation": "take away from them", "note": "imperative: remove armor plates from the beasts"}
 {"key": "enlisés", "word": "enlisés", "translation": "bogged down", "note": "enliser = to bog down; depths of knowledge became trap"}
 {"key": "enlèverait", "word": "enlèverait", "translation": "he/she would remove", "note": "conditional: would take away/remove our preparation"}
 {"key": "enlèverez", "word": "enlèverez", "translation": "you will remove", "note": "future: items you remove go to your storage"}
@@ -43851,7 +43851,7 @@
 {"key": "enquiquine", "word": "enquiquine", "translation": "annoys", "note": "enquiquiner = colloquial for pester/annoy; verb form, not adjective"}
 {"key": "enquiquineur", "word": "enquiquineur", "translation": "pest", "note": "one who annoys/pesters; 'petit enquiquineur' = little pest"}
 {"key": "enquiquineuses", "word": "enquiquineuses", "translation": "pests", "note": "feminine plural: pests/annoyances; not an adjective here"}
-{"key": "enquêtiez", "word": "enquêtiez", "translation": "investigate", "note": "subjunctive: (that) you investigate the Night Elf presence"}
+{"key": "enquêtiez", "word": "enquêtiez", "translation": "you were investigating", "note": "subjunctive: (that) you investigate the Night Elf presence"}
 {"key": "enquêté", "word": "enquêté", "translation": "investigated", "note": "passé composé: Council has investigated the threats"}
 {"key": "enraciner", "word": "enraciner", "translation": "root", "note": "enraciner = to establish roots; magic essence grounds the flower"}
 {"key": "enrage", "word": "enrage", "translation": "rages", "note": "rageous = to rage/to be angry; silent rage, not a noun"}
@@ -43872,8 +43872,8 @@
 {"key": "enrober", "word": "enrober", "translation": "coat", "note": "enrober = to coat/cloak; oracle tends the murloc egg"}
 {"key": "enrobé", "word": "enrobé", "translation": "coated", "note": "enrobé = coated/cloaked; dream of place wrapped in white"}
 {"key": "enroulent", "word": "enroulent", "translation": "wind", "note": "enrouler = to roll/wind around; sporopteres wrap around prey"}
-{"key": "enrouler", "word": "Enrouler", "translation": "Roll up", "note": "enrouler = to roll up; activate the grip and wrap the haft"}
-{"key": "enrouliez", "word": "enrouliez", "translation": "roll up", "note": "imparfait: you were rolling/wrapping things"}
+{"key": "enrouler", "word": "Enrouler", "translation": "roll up", "note": "enrouler = to roll up; activate the grip and wrap the haft"}
+{"key": "enrouliez", "word": "enrouliez", "translation": "you were rolling up", "note": "imparfait: you were rolling/wrapping things"}
 {"key": "enrôle", "word": "enrôle", "translation": "enlist", "note": "enrôler = to enlist/enroll; valley sealed, citizens cannot leave"}
 {"key": "enrôlons", "word": "enrôlons", "translation": "let's enlist", "note": "enrôler = to enlist; let us take in those who choose healing"}
 {"key": "enrôlée", "word": "enrôlée", "translation": "enlisted", "note": "enrôlée = enlisted; sister forced into Shadow Guard service"}
@@ -43893,7 +43893,7 @@
 {"key": "ensevelissait", "word": "ensevelissait", "translation": "buried", "note": "imparfait: beast buried us under wave of chaos"}
 {"key": "ensoleillée", "word": "ensoleillée", "translation": "sunny", "note": "ensoleillé = sunny; Darkshore never bright, now darkened"}
 {"key": "ensoleillés", "word": "ensoleillés", "translation": "sunny", "note": "ensoleillés = sunny; secret of devotion in sunlit gardens"}
-{"key": "ensorcelant", "word": "Ensorcelant", "translation": "Bewitching", "note": "proper noun/title: Bewitching, likely a name or status"}
+{"key": "ensorcelant", "word": "Ensorcelant", "translation": "bewitching", "note": "proper noun/title: Bewitching, likely a name or status"}
 {"key": "ensorceleuse", "word": "ensorceleuse", "translation": "sorceress", "note": "feminine form: woman sorcerer, not gender-neutral"}
 {"key": "ensorcellent", "word": "ensorcellent", "translation": "bewitch", "note": "ensorceller = to bewitch; Azshara's creatures enslave minds"}
 {"key": "ensorcelées", "word": "ensorcelées", "translation": "bewitched", "note": "ensorcelées = bewitched; caches filled with dark magic"}
@@ -43905,31 +43905,31 @@
 {"key": "entamerez", "word": "entamerez", "translation": "you will begin", "note": "future: you will begin the Horde assault"}
 {"key": "entamée", "word": "entamée", "translation": "started", "note": "entamée = started/begun; cocoon harvest now underway"}
 {"key": "entari", "word": "Entari", "translation": "Entari", "note": "proper noun: Entari (NPC name or people name)"}
-{"key": "entassez", "word": "Entassez", "translation": "Pile up", "note": "imperative: pile up the goods/enemies"}
+{"key": "entassez", "word": "Entassez", "translation": "pile up", "note": "imperative: pile up the goods/enemies"}
 {"key": "entassé", "word": "entassé", "translation": "piled up", "note": "entassé = piled up; equipment stolen by Frigbolds"}
 {"key": "entendeur", "word": "entendeur", "translation": "hearer", "note": "entendre = to understand; one who understands (archaic)"}
 {"key": "entendez-moi", "word": "entendez-moi", "translation": "hear me", "note": "imperative: hear my call, elements of Azeroth"}
 {"key": "entendez-vous", "word": "entendez-vous", "translation": "do you hear", "note": "do you hear: Albert asks if he's alone"}
-{"key": "entendiez", "word": "entendiez", "translation": "heard", "note": "imparfait: if you heard the roar from that cavern"}
+{"key": "entendiez", "word": "entendiez", "translation": "you were hearing", "note": "imparfait: if you heard the roar from that cavern"}
 {"key": "entendit", "word": "entendit", "translation": "heard", "note": "passé simple: people heard the call from the stars"}
 {"key": "entendrait", "word": "entendrait", "translation": "he/she would hear", "note": "conditional: the damaged mask's sounds if it were whole"}
 {"key": "enterrerons", "word": "enterrerons", "translation": "we will bury", "note": "future tense: nous + future = we will; not hortative"}
 {"key": "enterrez", "word": "enterrez", "translation": "bury", "note": "imperative: bury the rest (with caution)"}
-{"key": "enterrez-les", "word": "Enterrez-les", "translation": "Bury them", "note": "imperative: bury them in the demolition site"}
+{"key": "enterrez-les", "word": "Enterrez-les", "translation": "bury them", "note": "imperative: bury them in the demolition site"}
 {"key": "enterrons", "word": "enterrons", "translation": "let's bury", "note": "present: we bury the pots for kimchi fermentation"}
 {"key": "enterrées", "word": "enterrées", "translation": "buried", "note": "enterrées = buried; souls ground to dust in Maw"}
 {"key": "enthousiasmant", "word": "enthousiasmant", "translation": "exciting", "note": "enthousiasmant = exciting/thrilling; new era of foreigners"}
 {"key": "entoiler", "word": "entoiler", "translation": "to web", "note": "from toile = web; spiders wrapping limbs in silk"}
 {"key": "entonner", "word": "entonner", "translation": "intone", "note": "entonner = to intone/chant; glory days recalled in story"}
-{"key": "entonnez-le", "word": "Entonnez-le", "translation": "Sing it", "note": "imperative: sing the song of Zandalari power"}
+{"key": "entonnez-le", "word": "Entonnez-le", "translation": "sing it", "note": "imperative: sing the song of Zandalari power"}
 {"key": "entortillé", "word": "entortillé", "translation": "twisted", "note": "entortillé = twisted/coiled; corpse wrapped in vines"}
 {"key": "entouraient", "word": "entouraient", "translation": "surrounded", "note": "imparfait: influences surrounded her childhood"}
 {"key": "entourez-vous", "word": "entourez-vous", "translation": "surround yourself", "note": "imperative: surround yourself with the strongest"}
 {"key": "entourloupeurs", "word": "entourloupeurs", "translation": "tricksters", "note": "entourloupeur = trickster/charlatan; spriggans cause chaos"}
-{"key": "entourtage", "word": "Entourtage", "translation": "Entourage", "note": "entourage = retinue/court; proper noun compound"}
+{"key": "entourtage", "word": "Entourtage", "translation": "entourage", "note": "entourage = retinue/court; proper noun compound"}
 {"key": "entourées", "word": "entourées", "translation": "surrounded", "note": "entourées = surrounded; stones surrounded by empty nods"}
-{"key": "entraide", "word": "Entraide", "translation": "Mutual aid", "note": "entraide = mutual aid/cooperation; community help"}
-{"key": "entraidions", "word": "entraidions", "translation": "helped each other", "note": "imparfait reflexive: nous nous aidions = we were helping each other"}
+{"key": "entraide", "word": "Entraide", "translation": "mutual aid", "note": "entraide = mutual aid/cooperation; community help"}
+{"key": "entraidions", "word": "entraidions", "translation": "we were helping each other", "note": "imparfait reflexive: nous nous aidions = we were helping each other"}
 {"key": "entraient", "word": "entraient", "translation": "were entering", "note": "imparfait: pirates were entering the vaults"}
 {"key": "entravant", "word": "entravant", "translation": "hindering", "note": "entravant = hindering/obstructing; crimes against edicts"}
 {"key": "entraverait", "word": "entraverait", "translation": "he/she would hinder", "note": "conditional: destruction would hinder the enemy strategy"}
@@ -43943,7 +43943,7 @@
 {"key": "entrecoupés", "word": "entrecoupés", "translation": "interspersed", "note": "entrecoupé = interspersed/interrupted; roars mixed with screams"}
 {"key": "entrelacé", "word": "entrelacé", "translation": "intertwined", "note": "entrelacé = intertwined; dreams show past enemies"}
 {"key": "entrelacées", "word": "entrelacées", "translation": "intertwined", "note": "entrelacées = intertwined; ancient magic woven into gem"}
-{"key": "entremise", "word": "Entremise", "translation": "Intermediary", "note": "entremise = intermediary/mediation; proper noun compound"}
+{"key": "entremise", "word": "Entremise", "translation": "intermediary", "note": "entremise = intermediary/mediation; proper noun compound"}
 {"key": "entremêlées", "word": "entremêlées", "translation": "intertwined", "note": "entremêlées = intertwined/mixed; souls bound together"}
 {"key": "entreposeront", "word": "entreposeront", "translation": "they will store", "note": "future: workers will store supplies in fortress"}
 {"key": "entreposez", "word": "entreposez", "translation": "store", "note": "imperative: store the anima/resources for Silvermoon"}
@@ -43958,7 +43958,7 @@
 {"key": "entretiendrait", "word": "entretiendrait", "translation": "he/she would maintain", "note": "conditional mood; polite or hypothetical maintenance"}
 {"key": "entretienne", "word": "entretienne", "translation": "maintain", "note": "subjunctive; whether you maintain something (used after 'que' or similar)"}
 {"key": "entrevoit", "word": "entrevoit", "translation": "glimpses; makes out", "note": "third person singular; to catch sight of something briefly or dimly"}
-{"key": "entrez-y", "word": "Entrez-y", "translation": "Enter it", "note": "command; go in there, come inside"}
+{"key": "entrez-y", "word": "Entrez-y", "translation": "enter it", "note": "command; go in there, come inside"}
 {"key": "entropique", "word": "entropique", "translation": "entropic", "note": "adjective form of entropy; disorder or decay in technical/magical contexts"}
 {"key": "entrouvre", "word": "entrouvre", "translation": "half-opens", "note": "verb; slightly ajar, partially opens (suggests vulnerability or hesitation)"}
 {"key": "ents", "word": "ents", "translation": "creatures", "note": "context lost but likely forest creatures or beings; if untranslated is placeholder"}
@@ -43988,21 +43988,21 @@
 {"key": "envisage", "word": "envisage", "translation": "considers; envisions", "note": "third person or first person present; to look at or contemplate"}
 {"key": "envisagerait", "word": "envisagerait", "translation": "he/she would consider", "note": "conditional; might look at or think about"}
 {"key": "envisagez", "word": "envisagez", "translation": "consider; examine", "note": "imperative or second person plural present"}
-{"key": "envisagiez", "word": "envisagiez", "translation": "considered", "note": "imperfect second person plural; were you looking at or thinking about"}
+{"key": "envisagiez", "word": "envisagiez", "translation": "you were considering", "note": "imperfect second person plural; were you looking at or thinking about"}
 {"key": "envisagions", "word": "envisagions", "translation": "were considering", "note": "imperfect first person plural; we were contemplating"}
 {"key": "envoi", "word": "Envoi", "translation": "sending; dispatch", "note": "noun; act of sending or mail shipment"}
 {"key": "envole-moi", "word": "Envole-moi", "translation": "whisk me away; carry me off", "note": "imperative; take flight with me, let's fly away"}
-{"key": "envoyais", "word": "envoyais", "translation": "sent; was sending", "note": "imperfect first person; I used to send or was sending"}
+{"key": "envoyais", "word": "envoyais", "translation": "I/you were sending", "note": "imperfect first person; I used to send or was sending"}
 {"key": "envoyez-la", "word": "envoyez-la", "translation": "send it; send her", "note": "imperative with object pronoun; dispatch that thing"}
 {"key": "envoyez-le-moi", "word": "envoyez-le-moi", "translation": "send it to me", "note": "imperative double pronoun; get that to me"}
 {"key": "envoyez-lui", "word": "envoyez-lui", "translation": "send him; send her", "note": "imperative; dispatch to that person"}
-{"key": "envoyiez", "word": "envoyiez", "translation": "sent", "note": "imperfect second person plural; were you dispatching"}
+{"key": "envoyiez", "word": "envoyiez", "translation": "you were sending", "note": "imperfect second person plural; were you dispatching"}
 {"key": "envoyons-leur", "word": "Envoyons-leur", "translation": "let's send them", "note": "first person plural hortative; come on, dispatch to them"}
 {"key": "envoûté", "word": "envoûté", "translation": "bewitched; enchanted", "note": "past participle; cursed or put under a spell"}
 {"key": "enzo", "word": "Enzo", "translation": "Enzo", "note": "proper name; NPC or character name in game"}
 {"key": "eonar", "word": "Eonar", "translation": "Eonar", "note": "proper name; WoW deity or Titan name (English same)"}
 {"key": "epaulettes", "word": "Epaulettes", "translation": "shoulder decorations; epaulettes", "note": "French military or formal wear; decorative shoulder pieces"}
-{"key": "era", "word": "era", "translation": "era; age", "note": "Spanish word in French context; historical period or epoch"}
+{"key": "era", "word": "era", "translation": "was (Spanish)", "note": "Spanish word in French context; historical period or epoch"}
 {"key": "ephram", "word": "Ephram", "translation": "Ephram", "note": "proper name; NPC character"}
 {"key": "erat", "word": "erat", "translation": "erat", "note": "Latin placeholder text; Lorem ipsum dummy word"}
 {"key": "erdanii", "word": "Erdanii", "translation": "Erdanii", "note": "proper noun; creature or race name (untranslated, check lore)"}
@@ -44015,7 +44015,7 @@
 {"key": "erma", "word": "Erma", "translation": "Erma", "note": "proper name; NPC stable master or keeper"}
 {"key": "ernie", "word": "Ernie", "translation": "Ernie", "note": "proper name; NPC character (Ernie the Crazy, alchemist)"}
 {"key": "erozion", "word": "Erozion", "translation": "Erozion", "note": "proper noun; time period or zone name (check spelling: Erosion?)"}
-{"key": "errait", "word": "errait", "translation": "wandered", "note": "imperfect third person; was roaming or straying"}
+{"key": "errait", "word": "errait", "translation": "was wandering", "note": "imperfect third person; was roaming or straying"}
 {"key": "erreront", "word": "erreront", "translation": "they will wander", "note": "future third person plural; they shall stray or roam"}
 {"key": "erris", "word": "Erris", "translation": "Erris", "note": "proper name; NPC trainer character"}
 {"key": "erronés", "word": "erronés", "translation": "wrong; erroneous", "note": "masculine plural adjective; incorrect or mistaken information"}
@@ -44040,14 +44040,14 @@
 {"key": "escobar", "word": "Escobar", "translation": "Escobar", "note": "proper name; NPC character"}
 {"key": "escogriffe", "word": "escogriffe", "translation": "great lout; tall lanky fellow", "note": "noun; a tall, awkward person (Umboda is described this way)"}
 {"key": "escopette", "word": "escopette", "translation": "blunderbuss; musket", "note": "noun; a short firearm with flared muzzle"}
-{"key": "escortait", "word": "escortait", "translation": "escorted", "note": "imperfect third person; was accompanying or leading"}
+{"key": "escortait", "word": "escortait", "translation": "was escorting", "note": "imperfect third person; was accompanying or leading"}
 {"key": "escorterez", "word": "escorterez", "translation": "you will escort", "note": "future second person; you shall guide or accompany"}
 {"key": "escorterons", "word": "escorterons", "translation": "we will escort", "note": "future first person plural; we shall accompany"}
-{"key": "escortez-les", "word": "Escortez-les", "translation": "Escort them", "note": "imperative; guide them safely"}
-{"key": "escortez-moi", "word": "Escortez-moi", "translation": "Escort me", "note": "imperative; accompany me"}
+{"key": "escortez-les", "word": "Escortez-les", "translation": "escort them", "note": "imperative; guide them safely"}
+{"key": "escortez-moi", "word": "Escortez-moi", "translation": "escort me", "note": "imperative; accompany me"}
 {"key": "escortez-nous", "word": "escortez-nous", "translation": "escort us", "note": "imperative; guide us to safety"}
 {"key": "escortez-y", "word": "Escortez-y", "translation": "Escort there; guide to it", "note": "imperative with adverbial pronoun; take to that place"}
-{"key": "escortions", "word": "escortions", "translation": "escort; accompany", "note": "imperfect or conditional first person plural"}
+{"key": "escortions", "word": "escortions", "translation": "we were escorting", "note": "imperfect or conditional first person plural"}
 {"key": "escortons", "word": "escortons", "translation": "let's escort", "note": "first person plural hortative or present"}
 {"key": "escorté", "word": "escorté", "translation": "escorted", "note": "past participle; accompanied or guarded"}
 {"key": "esfuerzos", "word": "esfuerzos", "translation": "efforts", "note": "Spanish plural; hard work or endeavors (Spanish word in French context)"}
@@ -44057,7 +44057,7 @@
 {"key": "esparzan", "word": "esparzan", "translation": "esparzan", "note": "untranslated Spanish word; unclear meaning in context"}
 {"key": "especial", "word": "especial", "translation": "special", "note": "Spanish adjective; particular or noteworthy"}
 {"key": "especiales", "word": "especiales", "translation": "special", "note": "Spanish plural adjective; particular or distinctive"}
-{"key": "espionnait", "word": "espionnait", "translation": "spied", "note": "imperfect third person; was spying or watching secretly"}
+{"key": "espionnait", "word": "espionnait", "translation": "was spying", "note": "imperfect third person; was spying or watching secretly"}
 {"key": "espionnez", "word": "espionnez", "translation": "spy", "note": "imperative or second person plural; watch covertly"}
 {"key": "espionnons", "word": "espionnons", "translation": "let's spy", "note": "first person plural hortative; come on, let's scout"}
 {"key": "espiègles", "word": "espiègles", "translation": "mischievous; playful", "note": "adjective; naughty or impish in a harmless way"}
@@ -44105,12 +44105,12 @@
 {"key": "euphoriques", "word": "euphoriques", "translation": "euphoric", "note": "plural adjective; exhilarating, enraptured"}
 {"key": "euphorite", "word": "euphorite", "translation": "euphorite", "note": ""}
 {"key": "eurk", "word": "Eurk", "translation": "Eurk", "note": ""}
-{"key": "eurêka", "word": "Eurêka", "translation": "Eureka", "note": "exclamation of discovery; a town name in WoW"}
+{"key": "eurêka", "word": "Eurêka", "translation": "eureka", "note": "exclamation of discovery; a town name in WoW"}
 {"key": "eus", "word": "eus", "translation": "had", "note": "past tense of avoir (to have); nous avons eus = those we had"}
-{"key": "eut", "word": "eut", "translation": "was", "note": "past tense of être; il n'y eut aucun survivant = there was no survivor"}
+{"key": "eut", "word": "eut", "translation": "had", "note": "past tense of être; il n'y eut aucun survivant = there was no survivor"}
 {"key": "euuuh", "word": "euuuh", "translation": "uh", "note": "hesitation sound, filler; spoken dialogue"}
 {"key": "euuh", "word": "euuh", "translation": "uh", "note": "hesitation sound; informal speech"}
-{"key": "euuuuh", "word": "Euuuuh", "translation": "Uh", "note": "hesitation with capitalization for dialogue"}
+{"key": "euuuuh", "word": "Euuuuh", "translation": "uh", "note": "hesitation with capitalization for dialogue"}
 {"key": "euuuuurp", "word": "euuuuurp", "translation": "burp", "note": "onomatopoeia; a belch sound"}
 {"key": "eux-seuls", "word": "eux-seuls", "translation": "only them", "note": "them alone; compound with eux (them) + seuls (only)"}
 {"key": "evenar", "word": "Evenar", "translation": "Evenar", "note": ""}
@@ -44175,7 +44175,7 @@
 {"key": "exogène", "word": "exogène", "translation": "exogenous", "note": "external origin; coming from outside"}
 {"key": "exorbitante", "word": "exorbitante", "translation": "exorbitant", "note": "feminine adjective; excessive, unreasonable"}
 {"key": "exorbitantes", "word": "exorbitantes", "translation": "exorbitant", "note": "feminine plural adjective; excessive in price/amount"}
-{"key": "exosquelette", "word": "Exosquelette", "translation": "Exoskeleton", "note": "external skeleton; armor-like covering"}
+{"key": "exosquelette", "word": "Exosquelette", "translation": "exoskeleton", "note": "external skeleton; armor-like covering"}
 {"key": "exosquelettes", "word": "exosquelettes", "translation": "exoskeletons", "note": "plural noun; external protective shells"}
 {"key": "expertement", "word": "expertement", "translation": "expertly", "note": "adverb; skillfully, with expertise"}
 {"key": "expiez", "word": "Expiez", "translation": "atone", "note": "imperative verb; expiate, make amends"}
@@ -44184,7 +44184,7 @@
 {"key": "explicite", "word": "explicite", "translation": "explicit", "note": "adjective; clearly stated, unambiguous"}
 {"key": "expliquerez", "word": "expliquerez", "translation": "you will explain", "note": "future tense; you will clarify"}
 {"key": "expliqueront", "word": "expliqueront", "translation": "they will explain", "note": "future plural; they will clarify"}
-{"key": "expliquez-leur", "word": "Expliquez-leur", "translation": "Explain to them", "note": "imperative with pronoun; tell them"}
+{"key": "expliquez-leur", "word": "Expliquez-leur", "translation": "explain to them", "note": "imperative with pronoun; tell them"}
 {"key": "expliquons", "word": "expliquons", "translation": "let's explain", "note": "subjunctive; we explain"}
 {"key": "explogénieurs", "word": "explogénieurs", "translation": "explogineer", "note": "goblin portmanteau: explosion + engineer; explosive specialist"}
 {"key": "exploitant", "word": "exploitant", "translation": "operator", "note": "masculine noun; one who operates or works"}
@@ -44201,15 +44201,15 @@
 {"key": "explose-fortin", "word": "explose-fortin", "translation": "explose-fortin", "note": "proper name; explosive device compound"}
 {"key": "explose-tonneau", "word": "explose-tonneau", "translation": "explose-tonneau", "note": "proper name; barrel-explosive compound"}
 {"key": "exploseront", "word": "exploseront", "translation": "they will explode", "note": "future tense; they will detonate"}
-{"key": "explosez", "word": "Explosez", "translation": "Explode", "note": "imperative; blow up, detonate"}
+{"key": "explosez", "word": "Explosez", "translation": "explode", "note": "imperative; blow up, detonate"}
 {"key": "explosez-moi", "word": "explosez-moi", "translation": "blow me up", "note": "imperative with pronoun; explode on me"}
-{"key": "explosivité", "word": "Explosivité", "translation": "Explosiveness", "note": "noun; the quality of being explosive"}
+{"key": "explosivité", "word": "Explosivité", "translation": "explosiveness", "note": "noun; the quality of being explosive"}
 {"key": "exploz", "word": "Exploz", "translation": "Exploz", "note": ""}
 {"key": "exponentiel", "word": "exponentiel", "translation": "exponential", "note": "adjective; growing at increasing rate"}
 {"key": "exposent", "word": "exposent", "translation": "expose", "note": "present tense plural; they reveal, display"}
 {"key": "exposera", "word": "exposera", "translation": "he/she will expose", "note": "future tense; will reveal, lay bare"}
 {"key": "exposez", "word": "exposez", "translation": "expose", "note": "imperative; reveal, show"}
-{"key": "exposez-lui", "word": "Exposez-lui", "translation": "Show him", "note": "imperative with pronoun; reveal to him"}
+{"key": "exposez-lui", "word": "Exposez-lui", "translation": "show him", "note": "imperative with pronoun; reveal to him"}
 {"key": "exposiez", "word": "exposiez", "translation": "expose", "note": "conditional or imperfect; you all expose"}
 {"key": "exposons", "word": "exposons", "translation": "let's expose", "note": "subjunctive; we reveal"}
 {"key": "expressions", "word": "expressions", "translation": "expressions", "note": "plural noun; phrases, ways of speaking"}
@@ -44217,16 +44217,16 @@
 {"key": "exprimons", "word": "exprimons", "translation": "let's express", "note": "subjunctive; we state, we voice"}
 {"key": "expulse", "word": "expulse", "translation": "expels", "note": "present tense third person; forces out, ejects"}
 {"key": "expulsés", "word": "expulsés", "translation": "expelled", "note": "masculine plural past participle; forced out"}
-{"key": "expurger", "word": "Expurger", "translation": "Expurge", "note": "purge, cleanse; remove corruption"}
+{"key": "expurger", "word": "Expurger", "translation": "expurge", "note": "purge, cleanse; remove corruption"}
 {"key": "expurgées", "word": "expurgées", "translation": "purged", "note": "feminine plural past participle; cleansed, expunged"}
 {"key": "expédients", "word": "expédients", "translation": "expedients", "note": "makeshift means, informal methods; plural noun"}
 {"key": "expédierai", "word": "expédierai", "translation": "I will send", "note": "future tense; will dispatch"}
-{"key": "expédions", "word": "Expédions", "translation": "Shipments", "note": "noun plural; goods sent, or let's ship"}
+{"key": "expédions", "word": "Expédions", "translation": "we send; let's send", "note": "noun plural; goods sent, or let's ship"}
 {"key": "expéditeurs", "word": "expéditeurs", "translation": "messengers", "note": "plural noun; those who send or deliver"}
 {"key": "expéditives", "word": "expéditives", "translation": "expeditious", "note": "feminine plural adjective; swift, prompt"}
 {"key": "expédiés", "word": "expédiés", "translation": "sent", "note": "masculine plural past participle; dispatched"}
 {"key": "expérimentateur", "word": "expérimentateur", "translation": "experimenter", "note": "masculine noun; one who experiments"}
-{"key": "expérimentation", "word": "Expérimentation", "translation": "Experimentation", "note": "noun; testing, trial process"}
+{"key": "expérimentation", "word": "Expérimentation", "translation": "experimentation", "note": "noun; testing, trial process"}
 {"key": "exsangue", "word": "exsangue", "translation": "bloodless", "note": "drained of blood; pale, lifeless"}
 {"key": "exsangues", "word": "exsangues", "translation": "bloodless", "note": "masculine plural; drained of vitality"}
 {"key": "exsudation", "word": "exsudation", "translation": "exudation", "note": "seeping, oozing; medical/botanical term"}
@@ -44234,15 +44234,15 @@
 {"key": "extase", "word": "extase", "translation": "ecstasy", "note": "noun; state of rapture, joy"}
 {"key": "extensible", "word": "extensible", "translation": "stretchable", "note": "adjective; able to extend, flexible"}
 {"key": "extermina", "word": "extermina", "translation": "exterminated", "note": "past tense; wiped out, destroyed"}
-{"key": "exterminons-les", "word": "Exterminons-les", "translation": "Let's exterminate them", "note": "imperative; eradicate, wipe them out"}
+{"key": "exterminons-les", "word": "Exterminons-les", "translation": "let's exterminate them", "note": "imperative; eradicate, wipe them out"}
 {"key": "exterminée", "word": "exterminée", "translation": "exterminated", "note": "feminine past participle; completely destroyed"}
 {"key": "exterminées", "word": "exterminées", "translation": "exterminated", "note": "feminine plural past participle; wiped out"}
-{"key": "extirpez", "word": "Extirpez", "translation": "Extirpate", "note": "imperative; root out, remove completely"}
+{"key": "extirpez", "word": "Extirpez", "translation": "extirpate", "note": "imperative; root out, remove completely"}
 {"key": "extorquent", "word": "extorquent", "translation": "extort", "note": "present tense; wring out by force"}
 {"key": "extra-corporelle", "word": "extra-corporelle", "translation": "extracorporeal", "note": "outside the body; out-of-body experience"}
 {"key": "extra-forte", "word": "extra-forte", "translation": "extra strong", "note": "compound adjective; stronger than normal"}
 {"key": "extra-solide", "word": "extra-solide", "translation": "extra strong", "note": "compound adjective; extra sturdy"}
-{"key": "extract", "word": "Extract", "translation": "Remove", "note": "in English context about gems; pull out, take from"}
+{"key": "extract", "word": "Extract", "translation": "remove", "note": "in English context about gems; pull out, take from"}
 {"key": "extractores", "word": "extractores", "translation": "extractors", "note": "Spanish form; those who extract"}
 {"key": "extrafines", "word": "extrafines", "translation": "extrafine", "note": "feminine plural adjective; very fine, delicate"}
 {"key": "extraient-ils", "word": "extraient-ils", "translation": "do they extract", "note": "present tense question form; are they mining"}
@@ -44252,7 +44252,7 @@
 {"key": "extraplanaire", "word": "extraplanaire", "translation": "extraplanar", "note": "adjective; from beyond this plane of existence"}
 {"key": "extraterrestre", "word": "extraterrestre", "translation": "alien", "note": "noun/adjective; from another world"}
 {"key": "extravagants", "word": "extravagants", "translation": "extravagant", "note": "masculine plural adjective; excessive, wasteful"}
-{"key": "extrayaient", "word": "extrayaient", "translation": "extracted", "note": "past tense of extraire"}
+{"key": "extrayaient", "word": "extrayaient", "translation": "were extracting", "note": "past tense of extraire"}
 {"key": "extrayant", "word": "extrayant", "translation": "extracting", "note": "present participle"}
 {"key": "extrayez-en", "word": "extrayez-en", "translation": "extract some", "note": "imperative with pronoun"}
 {"key": "extrêment", "word": "extrêment", "translation": "extremely", "note": "archaic spelling"}
@@ -44279,7 +44279,7 @@
 {"key": "fabriques", "word": "fabriques", "translation": "factories", "note": "manufacturing plants"}
 {"key": "fabriquez-vous", "word": "Fabriquez-vous", "translation": "are you making", "note": "interrogative present"}
 {"key": "fabriquiez", "word": "fabriquiez", "translation": "you were making", "note": "imperfect tense"}
-{"key": "fabriquions", "word": "fabriquions", "translation": "we would make", "note": "conditional"}
+{"key": "fabriquions", "word": "fabriquions", "translation": "we were making", "note": "conditional"}
 {"key": "fac-similé", "word": "fac-similé", "translation": "replica", "note": "facsimile; exact copy"}
 {"key": "face-de-lait", "word": "face-de-lait", "translation": "pale face", "note": "pale-faced one"}
 {"key": "face-d’ogre", "word": "Face-d’ogre", "translation": "Ogreface", "note": "proper name"}
