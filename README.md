@@ -2,7 +2,7 @@
 
 Learning French from quests is great until every second sentence sends you to a translator.
 
-This is a ready-made French→English glossary built from real quest text, so the words you click already have a meaning waiting. **70,296 words.**
+This is a ready-made French→English glossary built from real quest text, so the words you click already have a meaning waiting. **70,326 words.**
 
 ## Install
 
@@ -19,7 +19,7 @@ This dictionary is read only when its language is the one you are learning, so h
 
 ## Good to know
 
-These translations are machine-made. They will get you through a quest, but expect the odd word to be off — a name translated literally, or the wrong sense of a word that has several. Fix any of them as you go; your edit sticks.
+These translations started as machine output and have since been read through and corrected by hand: the 9,200 most frequent words, and the rarer words after them, proper names excepted. Expect the odd word to be off all the same — a name translated literally, or the wrong sense of a word that has several. Fix any of them as you go; your edit sticks.
 
 The [German pack](https://github.com/Ironship/WordHunterWoW-Dictionary-DE) is the one that has been checked by hand, word by word.
 
