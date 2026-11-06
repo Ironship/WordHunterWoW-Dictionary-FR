@@ -7031,7 +7031,7 @@
 {"key": "mörg", "word": "Mörg", "translation": "Mörg", "note": "retain the accented proper-name spelling"}
 {"key": "m’affronter", "word": "m’affronter", "translation": "confront me", "note": "m’ is me elided before a vowel"}
 {"key": "m’aidiez", "word": "m’aidiez", "translation": "help me", "note": "m’ is me elided before a vowel"}
-{"key": "m’avait", "word": "m’avait", "translation": "had me; had (to me)", "note": "me elided + avait (had)"}
+{"key": "m’avait", "word": "m’avait", "translation": "he/she had me; had … me", "note": "me elided + avait (had)"}
 {"key": "nettoyez", "word": "nettoyez", "translation": "clean", "note": "the -ez ending addresses vous; English does not mark that distinction"}
 {"key": "norgannon", "word": "Norgannon", "translation": "Norgannon", "note": ""}
 {"key": "négociant", "word": "négociant", "translation": "trader; merchant", "note": "keep the accent or ligature; it is part of the French spelling"}
@@ -21313,7 +21313,7 @@
 {"key": "m'apportiez", "word": "m'apportiez", "translation": "would bring me", "note": "conditional of apporter; in si-clause context"}
 {"key": "m'assurerai", "word": "m'assurerai", "translation": "I will make sure", "note": "future of assurer (to ensure/make sure)"}
 {"key": "m'attends", "word": "m'attends", "translation": "expect me", "note": "from s'attendre (to expect); wait for me works contextually"}
-{"key": "m'avait", "word": "m'avait", "translation": "had (me)", "note": "past tense of avoir; meaning depends on full sentence"}
+{"key": "m'avait", "word": "m'avait", "translation": "he/she had me; had … me", "note": "past tense of avoir; meaning depends on full sentence"}
 {"key": "m'empêche", "word": "m'empêche", "translation": "prevents me", "note": "from empêcher (to prevent/stop)"}
 {"key": "m'empêcher", "word": "m'empêcher", "translation": "stop me", "note": "infinitive of empêcher (to prevent/stop)"}
 {"key": "m'importe", "word": "m'importe", "translation": "matters to me", "note": "from importer (to matter); ça ne m'importe = I don't care negatively"}

@@ -39268,7 +39268,7 @@ WordHunterWoW_Dictionary_FR["m'aurez"] = { word = "m'aurez", translation = "you 
 WordHunterWoW_Dictionary_FR["m'autorisant"] = { word = "m'autorisant", translation = "allowing me; permitting me", note = "present participle of autoriser (to allow)" }
 WordHunterWoW_Dictionary_FR["m'autorise"] = { word = "m'autorise", translation = "allows me", note = "autorise = authorizes/allows; bank receipt allows me to withdraw" }
 WordHunterWoW_Dictionary_FR["m'avaient"] = { word = "m'avaient", translation = "tell me", note = "m’ is me shortened before a vowel; the pronoun stays attached to the verb" }
-WordHunterWoW_Dictionary_FR["m'avait"] = { word = "m'avait", translation = "had (me)", note = "past tense of avoir; meaning depends on full sentence" }
+WordHunterWoW_Dictionary_FR["m'avait"] = { word = "m'avait", translation = "he/she had me; had … me", note = "past tense of avoir; meaning depends on full sentence" }
 WordHunterWoW_Dictionary_FR["m'avance"] = { word = "m'avance", translation = "move forward; advance", note = "from s'avancer (to advance); experiments haven't moved forward" }
 WordHunterWoW_Dictionary_FR["m'aventurer"] = { word = "m'aventurer", translation = "venture", note = "" }
 WordHunterWoW_Dictionary_FR["m'avez"] = { word = "m'avez", translation = "you have me", note = "m’ is me elided before a vowel; it means “me” or “to me”" }
@@ -43166,7 +43166,7 @@ WordHunterWoW_Dictionary_FR["m’aurez"] = { word = "m’aurez", translation = "
 WordHunterWoW_Dictionary_FR["m’auront"] = { word = "m’auront", translation = "they will have me", note = "future tense plural; they will catch me" }
 WordHunterWoW_Dictionary_FR["m’autorise"] = { word = "m’autorise", translation = "authorizes me", note = "permits or allows me" }
 WordHunterWoW_Dictionary_FR["m’avaient"] = { word = "m’avaient", translation = "had me", note = "" }
-WordHunterWoW_Dictionary_FR["m’avait"] = { word = "m’avait", translation = "had me; had (to me)", note = "me elided + avait (had)" }
+WordHunterWoW_Dictionary_FR["m’avait"] = { word = "m’avait", translation = "he/she had me; had … me", note = "me elided + avait (had)" }
 WordHunterWoW_Dictionary_FR["m’aventurer"] = { word = "m’aventurer", translation = "venture; venture forth", note = "the apostrophe marks an elided pronoun; it is not part of the verb stem" }
 WordHunterWoW_Dictionary_FR["m’aventurerais"] = { word = "m’aventurerais", translation = "I/you would venture", note = "" }
 WordHunterWoW_Dictionary_FR["m’avez"] = { word = "m’avez", translation = "have me", note = "m’ is me elided before a vowel; avez is the vous form of avoir" }
