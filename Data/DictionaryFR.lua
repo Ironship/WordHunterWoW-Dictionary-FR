@@ -70333,3 +70333,1067 @@ WordHunterWoW_Dictionary_FR["œuvrions"] = { word = "œuvrions", translation = "
 WordHunterWoW_Dictionary_FR["œuvrons"] = { word = "œuvrons", translation = "we work; let's work", note = "1st person plural present; we labor or toil together" }
 WordHunterWoW_Dictionary_FR["œuvré"] = { word = "œuvré", translation = "worked", note = "worked; past participle of œuvrer" }
 end)()
+;(function()
+WordHunterWoW_Dictionary_FR["abattrons"] = { word = "abattrons", translation = "let's slaughter", note = "" }
+WordHunterWoW_Dictionary_FR["aboutissement"] = { word = "aboutissement", translation = "outcome", note = "" }
+WordHunterWoW_Dictionary_FR["abruptement"] = { word = "abruptement", translation = "abruptly", note = "" }
+WordHunterWoW_Dictionary_FR["absous"] = { word = "absous", translation = "absolved", note = "" }
+WordHunterWoW_Dictionary_FR["acceptons-nous"] = { word = "acceptons-nous", translation = "do we accept", note = "" }
+WordHunterWoW_Dictionary_FR["accrochez-le"] = { word = "accrochez-le", translation = "hang it", note = "" }
+WordHunterWoW_Dictionary_FR["achetées"] = { word = "achetées", translation = "purchased", note = "" }
+WordHunterWoW_Dictionary_FR["acrobaties"] = { word = "acrobaties", translation = "acrobatics", note = "" }
+WordHunterWoW_Dictionary_FR["ada"] = { word = "Ada", translation = "Ada", note = "proper name" }
+WordHunterWoW_Dictionary_FR["adorerez"] = { word = "adorerez", translation = "will love", note = "" }
+WordHunterWoW_Dictionary_FR["adressera"] = { word = "adressera", translation = "will address", note = "" }
+WordHunterWoW_Dictionary_FR["adresserai"] = { word = "adresserai", translation = "will address", note = "" }
+WordHunterWoW_Dictionary_FR["aeonas"] = { word = "Aeonas", translation = "Aeonas", note = "proper name" }
+WordHunterWoW_Dictionary_FR["affaiblissent"] = { word = "affaiblissent", translation = "weaken", note = "" }
+WordHunterWoW_Dictionary_FR["affaiblissez-la"] = { word = "affaiblissez-la", translation = "weaken it", note = "" }
+WordHunterWoW_Dictionary_FR["affrontâmes"] = { word = "affrontâmes", translation = "faced", note = "" }
+WordHunterWoW_Dictionary_FR["againvous"] = { word = "AGAINVous", translation = "AGAINVous", note = "proper name" }
+WordHunterWoW_Dictionary_FR["agenouillez"] = { word = "agenouillez", translation = "kneel", note = "" }
+WordHunterWoW_Dictionary_FR["agenouillé"] = { word = "agenouillé", translation = "kneeling", note = "" }
+WordHunterWoW_Dictionary_FR["aggressifs"] = { word = "aggressifs", translation = "aggressive", note = "" }
+WordHunterWoW_Dictionary_FR["alara"] = { word = "Alara", translation = "Alara", note = "proper name" }
+WordHunterWoW_Dictionary_FR["alertés"] = { word = "alertés", translation = "alerted", note = "" }
+WordHunterWoW_Dictionary_FR["allumez-là"] = { word = "allumez-là", translation = "light it", note = "" }
+WordHunterWoW_Dictionary_FR["alondrius"] = { word = "Alondrius", translation = "Alondrius", note = "proper name" }
+WordHunterWoW_Dictionary_FR["alonso"] = { word = "Alonso", translation = "Alonso", note = "proper name" }
+WordHunterWoW_Dictionary_FR["alyssian"] = { word = "Alyssian", translation = "Alyssian", note = "proper name" }
+WordHunterWoW_Dictionary_FR["amabilité"] = { word = "amabilité", translation = "kindness", note = "" }
+WordHunterWoW_Dictionary_FR["ambidextrie"] = { word = "ambidextrie", translation = "ambidexterity", note = "" }
+WordHunterWoW_Dictionary_FR["amokarok"] = { word = "Amokarok", translation = "Amokarok", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ampoulée"] = { word = "ampoulée", translation = "bombastic", note = "" }
+WordHunterWoW_Dictionary_FR["amuserez"] = { word = "amuserez", translation = "have fun", note = "" }
+WordHunterWoW_Dictionary_FR["anadelle"] = { word = "Anadelle", translation = "Anadelle", note = "proper name" }
+WordHunterWoW_Dictionary_FR["anarchronos"] = { word = "Anarchronos", translation = "Anarchronos", note = "proper name" }
+WordHunterWoW_Dictionary_FR["anxieux"] = { word = "anxieux", translation = "anxious", note = "" }
+WordHunterWoW_Dictionary_FR["appele"] = { word = "appele", translation = "called", note = "" }
+WordHunterWoW_Dictionary_FR["appellé"] = { word = "appellé", translation = "called", note = "" }
+WordHunterWoW_Dictionary_FR["appeléee"] = { word = "appeléee", translation = "called", note = "" }
+WordHunterWoW_Dictionary_FR["apportez-moi-en"] = { word = "apportez-moi-en", translation = "bring me some", note = "" }
+WordHunterWoW_Dictionary_FR["apprit"] = { word = "apprit", translation = "learned", note = "" }
+WordHunterWoW_Dictionary_FR["appropriant"] = { word = "appropriant", translation = "appropriating", note = "" }
+WordHunterWoW_Dictionary_FR["approprions"] = { word = "approprions", translation = "let's appropriate", note = "" }
+WordHunterWoW_Dictionary_FR["aranti"] = { word = "aranti", translation = "guaranteed", note = "" }
+WordHunterWoW_Dictionary_FR["arko"] = { word = "Arko", translation = "Arko", note = "proper name" }
+WordHunterWoW_Dictionary_FR["arkonos"] = { word = "Arkonos", translation = "Arkonos", note = "proper name" }
+WordHunterWoW_Dictionary_FR["armureries"] = { word = "armureries", translation = "armories", note = "" }
+WordHunterWoW_Dictionary_FR["arrangements"] = { word = "arrangements", translation = "arrangements", note = "" }
+WordHunterWoW_Dictionary_FR["arrivages"] = { word = "arrivages", translation = "arrivals", note = "" }
+WordHunterWoW_Dictionary_FR["arrogés"] = { word = "arrogés", translation = "arrogant", note = "" }
+WordHunterWoW_Dictionary_FR["arunnel"] = { word = "Arunnel", translation = "Arunnel", note = "proper name" }
+WordHunterWoW_Dictionary_FR["asservit"] = { word = "asservit", translation = "enslaved", note = "" }
+WordHunterWoW_Dictionary_FR["assimilés"] = { word = "assimilés", translation = "assimilated", note = "" }
+WordHunterWoW_Dictionary_FR["assurez-la"] = { word = "assurez-la", translation = "make sure", note = "" }
+WordHunterWoW_Dictionary_FR["atome"] = { word = "atome", translation = "atom", note = "" }
+WordHunterWoW_Dictionary_FR["attabler"] = { word = "attabler", translation = "sit down", note = "" }
+WordHunterWoW_Dictionary_FR["attendrissant"] = { word = "attendrissant", translation = "touching", note = "" }
+WordHunterWoW_Dictionary_FR["auscultation"] = { word = "auscultation", translation = "auscultation", note = "" }
+WordHunterWoW_Dictionary_FR["autocollant"] = { word = "autocollant", translation = "sticker", note = "" }
+WordHunterWoW_Dictionary_FR["avala"] = { word = "avala", translation = "swallowed", note = "" }
+WordHunterWoW_Dictionary_FR["avalon"] = { word = "Avalon", translation = "Avalon", note = "proper name" }
+WordHunterWoW_Dictionary_FR["azgaloth"] = { word = "Azgaloth", translation = "Azgaloth", note = "proper name" }
+WordHunterWoW_Dictionary_FR["baelin"] = { word = "Baelin", translation = "Baelin", note = "proper name" }
+WordHunterWoW_Dictionary_FR["baj’ura"] = { word = "Baj’ura", translation = "Baj’ura", note = "proper name" }
+WordHunterWoW_Dictionary_FR["bassbait"] = { word = "Bassbait", translation = "Bassbait", note = "proper name" }
+WordHunterWoW_Dictionary_FR["beatrix"] = { word = "Beatrix", translation = "Beatrix", note = "proper name" }
+WordHunterWoW_Dictionary_FR["bhossca"] = { word = "Bhossca", translation = "Bhossca", note = "proper name" }
+WordHunterWoW_Dictionary_FR["bibliothécaires"] = { word = "bibliothécaires", translation = "librarians", note = "" }
+WordHunterWoW_Dictionary_FR["bicéphale"] = { word = "bicéphale", translation = "two-headed", note = "" }
+WordHunterWoW_Dictionary_FR["bien-sûr"] = { word = "bien-sûr", translation = "of course", note = "" }
+WordHunterWoW_Dictionary_FR["bioflux"] = { word = "bioflux", translation = "bioflow", note = "" }
+WordHunterWoW_Dictionary_FR["boarton"] = { word = "Boarton", translation = "Boarton", note = "proper name" }
+WordHunterWoW_Dictionary_FR["bourbiers"] = { word = "bourbiers", translation = "quagmires", note = "" }
+WordHunterWoW_Dictionary_FR["bourrure"] = { word = "bourrure", translation = "stuffing", note = "" }
+WordHunterWoW_Dictionary_FR["boutonneux"] = { word = "boutonneux", translation = "spotty", note = "" }
+WordHunterWoW_Dictionary_FR["brackwell"] = { word = "Brackwell", translation = "Brackwell", note = "proper name" }
+WordHunterWoW_Dictionary_FR["branchonirique"] = { word = "Branchonirique", translation = "Branchonirique", note = "proper name" }
+WordHunterWoW_Dictionary_FR["brassbolt"] = { word = "Brassbolt", translation = "Brassbolt", note = "proper name" }
+WordHunterWoW_Dictionary_FR["brasseries"] = { word = "brasseries", translation = "breweries", note = "" }
+WordHunterWoW_Dictionary_FR["braviez"] = { word = "braviez", translation = "bravely", note = "" }
+WordHunterWoW_Dictionary_FR["briarthorn"] = { word = "Briarthorn", translation = "Briarthorn", note = "proper name" }
+WordHunterWoW_Dictionary_FR["brikol’as"] = { word = "Brikol’as", translation = "Brikol’as", note = "proper name" }
+WordHunterWoW_Dictionary_FR["bro'kin"] = { word = "bro'kin", translation = "bro'kin", note = "" }
+WordHunterWoW_Dictionary_FR["bryon"] = { word = "Bryon", translation = "Bryon", note = "proper name" }
+WordHunterWoW_Dictionary_FR["brûlesceau"] = { word = "Brûlesceau", translation = "Brûlesceau", note = "proper name" }
+WordHunterWoW_Dictionary_FR["butr"] = { word = "butr", translation = "butr", note = "" }
+WordHunterWoW_Dictionary_FR["buveur-d’ombre"] = { word = "Buveur-d’Ombre", translation = "Buveur-d’Ombre", note = "proper name" }
+WordHunterWoW_Dictionary_FR["buviez"] = { word = "buviez", translation = "drank", note = "" }
+WordHunterWoW_Dictionary_FR["bâtis"] = { word = "bâtis", translation = "buildings", note = "" }
+WordHunterWoW_Dictionary_FR["béachevé"] = { word = "Béachevé", translation = "Béachevé", note = "proper name" }
+WordHunterWoW_Dictionary_FR["bénediction"] = { word = "bénediction", translation = "blessing", note = "" }
+WordHunterWoW_Dictionary_FR["bénit-elle"] = { word = "bénit-elle", translation = "she blesses", note = "" }
+WordHunterWoW_Dictionary_FR["c'fichu"] = { word = "c'fichu", translation = "it's done", note = "contracted form: c' + fichu" }
+WordHunterWoW_Dictionary_FR["cachera"] = { word = "cachera", translation = "will hide", note = "" }
+WordHunterWoW_Dictionary_FR["cachotteries"] = { word = "cachotteries", translation = "secrecy", note = "" }
+WordHunterWoW_Dictionary_FR["cagg"] = { word = "Cagg", translation = "Cagg", note = "proper name" }
+WordHunterWoW_Dictionary_FR["caius"] = { word = "Caius", translation = "Caius", note = "proper name" }
+WordHunterWoW_Dictionary_FR["caldoran"] = { word = "Caldoran", translation = "Caldoran", note = "proper name" }
+WordHunterWoW_Dictionary_FR["calefactus"] = { word = "Calefactus", translation = "Calefactus", note = "proper name" }
+WordHunterWoW_Dictionary_FR["carné"] = { word = "carné", translation = "meat", note = "" }
+WordHunterWoW_Dictionary_FR["carrie"] = { word = "Carrie", translation = "Carrie", note = "proper name" }
+WordHunterWoW_Dictionary_FR["catalogués"] = { word = "catalogués", translation = "cataloged", note = "" }
+WordHunterWoW_Dictionary_FR["celui-çi"] = { word = "celui-çi", translation = "this one", note = "" }
+WordHunterWoW_Dictionary_FR["cenarion"] = { word = "Cenarion", translation = "Cenarion", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ch'vaux"] = { word = "ch'vaux", translation = "horses", note = "" }
+WordHunterWoW_Dictionary_FR["chamanes"] = { word = "chamanes", translation = "shamans", note = "" }
+WordHunterWoW_Dictionary_FR["chanteru"] = { word = "Chanteru", translation = "Chanteru", note = "proper name" }
+WordHunterWoW_Dictionary_FR["chargea"] = { word = "chargea", translation = "charged", note = "" }
+WordHunterWoW_Dictionary_FR["charla"] = { word = "Charla", translation = "Charla", note = "proper name" }
+WordHunterWoW_Dictionary_FR["chasserez"] = { word = "chasserez", translation = "will hunt", note = "" }
+WordHunterWoW_Dictionary_FR["chasserions"] = { word = "chasserions", translation = "would hunt", note = "" }
+WordHunterWoW_Dictionary_FR["chauffera"] = { word = "chauffera", translation = "will heat", note = "" }
+WordHunterWoW_Dictionary_FR["chef-d’oeuvre"] = { word = "chef-d’oeuvre", translation = "masterpiece", note = "" }
+WordHunterWoW_Dictionary_FR["cheminaient"] = { word = "cheminaient", translation = "were walking", note = "" }
+WordHunterWoW_Dictionary_FR["cherchait-elle"] = { word = "cherchait-elle", translation = "was she looking for", note = "" }
+WordHunterWoW_Dictionary_FR["chiennes"] = { word = "chiennes", translation = "female dogs", note = "" }
+WordHunterWoW_Dictionary_FR["chipsou"] = { word = "Chipsou", translation = "Chipsou", note = "proper name" }
+WordHunterWoW_Dictionary_FR["chromaggus"] = { word = "Chromaggus", translation = "Chromaggus", note = "proper name" }
+WordHunterWoW_Dictionary_FR["circonvenir"] = { word = "circonvenir", translation = "circumvent", note = "" }
+WordHunterWoW_Dictionary_FR["codage"] = { word = "codage", translation = "coding", note = "" }
+WordHunterWoW_Dictionary_FR["cogné"] = { word = "cogné", translation = "bumped", note = "" }
+WordHunterWoW_Dictionary_FR["collector's"] = { word = "Collector's", translation = "Collector's", note = "proper name" }
+WordHunterWoW_Dictionary_FR["compatibles"] = { word = "compatibles", translation = "compatible", note = "" }
+WordHunterWoW_Dictionary_FR["comportera"] = { word = "comportera", translation = "will include", note = "" }
+WordHunterWoW_Dictionary_FR["compétant"] = { word = "compétant", translation = "competent", note = "" }
+WordHunterWoW_Dictionary_FR["consolideront"] = { word = "consolideront", translation = "will consolidate", note = "" }
+WordHunterWoW_Dictionary_FR["consternante"] = { word = "consternante", translation = "appalling", note = "" }
+WordHunterWoW_Dictionary_FR["consultez-les"] = { word = "consultez-les", translation = "check them out", note = "" }
+WordHunterWoW_Dictionary_FR["conséquemment"] = { word = "conséquemment", translation = "consequently", note = "" }
+WordHunterWoW_Dictionary_FR["contac"] = { word = "contac", translation = "contact", note = "" }
+WordHunterWoW_Dictionary_FR["contagieux"] = { word = "contagieux", translation = "contagious", note = "" }
+WordHunterWoW_Dictionary_FR["contaminateurs"] = { word = "contaminateurs", translation = "contaminators", note = "" }
+WordHunterWoW_Dictionary_FR["contre-poison"] = { word = "contre-poison", translation = "counter-poison", note = "" }
+WordHunterWoW_Dictionary_FR["contreparties"] = { word = "contreparties", translation = "counterparties", note = "" }
+WordHunterWoW_Dictionary_FR["conviendra-t-il"] = { word = "conviendra-t-il", translation = "will it fit", note = "" }
+WordHunterWoW_Dictionary_FR["convoiter"] = { word = "convoiter", translation = "covet", note = "" }
+WordHunterWoW_Dictionary_FR["coppercoil"] = { word = "Coppercoil", translation = "Coppercoil", note = "proper name" }
+WordHunterWoW_Dictionary_FR["copperplug"] = { word = "Copperplug", translation = "Copperplug", note = "proper name" }
+WordHunterWoW_Dictionary_FR["corrin"] = { word = "Corrin", translation = "Corrin", note = "proper name" }
+WordHunterWoW_Dictionary_FR["coupe-bourrasque"] = { word = "coupe-bourrasque", translation = "storm cutter", note = "" }
+WordHunterWoW_Dictionary_FR["coupez-lui"] = { word = "coupez-lui", translation = "cut him", note = "" }
+WordHunterWoW_Dictionary_FR["courraient"] = { word = "courraient", translation = "would run", note = "" }
+WordHunterWoW_Dictionary_FR["cours-avec-fierté"] = { word = "Cours-avec-fierté", translation = "Cours-avec-fierté", note = "proper name" }
+WordHunterWoW_Dictionary_FR["coursières"] = { word = "coursières", translation = "couriers", note = "" }
+WordHunterWoW_Dictionary_FR["coâ"] = { word = "coâ", translation = "coa", note = "" }
+WordHunterWoW_Dictionary_FR["coûtez"] = { word = "coûtez", translation = "cost", note = "" }
+WordHunterWoW_Dictionary_FR["crache-mitraille"] = { word = "crache-mitraille", translation = "grapeshot", note = "" }
+WordHunterWoW_Dictionary_FR["cramponnent"] = { word = "cramponnent", translation = "cling", note = "" }
+WordHunterWoW_Dictionary_FR["crestsrider"] = { word = "Crestsrider", translation = "Crestsrider", note = "proper name" }
+WordHunterWoW_Dictionary_FR["criméon"] = { word = "Criméon", translation = "Criméon", note = "proper name" }
+WordHunterWoW_Dictionary_FR["crocs-d’ombre"] = { word = "crocs-d’ombre", translation = "shadowfang", note = "" }
+WordHunterWoW_Dictionary_FR["croirais"] = { word = "croirais", translation = "would believe", note = "" }
+WordHunterWoW_Dictionary_FR["cylindrique"] = { word = "cylindrique", translation = "cylindrical", note = "" }
+WordHunterWoW_Dictionary_FR["cétait"] = { word = "cétait", translation = "it was", note = "" }
+WordHunterWoW_Dictionary_FR["cœur-de-cendre"] = { word = "Cœur-de-Cendre", translation = "Cœur-de-Cendre", note = "proper name" }
+WordHunterWoW_Dictionary_FR["c’t’œil"] = { word = "c’t’œil", translation = "it's your eye", note = "contracted form: c’ + t’œil" }
+WordHunterWoW_Dictionary_FR["d'amitié"] = { word = "d'amitié", translation = "of friendship", note = "contracted form: d' + amitié" }
+WordHunterWoW_Dictionary_FR["d'amusant"] = { word = "d'amusant", translation = "fun", note = "contracted form: d' + amusant" }
+WordHunterWoW_Dictionary_FR["d'angoisse"] = { word = "d'angoisse", translation = "of anguish", note = "contracted form: d' + angoisse" }
+WordHunterWoW_Dictionary_FR["d'arantir"] = { word = "d'Arantir", translation = "of Arantir", note = "contracted form: d' + Arantir" }
+WordHunterWoW_Dictionary_FR["d'arguments"] = { word = "d'arguments", translation = "of arguments", note = "contracted form: d' + arguments" }
+WordHunterWoW_Dictionary_FR["d'arlithrien"] = { word = "d'Arlithrien", translation = "of Arlithrian", note = "contracted form: d' + Arlithrien" }
+WordHunterWoW_Dictionary_FR["d'associer"] = { word = "d'associer", translation = "to associate", note = "contracted form: d' + associer" }
+WordHunterWoW_Dictionary_FR["d'auberge"] = { word = "d'auberge", translation = "inn", note = "contracted form: d' + auberge" }
+WordHunterWoW_Dictionary_FR["d'azoran"] = { word = "d'Azoran", translation = "of Azoran", note = "contracted form: d' + Azoran" }
+WordHunterWoW_Dictionary_FR["d'azureload"] = { word = "d'Azureload", translation = "from Azureload", note = "contracted form: d' + Azureload" }
+WordHunterWoW_Dictionary_FR["d'danger"] = { word = "d'danger", translation = "of danger", note = "contracted form: d' + danger" }
+WordHunterWoW_Dictionary_FR["d'emballage"] = { word = "d'emballage", translation = "packaging", note = "contracted form: d' + emballage" }
+WordHunterWoW_Dictionary_FR["d'engloutir"] = { word = "d'engloutir", translation = "to engulf", note = "contracted form: d' + engloutir" }
+WordHunterWoW_Dictionary_FR["d'enrichir"] = { word = "d'enrichir", translation = "to enrich", note = "contracted form: d' + enrichir" }
+WordHunterWoW_Dictionary_FR["d'ensorceleurs"] = { word = "d'ensorceleurs", translation = "of sorcerers", note = "contracted form: d' + ensorceleurs" }
+WordHunterWoW_Dictionary_FR["d'herod"] = { word = "d'Herod", translation = "of Herod", note = "contracted form: d' + Herod" }
+WordHunterWoW_Dictionary_FR["d'hommes-poissons"] = { word = "d'hommes-poissons", translation = "fishmen", note = "contracted form: d' + hommes-poissons" }
+WordHunterWoW_Dictionary_FR["d'immondes"] = { word = "d'immondes", translation = "filthy", note = "contracted form: d' + immondes" }
+WordHunterWoW_Dictionary_FR["d'inoffensives"] = { word = "d'inoffensives", translation = "harmless", note = "contracted form: d' + inoffensives" }
+WordHunterWoW_Dictionary_FR["d'intestins"] = { word = "d'intestins", translation = "intestines", note = "contracted form: d' + intestins" }
+WordHunterWoW_Dictionary_FR["d'ivy"] = { word = "d'Ivy", translation = "of Ivy", note = "contracted form: d' + Ivy" }
+WordHunterWoW_Dictionary_FR["d'montagne"] = { word = "d'montagne", translation = "mountain", note = "contracted form: d' + montagne" }
+WordHunterWoW_Dictionary_FR["d'objections"] = { word = "d'objections", translation = "of objections", note = "contracted form: d' + objections" }
+WordHunterWoW_Dictionary_FR["d'oeuf"] = { word = "d'oeuf", translation = "egg", note = "contracted form: d' + oeuf" }
+WordHunterWoW_Dictionary_FR["d'perdre"] = { word = "d'perdre", translation = "to lose", note = "contracted form: d' + perdre" }
+WordHunterWoW_Dictionary_FR["d'égaliser"] = { word = "d'égaliser", translation = "to equalize", note = "contracted form: d' + égaliser" }
+WordHunterWoW_Dictionary_FR["d-d-d'aide"] = { word = "d-d-d'aide", translation = "help (stuttered)", note = "stuttered form of d'aide" }
+WordHunterWoW_Dictionary_FR["d-d-dégeler"] = { word = "d-d-dégeler", translation = "thaw (stuttered)", note = "stuttered form of dégeler" }
+WordHunterWoW_Dictionary_FR["d-d-d’aide"] = { word = "d-d-d’aide", translation = "help (stuttered)", note = "stuttered form of d’aide" }
+WordHunterWoW_Dictionary_FR["daignait"] = { word = "daignait", translation = "deigned", note = "" }
+WordHunterWoW_Dictionary_FR["dalton"] = { word = "Dalton", translation = "Dalton", note = "proper name" }
+WordHunterWoW_Dictionary_FR["dal’rend"] = { word = "Dal’rend", translation = "Dal’rend", note = "proper name" }
+WordHunterWoW_Dictionary_FR["dandinez"] = { word = "dandinez", translation = "waddle", note = "" }
+WordHunterWoW_Dictionary_FR["darkeyes"] = { word = "Darkeyes", translation = "Darkeyes", note = "proper name" }
+WordHunterWoW_Dictionary_FR["darkstorm"] = { word = "Darkstorm", translation = "Darkstorm", note = "proper name" }
+WordHunterWoW_Dictionary_FR["davius"] = { word = "Davius", translation = "Davius", note = "proper name" }
+WordHunterWoW_Dictionary_FR["dawnbringer"] = { word = "Dawnbringer", translation = "Dawnbringer", note = "proper name" }
+WordHunterWoW_Dictionary_FR["defendre"] = { word = "defendre", translation = "defend", note = "" }
+WordHunterWoW_Dictionary_FR["demandez-en"] = { word = "demandez-en", translation = "ask for it", note = "" }
+WordHunterWoW_Dictionary_FR["densité"] = { word = "densité", translation = "density", note = "" }
+WordHunterWoW_Dictionary_FR["destinations"] = { word = "destinations", translation = "destinations", note = "" }
+WordHunterWoW_Dictionary_FR["des’altek"] = { word = "Des’Altek", translation = "Des’Altek", note = "proper name" }
+WordHunterWoW_Dictionary_FR["devon"] = { word = "Devon", translation = "Devon", note = "proper name" }
+WordHunterWoW_Dictionary_FR["diatribe"] = { word = "diatribe", translation = "diatribe", note = "" }
+WordHunterWoW_Dictionary_FR["dietrich"] = { word = "Dietrich", translation = "Dietrich", note = "proper name" }
+WordHunterWoW_Dictionary_FR["difformité"] = { word = "difformité", translation = "deformity", note = "" }
+WordHunterWoW_Dictionary_FR["différencier"] = { word = "différencier", translation = "differentiate", note = "" }
+WordHunterWoW_Dictionary_FR["dilatent"] = { word = "dilatent", translation = "dilate", note = "" }
+WordHunterWoW_Dictionary_FR["dispensera"] = { word = "dispensera", translation = "will dispense", note = "" }
+WordHunterWoW_Dictionary_FR["distribuées"] = { word = "distribuées", translation = "distributed", note = "" }
+WordHunterWoW_Dictionary_FR["dizzwig"] = { word = "Dizzwig", translation = "Dizzwig", note = "proper name" }
+WordHunterWoW_Dictionary_FR["donnez-la-lui"] = { word = "donnez-la-lui", translation = "give it to him", note = "" }
+WordHunterWoW_Dictionary_FR["doomgrip"] = { word = "Doomgrip", translation = "Doomgrip", note = "proper name" }
+WordHunterWoW_Dictionary_FR["dorilar"] = { word = "Dorilar", translation = "Dorilar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["dosés"] = { word = "dosés", translation = "dosed", note = "" }
+WordHunterWoW_Dictionary_FR["draco’dar"] = { word = "Draco’dar", translation = "Draco’dar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["drudgemoor"] = { word = "Drudgemoor", translation = "Drudgemoor", note = "proper name" }
+WordHunterWoW_Dictionary_FR["drue"] = { word = "drue", translation = "rough", note = "" }
+WordHunterWoW_Dictionary_FR["druisilla"] = { word = "Druisilla", translation = "Druisilla", note = "proper name" }
+WordHunterWoW_Dictionary_FR["dubois"] = { word = "Dubois", translation = "Dubois", note = "proper name" }
+WordHunterWoW_Dictionary_FR["dupe-moi"] = { word = "dupe-moi", translation = "fool me", note = "" }
+WordHunterWoW_Dictionary_FR["durian"] = { word = "durian", translation = "durian", note = "" }
+WordHunterWoW_Dictionary_FR["durians"] = { word = "durians", translation = "durian", note = "" }
+WordHunterWoW_Dictionary_FR["durite"] = { word = "durite", translation = "hose", note = "" }
+WordHunterWoW_Dictionary_FR["débarrassez-le"] = { word = "débarrassez-le", translation = "get rid of it", note = "" }
+WordHunterWoW_Dictionary_FR["débattons"] = { word = "débattons", translation = "let's debate", note = "" }
+WordHunterWoW_Dictionary_FR["débusque"] = { word = "débusque", translation = "flushes out", note = "" }
+WordHunterWoW_Dictionary_FR["décaniller"] = { word = "décaniller", translation = "decaniller", note = "" }
+WordHunterWoW_Dictionary_FR["décapitation"] = { word = "décapitation", translation = "decapitation", note = "" }
+WordHunterWoW_Dictionary_FR["décapiterai"] = { word = "décapiterai", translation = "decapitate", note = "" }
+WordHunterWoW_Dictionary_FR["décapitée"] = { word = "décapitée", translation = "decapitated", note = "" }
+WordHunterWoW_Dictionary_FR["déchiffrée"] = { word = "déchiffrée", translation = "deciphered", note = "" }
+WordHunterWoW_Dictionary_FR["décidons"] = { word = "décidons", translation = "let's decide", note = "" }
+WordHunterWoW_Dictionary_FR["décoincer"] = { word = "décoincer", translation = "unblock", note = "" }
+WordHunterWoW_Dictionary_FR["défendait"] = { word = "défendait", translation = "defended", note = "" }
+WordHunterWoW_Dictionary_FR["dégénérait"] = { word = "dégénérait", translation = "degenerated", note = "" }
+WordHunterWoW_Dictionary_FR["démentez"] = { word = "démentez", translation = "deny", note = "" }
+WordHunterWoW_Dictionary_FR["démystifiés"] = { word = "démystifiés", translation = "demystified", note = "" }
+WordHunterWoW_Dictionary_FR["déprimante"] = { word = "déprimante", translation = "depressing", note = "" }
+WordHunterWoW_Dictionary_FR["dépêcherons"] = { word = "dépêcherons", translation = "let's hurry", note = "" }
+WordHunterWoW_Dictionary_FR["dérivée"] = { word = "dérivée", translation = "derivative", note = "" }
+WordHunterWoW_Dictionary_FR["déroulèrent"] = { word = "déroulèrent", translation = "unfolded", note = "" }
+WordHunterWoW_Dictionary_FR["désinfectés"] = { word = "désinfectés", translation = "disinfected", note = "" }
+WordHunterWoW_Dictionary_FR["détalât"] = { word = "détalât", translation = "darted", note = "" }
+WordHunterWoW_Dictionary_FR["dîne"] = { word = "dîne", translation = "dine", note = "" }
+WordHunterWoW_Dictionary_FR["dîtes"] = { word = "dîtes", translation = "say", note = "" }
+WordHunterWoW_Dictionary_FR["d‘aimable"] = { word = "d‘aimable", translation = "kind", note = "" }
+WordHunterWoW_Dictionary_FR["d‘avoir"] = { word = "d‘avoir", translation = "to have", note = "" }
+WordHunterWoW_Dictionary_FR["d’abbé"] = { word = "d’abbé", translation = "abbot", note = "contracted form: d’ + abbé" }
+WordHunterWoW_Dictionary_FR["d’aboutir"] = { word = "d’aboutir", translation = "to achieve", note = "contracted form: d’ + aboutir" }
+WordHunterWoW_Dictionary_FR["d’absolue"] = { word = "d’absolue", translation = "absolutely", note = "contracted form: d’ + absolue" }
+WordHunterWoW_Dictionary_FR["d’acides"] = { word = "d’acides", translation = "of acids", note = "contracted form: d’ + acides" }
+WordHunterWoW_Dictionary_FR["d’adjurateur"] = { word = "d’adjurateur", translation = "of adjurer", note = "contracted form: d’ + adjurateur" }
+WordHunterWoW_Dictionary_FR["d’aeonas"] = { word = "d’Aeonas", translation = "of Aeonas", note = "contracted form: d’ + Aeonas" }
+WordHunterWoW_Dictionary_FR["d’affectations"] = { word = "d’affectations", translation = "of assignments", note = "contracted form: d’ + affectations" }
+WordHunterWoW_Dictionary_FR["d’affiche"] = { word = "d’affiche", translation = "poster", note = "contracted form: d’ + affiche" }
+WordHunterWoW_Dictionary_FR["d’agol’watha"] = { word = "d’Agol’watha", translation = "of Agol'watha", note = "contracted form: d’ + Agol’watha" }
+WordHunterWoW_Dictionary_FR["d’ahsi"] = { word = "d’Ahsi", translation = "of Ahsi", note = "contracted form: d’ + Ahsi" }
+WordHunterWoW_Dictionary_FR["d’aimant"] = { word = "d’aimant", translation = "of magnet", note = "contracted form: d’ + aimant" }
+WordHunterWoW_Dictionary_FR["d’alarme"] = { word = "d’alarme", translation = "alarm", note = "contracted form: d’ + alarme" }
+WordHunterWoW_Dictionary_FR["d’amure"] = { word = "d’amure", translation = "of tack", note = "contracted form: d’ + amure" }
+WordHunterWoW_Dictionary_FR["d’anodin"] = { word = "d’anodin", translation = "harmless", note = "contracted form: d’ + anodin" }
+WordHunterWoW_Dictionary_FR["d’anonymes"] = { word = "d’anonymes", translation = "of anonymous", note = "contracted form: d’ + anonymes" }
+WordHunterWoW_Dictionary_FR["d’antimagie"] = { word = "d’antimagie", translation = "antimagic", note = "contracted form: d’ + antimagie" }
+WordHunterWoW_Dictionary_FR["d’apprivoisement"] = { word = "d’apprivoisement", translation = "taming", note = "contracted form: d’ + apprivoisement" }
+WordHunterWoW_Dictionary_FR["d’araj"] = { word = "d’Araj", translation = "of Araj", note = "contracted form: d’ + Araj" }
+WordHunterWoW_Dictionary_FR["d’arc"] = { word = "d’arc", translation = "of arc", note = "contracted form: d’ + arc" }
+WordHunterWoW_Dictionary_FR["d’arcanologie"] = { word = "d’Arcanologie", translation = "of Arcanology", note = "contracted form: d’ + Arcanologie" }
+WordHunterWoW_Dictionary_FR["d’arides"] = { word = "d’arides", translation = "arid", note = "contracted form: d’ + arides" }
+WordHunterWoW_Dictionary_FR["d’arkonos"] = { word = "d’Arkonos", translation = "of Arkonos", note = "contracted form: d’ + Arkonos" }
+WordHunterWoW_Dictionary_FR["d’arygos"] = { word = "d’Arygos", translation = "of Arygos", note = "contracted form: d’ + Arygos" }
+WordHunterWoW_Dictionary_FR["d’astrargent"] = { word = "d’astrargent", translation = "astrargent", note = "contracted form: d’ + astrargent" }
+WordHunterWoW_Dictionary_FR["d’aterac"] = { word = "d’Aterac", translation = "from Aterac", note = "contracted form: d’ + Aterac" }
+WordHunterWoW_Dictionary_FR["d’azeorth"] = { word = "d’Azeorth", translation = "of Azeorth", note = "contracted form: d’ + Azeorth" }
+WordHunterWoW_Dictionary_FR["d’azgaloth"] = { word = "d’Azgaloth", translation = "of Azgaloth", note = "contracted form: d’ + Azgaloth" }
+WordHunterWoW_Dictionary_FR["d’ectoplasmes"] = { word = "d’ectoplasmes", translation = "of ectoplasm", note = "contracted form: d’ + ectoplasmes" }
+WordHunterWoW_Dictionary_FR["d’eldreth"] = { word = "d’Eldreth", translation = "of Eldreth", note = "contracted form: d’ + Eldreth" }
+WordHunterWoW_Dictionary_FR["d’eliza"] = { word = "d’Eliza", translation = "of Eliza", note = "contracted form: d’ + Eliza" }
+WordHunterWoW_Dictionary_FR["d’elun’dris"] = { word = "d’Elun’dris", translation = "of Elun'dris", note = "contracted form: d’ + Elun’dris" }
+WordHunterWoW_Dictionary_FR["d’encodage"] = { word = "d’encodage", translation = "encoding", note = "contracted form: d’ + encodage" }
+WordHunterWoW_Dictionary_FR["d’ensorcellement"] = { word = "d’ensorcellement", translation = "of bewitchment", note = "contracted form: d’ + ensorcellement" }
+WordHunterWoW_Dictionary_FR["d’estellargent"] = { word = "d’estellargent", translation = "of estellargent", note = "contracted form: d’ + estellargent" }
+WordHunterWoW_Dictionary_FR["d’excavateurs"] = { word = "d’excavateurs", translation = "excavators", note = "contracted form: d’ + excavateurs" }
+WordHunterWoW_Dictionary_FR["d’exemplaire"] = { word = "d’exemplaire", translation = "of copy", note = "contracted form: d’ + exemplaire" }
+WordHunterWoW_Dictionary_FR["d’haruspice"] = { word = "d’haruspice", translation = "haruspice", note = "contracted form: d’ + haruspice" }
+WordHunterWoW_Dictionary_FR["d’hippogryphe"] = { word = "d’hippogryphe", translation = "hippogryph", note = "contracted form: d’ + hippogryphe" }
+WordHunterWoW_Dictionary_FR["d’hitah’ya"] = { word = "d’Hitah’ya", translation = "of Hitah’ya", note = "contracted form: d’ + Hitah’ya" }
+WordHunterWoW_Dictionary_FR["d’hôtes"] = { word = "d’hôtes", translation = "of guests", note = "contracted form: d’ + hôtes" }
+WordHunterWoW_Dictionary_FR["d’il"] = { word = "d’il", translation = "from him", note = "contracted form: d’ + il" }
+WordHunterWoW_Dictionary_FR["d’illari"] = { word = "d’Illari", translation = "of Illari", note = "contracted form: d’ + Illari" }
+WordHunterWoW_Dictionary_FR["d’impressionnantes"] = { word = "d’impressionnantes", translation = "impressive", note = "contracted form: d’ + impressionnantes" }
+WordHunterWoW_Dictionary_FR["d’imprimerie"] = { word = "d’imprimerie", translation = "printing", note = "contracted form: d’ + imprimerie" }
+WordHunterWoW_Dictionary_FR["d’imprégnation"] = { word = "d’imprégnation", translation = "impregnation", note = "contracted form: d’ + imprégnation" }
+WordHunterWoW_Dictionary_FR["d’indomptables"] = { word = "d’Indomptables", translation = "of Indomitables", note = "contracted form: d’ + Indomptables" }
+WordHunterWoW_Dictionary_FR["d’infernal"] = { word = "d’Infernal", translation = "of Infernal", note = "contracted form: d’ + Infernal" }
+WordHunterWoW_Dictionary_FR["d’infidèle"] = { word = "d’infidèle", translation = "of unfaithful", note = "contracted form: d’ + infidèle" }
+WordHunterWoW_Dictionary_FR["d’inonder"] = { word = "d’inonder", translation = "to flood", note = "contracted form: d’ + inonder" }
+WordHunterWoW_Dictionary_FR["d’insensé"] = { word = "d’insensé", translation = "of senseless", note = "contracted form: d’ + insensé" }
+WordHunterWoW_Dictionary_FR["d’insérer"] = { word = "d’insérer", translation = "to insert", note = "contracted form: d’ + insérer" }
+WordHunterWoW_Dictionary_FR["d’intermédiaires"] = { word = "d’intermédiaires", translation = "of intermediaries", note = "contracted form: d’ + intermédiaires" }
+WordHunterWoW_Dictionary_FR["d’interpeller"] = { word = "d’interpeller", translation = "to question", note = "contracted form: d’ + interpeller" }
+WordHunterWoW_Dictionary_FR["d’invocateur"] = { word = "d’Invocateur", translation = "summoner", note = "contracted form: d’ + Invocateur" }
+WordHunterWoW_Dictionary_FR["d’ironband"] = { word = "d’Ironband", translation = "by Ironband", note = "contracted form: d’ + Ironband" }
+WordHunterWoW_Dictionary_FR["d’objectivité"] = { word = "d’objectivité", translation = "of objectivity", note = "contracted form: d’ + objectivité" }
+WordHunterWoW_Dictionary_FR["d’oeil"] = { word = "d’oeil", translation = "of eye", note = "contracted form: d’ + oeil" }
+WordHunterWoW_Dictionary_FR["d’oeufs"] = { word = "d’oeufs", translation = "of eggs", note = "contracted form: d’ + oeufs" }
+WordHunterWoW_Dictionary_FR["d’oilfist"] = { word = "d’Oilfist", translation = "from Oilfist", note = "contracted form: d’ + Oilfist" }
+WordHunterWoW_Dictionary_FR["d’omokk"] = { word = "d’Omokk", translation = "by Omokk", note = "contracted form: d’ + Omokk" }
+WordHunterWoW_Dictionary_FR["d’oneiros"] = { word = "d’Oneiros", translation = "of Oneiros", note = "contracted form: d’ + Oneiros" }
+WordHunterWoW_Dictionary_FR["d’orageux"] = { word = "d’orageux", translation = "stormy", note = "contracted form: d’ + orageux" }
+WordHunterWoW_Dictionary_FR["d’orthas"] = { word = "d’Orthas", translation = "of Orthas", note = "contracted form: d’ + Orthas" }
+WordHunterWoW_Dictionary_FR["d’otembe"] = { word = "d’Otembe", translation = "of Otembe", note = "contracted form: d’ + Otembe" }
+WordHunterWoW_Dictionary_FR["d’outres"] = { word = "d’outres", translation = "besides", note = "contracted form: d’ + outres" }
+WordHunterWoW_Dictionary_FR["d’uniforme"] = { word = "d’uniforme", translation = "uniform", note = "contracted form: d’ + uniforme" }
+WordHunterWoW_Dictionary_FR["d’utilisateurs"] = { word = "d’utilisateurs", translation = "of users", note = "contracted form: d’ + utilisateurs" }
+WordHunterWoW_Dictionary_FR["d’âprefrange"] = { word = "d’Âprefrange", translation = "d'Âprefrange", note = "contracted form: d’ + Âprefrange" }
+WordHunterWoW_Dictionary_FR["d’éthérée"] = { word = "d’éthérée", translation = "ethereal", note = "contracted form: d’ + éthérée" }
+WordHunterWoW_Dictionary_FR["d’étouffante"] = { word = "d’étouffante", translation = "stifling", note = "contracted form: d’ + étouffante" }
+WordHunterWoW_Dictionary_FR["d’œuvres"] = { word = "d’œuvres", translation = "of works", note = "contracted form: d’ + œuvres" }
+WordHunterWoW_Dictionary_FR["ecartant"] = { word = "ecartant", translation = "dismissing", note = "" }
+WordHunterWoW_Dictionary_FR["ecrit"] = { word = "ecrit", translation = "writing", note = "" }
+WordHunterWoW_Dictionary_FR["ecureuils"] = { word = "Ecureuils", translation = "Ecureuils", note = "proper name" }
+WordHunterWoW_Dictionary_FR["edition"] = { word = "Edition", translation = "Edition", note = "proper name" }
+WordHunterWoW_Dictionary_FR["eli"] = { word = "Eli", translation = "Eli", note = "proper name" }
+WordHunterWoW_Dictionary_FR["elianar"] = { word = "Elianar", translation = "Elianar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["eliminez"] = { word = "eliminez", translation = "eliminate", note = "" }
+WordHunterWoW_Dictionary_FR["eliminez-y"] = { word = "eliminez-y", translation = "eliminate it", note = "" }
+WordHunterWoW_Dictionary_FR["ellodar"] = { word = "Ellodar", translation = "Ellodar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["elrick"] = { word = "Elrick", translation = "Elrick", note = "proper name" }
+WordHunterWoW_Dictionary_FR["elune’ara"] = { word = "Elune’ara", translation = "Elune’ara", note = "proper name" }
+WordHunterWoW_Dictionary_FR["elénora"] = { word = "Elénora", translation = "Elénora", note = "proper name" }
+WordHunterWoW_Dictionary_FR["embarquée"] = { word = "embarquée", translation = "on board", note = "" }
+WordHunterWoW_Dictionary_FR["embrumée"] = { word = "embrumée", translation = "misty", note = "" }
+WordHunterWoW_Dictionary_FR["employeuse"] = { word = "employeuse", translation = "employer", note = "" }
+WordHunterWoW_Dictionary_FR["empêcherai"] = { word = "empêcherai", translation = "will prevent", note = "" }
+WordHunterWoW_Dictionary_FR["en-bas"] = { word = "en-bas", translation = "down", note = "" }
+WordHunterWoW_Dictionary_FR["enchant’ment"] = { word = "enchant’ment", translation = "enchantment", note = "" }
+WordHunterWoW_Dictionary_FR["enclaves"] = { word = "enclaves", translation = "enclaves", note = "" }
+WordHunterWoW_Dictionary_FR["endomarine"] = { word = "Endomarine", translation = "Endomarine", note = "proper name" }
+WordHunterWoW_Dictionary_FR["enfanté"] = { word = "enfanté", translation = "given birth", note = "" }
+WordHunterWoW_Dictionary_FR["engrange"] = { word = "engrange", translation = "reaps", note = "" }
+WordHunterWoW_Dictionary_FR["enkles"] = { word = "Enkles", translation = "Enkles", note = "proper name" }
+WordHunterWoW_Dictionary_FR["enrayée"] = { word = "enrayée", translation = "stopped", note = "" }
+WordHunterWoW_Dictionary_FR["enroulées"] = { word = "enroulées", translation = "rolled up", note = "" }
+WordHunterWoW_Dictionary_FR["envahisseuses"] = { word = "envahisseuses", translation = "invaders", note = "" }
+WordHunterWoW_Dictionary_FR["envoûtements"] = { word = "envoûtements", translation = "enchantments", note = "" }
+WordHunterWoW_Dictionary_FR["epargnez-moi"] = { word = "epargnez-moi", translation = "spare me", note = "" }
+WordHunterWoW_Dictionary_FR["epaulières"] = { word = "Epaulières", translation = "Epaulières", note = "proper name" }
+WordHunterWoW_Dictionary_FR["escrabouillé"] = { word = "escrabouillé", translation = "crushed", note = "" }
+WordHunterWoW_Dictionary_FR["espionniez"] = { word = "espionniez", translation = "spy", note = "" }
+WordHunterWoW_Dictionary_FR["essaierai"] = { word = "essaierai", translation = "will try", note = "" }
+WordHunterWoW_Dictionary_FR["etaient-ils"] = { word = "Etaient-ils", translation = "Etaient-ils", note = "proper name" }
+WordHunterWoW_Dictionary_FR["etant"] = { word = "etant", translation = "being", note = "" }
+WordHunterWoW_Dictionary_FR["etats"] = { word = "etats", translation = "states", note = "" }
+WordHunterWoW_Dictionary_FR["etincelant"] = { word = "Etincelant", translation = "Etincelant", note = "proper name" }
+WordHunterWoW_Dictionary_FR["etonnamment"] = { word = "etonnamment", translation = "surprisingly", note = "" }
+WordHunterWoW_Dictionary_FR["excavatrices"] = { word = "excavatrices", translation = "excavators", note = "" }
+WordHunterWoW_Dictionary_FR["exultez"] = { word = "exultez", translation = "exult", note = "" }
+WordHunterWoW_Dictionary_FR["f-f-friandises"] = { word = "f-f-friandises", translation = "treats (stuttered)", note = "stuttered form of friandises" }
+WordHunterWoW_Dictionary_FR["fabriqueraient"] = { word = "fabriqueraient", translation = "would make", note = "" }
+WordHunterWoW_Dictionary_FR["fabutronique"] = { word = "Fabutronique", translation = "Fabutronique", note = "proper name" }
+WordHunterWoW_Dictionary_FR["faisiez-vous"] = { word = "faisiez-vous", translation = "were you doing", note = "" }
+WordHunterWoW_Dictionary_FR["fallia"] = { word = "Fallia", translation = "Fallia", note = "proper name" }
+WordHunterWoW_Dictionary_FR["familiarité"] = { word = "familiarité", translation = "familiarity", note = "" }
+WordHunterWoW_Dictionary_FR["fanent"] = { word = "fanent", translation = "fade", note = "" }
+WordHunterWoW_Dictionary_FR["farraki"] = { word = "farraki", translation = "farraki", note = "" }
+WordHunterWoW_Dictionary_FR["fauchese"] = { word = "fauchese", translation = "mower", note = "" }
+WordHunterWoW_Dictionary_FR["feuillelames"] = { word = "feuillelames", translation = "leaf blades", note = "" }
+WordHunterWoW_Dictionary_FR["feuillerouge"] = { word = "Feuillerouge", translation = "Feuillerouge", note = "proper name" }
+WordHunterWoW_Dictionary_FR["fichais"] = { word = "fichais", translation = "fichais", note = "" }
+WordHunterWoW_Dictionary_FR["fizbuz"] = { word = "Fizbuz", translation = "Fizbuz", note = "proper name" }
+WordHunterWoW_Dictionary_FR["fizzbizz"] = { word = "Fizzbizz", translation = "Fizzbizz", note = "proper name" }
+WordHunterWoW_Dictionary_FR["flathead"] = { word = "Flathead", translation = "Flathead", note = "proper name" }
+WordHunterWoW_Dictionary_FR["flintridge"] = { word = "Flintridge", translation = "Flintridge", note = "proper name" }
+WordHunterWoW_Dictionary_FR["florius"] = { word = "Florius", translation = "Florius", note = "proper name" }
+WordHunterWoW_Dictionary_FR["flottille"] = { word = "flottille", translation = "flotilla", note = "" }
+WordHunterWoW_Dictionary_FR["flétrissures"] = { word = "flétrissures", translation = "wilts", note = "" }
+WordHunterWoW_Dictionary_FR["foo"] = { word = "Foo", translation = "Foo", note = "proper name" }
+WordHunterWoW_Dictionary_FR["forions"] = { word = "forions", translation = "forions", note = "" }
+WordHunterWoW_Dictionary_FR["formaldéhyde"] = { word = "formaldéhyde", translation = "formaldehyde", note = "" }
+WordHunterWoW_Dictionary_FR["formidablement"] = { word = "formidablement", translation = "wonderfully", note = "" }
+WordHunterWoW_Dictionary_FR["fouillerai"] = { word = "fouillerai", translation = "will search", note = "" }
+WordHunterWoW_Dictionary_FR["fourmillant"] = { word = "fourmillant", translation = "swarming", note = "" }
+WordHunterWoW_Dictionary_FR["fragilise"] = { word = "fragilise", translation = "weakens", note = "" }
+WordHunterWoW_Dictionary_FR["franchiront"] = { word = "franchiront", translation = "will cross", note = "" }
+WordHunterWoW_Dictionary_FR["frissonnez"] = { word = "frissonnez", translation = "shiver", note = "" }
+WordHunterWoW_Dictionary_FR["frontales"] = { word = "frontales", translation = "frontal", note = "" }
+WordHunterWoW_Dictionary_FR["frottent"] = { word = "frottent", translation = "rub", note = "" }
+WordHunterWoW_Dictionary_FR["frottez-la"] = { word = "frottez-la", translation = "rub it", note = "" }
+WordHunterWoW_Dictionary_FR["fry"] = { word = "Fry", translation = "Fry", note = "proper name" }
+WordHunterWoW_Dictionary_FR["fréquentez"] = { word = "fréquentez", translation = "frequent", note = "" }
+WordHunterWoW_Dictionary_FR["funestiens"] = { word = "funestiens", translation = "funestiens", note = "" }
+WordHunterWoW_Dictionary_FR["fusetaré"] = { word = "Fusetaré", translation = "Fusetaré", note = "proper name" }
+WordHunterWoW_Dictionary_FR["fusibles"] = { word = "fusibles", translation = "fuses", note = "" }
+WordHunterWoW_Dictionary_FR["fâchez"] = { word = "fâchez", translation = "get angry", note = "" }
+WordHunterWoW_Dictionary_FR["félaras"] = { word = "félaras", translation = "félaras", note = "" }
+WordHunterWoW_Dictionary_FR["félicitée"] = { word = "félicitée", translation = "congratulated", note = "" }
+WordHunterWoW_Dictionary_FR["félore"] = { word = "Félore", translation = "Félore", note = "proper name" }
+WordHunterWoW_Dictionary_FR["g-g-gardes"] = { word = "g-g-gardes", translation = "guards (stuttered)", note = "stuttered form of gardes" }
+WordHunterWoW_Dictionary_FR["gangreportails"] = { word = "gangreportails", translation = "gangreports", note = "" }
+WordHunterWoW_Dictionary_FR["garrivé"] = { word = "garrivé", translation = "garrive", note = "" }
+WordHunterWoW_Dictionary_FR["gemeron"] = { word = "Gemeron", translation = "Gemeron", note = "proper name" }
+WordHunterWoW_Dictionary_FR["gerroyeur"] = { word = "gerroyeur", translation = "gerroyer", note = "" }
+WordHunterWoW_Dictionary_FR["ghamoo-raja"] = { word = "Ghamoo-Raja", translation = "Ghamoo-Raja", note = "proper name" }
+WordHunterWoW_Dictionary_FR["gharrik"] = { word = "Gharrik", translation = "Gharrik", note = "proper name" }
+WordHunterWoW_Dictionary_FR["giberne"] = { word = "giberne", translation = "pouch", note = "" }
+WordHunterWoW_Dictionary_FR["givrantes"] = { word = "givrantes", translation = "icing", note = "" }
+WordHunterWoW_Dictionary_FR["glibby"] = { word = "Glibby", translation = "Glibby", note = "proper name" }
+WordHunterWoW_Dictionary_FR["gno"] = { word = "GNO", translation = "GNO", note = "proper name" }
+WordHunterWoW_Dictionary_FR["gorlas"] = { word = "Gorlas", translation = "Gorlas", note = "proper name" }
+WordHunterWoW_Dictionary_FR["gouvernés"] = { word = "gouvernés", translation = "governed", note = "" }
+WordHunterWoW_Dictionary_FR["gramwug"] = { word = "Gramwug", translation = "Gramwug", note = "proper name" }
+WordHunterWoW_Dictionary_FR["greymane"] = { word = "Greymane", translation = "Greymane", note = "proper name" }
+WordHunterWoW_Dictionary_FR["grezzlik"] = { word = "Grezzlik", translation = "Grezzlik", note = "proper name" }
+WordHunterWoW_Dictionary_FR["griffue"] = { word = "griffue", translation = "claw", note = "" }
+WordHunterWoW_Dictionary_FR["grimstone"] = { word = "Grimstone", translation = "Grimstone", note = "proper name" }
+WordHunterWoW_Dictionary_FR["grizzbi"] = { word = "Grizzbi", translation = "Grizzbi", note = "proper name" }
+WordHunterWoW_Dictionary_FR["grok’lo"] = { word = "Grok’lo", translation = "Grok’lo", note = "proper name" }
+WordHunterWoW_Dictionary_FR["grondantes"] = { word = "grondantes", translation = "rumbling", note = "" }
+WordHunterWoW_Dictionary_FR["grondera"] = { word = "grondera", translation = "will roar", note = "" }
+WordHunterWoW_Dictionary_FR["grondeterre"] = { word = "grondeterre", translation = "rumbleearth", note = "" }
+WordHunterWoW_Dictionary_FR["groupement"] = { word = "groupement", translation = "group", note = "" }
+WordHunterWoW_Dictionary_FR["gruau"] = { word = "gruau", translation = "oatmeal", note = "" }
+WordHunterWoW_Dictionary_FR["grégory"] = { word = "Grégory", translation = "Grégory", note = "proper name" }
+WordHunterWoW_Dictionary_FR["gsorti"] = { word = "gsorti", translation = "gsorti", note = "" }
+WordHunterWoW_Dictionary_FR["gueules-étaux"] = { word = "gueules-étaux", translation = "jaws-vises", note = "" }
+WordHunterWoW_Dictionary_FR["gunthar"] = { word = "Gunthar", translation = "Gunthar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["guérissant"] = { word = "guérissant", translation = "healing", note = "" }
+WordHunterWoW_Dictionary_FR["gâchettes"] = { word = "gâchettes", translation = "triggers", note = "" }
+WordHunterWoW_Dictionary_FR["géolocaliser"] = { word = "géolocaliser", translation = "geolocate", note = "" }
+WordHunterWoW_Dictionary_FR["hacher"] = { word = "hacher", translation = "chop", note = "" }
+WordHunterWoW_Dictionary_FR["hachés"] = { word = "hachés", translation = "chopped", note = "" }
+WordHunterWoW_Dictionary_FR["hamac"] = { word = "hamac", translation = "hammock", note = "" }
+WordHunterWoW_Dictionary_FR["hannalah"] = { word = "Hannalah", translation = "Hannalah", note = "proper name" }
+WordHunterWoW_Dictionary_FR["haut-gradé"] = { word = "haut-gradé", translation = "high-ranking", note = "" }
+WordHunterWoW_Dictionary_FR["hellscream"] = { word = "Hellscream", translation = "Hellscream", note = "proper name" }
+WordHunterWoW_Dictionary_FR["hildevel"] = { word = "Hildevel", translation = "Hildevel", note = "proper name" }
+WordHunterWoW_Dictionary_FR["hirst"] = { word = "hirst", translation = "hirst", note = "" }
+WordHunterWoW_Dictionary_FR["hirzek"] = { word = "Hirzek", translation = "Hirzek", note = "proper name" }
+WordHunterWoW_Dictionary_FR["houzza"] = { word = "Houzza", translation = "Houzza", note = "proper name" }
+WordHunterWoW_Dictionary_FR["humidifiée"] = { word = "humidifiée", translation = "humidified", note = "" }
+WordHunterWoW_Dictionary_FR["hygiène"] = { word = "hygiène", translation = "hygiene", note = "" }
+WordHunterWoW_Dictionary_FR["hymne"] = { word = "hymne", translation = "anthem", note = "" }
+WordHunterWoW_Dictionary_FR["i-i-il"] = { word = "i-i-il", translation = "he (stuttered)", note = "stuttered form of il" }
+WordHunterWoW_Dictionary_FR["illari"] = { word = "Illari", translation = "Illari", note = "proper name" }
+WordHunterWoW_Dictionary_FR["impliquez-vous"] = { word = "impliquez-vous", translation = "get involved", note = "" }
+WordHunterWoW_Dictionary_FR["impétueuses"] = { word = "impétueuses", translation = "impetuous", note = "" }
+WordHunterWoW_Dictionary_FR["incompris"] = { word = "incompris", translation = "misunderstood", note = "" }
+WordHunterWoW_Dictionary_FR["incongruité"] = { word = "incongruité", translation = "incongruity", note = "" }
+WordHunterWoW_Dictionary_FR["indendant"] = { word = "indendant", translation = "independent", note = "" }
+WordHunterWoW_Dictionary_FR["indiscriminée"] = { word = "indiscriminée", translation = "indiscriminate", note = "" }
+WordHunterWoW_Dictionary_FR["indiscutablement"] = { word = "indiscutablement", translation = "indisputably", note = "" }
+WordHunterWoW_Dictionary_FR["infailliblement"] = { word = "infailliblement", translation = "infallibly", note = "" }
+WordHunterWoW_Dictionary_FR["infesteraient"] = { word = "infesteraient", translation = "would infest", note = "" }
+WordHunterWoW_Dictionary_FR["infortuné"] = { word = "infortuné", translation = "unfortunate", note = "" }
+WordHunterWoW_Dictionary_FR["inimitables"] = { word = "inimitables", translation = "inimitable", note = "" }
+WordHunterWoW_Dictionary_FR["inopportuns"] = { word = "inopportuns", translation = "inopportune", note = "" }
+WordHunterWoW_Dictionary_FR["inouïs"] = { word = "inouïs", translation = "unheard of", note = "" }
+WordHunterWoW_Dictionary_FR["interdimensionnels"] = { word = "interdimensionnels", translation = "interdimensional", note = "" }
+WordHunterWoW_Dictionary_FR["interéssé"] = { word = "interéssé", translation = "interested", note = "" }
+WordHunterWoW_Dictionary_FR["intuitions"] = { word = "intuitions", translation = "hunches", note = "" }
+WordHunterWoW_Dictionary_FR["intéressaient"] = { word = "intéressaient", translation = "were interested", note = "" }
+WordHunterWoW_Dictionary_FR["inusable"] = { word = "inusable", translation = "unwearable", note = "" }
+WordHunterWoW_Dictionary_FR["inventaires"] = { word = "inventaires", translation = "inventories", note = "" }
+WordHunterWoW_Dictionary_FR["irons-nous"] = { word = "Irons-nous", translation = "Irons-nous", note = "proper name" }
+WordHunterWoW_Dictionary_FR["irrite"] = { word = "irrite", translation = "irritated", note = "" }
+WordHunterWoW_Dictionary_FR["j''ai"] = { word = "j''ai", translation = "I have", note = "contracted form: j' + 'ai" }
+WordHunterWoW_Dictionary_FR["j'améliorerai"] = { word = "j'améliorerai", translation = "I will improve", note = "contracted form: j' + améliorerai" }
+WordHunterWoW_Dictionary_FR["j'attendrais"] = { word = "j'attendrais", translation = "I would wait", note = "contracted form: j' + attendrais" }
+WordHunterWoW_Dictionary_FR["j'jure"] = { word = "j'jure", translation = "I swear", note = "contracted form: j' + jure" }
+WordHunterWoW_Dictionary_FR["jademir"] = { word = "Jademir", translation = "Jademir", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jamniss"] = { word = "Jamniss", translation = "Jamniss", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jangolode"] = { word = "Jangolode", translation = "Jangolode", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jen’sahn"] = { word = "Jen’sahn", translation = "Jen’sahn", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jinth'alor"] = { word = "Jinth'Alor", translation = "Jinth'Alor", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jixo"] = { word = "Jixo", translation = "Jixo", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jociphine"] = { word = "Jociphine", translation = "Jociphine", note = "proper name" }
+WordHunterWoW_Dictionary_FR["johann"] = { word = "Johann", translation = "Johann", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jubuwai"] = { word = "Jubuwai", translation = "Jubuwai", note = "proper name" }
+WordHunterWoW_Dictionary_FR["jurgens"] = { word = "Jurgens", translation = "Jurgens", note = "proper name" }
+WordHunterWoW_Dictionary_FR["j’aboutis"] = { word = "j’aboutis", translation = "I arrive", note = "contracted form: j’ + aboutis" }
+WordHunterWoW_Dictionary_FR["j’admirais"] = { word = "J’admirais", translation = "J’admirais", note = "proper name" }
+WordHunterWoW_Dictionary_FR["j’aplatirai"] = { word = "j’aplatirai", translation = "I will flatten", note = "contracted form: j’ + aplatirai" }
+WordHunterWoW_Dictionary_FR["j’assure"] = { word = "j’assure", translation = "I assure", note = "contracted form: j’ + assure" }
+WordHunterWoW_Dictionary_FR["j’entrepris"] = { word = "j’entrepris", translation = "I undertook", note = "contracted form: j’ + entrepris" }
+WordHunterWoW_Dictionary_FR["j’ignorerais"] = { word = "j’ignorerais", translation = "I would ignore", note = "contracted form: j’ + ignorerais" }
+WordHunterWoW_Dictionary_FR["j’intervienne"] = { word = "j’intervienne", translation = "I intervene", note = "contracted form: j’ + intervienne" }
+WordHunterWoW_Dictionary_FR["j’émerge"] = { word = "j’émerge", translation = "I emerge", note = "contracted form: j’ + émerge" }
+WordHunterWoW_Dictionary_FR["kajind"] = { word = "Kajind", translation = "Kajind", note = "proper name" }
+WordHunterWoW_Dictionary_FR["karfour"] = { word = "Karfour", translation = "Karfour", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kargathia"] = { word = "Kargathia", translation = "Kargathia", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kazdor"] = { word = "Kazdor", translation = "Kazdor", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kazragore"] = { word = "Kazragore", translation = "Kazragore", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kegan"] = { word = "Kegan", translation = "Kegan", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kelt"] = { word = "Kelt", translation = "Kelt", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ken’jai"] = { word = "Ken’jai", translation = "Ken’jai", note = "proper name" }
+WordHunterWoW_Dictionary_FR["khar’vaxal"] = { word = "Khar’vaxal", translation = "Khar’vaxal", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kir-moldir"] = { word = "Kir-Moldir", translation = "Kir-Moldir", note = "proper name" }
+WordHunterWoW_Dictionary_FR["korlian"] = { word = "Korlian", translation = "Korlian", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kredlig"] = { word = "kredlig", translation = "kredlig", note = "" }
+WordHunterWoW_Dictionary_FR["krixix"] = { word = "Krixix", translation = "Krixix", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kroll"] = { word = "Kroll", translation = "Kroll", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kronkrider"] = { word = "Kronkrider", translation = "Kronkrider", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kul'tiras"] = { word = "Kul'Tiras", translation = "Kul'Tiras", note = "proper name" }
+WordHunterWoW_Dictionary_FR["kyndra"] = { word = "Kyndra", translation = "Kyndra", note = "proper name" }
+WordHunterWoW_Dictionary_FR["l'abris"] = { word = "l'abris", translation = "the shelter", note = "contracted form: l' + abris" }
+WordHunterWoW_Dictionary_FR["l'araignée"] = { word = "l'araignée", translation = "the spider", note = "contracted form: l' + araignée" }
+WordHunterWoW_Dictionary_FR["l'attendra"] = { word = "l'attendra", translation = "will wait for him", note = "contracted form: l' + attendra" }
+WordHunterWoW_Dictionary_FR["l'attendrai"] = { word = "l'attendrai", translation = "will wait for him", note = "contracted form: l' + attendrai" }
+WordHunterWoW_Dictionary_FR["l'emballer"] = { word = "l'emballer", translation = "pack it", note = "contracted form: l' + emballer" }
+WordHunterWoW_Dictionary_FR["l'embarquer"] = { word = "l'embarquer", translation = "take it on board", note = "contracted form: l' + embarquer" }
+WordHunterWoW_Dictionary_FR["l'exécute"] = { word = "l'exécute", translation = "executes it", note = "contracted form: l' + exécute" }
+WordHunterWoW_Dictionary_FR["l'homonyme"] = { word = "l'homonyme", translation = "the namesake", note = "contracted form: l' + homonyme" }
+WordHunterWoW_Dictionary_FR["l'immobilisme"] = { word = "l'immobilisme", translation = "immobility", note = "contracted form: l' + immobilisme" }
+WordHunterWoW_Dictionary_FR["l'ingèrent"] = { word = "l'ingèrent", translation = "ingest it", note = "contracted form: l' + ingèrent" }
+WordHunterWoW_Dictionary_FR["l'irritation"] = { word = "l'irritation", translation = "irritation", note = "contracted form: l' + irritation" }
+WordHunterWoW_Dictionary_FR["l'premier"] = { word = "l'premier", translation = "the first", note = "contracted form: l' + premier" }
+WordHunterWoW_Dictionary_FR["l'secteur"] = { word = "l'secteur", translation = "the sector", note = "contracted form: l' + secteur" }
+WordHunterWoW_Dictionary_FR["l'émulsion"] = { word = "l'émulsion", translation = "the emulsion", note = "contracted form: l' + émulsion" }
+WordHunterWoW_Dictionary_FR["l'étonnement"] = { word = "l'étonnement", translation = "astonishment", note = "contracted form: l' + étonnement" }
+WordHunterWoW_Dictionary_FR["la-bas"] = { word = "la-bas", translation = "over there", note = "" }
+WordHunterWoW_Dictionary_FR["lalame"] = { word = "Lalame", translation = "Lalame", note = "proper name" }
+WordHunterWoW_Dictionary_FR["lanaria"] = { word = "Lanaria", translation = "Lanaria", note = "proper name" }
+WordHunterWoW_Dictionary_FR["languir"] = { word = "languir", translation = "languish", note = "" }
+WordHunterWoW_Dictionary_FR["laninar"] = { word = "Laninar", translation = "Laninar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["larsera"] = { word = "Larsera", translation = "Larsera", note = "proper name" }
+WordHunterWoW_Dictionary_FR["lashlayer"] = { word = "Lashlayer", translation = "Lashlayer", note = "proper name" }
+WordHunterWoW_Dictionary_FR["leonig"] = { word = "Leonig", translation = "Leonig", note = "proper name" }
+WordHunterWoW_Dictionary_FR["libéra"] = { word = "libéra", translation = "liberated", note = "" }
+WordHunterWoW_Dictionary_FR["lichor"] = { word = "lichor", translation = "lichor", note = "" }
+WordHunterWoW_Dictionary_FR["lieu-dit"] = { word = "lieu-dit", translation = "place called", note = "" }
+WordHunterWoW_Dictionary_FR["ligotez-le"] = { word = "ligotez-le", translation = "tie him up", note = "" }
+WordHunterWoW_Dictionary_FR["liliana"] = { word = "liliana", translation = "liliana", note = "" }
+WordHunterWoW_Dictionary_FR["limi"] = { word = "limi", translation = "limit", note = "" }
+WordHunterWoW_Dictionary_FR["liminal"] = { word = "Liminal", translation = "Liminal", note = "proper name" }
+WordHunterWoW_Dictionary_FR["liquéfaction"] = { word = "Liquéfaction", translation = "Liquéfaction", note = "proper name" }
+WordHunterWoW_Dictionary_FR["livrez-la"] = { word = "livrez-la", translation = "deliver it", note = "" }
+WordHunterWoW_Dictionary_FR["lorsqu'une"] = { word = "lorsqu'une", translation = "when a", note = "" }
+WordHunterWoW_Dictionary_FR["loupes"] = { word = "loupes", translation = "magnifying glasses", note = "" }
+WordHunterWoW_Dictionary_FR["luctus"] = { word = "Luctus", translation = "Luctus", note = "proper name" }
+WordHunterWoW_Dictionary_FR["lune-d’automne"] = { word = "Lune-d’Automne", translation = "Lune-d’Automne", note = "proper name" }
+WordHunterWoW_Dictionary_FR["luxure"] = { word = "luxure", translation = "lust", note = "" }
+WordHunterWoW_Dictionary_FR["légendée"] = { word = "légendée", translation = "captioned", note = "" }
+WordHunterWoW_Dictionary_FR["l’abattrez"] = { word = "l’abattrez", translation = "will knock him down", note = "contracted form: l’ + abattrez" }
+WordHunterWoW_Dictionary_FR["l’absurde"] = { word = "l’absurde", translation = "the absurd", note = "contracted form: l’ + absurde" }
+WordHunterWoW_Dictionary_FR["l’abécédaire"] = { word = "l’Abécédaire", translation = "the ABC", note = "contracted form: l’ + Abécédaire" }
+WordHunterWoW_Dictionary_FR["l’accréditation"] = { word = "l’accréditation", translation = "accreditation", note = "contracted form: l’ + accréditation" }
+WordHunterWoW_Dictionary_FR["l’accueillerais"] = { word = "l’accueillerais", translation = "would welcome him", note = "contracted form: l’ + accueillerais" }
+WordHunterWoW_Dictionary_FR["l’accélérateur"] = { word = "l’accélérateur", translation = "the accelerator", note = "contracted form: l’ + accélérateur" }
+WordHunterWoW_Dictionary_FR["l’adjuration"] = { word = "l’adjuration", translation = "the adjuration", note = "contracted form: l’ + adjuration" }
+WordHunterWoW_Dictionary_FR["l’agente"] = { word = "l’agente", translation = "the agent", note = "contracted form: l’ + agente" }
+WordHunterWoW_Dictionary_FR["l’ailleurs"] = { word = "l’ailleurs", translation = "elsewhere", note = "contracted form: l’ + ailleurs" }
+WordHunterWoW_Dictionary_FR["l’aimerez"] = { word = "l’aimerez", translation = "will love it", note = "contracted form: l’ + aimerez" }
+WordHunterWoW_Dictionary_FR["l’allégresse"] = { word = "l’allégresse", translation = "joy", note = "contracted form: l’ + allégresse" }
+WordHunterWoW_Dictionary_FR["l’altérer"] = { word = "l’altérer", translation = "alter it", note = "contracted form: l’ + altérer" }
+WordHunterWoW_Dictionary_FR["l’amalgame"] = { word = "l’amalgame", translation = "the amalgam", note = "contracted form: l’ + amalgame" }
+WordHunterWoW_Dictionary_FR["l’amenez"] = { word = "l’amenez", translation = "bring it", note = "contracted form: l’ + amenez" }
+WordHunterWoW_Dictionary_FR["l’anatomie"] = { word = "l’anatomie", translation = "the anatomy", note = "contracted form: l’ + anatomie" }
+WordHunterWoW_Dictionary_FR["l’animiste"] = { word = "l’animiste", translation = "the animist", note = "contracted form: l’ + animiste" }
+WordHunterWoW_Dictionary_FR["l’approvisionnent"] = { word = "l’approvisionnent", translation = "supply it", note = "contracted form: l’ + approvisionnent" }
+WordHunterWoW_Dictionary_FR["l’appréhender"] = { word = "l’appréhender", translation = "apprehend it", note = "contracted form: l’ + appréhender" }
+WordHunterWoW_Dictionary_FR["l’après-midi"] = { word = "l’après-midi", translation = "in the afternoon", note = "contracted form: l’ + après-midi" }
+WordHunterWoW_Dictionary_FR["l’arcane"] = { word = "l’arcane", translation = "the arcana", note = "contracted form: l’ + arcane" }
+WordHunterWoW_Dictionary_FR["l’augure"] = { word = "l’augure", translation = "the omen", note = "contracted form: l’ + augure" }
+WordHunterWoW_Dictionary_FR["l’autobiographie"] = { word = "L’autobiographie", translation = "L’autobiographie", note = "proper name" }
+WordHunterWoW_Dictionary_FR["l’autopsie"] = { word = "l’autopsie", translation = "the autopsy", note = "contracted form: l’ + autopsie" }
+WordHunterWoW_Dictionary_FR["l’avoine"] = { word = "l’avoine", translation = "oats", note = "contracted form: l’ + avoine" }
+WordHunterWoW_Dictionary_FR["l’besoin"] = { word = "l’besoin", translation = "the need", note = "contracted form: l’ + besoin" }
+WordHunterWoW_Dictionary_FR["l’effacer"] = { word = "l’effacer", translation = "erase it", note = "contracted form: l’ + effacer" }
+WordHunterWoW_Dictionary_FR["l’eglise"] = { word = "l’Eglise", translation = "the Church", note = "contracted form: l’ + Eglise" }
+WordHunterWoW_Dictionary_FR["l’embauche"] = { word = "l’embauche", translation = "hiring", note = "contracted form: l’ + embauche" }
+WordHunterWoW_Dictionary_FR["l’enchanterai"] = { word = "l’enchanterai", translation = "will enchant him", note = "contracted form: l’ + enchanterai" }
+WordHunterWoW_Dictionary_FR["l’encouragement"] = { word = "l’encouragement", translation = "encouragement", note = "contracted form: l’ + encouragement" }
+WordHunterWoW_Dictionary_FR["l’enfilez"] = { word = "l’enfilez", translation = "put it on", note = "contracted form: l’ + enfilez" }
+WordHunterWoW_Dictionary_FR["l’engager"] = { word = "l’engager", translation = "engage him", note = "contracted form: l’ + engager" }
+WordHunterWoW_Dictionary_FR["l’enseignerai"] = { word = "l’enseignerai", translation = "will teach it", note = "contracted form: l’ + enseignerai" }
+WordHunterWoW_Dictionary_FR["l’entière"] = { word = "l’entière", translation = "the whole", note = "contracted form: l’ + entière" }
+WordHunterWoW_Dictionary_FR["l’entrepose"] = { word = "l’entrepose", translation = "storage", note = "contracted form: l’ + entrepose" }
+WordHunterWoW_Dictionary_FR["l’envahir"] = { word = "l’envahir", translation = "invade it", note = "contracted form: l’ + envahir" }
+WordHunterWoW_Dictionary_FR["l’envahit"] = { word = "l’envahit", translation = "invades it", note = "contracted form: l’ + envahit" }
+WordHunterWoW_Dictionary_FR["l’ergonomie"] = { word = "l’ergonomie", translation = "ergonomics", note = "contracted form: l’ + ergonomie" }
+WordHunterWoW_Dictionary_FR["l’esquille"] = { word = "l’Esquille", translation = "the Esquille", note = "contracted form: l’ + Esquille" }
+WordHunterWoW_Dictionary_FR["l’essaie"] = { word = "l’essaie", translation = "try it", note = "contracted form: l’ + essaie" }
+WordHunterWoW_Dictionary_FR["l’essaierai"] = { word = "l’essaierai", translation = "will try it", note = "contracted form: l’ + essaierai" }
+WordHunterWoW_Dictionary_FR["l’estimée"] = { word = "l’estimée", translation = "the estimate", note = "contracted form: l’ + estimée" }
+WordHunterWoW_Dictionary_FR["l’grand"] = { word = "l’grand", translation = "the big one", note = "contracted form: l’ + grand" }
+WordHunterWoW_Dictionary_FR["l’habiter"] = { word = "l’habiter", translation = "inhabit it", note = "contracted form: l’ + habiter" }
+WordHunterWoW_Dictionary_FR["l’humaine"] = { word = "l’Humaine", translation = "the Human", note = "contracted form: l’ + Humaine" }
+WordHunterWoW_Dictionary_FR["l’hydrogénos"] = { word = "l’Hydrogénos", translation = "hydrogenos", note = "contracted form: l’ + Hydrogénos" }
+WordHunterWoW_Dictionary_FR["l’imprévisibilité"] = { word = "l’imprévisibilité", translation = "unpredictability", note = "contracted form: l’ + imprévisibilité" }
+WordHunterWoW_Dictionary_FR["l’indendant"] = { word = "l’indendant", translation = "the independent", note = "contracted form: l’ + indendant" }
+WordHunterWoW_Dictionary_FR["l’infamie"] = { word = "l’infamie", translation = "infamy", note = "contracted form: l’ + infamie" }
+WordHunterWoW_Dictionary_FR["l’infestent"] = { word = "l’infestent", translation = "infest it", note = "contracted form: l’ + infestent" }
+WordHunterWoW_Dictionary_FR["l’inscrire"] = { word = "l’inscrire", translation = "register it", note = "contracted form: l’ + inscrire" }
+WordHunterWoW_Dictionary_FR["l’intermédaire"] = { word = "l’intermédaire", translation = "the intermediary", note = "contracted form: l’ + intermédaire" }
+WordHunterWoW_Dictionary_FR["l’intrus"] = { word = "l’intrus", translation = "the intruder", note = "contracted form: l’ + intrus" }
+WordHunterWoW_Dictionary_FR["l’oeufilloscope"] = { word = "l’Oeufilloscope", translation = "the Oeufilloscope", note = "contracted form: l’ + Oeufilloscope" }
+WordHunterWoW_Dictionary_FR["l’offrirai"] = { word = "l’offrirai", translation = "will offer it", note = "contracted form: l’ + offrirai" }
+WordHunterWoW_Dictionary_FR["l’ombrage"] = { word = "l’Ombrage", translation = "the Shadow", note = "contracted form: l’ + Ombrage" }
+WordHunterWoW_Dictionary_FR["l’ombregarde"] = { word = "l’Ombregarde", translation = "the Shadowguard", note = "contracted form: l’ + Ombregarde" }
+WordHunterWoW_Dictionary_FR["l’omoplate"] = { word = "l’omoplate", translation = "the shoulder blade", note = "contracted form: l’ + omoplate" }
+WordHunterWoW_Dictionary_FR["l’onguent"] = { word = "l’onguent", translation = "the ointment", note = "contracted form: l’ + onguent" }
+WordHunterWoW_Dictionary_FR["l’oublieront"] = { word = "l’oublieront", translation = "will forget it", note = "contracted form: l’ + oublieront" }
+WordHunterWoW_Dictionary_FR["l’ouvrant"] = { word = "l’ouvrant", translation = "opening it", note = "contracted form: l’ + ouvrant" }
+WordHunterWoW_Dictionary_FR["l’terrien"] = { word = "l’terrien", translation = "the earthling", note = "contracted form: l’ + terrien" }
+WordHunterWoW_Dictionary_FR["l’ébouillanter"] = { word = "l’ébouillanter", translation = "scald it", note = "contracted form: l’ + ébouillanter" }
+WordHunterWoW_Dictionary_FR["l’échéance"] = { word = "l’échéance", translation = "the deadline", note = "contracted form: l’ + échéance" }
+WordHunterWoW_Dictionary_FR["l’écrin"] = { word = "l’écrin", translation = "the case", note = "contracted form: l’ + écrin" }
+WordHunterWoW_Dictionary_FR["l’élementaire"] = { word = "l’élementaire", translation = "the elementary", note = "contracted form: l’ + élementaire" }
+WordHunterWoW_Dictionary_FR["l’épuration"] = { word = "l’épuration", translation = "purification", note = "contracted form: l’ + épuration" }
+WordHunterWoW_Dictionary_FR["l’étudieront"] = { word = "l’étudieront", translation = "will study it", note = "contracted form: l’ + étudieront" }
+WordHunterWoW_Dictionary_FR["m'accompagniez"] = { word = "m'accompagniez", translation = "accompanied me", note = "contracted form: m' + accompagniez" }
+WordHunterWoW_Dictionary_FR["m'amuserai"] = { word = "m'amuserai", translation = "will have fun", note = "contracted form: m' + amuserai" }
+WordHunterWoW_Dictionary_FR["m'apitoierai"] = { word = "m'apitoierai", translation = "I will feel sorry for myself", note = "contracted form: m' + apitoierai" }
+WordHunterWoW_Dictionary_FR["m'arrache"] = { word = "m'arrache", translation = "tear me away", note = "contracted form: m' + arrache" }
+WordHunterWoW_Dictionary_FR["m'engager"] = { word = "m'engager", translation = "engage", note = "contracted form: m' + engager" }
+WordHunterWoW_Dictionary_FR["m'hérisse"] = { word = "m'hérisse", translation = "makes me bristle", note = "contracted form: m' + hérisse" }
+WordHunterWoW_Dictionary_FR["m'immolent"] = { word = "m'immolent", translation = "immolate me", note = "contracted form: m' + immolent" }
+WordHunterWoW_Dictionary_FR["m'intriguent"] = { word = "m'intriguent", translation = "intrigue me", note = "contracted form: m' + intriguent" }
+WordHunterWoW_Dictionary_FR["m'rendent"] = { word = "m'rendent", translation = "give me back", note = "contracted form: m' + rendent" }
+WordHunterWoW_Dictionary_FR["m'échapperai"] = { word = "m'échapperai", translation = "I will escape", note = "contracted form: m' + échapperai" }
+WordHunterWoW_Dictionary_FR["maethra"] = { word = "Maethra", translation = "Maethra", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mai’ah"] = { word = "Mai’ah", translation = "Mai’ah", note = "proper name" }
+WordHunterWoW_Dictionary_FR["maleki"] = { word = "Maleki", translation = "Maleki", note = "proper name" }
+WordHunterWoW_Dictionary_FR["maléfismes"] = { word = "maléfismes", translation = "evilisms", note = "" }
+WordHunterWoW_Dictionary_FR["mande"] = { word = "mande", translation = "request", note = "" }
+WordHunterWoW_Dictionary_FR["mandoran"] = { word = "Mandoran", translation = "Mandoran", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mangerais"] = { word = "mangerais", translation = "would eat", note = "" }
+WordHunterWoW_Dictionary_FR["mangerez"] = { word = "mangerez", translation = "will eat", note = "" }
+WordHunterWoW_Dictionary_FR["maniait"] = { word = "maniait", translation = "handled", note = "" }
+WordHunterWoW_Dictionary_FR["marchemarais"] = { word = "Marchemarais", translation = "Marchemarais", note = "proper name" }
+WordHunterWoW_Dictionary_FR["marcheterreurs"] = { word = "marcheterreurs", translation = "walkerterrors", note = "" }
+WordHunterWoW_Dictionary_FR["mariant"] = { word = "mariant", translation = "marrying", note = "" }
+WordHunterWoW_Dictionary_FR["markus"] = { word = "Markus", translation = "Markus", note = "proper name" }
+WordHunterWoW_Dictionary_FR["marrek"] = { word = "Marrek", translation = "Marrek", note = "proper name" }
+WordHunterWoW_Dictionary_FR["maseara"] = { word = "Maseara", translation = "Maseara", note = "proper name" }
+WordHunterWoW_Dictionary_FR["maternelles"] = { word = "maternelles", translation = "kindergarten", note = "" }
+WordHunterWoW_Dictionary_FR["matriarcat"] = { word = "matriarcat", translation = "matriarchy", note = "" }
+WordHunterWoW_Dictionary_FR["maximilien"] = { word = "Maximilien", translation = "Maximilien", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mellias"] = { word = "Mellias", translation = "Mellias", note = "proper name" }
+WordHunterWoW_Dictionary_FR["merana"] = { word = "Merana", translation = "Merana", note = "proper name" }
+WordHunterWoW_Dictionary_FR["michel"] = { word = "Michel", translation = "Michel", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mitonnerai"] = { word = "mitonnerai", translation = "will cook", note = "" }
+WordHunterWoW_Dictionary_FR["mizzle"] = { word = "Mizzle", translation = "Mizzle", note = "proper name" }
+WordHunterWoW_Dictionary_FR["moissonne-trolls"] = { word = "Moissonne-trolls", translation = "Moissonne-trolls", note = "proper name" }
+WordHunterWoW_Dictionary_FR["monoscope"] = { word = "monoscope", translation = "monoscope", note = "" }
+WordHunterWoW_Dictionary_FR["montera"] = { word = "montera", translation = "will rise", note = "" }
+WordHunterWoW_Dictionary_FR["moonfeather"] = { word = "Moonfeather", translation = "Moonfeather", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mossflayer"] = { word = "Mossflayer", translation = "Mossflayer", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mot--ha"] = { word = "mot--ha", translation = "word--ha", note = "" }
+WordHunterWoW_Dictionary_FR["moto"] = { word = "moto", translation = "motorcycle", note = "" }
+WordHunterWoW_Dictionary_FR["mouillés"] = { word = "mouillés", translation = "wet", note = "" }
+WordHunterWoW_Dictionary_FR["mourraient"] = { word = "mourraient", translation = "would die", note = "" }
+WordHunterWoW_Dictionary_FR["moussue"] = { word = "moussue", translation = "mossy", note = "" }
+WordHunterWoW_Dictionary_FR["mugore"] = { word = "Mugore", translation = "Mugore", note = "proper name" }
+WordHunterWoW_Dictionary_FR["murlocfarmama"] = { word = "Murlocfarmama", translation = "Murlocfarmama", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mâchetripes"] = { word = "Mâchetripes", translation = "Mâchetripes", note = "proper name" }
+WordHunterWoW_Dictionary_FR["mélancolies"] = { word = "mélancolies", translation = "melancholy", note = "" }
+WordHunterWoW_Dictionary_FR["mélangera"] = { word = "mélangera", translation = "will mix", note = "" }
+WordHunterWoW_Dictionary_FR["méritais"] = { word = "méritais", translation = "deserved", note = "" }
+WordHunterWoW_Dictionary_FR["m’accordez"] = { word = "m’accordez", translation = "grant me", note = "contracted form: m’ + accordez" }
+WordHunterWoW_Dictionary_FR["m’aiment"] = { word = "m’aiment", translation = "love me", note = "contracted form: m’ + aiment" }
+WordHunterWoW_Dictionary_FR["m’amena"] = { word = "m’amena", translation = "brought me", note = "contracted form: m’ + amena" }
+WordHunterWoW_Dictionary_FR["m’amenant"] = { word = "m’amenant", translation = "bringing me", note = "contracted form: m’ + amenant" }
+WordHunterWoW_Dictionary_FR["m’apercevoir"] = { word = "m’apercevoir", translation = "notice me", note = "contracted form: m’ + apercevoir" }
+WordHunterWoW_Dictionary_FR["m’emparerai"] = { word = "m’emparerai", translation = "will take hold", note = "contracted form: m’ + emparerai" }
+WordHunterWoW_Dictionary_FR["m’importunent"] = { word = "m’importunent", translation = "bother me", note = "contracted form: m’ + importunent" }
+WordHunterWoW_Dictionary_FR["m’indiffère"] = { word = "m’indiffère", translation = "I don't care", note = "contracted form: m’ + indiffère" }
+WordHunterWoW_Dictionary_FR["m’obéir"] = { word = "m’obéir", translation = "obey me", note = "contracted form: m’ + obéir" }
+WordHunterWoW_Dictionary_FR["m’offrait"] = { word = "m’offrait", translation = "offered me", note = "contracted form: m’ + offrait" }
+WordHunterWoW_Dictionary_FR["m’énerver"] = { word = "m’énerver", translation = "get angry", note = "contracted form: m’ + énerver" }
+WordHunterWoW_Dictionary_FR["m’étends"] = { word = "m’étends", translation = "stretch out", note = "contracted form: m’ + étends" }
+WordHunterWoW_Dictionary_FR["m’étudier"] = { word = "m’étudier", translation = "study myself", note = "contracted form: m’ + étudier" }
+WordHunterWoW_Dictionary_FR["m’éveillai"] = { word = "m’éveillai", translation = "woke up", note = "contracted form: m’ + éveillai" }
+WordHunterWoW_Dictionary_FR["n'aboutissent"] = { word = "n'aboutissent", translation = "do not succeed", note = "contracted form: n' + aboutissent" }
+WordHunterWoW_Dictionary_FR["n'agit"] = { word = "n'agit", translation = "does not act", note = "contracted form: n' + agit" }
+WordHunterWoW_Dictionary_FR["n'hésiterais"] = { word = "n'hésiterais", translation = "would not hesitate", note = "contracted form: n' + hésiterais" }
+WordHunterWoW_Dictionary_FR["n'évitez"] = { word = "n'évitez", translation = "don't avoid", note = "contracted form: n' + évitez" }
+WordHunterWoW_Dictionary_FR["nandieb"] = { word = "Nandieb", translation = "Nandieb", note = "proper name" }
+WordHunterWoW_Dictionary_FR["nettoierais"] = { word = "nettoierais", translation = "would clean", note = "" }
+WordHunterWoW_Dictionary_FR["nitro-survoleurs"] = { word = "nitro-survoleurs", translation = "nitro-flyers", note = "" }
+WordHunterWoW_Dictionary_FR["nitro-survolteurs"] = { word = "nitro-survolteurs", translation = "nitro-boosters", note = "" }
+WordHunterWoW_Dictionary_FR["noctanuage"] = { word = "Noctanuage", translation = "Noctanuage", note = "proper name" }
+WordHunterWoW_Dictionary_FR["noir-bois"] = { word = "Noir-bois", translation = "Noir-bois", note = "proper name" }
+WordHunterWoW_Dictionary_FR["northrend"] = { word = "Northrend", translation = "Northrend", note = "proper name" }
+WordHunterWoW_Dictionary_FR["noueuse"] = { word = "noueuse", translation = "knotty", note = "" }
+WordHunterWoW_Dictionary_FR["noxxion"] = { word = "Noxxion", translation = "Noxxion", note = "proper name" }
+WordHunterWoW_Dictionary_FR["noyez-la"] = { word = "noyez-la", translation = "drown her", note = "" }
+WordHunterWoW_Dictionary_FR["numi"] = { word = "Numi", translation = "Numi", note = "proper name" }
+WordHunterWoW_Dictionary_FR["nécessiterait"] = { word = "nécessiterait", translation = "would require", note = "" }
+WordHunterWoW_Dictionary_FR["nécromants"] = { word = "nécromants", translation = "necromancers", note = "" }
+WordHunterWoW_Dictionary_FR["nécrosés"] = { word = "nécrosés", translation = "necrotic", note = "" }
+WordHunterWoW_Dictionary_FR["nérène"] = { word = "Nérène", translation = "Nérène", note = "proper name" }
+WordHunterWoW_Dictionary_FR["n’affecte"] = { word = "n’affecte", translation = "does not affect", note = "contracted form: n’ + affecte" }
+WordHunterWoW_Dictionary_FR["n’amènent"] = { word = "n’amènent", translation = "do not bring", note = "contracted form: n’ + amènent" }
+WordHunterWoW_Dictionary_FR["n’apparaîtra"] = { word = "n’apparaîtra", translation = "will not appear", note = "contracted form: n’ + apparaîtra" }
+WordHunterWoW_Dictionary_FR["n’arrêterons"] = { word = "n’arrêterons", translation = "we won't stop", note = "contracted form: n’ + arrêterons" }
+WordHunterWoW_Dictionary_FR["n’arrêtez"] = { word = "n’arrêtez", translation = "don't stop", note = "contracted form: n’ + arrêtez" }
+WordHunterWoW_Dictionary_FR["n’atteindrons"] = { word = "n’atteindrons", translation = "we will not reach", note = "contracted form: n’ + atteindrons" }
+WordHunterWoW_Dictionary_FR["n’entraînerez"] = { word = "n’entraînerez", translation = "will not lead", note = "contracted form: n’ + entraînerez" }
+WordHunterWoW_Dictionary_FR["n’hesitez"] = { word = "n’HESITEZ", translation = "DON’T HESITATE", note = "contracted form: n’ + HESITEZ" }
+WordHunterWoW_Dictionary_FR["n’imitez"] = { word = "n’imitez", translation = "do not imitate", note = "contracted form: n’ + imitez" }
+WordHunterWoW_Dictionary_FR["n’ont-ils"] = { word = "n’ont-ils", translation = "do they have", note = "contracted form: n’ + ont-ils" }
+WordHunterWoW_Dictionary_FR["n’ora"] = { word = "N’ora", translation = "N’ora", note = "proper name" }
+WordHunterWoW_Dictionary_FR["n’oublierez"] = { word = "n’oublierez", translation = "will not forget", note = "contracted form: n’ + oublierez" }
+WordHunterWoW_Dictionary_FR["n’oublieriez"] = { word = "n’oublieriez", translation = "would not forget", note = "contracted form: n’ + oublieriez" }
+WordHunterWoW_Dictionary_FR["n’émane"] = { word = "n’émane", translation = "does not emanate", note = "contracted form: n’ + émane" }
+WordHunterWoW_Dictionary_FR["n’éprouvez"] = { word = "n’éprouvez", translation = "do not experience", note = "contracted form: n’ + éprouvez" }
+WordHunterWoW_Dictionary_FR["obscurité"] = { word = "obscurité", translation = "darkness", note = "" }
+WordHunterWoW_Dictionary_FR["ogresse"] = { word = "Ogresse", translation = "Ogresse", note = "proper name" }
+WordHunterWoW_Dictionary_FR["olanian's"] = { word = "olanian's", translation = "olanian's", note = "" }
+WordHunterWoW_Dictionary_FR["ombre-totem"] = { word = "Ombre-Totem", translation = "Ombre-Totem", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ombremontagne"] = { word = "Ombremontagne", translation = "Ombremontagne", note = "proper name" }
+WordHunterWoW_Dictionary_FR["omoplate"] = { word = "omoplate", translation = "scapula", note = "" }
+WordHunterWoW_Dictionary_FR["oneiros"] = { word = "Oneiros", translation = "Oneiros", note = "proper name" }
+WordHunterWoW_Dictionary_FR["oniracine"] = { word = "oniracine", translation = "oniracin", note = "" }
+WordHunterWoW_Dictionary_FR["oniracines"] = { word = "oniracines", translation = "oniracins", note = "" }
+WordHunterWoW_Dictionary_FR["onéreuse"] = { word = "onéreuse", translation = "expensive", note = "" }
+WordHunterWoW_Dictionary_FR["orageuse"] = { word = "orageuse", translation = "stormy", note = "" }
+WordHunterWoW_Dictionary_FR["ordonnées"] = { word = "ordonnées", translation = "ordered", note = "" }
+WordHunterWoW_Dictionary_FR["orokai"] = { word = "Orokai", translation = "Orokai", note = "proper name" }
+WordHunterWoW_Dictionary_FR["orthas"] = { word = "orthas", translation = "orthas", note = "" }
+WordHunterWoW_Dictionary_FR["p-p-promener"] = { word = "p-p-promener", translation = "to take a walk (stuttered)", note = "stuttered form of promener" }
+WordHunterWoW_Dictionary_FR["palandar"] = { word = "Palandar", translation = "Palandar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["papyrus"] = { word = "papyrus", translation = "papyrus", note = "" }
+WordHunterWoW_Dictionary_FR["par-derrière"] = { word = "par-derrière", translation = "from behind", note = "" }
+WordHunterWoW_Dictionary_FR["parente"] = { word = "parente", translation = "relationship", note = "" }
+WordHunterWoW_Dictionary_FR["parlerait"] = { word = "parlerait", translation = "would speak", note = "" }
+WordHunterWoW_Dictionary_FR["passeraient"] = { word = "passeraient", translation = "would pass", note = "" }
+WordHunterWoW_Dictionary_FR["paupières"] = { word = "paupières", translation = "eyelids", note = "" }
+WordHunterWoW_Dictionary_FR["pauvres-flammes"] = { word = "pauvres-flammes", translation = "poor-flames", note = "" }
+WordHunterWoW_Dictionary_FR["payement"] = { word = "payement", translation = "payment", note = "" }
+WordHunterWoW_Dictionary_FR["peintres"] = { word = "peintres", translation = "painters", note = "" }
+WordHunterWoW_Dictionary_FR["perdrez"] = { word = "perdrez", translation = "will lose", note = "" }
+WordHunterWoW_Dictionary_FR["persister"] = { word = "persister", translation = "persist", note = "" }
+WordHunterWoW_Dictionary_FR["persuadons"] = { word = "persuadons", translation = "let's persuade", note = "" }
+WordHunterWoW_Dictionary_FR["persécutez-les"] = { word = "persécutez-les", translation = "persecute them", note = "" }
+WordHunterWoW_Dictionary_FR["petipignon"] = { word = "Petipignon", translation = "Petipignon", note = "proper name" }
+WordHunterWoW_Dictionary_FR["phaseurs"] = { word = "phaseurs", translation = "phasers", note = "" }
+WordHunterWoW_Dictionary_FR["pieuses"] = { word = "pieuses", translation = "pious", note = "" }
+WordHunterWoW_Dictionary_FR["pin-tordu"] = { word = "Pin-tordu", translation = "Pin-tordu", note = "proper name" }
+WordHunterWoW_Dictionary_FR["pinéales"] = { word = "pinéales", translation = "pineals", note = "" }
+WordHunterWoW_Dictionary_FR["pique-assiette"] = { word = "pique-assiette", translation = "freeloader", note = "" }
+WordHunterWoW_Dictionary_FR["piquez-en"] = { word = "piquez-en", translation = "prick some", note = "" }
+WordHunterWoW_Dictionary_FR["pis-aller"] = { word = "pis-aller", translation = "stopgap", note = "" }
+WordHunterWoW_Dictionary_FR["pix"] = { word = "Pix", translation = "Pix", note = "proper name" }
+WordHunterWoW_Dictionary_FR["placeraient-ils"] = { word = "placeraient-ils", translation = "would they place", note = "" }
+WordHunterWoW_Dictionary_FR["plsu"] = { word = "plsu", translation = "more", note = "" }
+WordHunterWoW_Dictionary_FR["plumenuit"] = { word = "Plumenuit", translation = "Plumenuit", note = "proper name" }
+WordHunterWoW_Dictionary_FR["poigne-d’os"] = { word = "Poigne-d’os", translation = "Poigne-d’os", note = "proper name" }
+WordHunterWoW_Dictionary_FR["polarité"] = { word = "polarité", translation = "polarity", note = "" }
+WordHunterWoW_Dictionary_FR["polychromes"] = { word = "polychromes", translation = "polychrome", note = "" }
+WordHunterWoW_Dictionary_FR["porte-flammes"] = { word = "porte-flammes", translation = "flame holder", note = "" }
+WordHunterWoW_Dictionary_FR["porte-vérité"] = { word = "Porte-Vérité", translation = "Porte-Vérité", note = "proper name" }
+WordHunterWoW_Dictionary_FR["portiporteur"] = { word = "portiporteur", translation = "porter", note = "" }
+WordHunterWoW_Dictionary_FR["posséderait-il"] = { word = "posséderait-il", translation = "would he own", note = "" }
+WordHunterWoW_Dictionary_FR["pot-de-vin"] = { word = "pot-de-vin", translation = "bribe", note = "" }
+WordHunterWoW_Dictionary_FR["pourchassez-le"] = { word = "pourchassez-le", translation = "chase him", note = "" }
+WordHunterWoW_Dictionary_FR["pourissant"] = { word = "pourissant", translation = "rotting", note = "" }
+WordHunterWoW_Dictionary_FR["praice"] = { word = "Praice", translation = "Praice", note = "proper name" }
+WordHunterWoW_Dictionary_FR["prisé"] = { word = "prisé", translation = "socket", note = "" }
+WordHunterWoW_Dictionary_FR["privilégier"] = { word = "privilégier", translation = "privilege", note = "" }
+WordHunterWoW_Dictionary_FR["processeur"] = { word = "processeur", translation = "processor", note = "" }
+WordHunterWoW_Dictionary_FR["procrastimond"] = { word = "Procrastimond", translation = "Procrastimond", note = "proper name" }
+WordHunterWoW_Dictionary_FR["prolongées"] = { word = "prolongées", translation = "extended", note = "" }
+WordHunterWoW_Dictionary_FR["protège-bras"] = { word = "protège-bras", translation = "arm guard", note = "" }
+WordHunterWoW_Dictionary_FR["précipita"] = { word = "précipita", translation = "rushed", note = "" }
+WordHunterWoW_Dictionary_FR["précipiterait"] = { word = "précipiterait", translation = "would rush", note = "" }
+WordHunterWoW_Dictionary_FR["prédatrice"] = { word = "prédatrice", translation = "predatory", note = "" }
+WordHunterWoW_Dictionary_FR["puisqu'elle"] = { word = "puisqu'elle", translation = "since she", note = "" }
+WordHunterWoW_Dictionary_FR["puisqu’ada"] = { word = "puisqu’Ada", translation = "since Ada", note = "" }
+WordHunterWoW_Dictionary_FR["punirait"] = { word = "punirait", translation = "would punish", note = "" }
+WordHunterWoW_Dictionary_FR["punissez-le"] = { word = "punissez-le", translation = "punish him", note = "" }
+WordHunterWoW_Dictionary_FR["purifierons"] = { word = "purifierons", translation = "we will purify", note = "" }
+WordHunterWoW_Dictionary_FR["putrescente"] = { word = "putrescente", translation = "putrescent", note = "" }
+WordHunterWoW_Dictionary_FR["pyschiques"] = { word = "pyschiques", translation = "psychological", note = "" }
+WordHunterWoW_Dictionary_FR["q-q-que"] = { word = "q-q-que", translation = "that (stuttered)", note = "stuttered form of que" }
+WordHunterWoW_Dictionary_FR["qu'ag'tor"] = { word = "qu'Ag'tor", translation = "that Ag'tor", note = "contracted form: qu' + Ag'tor" }
+WordHunterWoW_Dictionary_FR["qu'aggraver"] = { word = "qu'aggraver", translation = "what to make worse", note = "contracted form: qu' + aggraver" }
+WordHunterWoW_Dictionary_FR["qu'arko'narin"] = { word = "qu'Arko'narin", translation = "that Arko'narin", note = "contracted form: qu' + Arko'narin" }
+WordHunterWoW_Dictionary_FR["qu'ashenvale"] = { word = "qu'Ashenvale", translation = "that Ashenvale", note = "contracted form: qu' + Ashenvale" }
+WordHunterWoW_Dictionary_FR["qu'autour"] = { word = "qu'autour", translation = "that around", note = "contracted form: qu' + autour" }
+WordHunterWoW_Dictionary_FR["qu'encore"] = { word = "qu'encore", translation = "that again", note = "contracted form: qu' + encore" }
+WordHunterWoW_Dictionary_FR["qu'ironband"] = { word = "qu'Ironband", translation = "that Ironband", note = "contracted form: qu' + Ironband" }
+WordHunterWoW_Dictionary_FR["qu'islen"] = { word = "qu'Islen", translation = "that Islen", note = "contracted form: qu' + Islen" }
+WordHunterWoW_Dictionary_FR["qu'undercity"] = { word = "qu'Undercity", translation = "that Undercity", note = "contracted form: qu' + Undercity" }
+WordHunterWoW_Dictionary_FR["quadrangulation"] = { word = "quadrangulation", translation = "quadrangulation", note = "" }
+WordHunterWoW_Dictionary_FR["quarantaine"] = { word = "quarantaine", translation = "quarantine", note = "" }
+WordHunterWoW_Dictionary_FR["quatre-vingt"] = { word = "quatre-vingt", translation = "eighty", note = "" }
+WordHunterWoW_Dictionary_FR["quatre-vingt-dix-huit"] = { word = "quatre-vingt-dix-huit", translation = "ninety eight", note = "" }
+WordHunterWoW_Dictionary_FR["quek'chose"] = { word = "quek'chose", translation = "something", note = "" }
+WordHunterWoW_Dictionary_FR["quinard"] = { word = "Quinard", translation = "Quinard", note = "proper name" }
+WordHunterWoW_Dictionary_FR["quittance"] = { word = "quittance", translation = "receipt", note = "" }
+WordHunterWoW_Dictionary_FR["quêk"] = { word = "quêk", translation = "quek", note = "" }
+WordHunterWoW_Dictionary_FR["qu’actuellement"] = { word = "qu’actuellement", translation = "that currently", note = "contracted form: qu’ + actuellement" }
+WordHunterWoW_Dictionary_FR["qu’adjoint"] = { word = "qu’Adjoint", translation = "as Deputy", note = "contracted form: qu’ + Adjoint" }
+WordHunterWoW_Dictionary_FR["qu’aeonas"] = { word = "qu’Aeonas", translation = "that Aeonas", note = "contracted form: qu’ + Aeonas" }
+WordHunterWoW_Dictionary_FR["qu’arathi"] = { word = "qu’Arathi", translation = "that Arathi", note = "contracted form: qu’ + Arathi" }
+WordHunterWoW_Dictionary_FR["qu’arme"] = { word = "qu’arme", translation = "what weapon", note = "contracted form: qu’ + arme" }
+WordHunterWoW_Dictionary_FR["qu’entres"] = { word = "qu’entres", translation = "that enter", note = "contracted form: qu’ + entres" }
+WordHunterWoW_Dictionary_FR["qu’heureuse"] = { word = "qu’heureuse", translation = "that happy", note = "contracted form: qu’ + heureuse" }
+WordHunterWoW_Dictionary_FR["qu’heureux"] = { word = "qu’heureux", translation = "that happy", note = "contracted form: qu’ + heureux" }
+WordHunterWoW_Dictionary_FR["qu’humaine"] = { word = "qu’Humaine", translation = "than human", note = "contracted form: qu’ + Humaine" }
+WordHunterWoW_Dictionary_FR["qu’héroïques"] = { word = "qu’héroïques", translation = "that heroic", note = "contracted form: qu’ + héroïques" }
+WordHunterWoW_Dictionary_FR["qu’j’aie"] = { word = "qu’j’aie", translation = "that I have", note = "contracted form: qu’ + j’aie" }
+WordHunterWoW_Dictionary_FR["qu’onyxia"] = { word = "qu’Onyxia", translation = "that Onyxia", note = "contracted form: qu’ + Onyxia" }
+WordHunterWoW_Dictionary_FR["qu’outil"] = { word = "qu’outil", translation = "that tool", note = "contracted form: qu’ + outil" }
+WordHunterWoW_Dictionary_FR["qu’éloquente"] = { word = "qu’éloquente", translation = "how eloquent", note = "contracted form: qu’ + éloquente" }
+WordHunterWoW_Dictionary_FR["r'médier"] = { word = "r'médier", translation = "remedy", note = "" }
+WordHunterWoW_Dictionary_FR["r-r-ramenez-les"] = { word = "r-r-ramenez-les", translation = "r-r-bring them back", note = "" }
+WordHunterWoW_Dictionary_FR["r-r-rapportez-les"] = { word = "r-r-rapportez-les", translation = "r-r-bring them back", note = "" }
+WordHunterWoW_Dictionary_FR["rabat"] = { word = "rabat", translation = "rabat", note = "" }
+WordHunterWoW_Dictionary_FR["rackets"] = { word = "rackets", translation = "rackets", note = "" }
+WordHunterWoW_Dictionary_FR["racleur-d'os"] = { word = "Racleur-d'os", translation = "Racleur-d'os", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ragoûtants"] = { word = "ragoûtants", translation = "savory", note = "" }
+WordHunterWoW_Dictionary_FR["rai-de-lune"] = { word = "Rai-de-Lune", translation = "Rai-de-Lune", note = "proper name" }
+WordHunterWoW_Dictionary_FR["raidir"] = { word = "raidir", translation = "stiffen", note = "" }
+WordHunterWoW_Dictionary_FR["ralentirais"] = { word = "ralentirais", translation = "would slow down", note = "" }
+WordHunterWoW_Dictionary_FR["ralliée"] = { word = "ralliée", translation = "rallied", note = "" }
+WordHunterWoW_Dictionary_FR["ram’nez"] = { word = "ram’nez", translation = "ram’nez", note = "" }
+WordHunterWoW_Dictionary_FR["rapportez-le-nous"] = { word = "rapportez-le-nous", translation = "bring it back to us", note = "" }
+WordHunterWoW_Dictionary_FR["rassemblèrent"] = { word = "rassemblèrent", translation = "gathered", note = "" }
+WordHunterWoW_Dictionary_FR["raszel"] = { word = "Raszel", translation = "Raszel", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ravitaillements"] = { word = "ravitaillements", translation = "supplies", note = "" }
+WordHunterWoW_Dictionary_FR["raynewood"] = { word = "Raynewood", translation = "Raynewood", note = "proper name" }
+WordHunterWoW_Dictionary_FR["recherchaient"] = { word = "recherchaient", translation = "were looking for", note = "" }
+WordHunterWoW_Dictionary_FR["recrache"] = { word = "recrache", translation = "spits out", note = "" }
+WordHunterWoW_Dictionary_FR["recueillait"] = { word = "recueillait", translation = "collected", note = "" }
+WordHunterWoW_Dictionary_FR["recycl-o-matic"] = { word = "Recycl-o-Matic", translation = "Recycl-o-Matic", note = "proper name" }
+WordHunterWoW_Dictionary_FR["recycle-o-matic"] = { word = "Recycle-o-Matic", translation = "Recycle-o-Matic", note = "proper name" }
+WordHunterWoW_Dictionary_FR["redoublée"] = { word = "redoublée", translation = "redoubled", note = "" }
+WordHunterWoW_Dictionary_FR["redoutais"] = { word = "redoutais", translation = "dreaded", note = "" }
+WordHunterWoW_Dictionary_FR["refroidies"] = { word = "refroidies", translation = "cooled", note = "" }
+WordHunterWoW_Dictionary_FR["regardait"] = { word = "regardait", translation = "looked", note = "" }
+WordHunterWoW_Dictionary_FR["regarde-toi"] = { word = "regarde-toi", translation = "look at you", note = "" }
+WordHunterWoW_Dictionary_FR["remontez-vous"] = { word = "remontez-vous", translation = "get back up", note = "" }
+WordHunterWoW_Dictionary_FR["renaîtront"] = { word = "renaîtront", translation = "will be reborn", note = "" }
+WordHunterWoW_Dictionary_FR["rendrez-vous"] = { word = "rendrez-vous", translation = "will you meet", note = "" }
+WordHunterWoW_Dictionary_FR["renforcerez"] = { word = "renforcerez", translation = "will strengthen", note = "" }
+WordHunterWoW_Dictionary_FR["reniflement"] = { word = "reniflement", translation = "sniffing", note = "" }
+WordHunterWoW_Dictionary_FR["renter"] = { word = "renter", translation = "return", note = "" }
+WordHunterWoW_Dictionary_FR["responsable-chef"] = { word = "responsable-chef", translation = "head manager", note = "" }
+WordHunterWoW_Dictionary_FR["restera-t-il"] = { word = "restera-t-il", translation = "will he stay", note = "" }
+WordHunterWoW_Dictionary_FR["resterions"] = { word = "resterions", translation = "would stay", note = "" }
+WordHunterWoW_Dictionary_FR["retournerais"] = { word = "retournerais", translation = "would return", note = "" }
+WordHunterWoW_Dictionary_FR["retournez-voir"] = { word = "retournez-voir", translation = "go back and see", note = "" }
+WordHunterWoW_Dictionary_FR["retrouvait"] = { word = "retrouvait", translation = "found", note = "" }
+WordHunterWoW_Dictionary_FR["revancharde"] = { word = "revancharde", translation = "revengeful", note = "" }
+WordHunterWoW_Dictionary_FR["revendiquées"] = { word = "revendiquées", translation = "claimed", note = "" }
+WordHunterWoW_Dictionary_FR["revenez-me"] = { word = "revenez-me", translation = "come back to me", note = "" }
+WordHunterWoW_Dictionary_FR["revoyant"] = { word = "revoyant", translation = "reviewing", note = "" }
+WordHunterWoW_Dictionary_FR["revoyions"] = { word = "revoyions", translation = "let's see again", note = "" }
+WordHunterWoW_Dictionary_FR["ristourne"] = { word = "ristourne", translation = "rebate", note = "" }
+WordHunterWoW_Dictionary_FR["rongea"] = { word = "rongea", translation = "gnawed", note = "" }
+WordHunterWoW_Dictionary_FR["récuperer"] = { word = "récuperer", translation = "to recover", note = "" }
+WordHunterWoW_Dictionary_FR["récurage"] = { word = "récurage", translation = "scouring", note = "" }
+WordHunterWoW_Dictionary_FR["récurer"] = { word = "récurer", translation = "scour", note = "" }
+WordHunterWoW_Dictionary_FR["réformée"] = { word = "réformée", translation = "reformed", note = "" }
+WordHunterWoW_Dictionary_FR["réouverture"] = { word = "réouverture", translation = "reopening", note = "" }
+WordHunterWoW_Dictionary_FR["répands"] = { word = "répands", translation = "spread", note = "" }
+WordHunterWoW_Dictionary_FR["répugnent"] = { word = "répugnent", translation = "repugnant", note = "" }
+WordHunterWoW_Dictionary_FR["résignais"] = { word = "résignais", translation = "resigned", note = "" }
+WordHunterWoW_Dictionary_FR["résineux"] = { word = "résineux", translation = "resinous", note = "" }
+WordHunterWoW_Dictionary_FR["résoudrez"] = { word = "résoudrez", translation = "solve", note = "" }
+WordHunterWoW_Dictionary_FR["résulter"] = { word = "résulter", translation = "result", note = "" }
+WordHunterWoW_Dictionary_FR["réunirai"] = { word = "réunirai", translation = "will reunite", note = "" }
+WordHunterWoW_Dictionary_FR["réutilisabilité"] = { word = "réutilisabilité", translation = "reusability", note = "" }
+WordHunterWoW_Dictionary_FR["rêvefeu"] = { word = "rêvefeu", translation = "dreamfire", note = "" }
+WordHunterWoW_Dictionary_FR["r’gretter"] = { word = "r’gretter", translation = "regret", note = "" }
+WordHunterWoW_Dictionary_FR["r’mets"] = { word = "r’mets", translation = "put back", note = "" }
+WordHunterWoW_Dictionary_FR["s'abattrait"] = { word = "s'abattrait", translation = "would fall", note = "contracted form: s' + abattrait" }
+WordHunterWoW_Dictionary_FR["s'accordent"] = { word = "s'accordent", translation = "agree", note = "contracted form: s' + accordent" }
+WordHunterWoW_Dictionary_FR["s'amenuisant"] = { word = "s'amenuisant", translation = "diminishing", note = "contracted form: s' + amenuisant" }
+WordHunterWoW_Dictionary_FR["s'amenuise"] = { word = "s'amenuise", translation = "dwindles", note = "contracted form: s' + amenuise" }
+WordHunterWoW_Dictionary_FR["s'appellera"] = { word = "s'appellera", translation = "will be called", note = "contracted form: s' + appellera" }
+WordHunterWoW_Dictionary_FR["s'assombrira"] = { word = "s'assombrira", translation = "will darken", note = "contracted form: s' + assombrira" }
+WordHunterWoW_Dictionary_FR["s'attirerait"] = { word = "s'attirerait", translation = "would attract", note = "contracted form: s' + attirerait" }
+WordHunterWoW_Dictionary_FR["s'aventure"] = { word = "s'aventure", translation = "ventures", note = "contracted form: s' + aventure" }
+WordHunterWoW_Dictionary_FR["s'obscurcisse"] = { word = "s'obscurcisse", translation = "darkens", note = "contracted form: s' + obscurcisse" }
+WordHunterWoW_Dictionary_FR["s'ramènent"] = { word = "s'ramènent", translation = "come back", note = "contracted form: s' + ramènent" }
+WordHunterWoW_Dictionary_FR["s'étanche-t-elle"] = { word = "s'étanche-t-elle", translation = "does it quench", note = "contracted form: s' + étanche-t-elle" }
+WordHunterWoW_Dictionary_FR["s-s-sau"] = { word = "s-s-sau", translation = "sau (stuttered)", note = "stuttered form of sau" }
+WordHunterWoW_Dictionary_FR["sabots-de-mousse"] = { word = "Sabots-de-mousse", translation = "Sabots-de-mousse", note = "proper name" }
+WordHunterWoW_Dictionary_FR["saern"] = { word = "Saern", translation = "Saern", note = "proper name" }
+WordHunterWoW_Dictionary_FR["saisissant"] = { word = "saisissant", translation = "gripping", note = "" }
+WordHunterWoW_Dictionary_FR["saisissent"] = { word = "saisissent", translation = "grasp", note = "" }
+WordHunterWoW_Dictionary_FR["saoulera"] = { word = "saoulera", translation = "will get drunk", note = "" }
+WordHunterWoW_Dictionary_FR["sauterait"] = { word = "sauterait", translation = "would jump", note = "" }
+WordHunterWoW_Dictionary_FR["sauvables"] = { word = "sauvables", translation = "savable", note = "" }
+WordHunterWoW_Dictionary_FR["sauvebosquet"] = { word = "Sauvebosquet", translation = "Sauvebosquet", note = "proper name" }
+WordHunterWoW_Dictionary_FR["sceau-lution"] = { word = "sceau-lution", translation = "seal-lution", note = "" }
+WordHunterWoW_Dictionary_FR["schisme"] = { word = "schisme", translation = "schism", note = "" }
+WordHunterWoW_Dictionary_FR["scintillants"] = { word = "scintillants", translation = "sparkling", note = "" }
+WordHunterWoW_Dictionary_FR["selestrasza"] = { word = "Selestrasza", translation = "Selestrasza", note = "proper name" }
+WordHunterWoW_Dictionary_FR["semi-humains"] = { word = "semi-humains", translation = "semi-humans", note = "" }
+WordHunterWoW_Dictionary_FR["senathel"] = { word = "Senathel", translation = "Senathel", note = "proper name" }
+WordHunterWoW_Dictionary_FR["seradane"] = { word = "Seradane", translation = "Seradane", note = "proper name" }
+WordHunterWoW_Dictionary_FR["serlina"] = { word = "Serlina", translation = "Serlina", note = "proper name" }
+WordHunterWoW_Dictionary_FR["serra"] = { word = "Serra", translation = "Serra", note = "proper name" }
+WordHunterWoW_Dictionary_FR["shaol’wath"] = { word = "Shaol’wath", translation = "Shaol’wath", note = "proper name" }
+WordHunterWoW_Dictionary_FR["shaol’watha"] = { word = "Shaol’watha", translation = "Shaol’watha", note = "proper name" }
+WordHunterWoW_Dictionary_FR["sheldryn"] = { word = "Sheldryn", translation = "Sheldryn", note = "proper name" }
+WordHunterWoW_Dictionary_FR["shol’watha"] = { word = "Shol’watha", translation = "Shol’watha", note = "proper name" }
+WordHunterWoW_Dictionary_FR["sillithus"] = { word = "Sillithus", translation = "Sillithus", note = "proper name" }
+WordHunterWoW_Dictionary_FR["similitudes"] = { word = "similitudes", translation = "similarities", note = "" }
+WordHunterWoW_Dictionary_FR["simule"] = { word = "simule", translation = "simulated", note = "" }
+WordHunterWoW_Dictionary_FR["skonk"] = { word = "Skonk", translation = "Skonk", note = "proper name" }
+WordHunterWoW_Dictionary_FR["slirena"] = { word = "Slirena", translation = "Slirena", note = "proper name" }
+WordHunterWoW_Dictionary_FR["slivers"] = { word = "Slivers", translation = "Slivers", note = "proper name" }
+WordHunterWoW_Dictionary_FR["soigne-arbre"] = { word = "Soigne-arbre", translation = "Soigne-arbre", note = "proper name" }
+WordHunterWoW_Dictionary_FR["soignerait"] = { word = "soignerait", translation = "would treat", note = "" }
+WordHunterWoW_Dictionary_FR["solistrasza"] = { word = "Solistrasza", translation = "Solistrasza", note = "proper name" }
+WordHunterWoW_Dictionary_FR["sombrefeuilles"] = { word = "sombrefeuilles", translation = "darkleaves", note = "" }
+WordHunterWoW_Dictionary_FR["sombremante"] = { word = "Sombremante", translation = "Sombremante", note = "proper name" }
+WordHunterWoW_Dictionary_FR["sommairement"] = { word = "sommairement", translation = "summarily", note = "" }
+WordHunterWoW_Dictionary_FR["sonnée"] = { word = "sonnée", translation = "stunned", note = "" }
+WordHunterWoW_Dictionary_FR["soothfancy"] = { word = "Soothfancy", translation = "Soothfancy", note = "proper name" }
+WordHunterWoW_Dictionary_FR["soran’ruk"] = { word = "Soran’ruk", translation = "Soran’ruk", note = "proper name" }
+WordHunterWoW_Dictionary_FR["sorcelleries"] = { word = "sorcelleries", translation = "witchcraft", note = "" }
+WordHunterWoW_Dictionary_FR["sottement"] = { word = "sottement", translation = "foolishly", note = "" }
+WordHunterWoW_Dictionary_FR["souillures"] = { word = "souillures", translation = "stains", note = "" }
+WordHunterWoW_Dictionary_FR["soumirent"] = { word = "soumirent", translation = "submitted", note = "" }
+WordHunterWoW_Dictionary_FR["sourcille"] = { word = "sourcille", translation = "eyebrow", note = "" }
+WordHunterWoW_Dictionary_FR["sourirai"] = { word = "sourirai", translation = "will smile", note = "" }
+WordHunterWoW_Dictionary_FR["sous-entendrait"] = { word = "sous-entendrait", translation = "would imply", note = "" }
+WordHunterWoW_Dictionary_FR["sous-espèces"] = { word = "sous-espèces", translation = "subspecies", note = "" }
+WordHunterWoW_Dictionary_FR["southsore"] = { word = "Southsore", translation = "Southsore", note = "proper name" }
+WordHunterWoW_Dictionary_FR["soutiendrez"] = { word = "soutiendrez", translation = "will support", note = "" }
+WordHunterWoW_Dictionary_FR["spirales"] = { word = "spirales", translation = "spirals", note = "" }
+WordHunterWoW_Dictionary_FR["spéculer"] = { word = "spéculer", translation = "speculate", note = "" }
+WordHunterWoW_Dictionary_FR["squatte"] = { word = "squatte", translation = "squat", note = "" }
+WordHunterWoW_Dictionary_FR["starbreeze"] = { word = "Starbreeze", translation = "Starbreeze", note = "proper name" }
+WordHunterWoW_Dictionary_FR["steeltoe"] = { word = "Steeltoe", translation = "Steeltoe", note = "proper name" }
+WordHunterWoW_Dictionary_FR["stewyul"] = { word = "Stewyul", translation = "Stewyul", note = "proper name" }
+WordHunterWoW_Dictionary_FR["stonebridge"] = { word = "Stonebridge", translation = "Stonebridge", note = "proper name" }
+WordHunterWoW_Dictionary_FR["stoneflayers"] = { word = "Stoneflayers", translation = "Stoneflayers", note = "proper name" }
+WordHunterWoW_Dictionary_FR["strahnbrad"] = { word = "Strahnbrad", translation = "Strahnbrad", note = "proper name" }
+WordHunterWoW_Dictionary_FR["stromnur"] = { word = "Stromnur", translation = "Stromnur", note = "proper name" }
+WordHunterWoW_Dictionary_FR["stronghammer"] = { word = "Stronghammer", translation = "Stronghammer", note = "proper name" }
+WordHunterWoW_Dictionary_FR["substantiellement"] = { word = "substantiellement", translation = "substantially", note = "" }
+WordHunterWoW_Dictionary_FR["succombèrent"] = { word = "succombèrent", translation = "succumbed", note = "" }
+WordHunterWoW_Dictionary_FR["suffocation"] = { word = "suffocation", translation = "suffocation", note = "" }
+WordHunterWoW_Dictionary_FR["suggèrerais"] = { word = "suggèrerais", translation = "would suggest", note = "" }
+WordHunterWoW_Dictionary_FR["supercheries"] = { word = "supercheries", translation = "deceptions", note = "" }
+WordHunterWoW_Dictionary_FR["supposais"] = { word = "supposais", translation = "assumed", note = "" }
+WordHunterWoW_Dictionary_FR["surgeons"] = { word = "Surgeons", translation = "Surgeons", note = "proper name" }
+WordHunterWoW_Dictionary_FR["surpasserez-vous"] = { word = "surpasserez-vous", translation = "will you surpass", note = "" }
+WordHunterWoW_Dictionary_FR["survolteurs"] = { word = "survolteurs", translation = "boosters", note = "" }
+WordHunterWoW_Dictionary_FR["syrnoya"] = { word = "Syrnoya", translation = "Syrnoya", note = "proper name" }
+WordHunterWoW_Dictionary_FR["séculaires"] = { word = "séculaires", translation = "centuries-old", note = "" }
+WordHunterWoW_Dictionary_FR["s’agglomère"] = { word = "s’agglomère", translation = "agglomerates", note = "contracted form: s’ + agglomère" }
+WordHunterWoW_Dictionary_FR["s’appelaient"] = { word = "s’appelaient", translation = "were called", note = "contracted form: s’ + appelaient" }
+WordHunterWoW_Dictionary_FR["s’apprécie"] = { word = "s’apprécie", translation = "appreciates", note = "contracted form: s’ + apprécie" }
+WordHunterWoW_Dictionary_FR["s’arracher"] = { word = "s’arracher", translation = "tear away", note = "contracted form: s’ + arracher" }
+WordHunterWoW_Dictionary_FR["s’associe"] = { word = "s’associe", translation = "associates", note = "contracted form: s’ + associe" }
+WordHunterWoW_Dictionary_FR["s’autodétruire"] = { word = "s’autodétruire", translation = "self-destruct", note = "contracted form: s’ + autodétruire" }
+WordHunterWoW_Dictionary_FR["s’autorise"] = { word = "s’autorise", translation = "authorizes himself", note = "contracted form: s’ + autorise" }
+WordHunterWoW_Dictionary_FR["s’battront"] = { word = "s’battront", translation = "will fight", note = "contracted form: s’ + battront" }
+WordHunterWoW_Dictionary_FR["s’embraser"] = { word = "s’embraser", translation = "set ablaze", note = "contracted form: s’ + embraser" }
+WordHunterWoW_Dictionary_FR["s’engagea"] = { word = "s’engagea", translation = "committed", note = "contracted form: s’ + engagea" }
+WordHunterWoW_Dictionary_FR["s’inclineront"] = { word = "s’inclineront", translation = "will bow", note = "contracted form: s’ + inclineront" }
+WordHunterWoW_Dictionary_FR["s’obscurcir"] = { word = "s’obscurcir", translation = "to darken", note = "contracted form: s’ + obscurcir" }
+WordHunterWoW_Dictionary_FR["s’trouver"] = { word = "s’trouver", translation = "find yourself", note = "contracted form: s’ + trouver" }
+WordHunterWoW_Dictionary_FR["s’éclipser"] = { word = "s’éclipser", translation = "slip away", note = "contracted form: s’ + éclipser" }
+WordHunterWoW_Dictionary_FR["s’écroulait"] = { word = "s’écroulait", translation = "collapsed", note = "contracted form: s’ + écroulait" }
+WordHunterWoW_Dictionary_FR["t'auras"] = { word = "T'auras", translation = "T'auras", note = "proper name" }
+WordHunterWoW_Dictionary_FR["t-t-trouvez"] = { word = "t-t-trouvez", translation = "find (stuttered)", note = "stuttered form of trouvez" }
+WordHunterWoW_Dictionary_FR["tablerais"] = { word = "tablerais", translation = "would table", note = "" }
+WordHunterWoW_Dictionary_FR["taisez-vous"] = { word = "taisez-vous", translation = "shut up", note = "" }
+WordHunterWoW_Dictionary_FR["tarsis"] = { word = "Tarsis", translation = "Tarsis", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tavail"] = { word = "tavail", translation = "work", note = "" }
+WordHunterWoW_Dictionary_FR["taz’dingo"] = { word = "taz’dingo", translation = "taz’dingo", note = "" }
+WordHunterWoW_Dictionary_FR["ta’zo"] = { word = "Ta’zo", translation = "Ta’zo", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tectonis"] = { word = "Tectonis", translation = "Tectonis", note = "proper name" }
+WordHunterWoW_Dictionary_FR["teli’larien"] = { word = "Teli’Larien", translation = "Teli’Larien", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tentateur"] = { word = "tentateur", translation = "tempter", note = "" }
+WordHunterWoW_Dictionary_FR["thalinar"] = { word = "Thalinar", translation = "Thalinar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["thandros"] = { word = "Thandros", translation = "Thandros", note = "proper name" }
+WordHunterWoW_Dictionary_FR["thel’danis"] = { word = "Thel’danis", translation = "Thel’danis", note = "proper name" }
+WordHunterWoW_Dictionary_FR["thomasin"] = { word = "Thomasin", translation = "Thomasin", note = "proper name" }
+WordHunterWoW_Dictionary_FR["thérapeutiques"] = { word = "thérapeutiques", translation = "therapeutic", note = "" }
+WordHunterWoW_Dictionary_FR["tinkerwiz"] = { word = "Tinkerwiz", translation = "Tinkerwiz", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tintinnabourse"] = { word = "Tintinnabourse", translation = "Tintinnabourse", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tison"] = { word = "tison", translation = "firebrand", note = "" }
+WordHunterWoW_Dictionary_FR["tissevenin"] = { word = "Tissevenin", translation = "Tissevenin", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tissez"] = { word = "tissez", translation = "weave", note = "" }
+WordHunterWoW_Dictionary_FR["titillé"] = { word = "titillé", translation = "titillated", note = "" }
+WordHunterWoW_Dictionary_FR["tokal"] = { word = "Tokal", translation = "Tokal", note = "proper name" }
+WordHunterWoW_Dictionary_FR["toma"] = { word = "Toma", translation = "Toma", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tornstusk"] = { word = "Tornstusk", translation = "Tornstusk", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tort-tue"] = { word = "tort-tue", translation = "wrong-kill", note = "" }
+WordHunterWoW_Dictionary_FR["tourbillonnants"] = { word = "tourbillonnants", translation = "swirling", note = "" }
+WordHunterWoW_Dictionary_FR["toutcœur"] = { word = "Toutcœur", translation = "Toutcœur", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tracerons"] = { word = "tracerons", translation = "we will trace", note = "" }
+WordHunterWoW_Dictionary_FR["traceront"] = { word = "traceront", translation = "will trace", note = "" }
+WordHunterWoW_Dictionary_FR["tranchetripe"] = { word = "Tranchetripe", translation = "Tranchetripe", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tranchiez"] = { word = "tranchiez", translation = "slice", note = "" }
+WordHunterWoW_Dictionary_FR["transmettront"] = { word = "transmettront", translation = "will transmit", note = "" }
+WordHunterWoW_Dictionary_FR["transpolyportion"] = { word = "transpolyportion", translation = "transpolyportion", note = "" }
+WordHunterWoW_Dictionary_FR["traquerez"] = { word = "traquerez", translation = "will track down", note = "" }
+WordHunterWoW_Dictionary_FR["traquétoile"] = { word = "traquétoile", translation = "starhunter", note = "" }
+WordHunterWoW_Dictionary_FR["treeshaper"] = { word = "Treeshaper", translation = "Treeshaper", note = "proper name" }
+WordHunterWoW_Dictionary_FR["triomphante"] = { word = "triomphante", translation = "triumphant", note = "" }
+WordHunterWoW_Dictionary_FR["trompes"] = { word = "trompes", translation = "tubes", note = "" }
+WordHunterWoW_Dictionary_FR["trouvai"] = { word = "trouvai", translation = "found", note = "" }
+WordHunterWoW_Dictionary_FR["turbochargeurs"] = { word = "turbochargeurs", translation = "turbochargers", note = "" }
+WordHunterWoW_Dictionary_FR["tympeustache"] = { word = "Tympeustache", translation = "Tympeustache", note = "proper name" }
+WordHunterWoW_Dictionary_FR["typiques"] = { word = "typiques", translation = "typical", note = "" }
+WordHunterWoW_Dictionary_FR["tyrannikus"] = { word = "Tyrannikus", translation = "Tyrannikus", note = "proper name" }
+WordHunterWoW_Dictionary_FR["tyrisius"] = { word = "Tyrisius", translation = "Tyrisius", note = "proper name" }
+WordHunterWoW_Dictionary_FR["téléportez"] = { word = "téléportez", translation = "teleport", note = "" }
+WordHunterWoW_Dictionary_FR["t’dépêches"] = { word = "t’dépêches", translation = "hurry up", note = "contracted form: t’ + dépêches" }
+WordHunterWoW_Dictionary_FR["ue"] = { word = "ue", translation = "eu", note = "" }
+WordHunterWoW_Dictionary_FR["unending"] = { word = "Unending", translation = "Unending", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ursula"] = { word = "Ursula", translation = "Ursula", note = "proper name" }
+WordHunterWoW_Dictionary_FR["vainquez-la"] = { word = "vainquez-la", translation = "defeat her", note = "" }
+WordHunterWoW_Dictionary_FR["val-terrreur"] = { word = "Val-Terrreur", translation = "Val-Terrreur", note = "proper name" }
+WordHunterWoW_Dictionary_FR["validation"] = { word = "validation", translation = "validation", note = "" }
+WordHunterWoW_Dictionary_FR["valori"] = { word = "Valori", translation = "Valori", note = "proper name" }
+WordHunterWoW_Dictionary_FR["veanna"] = { word = "Veanna", translation = "Veanna", note = "proper name" }
+WordHunterWoW_Dictionary_FR["veenix"] = { word = "Veenix", translation = "Veenix", note = "proper name" }
+WordHunterWoW_Dictionary_FR["veu"] = { word = "veu", translation = "seen", note = "" }
+WordHunterWoW_Dictionary_FR["violacée"] = { word = "violacée", translation = "purplish", note = "" }
+WordHunterWoW_Dictionary_FR["vishas"] = { word = "Vishas", translation = "Vishas", note = "proper name" }
+WordHunterWoW_Dictionary_FR["vites"] = { word = "vites", translation = "quickly", note = "" }
+WordHunterWoW_Dictionary_FR["viveflèche"] = { word = "Viveflèche", translation = "Viveflèche", note = "proper name" }
+WordHunterWoW_Dictionary_FR["vivétoile"] = { word = "Vivétoile", translation = "Vivétoile", note = "proper name" }
+WordHunterWoW_Dictionary_FR["voltigeuses"] = { word = "voltigeuses", translation = "aerialists", note = "" }
+WordHunterWoW_Dictionary_FR["vosh’gajin"] = { word = "Vosh’gajin", translation = "Vosh’gajin", note = "proper name" }
+WordHunterWoW_Dictionary_FR["vousenseignera"] = { word = "vousenseignera", translation = "will teach you", note = "" }
+WordHunterWoW_Dictionary_FR["voûté"] = { word = "voûté", translation = "vaulted", note = "" }
+WordHunterWoW_Dictionary_FR["vulgairement"] = { word = "vulgairement", translation = "vulgarly", note = "" }
+WordHunterWoW_Dictionary_FR["vul’gol"] = { word = "Vul’Gol", translation = "Vul’Gol", note = "proper name" }
+WordHunterWoW_Dictionary_FR["vvarc’zul"] = { word = "Vvarc’zul", translation = "Vvarc’zul", note = "proper name" }
+WordHunterWoW_Dictionary_FR["weavil"] = { word = "Weavil", translation = "Weavil", note = "proper name" }
+WordHunterWoW_Dictionary_FR["wi"] = { word = "wi", translation = "wi", note = "" }
+WordHunterWoW_Dictionary_FR["wilhem"] = { word = "Wilhem", translation = "Wilhem", note = "proper name" }
+WordHunterWoW_Dictionary_FR["windrunner"] = { word = "Windrunner", translation = "Windrunner", note = "proper name" }
+WordHunterWoW_Dictionary_FR["windseer"] = { word = "Windseer", translation = "Windseer", note = "proper name" }
+WordHunterWoW_Dictionary_FR["wirdal"] = { word = "Wirdal", translation = "Wirdal", note = "proper name" }
+WordHunterWoW_Dictionary_FR["xanis"] = { word = "Xanis", translation = "Xanis", note = "proper name" }
+WordHunterWoW_Dictionary_FR["xelthos"] = { word = "Xelthos", translation = "Xelthos", note = "proper name" }
+WordHunterWoW_Dictionary_FR["xiv"] = { word = "XIV", translation = "XIV", note = "proper name" }
+WordHunterWoW_Dictionary_FR["xizzix"] = { word = "Xizzix", translation = "Xizzix", note = "proper name" }
+WordHunterWoW_Dictionary_FR["xv"] = { word = "XV", translation = "XV", note = "proper name" }
+WordHunterWoW_Dictionary_FR["xvi"] = { word = "XVI", translation = "XVI", note = "proper name" }
+WordHunterWoW_Dictionary_FR["yeh’kinya"] = { word = "Yeh’kinya", translation = "Yeh’kinya", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ylanthrius"] = { word = "Ylanthrius", translation = "Ylanthrius", note = "proper name" }
+WordHunterWoW_Dictionary_FR["zaemar"] = { word = "Zaemar", translation = "Zaemar", note = "proper name" }
+WordHunterWoW_Dictionary_FR["zalius"] = { word = "Zalius", translation = "Zalius", note = "proper name" }
+WordHunterWoW_Dictionary_FR["zel’mak"] = { word = "Zel’mak", translation = "Zel’mak", note = "proper name" }
+WordHunterWoW_Dictionary_FR["zeste"] = { word = "zeste", translation = "zest", note = "" }
+WordHunterWoW_Dictionary_FR["ziri"] = { word = "Ziri", translation = "Ziri", note = "proper name" }
+WordHunterWoW_Dictionary_FR["zul’lor"] = { word = "Zul’lor", translation = "Zul’lor", note = "proper name" }
+WordHunterWoW_Dictionary_FR["z’alliez"] = { word = "z’alliez", translation = "go", note = "" }
+WordHunterWoW_Dictionary_FR["âtrefeu"] = { word = "Âtrefeu", translation = "Âtrefeu", note = "proper name" }
+WordHunterWoW_Dictionary_FR["ébrouez"] = { word = "ébrouez", translation = "snort", note = "" }
+WordHunterWoW_Dictionary_FR["écoeuré"] = { word = "écoeuré", translation = "disgusted", note = "" }
+WordHunterWoW_Dictionary_FR["écriteau"] = { word = "écriteau", translation = "sign", note = "" }
+WordHunterWoW_Dictionary_FR["électromagnétique"] = { word = "électromagnétique", translation = "electromagnetic", note = "" }
+WordHunterWoW_Dictionary_FR["éminentes"] = { word = "éminentes", translation = "eminent", note = "" }
+WordHunterWoW_Dictionary_FR["émulsion"] = { word = "émulsion", translation = "emulsion", note = "" }
+WordHunterWoW_Dictionary_FR["épéistes"] = { word = "épéistes", translation = "swordsmen", note = "" }
+WordHunterWoW_Dictionary_FR["équitables"] = { word = "équitables", translation = "fair", note = "" }
+WordHunterWoW_Dictionary_FR["étalé"] = { word = "étalé", translation = "spread", note = "" }
+WordHunterWoW_Dictionary_FR["étoile-du-vide"] = { word = "Étoile-du-Vide", translation = "Étoile-du-Vide", note = "proper name" }
+WordHunterWoW_Dictionary_FR["étrangeté"] = { word = "étrangeté", translation = "strangeness", note = "" }
+WordHunterWoW_Dictionary_FR["ôtera"] = { word = "ôtera", translation = "will remove", note = "" }
+end)()
